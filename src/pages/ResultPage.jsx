@@ -30,13 +30,13 @@ const resultHTML = `
     <h1 id="pageTitle">📊 Exam Result</h1>
     <div class="header-buttons">
       <div class="btn-group">
-        <a href="/bookmarks" class="btn-pill btn-bookmarks" style="display:flex;align-items:center;">
+        <a href="${import.meta.env.BASE_URL}bookmarks" class="btn-pill btn-bookmarks" style="display:flex;align-items:center;">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg> Bookmarks
         </a>
-        <a href="/mistakes" class="btn-pill btn-silly-mistakes" style="display:flex;align-items:center;">
+        <a href="${import.meta.env.BASE_URL}mistakes" class="btn-pill btn-silly-mistakes" style="display:flex;align-items:center;">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg> Silly Mistakes
         </a>
-        <a href="/library" class="btn-pill btn-new-exam" style="display:flex;align-items:center;">
+        <a href="${import.meta.env.BASE_URL}library" class="btn-pill btn-new-exam" style="display:flex;align-items:center;">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="12" y1="8" x2="12" y2="16"/><line x1="8" y1="12" x2="16" y2="12"/></svg> New Exam
         </a>
       </div>

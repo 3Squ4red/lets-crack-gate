@@ -38,7 +38,7 @@ const examHTML = `
 
   <!-- ── Navbar ── -->
   <nav class="lcg-navbar">
-    <a class="lcg-brand" href="/">
+    <a class="lcg-brand" href="${import.meta.env.BASE_URL}">
       <div class="lcg-brand-icon" style="background: transparent;">
         <img src="${import.meta.env.BASE_URL}images/new_gate_logo.png" alt="Logo" style="width: 100%; height: 100%; object-fit: contain;" />
       </div>
@@ -46,16 +46,16 @@ const examHTML = `
     </a>
 
     <div class="lcg-nav-links">
-      <a href="/analytics" class="lcg-nav-link">
+      <a href="${import.meta.env.BASE_URL}analytics" class="lcg-nav-link">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><path d="M3 3v18h18"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/></svg> Analytics
       </a>
-      <a href="/bookmarks" class="lcg-nav-link">
+      <a href="${import.meta.env.BASE_URL}bookmarks" class="lcg-nav-link">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg> Bookmarks
       </a>
-      <a href="/mistakes" class="lcg-nav-link">
+      <a href="${import.meta.env.BASE_URL}mistakes" class="lcg-nav-link">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg> Mistakes
       </a>
-      <a href="/support" class="lcg-nav-link">
+      <a href="${import.meta.env.BASE_URL}support" class="lcg-nav-link">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:4px;"><path d="M17 8h1a4 4 0 1 1 0 8h-1"/><path d="M3 8h14v9a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4Z"/><line x1="6" x2="6" y1="2" y2="4"/><line x1="10" x2="10" y1="2" y2="4"/><line x1="14" x2="14" y1="2" y2="4"/></svg> Support
       </a>
     </div>
