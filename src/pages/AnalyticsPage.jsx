@@ -12,7 +12,7 @@ export default function AnalyticsPage() {
       await injectScript('/js/db.js');
       await injectScript('/js/dark_mode.js');
       await injectScript('/js/subject_detector.js');
-      await injectScript('/js/analytics_script.js');
+      await injectScript('/js/analytics_script.js?v=2');
       document.dispatchEvent(new Event('DOMContentLoaded'));
     }
     boot();
