@@ -38,7 +38,7 @@ const examHTML = `
 
   <!-- ── Navbar ── -->
   <nav class="lcg-navbar">
-    <a class="lcg-brand" href="${import.meta.env.BASE_URL}">
+    <a class="lcg-brand" href="/">
       <div class="lcg-brand-icon" style="background: transparent;">
         <img src="${import.meta.env.BASE_URL}images/new_gate_logo.png" alt="Logo" style="width: 100%; height: 100%; object-fit: contain;" />
       </div>
