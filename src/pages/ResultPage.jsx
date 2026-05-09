@@ -12,7 +12,7 @@ export default function ResultPage() {
     async function boot() {
       await injectScript('/js/db.js')
       await injectScript('/js/subject_detector.js')
-      await injectScript('/js/result_script.js')
+      await injectScript('/js/result_script.js?v=2')
       await injectScript('/js/dark_mode.js')
       document.dispatchEvent(new Event('DOMContentLoaded'))
     }

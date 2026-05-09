@@ -1824,7 +1824,7 @@ async function handleExportData() {
             fromHistory: true,
           }),
         );
-        window.location.href = "/result";
+        window.location.href = (window.APP_BASE_URL || '/') + "result";
       }
 
       async function deleteExamEntry(examId) {

@@ -1592,7 +1592,7 @@ function retryMistakes(summary, details) {
 
     // Store in sessionStorage for the exam page to pick up
     sessionStorage.setItem('retryExamData', JSON.stringify(retryExam));
-    window.location.href = '/library';
+    window.location.href = (window.APP_BASE_URL || '/') + 'library';
 }
 
 // =====================================================
@@ -1665,7 +1665,7 @@ function retryUnattempted(summary, details) {
     };
 
     sessionStorage.setItem('retryExamData', JSON.stringify(retryExam));
-    window.location.href = '/library';
+    window.location.href = (window.APP_BASE_URL || '/') + 'library';
 }
 
 // ============================================

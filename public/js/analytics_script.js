@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     if (elements.length > 0) {
                         const idx = elements[0].index;
                         const examId = recentExams[idx].id;
-                        window.location.href = `result.html?id=${examId}`;
+                        window.location.href = (window.APP_BASE_URL || '/') + `result?id=${examId}`;
                     }
                 },
                 scales: { y: { min: 0, max: 100, ...commonOptions.scales.y } }
@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     if (elements.length > 0) {
                         const idx = elements[0].index;
                         const examId = recentExams[idx].id;
-                        window.location.href = `result.html?id=${examId}`;
+                        window.location.href = (window.APP_BASE_URL || '/') + `result?id=${examId}`;
                     }
                 },
                 scales: { y: { beginAtZero: true, ...commonOptions.scales.y } }
@@ -626,7 +626,7 @@ function buildSubjectAnalytics(allExams, allDetailsForWeakAreas, commonOptions, 
                     if (elements.length > 0) {
                         const idx = elements[0].index;
                         const examId = s.exams[idx].id;
-                        window.location.href = `result.html?id=${examId}`;
+                        window.location.href = (window.APP_BASE_URL || '/') + `result?id=${examId}`;
                     }
                 },
                 scales: {

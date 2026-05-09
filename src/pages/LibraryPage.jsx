@@ -14,8 +14,8 @@ export default function LibraryPage() {
       await injectScript('/js/db.js')
       await injectScript('/exam_index.js?v=5')
       await injectScript('/js/exam_library_script.js')
-      await injectScript('/js/home_inline.js')
-      await injectScript('/js/exam_script.js')
+      await injectScript('/js/home_inline.js?v=2')
+      await injectScript('/js/exam_script.js?v=2')
       await injectScript('/js/dark_mode.js')
       document.dispatchEvent(new Event('DOMContentLoaded'))
     }

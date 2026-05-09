@@ -1401,7 +1401,7 @@ function submitExam() {
     // Flag for result page to know it should trigger an immediate backup
     sessionStorage.setItem('triggerExamSubmitBackup', 'true');
 
-    window.location.href = '/result';
+    window.location.href = (window.APP_BASE_URL || '/') + 'result';
 }
 
 function autoSubmit() {
