@@ -9,7 +9,7 @@ import SupportPage from './pages/SupportPage.jsx'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/library" element={<LibraryPage />} />
