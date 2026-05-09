@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Group Theory - Theoretical/Not Answered",
+  "duration": 22,
+  "sections": [
+    {
+      "name": "Group Theory",
+      "questions": []
+    }
+  ]
+});

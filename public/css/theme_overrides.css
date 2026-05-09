@@ -1,0 +1,141 @@
+/* Overrides for legacy pages to match the new purple/lavender theme */
+
+/* RESULT PAGE OVERRIDES */
+.result-header {
+    border-image: linear-gradient(90deg, var(--p), var(--p-light), var(--p-dark)) 1 !important;
+}
+.result-header h1 {
+    color: var(--p) !important;
+}
+.score-card {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+    box-shadow: var(--shadow) !important;
+}
+.chart-container {
+    background: var(--surface2) !important;
+    border: 1px solid var(--border) !important;
+}
+.score-item {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+    box-shadow: var(--shadow) !important;
+}
+.color-total {
+    color: var(--p) !important;
+}
+.rq-time {
+    color: var(--p) !important;
+    background: var(--p-subtle) !important;
+}
+.rq-explanation {
+    border-color: var(--border) !important;
+    border-left-color: var(--p) !important;
+}
+.rq-explanation summary {
+    background: var(--surface2) !important;
+    color: var(--p) !important;
+}
+.rq-explanation-content {
+    background: var(--surface) !important;
+}
+
+/* ANALYTICS PAGE OVERRIDES */
+.nav-bar {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+    box-shadow: var(--shadow) !important;
+}
+.nav-btn {
+    background: var(--p-subtle) !important;
+    color: var(--p) !important;
+    border: 1px solid var(--p-light) !important;
+}
+.nav-btn:hover {
+    background: var(--p) !important;
+    color: white !important;
+}
+.nav-bar h2 {
+    color: var(--p) !important;
+}
+.stat-card {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+}
+.stat-value {
+    color: var(--p) !important;
+}
+.chart-card {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+}
+.section-heading {
+    color: var(--p) !important;
+    border-bottom-color: var(--p) !important;
+}
+.subject-analytics-section {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+}
+.subject-table thead th {
+    background: var(--p) !important;
+}
+
+/* BOOKMARKS & MISTAKES PAGE OVERRIDES */
+.bookmarks-header {
+    border-image: linear-gradient(90deg, var(--p), var(--p-light), var(--p-dark)) 1 !important;
+}
+.bookmarks-header h1 {
+    color: var(--p) !important;
+}
+.bk-search, .bk-filter {
+    border: 1px solid var(--border) !important;
+    background: var(--surface) !important;
+    color: var(--text-primary) !important;
+}
+.bk-search:focus, .bk-filter:focus {
+    border-color: var(--p-light) !important;
+    box-shadow: 0 0 0 3px var(--p-glow) !important;
+}
+.bk-exam-tag {
+    background: linear-gradient(135deg, var(--p), var(--p-light)) !important;
+}
+.pagination-bar {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+}
+.pagination-bar .page-btn:hover:not(:disabled), .pagination-bar .page-btn.active {
+    background: linear-gradient(135deg, var(--p), var(--p-light)) !important;
+    color: white !important;
+}
+
+/* DARK MODE OVERRIDES */
+[data-theme="dark"] .result-container,
+[data-theme="dark"] .analytics-container,
+[data-theme="dark"] .bookmarks-container {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+}
+[data-theme="dark"] .score-card,
+[data-theme="dark"] .chart-container,
+[data-theme="dark"] .score-item,
+[data-theme="dark"] .stat-card,
+[data-theme="dark"] .chart-card,
+[data-theme="dark"] .subject-analytics-section {
+    background: var(--surface2) !important;
+    border-color: var(--border) !important;
+}
+[data-theme="dark"] .rq-time {
+    color: var(--p-light) !important;
+    background: var(--p-subtle) !important;
+}
+[data-theme="dark"] .color-total,
+[data-theme="dark"] .stat-value,
+[data-theme="dark"] .nav-bar h2,
+[data-theme="dark"] .result-header h1,
+[data-theme="dark"] .bookmarks-header h1 {
+    color: var(--p-light) !important;
+}
+[data-theme="dark"] .subject-table thead th {
+    background: var(--p-dark) !important;
+}

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Unknown Category - Transaction and Concurrency",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Transaction and Concurrency",
+      "questions": []
+    }
+  ]
+});

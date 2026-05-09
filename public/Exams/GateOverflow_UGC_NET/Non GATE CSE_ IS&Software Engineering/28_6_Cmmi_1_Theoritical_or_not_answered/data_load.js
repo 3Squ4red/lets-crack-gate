@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ IS&Software Engineering - Cmmi - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Cmmi",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"225871\"></a><div itemprop=\"text\"><p>Match the \\( \\text{5 CMM} \\) Maturity levels\\( \\text{/CMMI} \\) staged representations in \\( \\textbf{List-I} \\) with their characterizations in \\( \\textbf{List-II} \\) :</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp;& \\textbf{List-I} && \\textbf{List-II} \\\\&nbsp;\\text{(a)} &&nbsp; \\text{Initial} & \\text{(i)} & \\text{Processes are improved quantitatively} \\\\ &&& \\text{and continually.} \\\\&nbsp;\\text{(b)} & \\text{Repeatable} & \\text{(ii)} & \\text{The plan for a project comes from a} \\\\ &&& \\text{template for plans.} \\\\&nbsp;\\text{(c)} & \\text{Defined} & \\text{(iii)}&nbsp;& \\text{The plan uses processes that can be} \\\\ &&& \\text{measured quantitatively.}&nbsp; \\\\ &nbsp;\\text{(d)} & \\text{Managed} & \\text{(iv)} & \\text{There may not exist a plan or it may} \\\\ &&& \\text{be abandoned.} \\\\&nbsp;\\text{(e)} & \\text{Optimizing} & \\text{(v)} & \\text{There’s a plan and people stick to it.}\\\\&nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Code :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(iv); (b)-(v); (c)-(i); (d)-(iii); (e)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(i); (b)-(ii); (c)-(iv); (d)-(v); (e)-(iii)} \\)</p>",
+            "<p>\\( \\text{(a)-(v); (b)-(iv); (c)-(ii); (d)-(iii); (e)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(iv); (b)-(v); (c)-(ii); (d)-(iii);&nbsp;(e)-(i)} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225871/ugc-net-cse-july-2018-part-2-question-15\" target=\"_blank\">https://gateoverflow.in/225871/ugc-net-cse-july-2018-part-2-question-15</a></p>"
+        }
+      ]
+    }
+  ]
+});

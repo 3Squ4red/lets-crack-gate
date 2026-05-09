@@ -1,0 +1,116 @@
+window.__examLoadCallback({
+  "title": "Programming and DS - Programming In C",
+  "duration": 19,
+  "sections": [
+    {
+      "name": "Programming In C",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"62234\"></a><div itemprop=\"text\"><p>Consider the following program:</p>\n\n<pre class=\"prettyprint linenums lang-c_cpp\">#include&lt;stdio.h&gt;\nmain()\n{\n    int i, inp;\n    float x, term=1, sum=0;\n    scanf(\"%d %f\", &inp, &x);\n    for(i=1;i&lt;=inp;i++)\n    {\n        term=term*x/i;\n        sum=sum+term;\n    }\n    printf(\"Result=%f\\n\", sum);\n}</pre>\n\n<p>The program computes the sum of which of the following series?</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( x+x^2/2+x^3/3+x^4/4 + \\dots \\)</p>",
+            "<p>\\( x+x^2/2!+x^3/3!+x^4/4! + \\dots \\)</p>",
+            "<p>\\( 1+x^2/2+x^3/3+x^4/4 + \\dots \\)</p>",
+            "<p>\\( 1+x^2/2!+x^3/3!+x^4/4! + \\dots \\)</p>"
+          ],
+          "correct_answer": "<p>\\( x+x^2/2!+x^3/3!+x^4/4! + \\dots \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62234/ugc-net-cse-december-2015-part-2-question-11\" target=\"_blank\">https://gateoverflow.in/62234/ugc-net-cse-december-2015-part-2-question-11</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"48405\"></a><div itemprop=\"text\"><p>A horn clause is</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 3 | Question: 43</b></p>",
+          "type": "single",
+          "options": [
+            "<p>A clause in which no variables occur in the expression</p>",
+            "<p>A clause that has at least one negative literal</p>",
+            "<p>A disjunction of a number of literals</p>",
+            "<p>A clause that has atmost one positive literal</p>"
+          ],
+          "correct_answer": "<p>A clause that has at least one negative literal</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/48405/ugc-net-cse-december-2015-part-3-question-43\" target=\"_blank\">https://gateoverflow.in/48405/ugc-net-cse-december-2015-part-3-question-43</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"58717\"></a><div itemprop=\"text\">\n<p>Trace the error:</p>\n\n<pre class=\"prettyprint lang-c_cpp\">void main()\n{\nint *b, &a;\n*b=20;\nprintf(“%d, %d”, a, *b)\n}</pre>\n\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 3 | Question: 51</b></p>",
+          "type": "single",
+          "options": [
+            "<p><span style=\"line-height: 1.6;\">No error</span></p>",
+            "<p><span style=\"line-height: 1.6;\">Logical error</span></p>",
+            "<p><span style=\"line-height: 1.6;\">Syntax error</span></p>",
+            "<p><span style=\"line-height: 1.6;\">Semantic error</span></p>"
+          ],
+          "correct_answer": "<p><span style=\"line-height: 1.6;\">Syntax error</span></p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58717/ugc-net-cse-june-2013-part-3-question-51\" target=\"_blank\">https://gateoverflow.in/58717/ugc-net-cse-june-2013-part-3-question-51</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"59233\"></a><div itemprop=\"text\"><p>What is the size of the following union? Assume that the size of int=2, size of float =4, size of char=1</p>\n\n<pre class=\"prettyprint lang-c_cpp\">union tag {\nint a;\nfloat b;\nchar c;\n};</pre>\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 2 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>2</p>",
+            "<p>4</p>",
+            "<p>1</p>",
+            "<p>7</p>"
+          ],
+          "correct_answer": "<p>4</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59233/ugc-net-cse-september-2013-part-2-question-33\" target=\"_blank\">https://gateoverflow.in/59233/ugc-net-cse-september-2013-part-2-question-33</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"59238\"></a><div itemprop=\"text\">\n<p>What is the output of the following program segment?</p>\n\n<pre class=\"prettyprint lang-c_cpp\">sum(n)\n{\nif (n&lt;1) return n;\nelse return (n+sum(n-1));\n}\nmain()\n{\nprintf(“%d”, sum(5));\n}</pre>\n\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 2 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>10</p>",
+            "<p>16</p>",
+            "<p>15</p>",
+            "<p>14</p>"
+          ],
+          "correct_answer": "<p>15</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59238/ugc-net-cse-september-2013-part-2-question-34\" target=\"_blank\">https://gateoverflow.in/59238/ugc-net-cse-september-2013-part-2-question-34</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"59243\"></a><div itemprop=\"text\"><p>Consider the following program segment:</p>\n\n<pre class=\"prettyprint lang-c_cpp\">d=0;\nfor(i=1; i&lt;31, ++i)\nfor (j=1; j &lt; 31; ++j)\nfor (k=1; k &lt; 31; ++k)\nif((i+j+k%3)==0))\nd=d+1;\nprintf(“%d”, d);</pre>\n\n<p>The output will be</p>\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 2 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>9000</p>",
+            "<p>3000</p>",
+            "<p>90</p>",
+            "<p>2700</p>"
+          ],
+          "correct_answer": "<p>90</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59243/ugc-net-cse-september-2013-part-2-question-36\" target=\"_blank\">https://gateoverflow.in/59243/ugc-net-cse-september-2013-part-2-question-36</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"59923\"></a><div itemprop=\"text\"><p>What is the output of the following program?</p>\n\n<pre class=\"prettyprint lang-c_cpp\">#include&lt;stdio.h&gt;\nmain()\n{\nint a, b =0;\nstatic int c[10]={1, 2, 3, 4, 5, 6, 7, 8, 9, 0};\nfor (a=0; a&lt;10; ++a)\nint ((c[a]%2)==0) b+=c[a];\nprintf(“%d”, b);\n}</pre>\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 3 | Question: 53</b></p>",
+          "type": "single",
+          "options": [
+            "<p>15</p>",
+            "<p>25</p>",
+            "<p>45</p>",
+            "<p>20</p>"
+          ],
+          "correct_answer": "<p>20</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59923/ugc-net-cse-september-2013-part-3-question-53\" target=\"_blank\">https://gateoverflow.in/59923/ugc-net-cse-september-2013-part-3-question-53</a></p>"
+        }
+      ]
+    }
+  ]
+});

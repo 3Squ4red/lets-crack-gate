@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Others - Transportation Problem",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Transportation Problem",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"64118\"></a><div itemprop=\"text\"><p>The following transportation problem :</p>\n\n<p>\\( \\begin{array}{|l|l|l|l|l|} \\hline & \\text{A} & \\text{B} & \\text{C} & \\text{Supply} \\\\\\hline \\text{I} & \\text{50} & \\text{30} & \\text{220} & \\text{1} \\\\\\hline&nbsp;\\text{II} & \\text{90} & \\text{45} & \\text{170} & \\text{3} \\\\\\hline&nbsp;\\text{III} & \\text{250} & \\text{200} & \\text{50} & \\text{4} \\\\\\hline \\text{Demand} & \\text{4} & \\text{2} & \\text{2} & \\text{0}&nbsp;\\\\\\hline&nbsp;&nbsp;\\end{array} \\)</p>\n\n<p>Has a solution</p>\n\n<p>\\( \\begin{array}{|l|l|l|}\\hline \\text{} & \\text{A} & \\text{B} & \\text{C} \\\\\\hline \\text{I} & \\text{1} & \\text{} & \\text{} \\\\\\hline\\text{II} & \\text{3} & \\text{0} & \\text{} \\\\\\hline\\text{III} & \\text{} & \\text{2} & \\text{2} \\\\\\hline\\end{array} \\)&nbsp;</p>\n\n<p>The above solution of a given transportation problem is</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 63</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Infeasible solution</p>",
+            "<p>optimum&nbsp;solution</p>",
+            "<p>non-optimum&nbsp;solution</p>",
+            "<p>unbounded solution</p>"
+          ],
+          "correct_answer": "<p>optimum&nbsp;solution</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/64118/ugc-net-cse-july-2016-part-3-question-63\" target=\"_blank\">https://gateoverflow.in/64118/ugc-net-cse-july-2016-part-3-question-63</a></p>"
+        }
+      ]
+    }
+  ]
+});

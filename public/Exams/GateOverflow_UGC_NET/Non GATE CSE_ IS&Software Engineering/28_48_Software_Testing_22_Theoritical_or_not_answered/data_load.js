@@ -1,0 +1,111 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ IS&Software Engineering - Software Testing - Theoretical/Not Answered",
+  "duration": 19,
+  "sections": [
+    {
+      "name": "Software Testing",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"409554\"></a><div itemprop=\"text\"><p>In software testing, beta testing is the testing performed by _______________.</p></div><br><br><b>Computer Science - UGC NET 2021 [ Question ID = 2341 ]</b></p>",
+          "type": "single",
+          "options": [
+            "<p>potential customers at the developer's location.</p>",
+            "<p>potential customers at their own locations.</p>",
+            "<p>product developers at the customer's location.</p>",
+            "<p>product developers at their own locations.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/409554/computer-science-ugc-net-2021-question-id-2341\" target=\"_blank\">https://gateoverflow.in/409554/computer-science-ugc-net-2021-question-id-2341</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"70357\"></a><div itemprop=\"text\"><p>For a program of \\( k \\) variables, boundary value analysis yields ______ test cases.</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 44</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 4k – 1 \\)</p>",
+            "<p>\\( 4k \\)</p>",
+            "<p>\\( 4k + 1 \\)&nbsp;</p>",
+            "<p>\\( 2^{k}&nbsp;– 1 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70357/ugc-net-cse-august-2016-part-2-question-44\" target=\"_blank\">https://gateoverflow.in/70357/ugc-net-cse-august-2016-part-2-question-44</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"155367\"></a><div itemprop=\"text\"><p>Software Quality Assurance (\\( SQA \\)) encompasses :</p>\n\n</div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 43</b></p>",
+          "type": "single",
+          "options": [
+            "<p>verification&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>validation&nbsp; &nbsp;</p>",
+            "<p>both verification and validation&nbsp;&nbsp;</p>",
+            "<p>none of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155367/ugc-net-cse-december-2008-part-2-question-43\" target=\"_blank\">https://gateoverflow.in/155367/ugc-net-cse-december-2008-part-2-question-43</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"152935\"></a><div itemprop=\"text\">Any error whose cause cannot be identified anywhere within the software system is called ________<br>\n<br>\n(A) Internal error<br>\n<br>\n(B) External error<br>\n<br>\n(C) Inherent error<br>\n<br>\n(D) Logic error</div><br><br><b>UGC NET CSE | December 2009 | Part 2 | Question: 42</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>B</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/152935/ugc-net-cse-december-2009-part-2-question-42\" target=\"_blank\">https://gateoverflow.in/152935/ugc-net-cse-december-2009-part-2-question-42</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"66605\"></a><div itemprop=\"text\"><p>“Black” refers in the “Black-box” testing means</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Characters of the movie “Black”</p>",
+            "<p>I – O is hidden</p>",
+            "<p>Design is hidden</p>",
+            "<p>Users are hidden</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66605/ugc-net-cse-december-2010-part-2-question-15\" target=\"_blank\">https://gateoverflow.in/66605/ugc-net-cse-december-2010-part-2-question-15</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"67032\"></a><div itemprop=\"text\"><p>Prototyping is used to</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 41</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Test the software as an end product</p>",
+            "<p>Expand design details</p>",
+            "<p>Refine and establish requirements gathering</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67032/ugc-net-cse-december-2010-part-2-question-41\" target=\"_blank\">https://gateoverflow.in/67032/ugc-net-cse-december-2010-part-2-question-41</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"63554\"></a><div itemprop=\"text\"><p>Following is used to demonstrate that the new release of software still performs the old one did by rerunning the old tests&nbsp;:</p>\n\n</div><br><br><b>UGC NET CSE | December 2011 | Part 2 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Functional testing</p>",
+            "<p>Path testing</p>",
+            "<p>Stress testing</p>",
+            "<p>Regression testing</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63554/ugc-net-cse-december-2011-part-2-question-18\" target=\"_blank\">https://gateoverflow.in/63554/ugc-net-cse-december-2011-part-2-question-18</a></p>"
+        }
+      ]
+    }
+  ]
+});

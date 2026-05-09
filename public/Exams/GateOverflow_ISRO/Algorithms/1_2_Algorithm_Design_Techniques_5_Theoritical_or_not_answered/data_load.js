@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Algorithm Design Techniques - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Algorithm Design Techniques",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"49537\"></a><div itemprop=\"text\"><p>Selection sort algorithm design technique is an example of</p>\n\n</div><br><br><b>ISRO CSE 2007 | Question: 55</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Greedy method</p>",
+            "<p>Divide-and-conquer</p>",
+            "<p>Dynamic Programming</p>",
+            "<p>Backtracking</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/49537/isro-cse-2007-question-55\" target=\"_blank\">https://gateoverflow.in/49537/isro-cse-2007-question-55</a></p>"
+        }
+      ]
+    }
+  ]
+});

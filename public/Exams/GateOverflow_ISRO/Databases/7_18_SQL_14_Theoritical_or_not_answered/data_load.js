@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Databases - SQL - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "SQL",
+      "questions": [
+        {
+          "id": 13,
+          "question": "<p><a name=\"51189\"></a><div itemprop=\"text\">\n<p>Consider the following relational query on the above database:</p>\n\n<pre class=\"prettyprint lang-\">SELECT S.name FROM Suppliers S \nWhere S.sid NOT IN (SELECT C.sid FROM Catalog C\nWHERE C.pid NOT IN (SELECT P.pid FROM Parts P WHERE P.color &lt;&gt;'blue'))\n</pre>\n\n\n</div><br><br><b>ISRO2015-22</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Find the names of all suppliers who have supplied non-blue part.</p>",
+            "<p>Find the names of all suppliers who have not supplied non-blue part.</p>",
+            "<p>Find the names of all suppliers who have supplied only non-blue parts</p>",
+            "<p>Find the names of all suppliers who have not supplied only non-blue part.</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/51189/isro2015-22\" target=\"_blank\">https://gateoverflow.in/51189/isro2015-22</a></p>"
+        }
+      ]
+    }
+  ]
+});

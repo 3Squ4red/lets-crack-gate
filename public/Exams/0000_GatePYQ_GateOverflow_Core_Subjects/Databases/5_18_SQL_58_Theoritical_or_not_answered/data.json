@@ -1,0 +1,40 @@
+{
+  "title": "Databases - SQL - Theoretical/Not Answered",
+  "duration": 39,
+  "sections": [
+    {
+      "name": "SQL",
+      "questions": [
+        {
+          "id": 24,
+          "question": "<p><a name=\"1339\"></a><div itemprop=\"text\"><p>Consider the following relational schema:</p>\n\n<p>\\( \\text{Suppliers}(\\underline{\\text{sid:integer}},\\text{sname:string, city:string, street:string}) \\)&nbsp;</p>\n\n<p>\\( \\text{Parts}(\\underline{\\text{pid:integer}}, \\text{pname:string, color:string}) \\)&nbsp;</p>\n\n<p>\\( \\text{Catalog}(\\underline {\\text{sid:integer, pid:integer}}, \\text{cost:real}) \\)</p>\n\n<p>Consider the following relational query on the above database:</p>\n\n<pre class=\"sql\">SELECT\tS.sname\nFROM    Suppliers S\nWHERE S.sid NOT IN (SELECT C.sid \n                    FROM Catalog C \n                    WHERE C.pid NOT IN (SELECT P.pid \n                                        FROM Parts P \n                                        WHERE P.color&lt;&gt;'blue'))\n</pre>\n\n<p>Assume that relations corresponding to the above schema are not empty. Which one of the following is the correct interpretation of the above query?</p>\n\n</div><br><br><b>GATE CSE 2009 | Question: 55</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Find the names of all suppliers who have supplied a non-blue part.</p>",
+            "<p>Find the names of all suppliers who have not supplied a non-blue part.</p>",
+            "<p>Find the names of all suppliers who have supplied only non-blue part.</p>",
+            "<p>Find the names of all suppliers who have not supplied only blue parts.</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1339/gate-cse-2009-question-55\" target=\"_blank\">https://gateoverflow.in/1339/gate-cse-2009-question-55</a></p>"
+        },
+        {
+          "id": 48,
+          "question": "<p><a name=\"460849\"></a><div itemprop=\"text\"><p>Consider the following relational schema:&nbsp;</p><p>Students (\\( \\underline{\\text{rollno: integer}}, \\) name: string, age: integer, cgpa: real)&nbsp;</p><p>Courses (\\( \\underline{\\text{courseno: integer}}, \\) cname: string, credits: integer)&nbsp;</p><p>Enrolled (\\( \\underline{\\text{rollno: integer}}, \\) \\( \\underline{\\text{courseno: integer}}, \\) grade: string)&nbsp;</p><p>Which of the following options is/are correct SQL query/queries to retrieve the names of the students enrolled in course number (i.e., courseno) \\( 1470 \\)?&nbsp;</p><pre data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\" class=\"prettyprint linenums lang-c_cpp\">A. SELECT S.name&nbsp;\n   FROM Students S&nbsp;\n   WHERE EXISTS (SELECT * FROM Enrolled E&nbsp; \n                 WHERE E.courseno = 1470 \n                          AND E.rollno = S.rollno);</pre><pre data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\" class=\"prettyprint linenums lang-c_cpp\">B. SELECT S.name&nbsp;\n   FROM Students S&nbsp;\n   WHERE SIZEOF (SELECT * FROM Enrolled E \n                 WHERE E.courseno = 1470 \n                         AND E.rollno = S.rollno) &gt; 0;</pre><pre data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\" class=\"prettyprint linenums lang-c_cpp\">C. SELECT S.name&nbsp;\n   FROM Students S \n   WHERE&nbsp;0 &lt; (SELECT COUNT(*)&nbsp;\n              FROM Enrolled E&nbsp;&nbsp;\n              WHERE E.courseno = 1470 \n                        AND E.rollno&nbsp;=&nbsp;S.rollno);</pre><pre data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\" class=\"prettyprint linenums lang-c_cpp\">D. SELECT S.name&nbsp;\n   FROM Students S NATURAL JOIN Enrolled E \n   WHERE E.courseno = 1470;\n</pre></div><br><br><b>GATE CSE 2025 | Set 2 | Question: 44</b></p>",
+          "type": "multiple",
+          "options": [],
+          "correct_answer": [
+            "<p>A</p>",
+            "<p>C</p>",
+            "<p>D</p>"
+          ],
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/460849/gate-cse-2025-set-2-question-44\" target=\"_blank\">https://gateoverflow.in/460849/gate-cse-2025-set-2-question-44</a></p>"
+        }
+      ]
+    }
+  ]
+}

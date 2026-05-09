@@ -1,0 +1,36 @@
+{
+  "title": "Programming and DS_ DS - Queue",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Queue",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"152859\"></a><div itemprop=\"text\">At a hill station, the parking lot is one long drive way snaking up a hill side. Cars drive in and park right behind the car in front of them, one behind another. A car can’t leave until all the cars in front of it have left. Is the parking lot more like<br>\n<br>\n(A) An array<br>\n<br>\n(B) A stack<br>\n<br>\n(C) A queue<br>\n<br>\n(D) A linked list</div><br><br><b>UGC NET CSE | December 2009 | Part 2 | Question: 23</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/152859/ugc-net-cse-december-2009-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/152859/ugc-net-cse-december-2009-part-2-question-23</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"59030\"></a><div itemprop=\"text\">\n<p>The efficient data structure to insert/delete a number in a stored set of number is</p>\n\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 2 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Queue</p>",
+            "<p>Linked list</p>",
+            "<p>Doubly linked list</p>",
+            "<p>Binary tree</p>"
+          ],
+          "correct_answer": "<p>Doubly linked list</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59030/ugc-net-cse-september-2013-part-2-question-12\" target=\"_blank\">https://gateoverflow.in/59030/ugc-net-cse-september-2013-part-2-question-12</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "title": "Computer Networks - UGC NET CSE  December 2013  Part 2  Question",
+  "duration": 72,
+  "sections": [
+    {
+      "name": "UGC NET CSE  December 2013  Part 2  Question",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"12069\"></a><div itemprop=\"text\"><p>Which of the following is widely used inside the&nbsp;telephone system for long-haul data traffic?</p>\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 2 | Question: 43</b></p>",
+          "type": "single",
+          "options": [
+            "<p>ISDN</p>",
+            "<p>ATM</p>",
+            "<p>Frame Relay</p>",
+            "<p>ISTN</p>"
+          ],
+          "correct_answer": "<p>ATM</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/12069/ugc-net-cse-december-2013-part-2-question-43\" target=\"_blank\">https://gateoverflow.in/12069/ugc-net-cse-december-2013-part-2-question-43</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"48400\"></a><div itemprop=\"text\"><p>A network with bandwidth of \\( 10 \\) Mbps can pass only an average of \\( 15,000 \\) frames per minute with each frame&nbsp;carrying an average of \\( 8,000 \\) bits. What is the throughput of this network ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 3 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2 \\) Mbps</p>",
+            "<p>\\( 60 \\) Mbps</p>",
+            "<p>\\( 120 \\) Mbps</p>",
+            "<p>\\( 10 \\) Mbps</p>"
+          ],
+          "correct_answer": "<p>\\( 10 \\) Mbps</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/48400/ugc-net-cse-december-2015-part-3-question-11\" target=\"_blank\">https://gateoverflow.in/48400/ugc-net-cse-december-2015-part-3-question-11</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"48598\"></a><div itemprop=\"text\">\n<p>The bit rate of a signal is \\( 3000 \\) bps. If each signal unit carries \\( 6 \\) bits, the baud rate of the signal is _________.&nbsp;</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 2 | Question: 04</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 500 \\) baud/sec&nbsp;</p>",
+            "<p>\\( 1000 \\) baud/sec&nbsp;</p>",
+            "<p>\\( 3000 \\) baud/sec&nbsp;</p>",
+            "<p>\\( 18000 \\) baud/sec.&nbsp;</p>"
+          ],
+          "correct_answer": "<p>\\( 500 \\) baud/sec&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/48598/ugc-net-cse-june-2014-part-2-question-04\" target=\"_blank\">https://gateoverflow.in/48598/ugc-net-cse-june-2014-part-2-question-04</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"55607\"></a><div itemprop=\"text\"><p>Networks that use different technologies can be connected by using</p></div><br><br><b>UGC NET CSE | June 2012 | Part 2 | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Packets</p>",
+            "<p>Switches</p>",
+            "<p>Bridges</p>",
+            "<p>Routers</p>"
+          ],
+          "correct_answer": "<p>Routers</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55607/ugc-net-cse-june-2012-part-2-question-5\" target=\"_blank\">https://gateoverflow.in/55607/ugc-net-cse-june-2012-part-2-question-5</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"55876\"></a><div itemprop=\"text\">\n<p>Checksum used along with each packet computes the sum of the data, where data is treated as a sequence of</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 2 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Integer</p>",
+            "<p>Character</p>",
+            "<p>Real numbers</p>",
+            "<p>Bits</p>"
+          ],
+          "correct_answer": "<p>Bits</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55876/ugc-net-cse-june-2012-part-2-question-34\" target=\"_blank\">https://gateoverflow.in/55876/ugc-net-cse-june-2012-part-2-question-34</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"56311\"></a><div itemprop=\"text\"><p>What is the size (in terms of bits) of Header length field in IPV4 header?</p>\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 3 | Question: 54</b></p>",
+          "type": "single",
+          "options": [
+            "<p>2</p>",
+            "<p>4</p>",
+            "<p>8</p>",
+            "<p>16</p>"
+          ],
+          "correct_answer": "<p>4</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56311/ugc-net-cse-june-2012-part-3-question-54\" target=\"_blank\">https://gateoverflow.in/56311/ugc-net-cse-june-2012-part-3-question-54</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"57158\"></a><div itemprop=\"text\"><p>If link transmits 4000 frames per scond and each slot has 8 bits , the transmission rate of circuits of this TDM is _____</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 25</b></p>",
+          "type": "single",
+          "options": [
+            "<p>64 Kbps</p>",
+            "<p>32 Mbps</p>",
+            "<p>32 Kbps</p>",
+            "<p>64 Mbps</p>"
+          ],
+          "correct_answer": "<p>32 Kbps</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57158/ugc-net-cse-july-2016-part-3-question-25\" target=\"_blank\">https://gateoverflow.in/57158/ugc-net-cse-july-2016-part-3-question-25</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"57591\"></a><div itemprop=\"text\">\n<p>Ten signals, each requiring \\( 3000 \\) Hz, are multiplexed on to a single channel using FDM. How much minimum bandwidth is required for the multiplexed channel ? Assume that the guard bands are \\( 300 \\) Hz wide.</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 67</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 30,000 \\)</p>",
+            "<p>\\( 32,700 \\)</p>",
+            "<p>\\( 33,000 \\)</p>",
+            "<p>None of the above&nbsp;</p>"
+          ],
+          "correct_answer": "<p>\\( 32,700 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57591/ugc-net-cse-june-2014-part-3-question-67\" target=\"_blank\">https://gateoverflow.in/57591/ugc-net-cse-june-2014-part-3-question-67</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"57974\"></a><div itemprop=\"text\"><p>In classful addressing, the IP address 190.255.254.254 belongs to</p>\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 2 | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Class A</p>",
+            "<p>Class B</p>",
+            "<p>Class C</p>",
+            "<p>Class D</p>"
+          ],
+          "correct_answer": "<p>Class B</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57974/ugc-net-cse-june-2013-part-2-question-17\" target=\"_blank\">https://gateoverflow.in/57974/ugc-net-cse-june-2013-part-2-question-17</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"58721\"></a><div itemprop=\"text\"><p>A Pure ALOHA Network transmits 200 bit frames using a shared channel with 200 kbps bandwidth . If the system &nbsp;(all stations put together) produces 500 frames per sec , then the throughput of the system is</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>0.384</p>",
+            "<p>0.184</p>",
+            "<p>0.286</p>",
+            "<p>0.586</p>"
+          ],
+          "correct_answer": "<p>0.184</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58721/ugc-net-cse-july-2016-part-3-question-27\" target=\"_blank\">https://gateoverflow.in/58721/ugc-net-cse-july-2016-part-3-question-27</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"59010\"></a><div itemprop=\"text\">\n<p>The ____ is a set of standards that defines how a dynamic web document should be written, how input data should be supplied to the program, and how the output result should be used.</p>\n\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 2 | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Hyper Text Markup Language</p>",
+            "<p>File Transfer Protocol</p>",
+            "<p>Hyper Text Transfer Protocol</p>",
+            "<p>Common Gateway Interface</p>"
+          ],
+          "correct_answer": "<p>Common Gateway Interface</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59010/ugc-net-cse-september-2013-part-2-question-5\" target=\"_blank\">https://gateoverflow.in/59010/ugc-net-cse-september-2013-part-2-question-5</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"60726\"></a><div itemprop=\"text\"><p>The start and stop bits are used in serial communication for</p>\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 47</b></p>",
+          "type": "single",
+          "options": [
+            "<p>error detection</p>",
+            "<p>error correction</p>",
+            "<p>synchronization</p>",
+            "<p>slowing down the communication</p>"
+          ],
+          "correct_answer": "<p>synchronization</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60726/ugc-net-cse-december-2013-part-3-question-47\" target=\"_blank\">https://gateoverflow.in/60726/ugc-net-cse-december-2013-part-3-question-47</a></p>"
+        },
+        {
+          "id": 14,
+          "question": "<p><a name=\"61460\"></a><div itemprop=\"text\">\n<p>In a binary Hamming Code the number of check digits is r then number of message digits is equal to</p>\n\n\n</div><br><br><b>UGC NET CSE | Junet 2015 | Part 3 | Question: 66</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2^r-1 \\)</p>",
+            "<p>\\( 2^r-r-1 \\)</p>",
+            "<p>\\( 2^r-r+1 \\)</p>",
+            "<p>\\( 2^r+r-1 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 2^r-r-1 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61460/ugc-net-cse-junet-2015-part-3-question-66\" target=\"_blank\">https://gateoverflow.in/61460/ugc-net-cse-junet-2015-part-3-question-66</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"62255\"></a><div itemprop=\"text\"><p>Which of the following fields in IPv 4 datagram is not related to fragmentation?</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 22</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Type of service</p>",
+            "<p>Fragment offset</p>",
+            "<p>Flags</p>",
+            "<p>Indentification</p>"
+          ],
+          "correct_answer": "<p>Type of service</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62255/ugc-net-cse-december-2015-part-2-question-22\" target=\"_blank\">https://gateoverflow.in/62255/ugc-net-cse-december-2015-part-2-question-22</a></p>"
+        },
+        {
+          "id": 16,
+          "question": "<p><a name=\"62257\"></a><div itemprop=\"text\"><p>Four channels are multiplexed using TDM. If each channel sends 100 bytes/second and we multiplex 1 byte per channel, then the bit rate for the link is</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>400 bps</p>",
+            "<p>800&nbsp;bps</p>",
+            "<p>1600&nbsp;bps</p>",
+            "<p>3200&nbsp;bps</p>"
+          ],
+          "correct_answer": "<p>3200&nbsp;bps</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62257/ugc-net-cse-december-2015-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/62257/ugc-net-cse-december-2015-part-2-question-23</a></p>"
+        },
+        {
+          "id": 17,
+          "question": "<p><a name=\"62465\"></a><div itemprop=\"text\"><p>A network device is sending out the data at the rate of \\( 2000 \\) bps. How long does it take to send a file of \\( 1,00,000 \\) characters?</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 3 | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 50 \\)</p>",
+            "<p>\\( 200 \\)</p>",
+            "<p>\\( 400 \\)</p>",
+            "<p>\\( 800 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 200 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62465/ugc-net-cse-december-2015-part-3-question-15\" target=\"_blank\">https://gateoverflow.in/62465/ugc-net-cse-december-2015-part-3-question-15</a></p>"
+        },
+        {
+          "id": 18,
+          "question": "<p><a name=\"62782\"></a><div itemprop=\"text\"><p>Which of the following steps is/are not required for analog to digital conversion?</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>Sensing</li>\n\t<li>Conversion</li>\n\t<li>Amplification</li>\n\t<li>Conditioning</li>\n\t<li>Quantization\n\t\n\t</li>\n</ol></div><br><br><b>UGC NET CSE | December 2015 | Part 3 | Question: 68</b></p>",
+          "type": "single",
+          "options": [
+            "<p>a and b</p>",
+            "<p>c and d</p>",
+            "<p>a, b and e</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "<p>a, b and e</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62782/ugc-net-cse-december-2015-part-3-question-68\" target=\"_blank\">https://gateoverflow.in/62782/ugc-net-cse-december-2015-part-3-question-68</a></p>"
+        },
+        {
+          "id": 19,
+          "question": "<p><a name=\"63433\"></a><div itemprop=\"text\"><p>A multiplexer combines four 100-Kbps channels using a time slot of 2 bits. What is the bit rate?</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 2 | Question: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p>100 Kbps</p>",
+            "<p>200&nbsp;Kbps</p>",
+            "<p>400&nbsp;Kbps</p>",
+            "<p>1000&nbsp;Kbps</p>"
+          ],
+          "correct_answer": "<p>400&nbsp;Kbps</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63433/ugc-net-cse-july-2016-part-2-question-26\" target=\"_blank\">https://gateoverflow.in/63433/ugc-net-cse-july-2016-part-2-question-26</a></p>"
+        },
+        {
+          "id": 20,
+          "question": "<p><a name=\"63946\"></a><div itemprop=\"text\"><p>Given the following statements:</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>Frequency Division Multiplexing is a technique that can be applied when a bandwidth of a link is greater than combined bandwidth of signals to be transmitted</li>\n\t<li>Wavelength Division Multiplexing (WDM) is an analogue multiplexing technique to combine optical signals</li>\n\t<li>WDM is a digital multiplexing technique</li>\n\t<li>TDM is a digital multiplexing technique</li>\n</ol>\n\n<p>Which of the following is correct?</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{i, ii, iii} \\) and \\( \\text{iv} \\)&nbsp;are true</p>",
+            "<p>\\( \\text{i, ii, iii} \\) and \\( \\text{iv} \\)&nbsp;are false</p>",
+            "<p>\\( \\text{i, ii,} \\) and \\( \\text{iv} \\) are false; \\( \\text{iii} \\) is true</p>",
+            "<p>\\( \\text{i, ii,} \\)&nbsp;and \\( \\text{iv} \\)&nbsp;are true; \\( \\text{iii} \\)&nbsp;is false</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{i, ii,} \\)&nbsp;and \\( \\text{iv} \\)&nbsp;are true; \\( \\text{iii} \\)&nbsp;is false</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63946/ugc-net-cse-july-2016-part-3-question-26\" target=\"_blank\">https://gateoverflow.in/63946/ugc-net-cse-july-2016-part-3-question-26</a></p>"
+        },
+        {
+          "id": 21,
+          "question": "<p><a name=\"63948\"></a><div itemprop=\"text\"><p>Match the following :</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp; \\text{(a)}&nbsp; & \\text{Line Coding} & \\text{(i)} & \\text{A technique to change analog signal to}&nbsp; \\\\ &&& \\text{digital data} \\\\ &nbsp; \\text{(b)}&nbsp; & \\text{Block&nbsp;Coding} & \\text{(ii)} & \\text{Provides synchronization without} \\\\ &&& \\text{increasing number of bits} \\\\ &nbsp;\\text{(c)}&nbsp; & \\text{Scrambling} & \\text{(iii)} & \\text{Process of converting digital data to} \\\\ &&& \\text{digital signal}\\\\ &nbsp; \\text{(d)}&nbsp; & \\text{Pulse code Modulation} & \\text{(iv)} & \\text{Provides redundancy to ensure}\\\\ &&& \\text{&nbsp;synchronization and inherits&nbsp; error detection} \\\\ &nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 28</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)} \\)</p>",
+            "<p>\\( \\text{(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63948/ugc-net-cse-july-2016-part-3-question-28\" target=\"_blank\">https://gateoverflow.in/63948/ugc-net-cse-july-2016-part-3-question-28</a></p>"
+        },
+        {
+          "id": 24,
+          "question": "<p><a name=\"64067\"></a><div itemprop=\"text\"><p>The number of bits required for an \\( IP_{V_{6}} \\) address is</p></div><br><br><b>UGC NET CSE | December 2011 | Part 2 | Question: 42</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 16 \\)&nbsp;</p>",
+            "<p>\\( 32 \\)&nbsp;</p>",
+            "<p>\\( 64 \\)&nbsp;</p>",
+            "<p>\\( 128 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 128 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/64067/ugc-net-cse-december-2011-part-2-question-42\" target=\"_blank\">https://gateoverflow.in/64067/ugc-net-cse-december-2011-part-2-question-42</a></p>"
+        },
+        {
+          "id": 28,
+          "question": "<p><a name=\"114287\"></a><div itemprop=\"text\"><p>Let C be a binary linear code with minimum distance \\( 2t+1 \\) then it can correct upto ___ bits of error</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 3 | Question: 64</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( t+1 \\)</p>",
+            "<p>\\( t \\)</p>",
+            "<p>\\( t-2 \\)</p>",
+            "<p>\\( t/2 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( t \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/114287/ugc-net-cse-january-2017-part-3-question-64\" target=\"_blank\">https://gateoverflow.in/114287/ugc-net-cse-january-2017-part-3-question-64</a></p>"
+        },
+        {
+          "id": 33,
+          "question": "<p><a name=\"154201\"></a><div itemprop=\"text\"><p>To employ multi-access in \\( GSM \\), users are given different :</p>\n\n<ol>\n\t<li>time slots&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</li>\n\t<li>bandpass filters&nbsp; &nbsp;&nbsp;&nbsp;</li>\n\t<li>handsets&nbsp;&nbsp;&nbsp; &nbsp;</li>\n\t<li>frequency bands</li>\n</ol></div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 08</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154201/ugc-net-cse-june-2009-part-2-question-08\" target=\"_blank\">https://gateoverflow.in/154201/ugc-net-cse-june-2009-part-2-question-08</a></p>"
+        },
+        {
+          "id": 41,
+          "question": "<p><a name=\"166404\"></a><div itemprop=\"text\"><p>Match the following :</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp; & \\textbf{List-I} && \\textbf{List-II} \\\\ &nbsp; \\text{(a)} & \\text{Data Link Layer} & \\text{(i)} & \\text{Encryption} \\\\ &nbsp;\\text{(b)} & \\text{Network Layer} & \\text{(ii)} & \\text{Connection control} \\\\ &nbsp;\\text{(c)} & \\text{Transport Layer} & \\text{(iii)} & \\text{Routing} \\\\&nbsp; \\text{(d)} & \\text{Presentation Layer} & \\text{(iv)} & \\text{Framing} \\\\ \\end{array} \\)</p>\n\n<p>\\( \\textbf{Code :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 28</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(iv);&nbsp; (b)-(iii);&nbsp; (c)-(i);&nbsp;&nbsp;(d)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(iii);&nbsp; (b)-(iv);&nbsp; (c)-(ii);&nbsp; (d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(iv);&nbsp; (b)-(ii);&nbsp; (c)-(iii);&nbsp; (d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(iv);&nbsp; &nbsp;(b)-(iii);&nbsp; (c)-(ii);&nbsp; (d)-(i)} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{(a)-(iv);&nbsp; &nbsp;(b)-(iii);&nbsp; (c)-(ii);&nbsp; (d)-(i)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166404/ugc-net-cse-november-2017-part-3-question-28\" target=\"_blank\">https://gateoverflow.in/166404/ugc-net-cse-november-2017-part-3-question-28</a></p>"
+        },
+        {
+          "id": 58,
+          "question": "<p><a name=\"349585\"></a><div itemprop=\"text\"><p>&nbsp;</p>\n\n<p>Given below are two statements:</p>\n\n<p>Statement \\( I \\): The laws of nature put two fundamental limits on data rate of a channel. The H.Nyquist limit restricts the number of independent samples per second to twice the band-width in a Noiseless channel</p>\n\n<p>Statement \\( II \\): Shannon’s major result about noised channel is that maximum data rate of a channel whose band width is \\( H \\) Hz, and whose signal-to-noise ratio is \\( S/N \\) is given by: Maximum number of bits/sec\\( =H \\log _2 ( 1 + \\dfrac{S}{N}) \\)</p>\n\n<p>In&nbsp;the light of the above statements, choose the correct answer from the options given below</p>\n\n</div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 88</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Both Statement \\( I \\) and Statement \\( II \\) are true</p>",
+            "<p>Both Statement \\( I \\) and Statement \\( II \\) are false</p>",
+            "<p>Statement \\( I \\) is correct but Statement \\( II \\) is false</p>",
+            "<p>Statement \\( I \\) is incorrect but Statement \\( II \\) is true</p>"
+          ],
+          "correct_answer": "<p>Both Statement \\( I \\) and Statement \\( II \\) are true</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349585/ugc-net-cse-october-2020-part-2-question-88\" target=\"_blank\">https://gateoverflow.in/349585/ugc-net-cse-october-2020-part-2-question-88</a></p>"
+        },
+        {
+          "id": 59,
+          "question": "<p><a name=\"349642\"></a><div itemprop=\"text\"><p>Consider a code with only four valid code words: \\( 0000000000 \\), \\( 0000011111 \\), \\( 1111100000 \\), and \\( 1111111111 \\). This code has distance \\( 5 \\). If the code word arrived is \\( 0000000111 \\) then the original code word must be _______</p>\n\n</div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 31</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 0000011111 \\)</p>",
+            "<p>\\( 0000000000 \\)</p>",
+            "<p>\\( 1111100000 \\)</p>",
+            "<p>\\( 1111111111 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 0000011111 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349642/ugc-net-cse-october-2020-part-2-question-31\" target=\"_blank\">https://gateoverflow.in/349642/ugc-net-cse-october-2020-part-2-question-31</a></p>"
+        }
+      ]
+    }
+  ]
+}

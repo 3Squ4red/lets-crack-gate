@@ -1,0 +1,43 @@
+{
+  "title": "General Aptitude_ Analytical Aptitude - Logical Reasoning - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Logical Reasoning",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"25383\"></a><div itemprop=\"text\"><p>Consider the following two types of elections to determine which of two parties \\( A \\) and \\( B \\) forms the next government in the 2014 Indian elections. Assume for simplicity an Indian population of size \\( 545545 (=545 * 1001) \\). There are only two parties \\( A \\) and \\( B \\) and every citizen votes.</p>\n\n<p>TYPE C: The country is divided into \\( 545 \\) constituencies and each constituency has \\( 1001 \\) voters. Elections are held for each constituency and a party is said to win a constituency if it receive a majority of the vote in that constituency. The party that wins the most constituencies forms the next government.</p>\n\n<p>TYPE P: There are no constituencies in this model. Elections are held throughout the country and the party that wins the most votes (among \\( 545545 \\) voters forms the government.</p>\n\n<p>Which of the following is true?</p>\n\n</div><br><br><b>TIFR CSE 2013 | Part A | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>If the party forms the govt. by election TYPE C winning at least two-third of the constituencies, then it will also forms the govt. by election TYPE P.</p>",
+            "<p>If a party forms govt. by election TYPE C, then it will also form the govt. by election TYPE P.</p>",
+            "<p>If a party forms govt. by election TYPE P, then it will also form the govt. by election TYPE C.</p>",
+            "<p>All of the above</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25383/tifr-cse-2013-part-a-question-2\" target=\"_blank\">https://gateoverflow.in/25383/tifr-cse-2013-part-a-question-2</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"179280\"></a><div itemprop=\"text\"><p>We are given a (possibly empty) set of objects. Each object in the set is colored either black or white, is shaped either circular or rectangular, and has a profile that is either fat or thin, Those properties obey the following principles:</p>\n\n<ol>\n\t<li>Each white object is also circular.</li>\n\t<li>Not all thin objects are black.</li>\n\t<li>Each rectangular object is also either thin or white or both thin and white.</li>\n</ol>\n\n<p>Consider the following statements:</p>\n\n<ol style=\"list-style-type:lower-roman\">\n\t<li>If there is a thin object in the set, then there is also a white object.</li>\n\t<li>If there is a rectangular object in the set, then there are at least two objects.</li>\n\t<li>Every fat object in the set is circular.</li>\n</ol>\n\n<p>Which of the above statements must be TRUE for the set?</p>\n\n</div><br><br><b>TIFR CSE 2018 | Part A | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (i) \\) only</p>",
+            "<p>\\( (i) \\text{and} (ii) \\) only</p>",
+            "<p>\\( (i) \\text{and} (iii) \\) only&nbsp;</p>",
+            "<p>None of the statements must be TRUE</p>",
+            "<p>All of the statements must be TRUE</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/179280/tifr-cse-2018-part-a-question-11\" target=\"_blank\">https://gateoverflow.in/179280/tifr-cse-2018-part-a-question-11</a></p>"
+        }
+      ]
+    }
+  ]
+}

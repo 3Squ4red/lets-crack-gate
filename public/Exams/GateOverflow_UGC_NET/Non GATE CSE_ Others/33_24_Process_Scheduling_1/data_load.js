@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Others - Process Scheduling",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Process Scheduling",
+      "questions": []
+    }
+  ]
+});

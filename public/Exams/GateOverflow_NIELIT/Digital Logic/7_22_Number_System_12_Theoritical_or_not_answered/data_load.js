@@ -1,0 +1,41 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Number System - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Number System",
+      "questions": [
+        {
+          "id": 9,
+          "question": "<p><a name=\"336919\"></a><div itemprop=\"text\"><p>A decimal has \\( 25 \\) digits. The number of bits needed for its equivalent binary representation is approximately,</p>\n\n</div><br><br><b>NIELIT 2017 OCT Scientific Assistant A (CS) - Section B: 1</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 50 \\)</p>",
+            "<p>\\( 74 \\)</p>",
+            "<p>\\( 40 \\)</p>",
+            "<p>\\( 60 \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336919/nielit-2017-oct-scientific-assistant-a-cs-section-b-1\" target=\"_blank\">https://gateoverflow.in/336919/nielit-2017-oct-scientific-assistant-a-cs-section-b-1</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"336990\"></a><div itemprop=\"text\"><p>A decimal has \\( 25 \\) digits. The number of bits needed for its equivalent binary representation is approximately</p>\n\n</div><br><br><b>NIELIT 2017 OCT Scientific Assistant A (IT) - Section C: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 50 \\)</p>",
+            "<p>\\( 74 \\)</p>",
+            "<p>\\( 40 \\)</p>",
+            "<p>\\( 60 \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336990/nielit-2017-oct-scientific-assistant-a-it-section-c-7\" target=\"_blank\">https://gateoverflow.in/336990/nielit-2017-oct-scientific-assistant-a-it-section-c-7</a></p>"
+        }
+      ]
+    }
+  ]
+});

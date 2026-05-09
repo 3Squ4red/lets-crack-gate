@@ -1,0 +1,75 @@
+{
+  "title": "Theory of Computation - Regular Expression",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Regular Expression",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"19047\"></a><div itemprop=\"text\"><p>Let \\( r, s, t \\) be regular expressions. Which of the following identities is correct?</p></div><br><br><b>TIFR CSE 2010 | Part B | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (r + s)^* = r^*s^* \\)</p>",
+            "<p>\\( r(s + t) = rs + t \\)</p>",
+            "<p>\\( (r + s)^* = r^* + s^* \\)</p>",
+            "<p>\\( (rs + r)^* r = r (sr + r)^* \\)</p>",
+            "<p>\\( (r^*s)^* = (rs)^* \\)</p>"
+          ],
+          "correct_answer": "<p>\\( (rs + r)^* r = r (sr + r)^* \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/19047/tifr-cse-2010-part-b-question-34\" target=\"_blank\">https://gateoverflow.in/19047/tifr-cse-2010-part-b-question-34</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"29861\"></a><div itemprop=\"text\"><p>Let \\( a, b, c \\) be regular expressions. Which of the following identities is correct?</p>\n\n</div><br><br><b>TIFR CSE 2015 | Part B | Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (a + b)^{*} = a^{*}b^{*} \\)</p>",
+            "<p>\\( a(b + c) = ab + c \\)</p>",
+            "<p>\\( (a + b)^{*} = a^{*} + b^{*} \\)</p>",
+            "<p>\\( (ab + a)^{*}a = a(ba + a)^{*} \\)</p>",
+            "<p>None of the above.</p>"
+          ],
+          "correct_answer": "<p>\\( (ab + a)^{*}a = a(ba + a)^{*} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/29861/tifr-cse-2015-part-b-question-7\" target=\"_blank\">https://gateoverflow.in/29861/tifr-cse-2015-part-b-question-7</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"179286\"></a><div itemprop=\"text\"><p>Consider the following non-deterministic automation, where \\( \\large s_{1} \\) is the start state and \\( \\large s_{4} \\) is the final (accepting) state. The alphabet is \\( \\{a,b\\}. \\) A transition with label \\( \\large\\epsilon \\) can be taken without consuming any symbol from the input.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"335\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/theory_of_computation_regular_expression/1d0f53c511729a0c1cded37ac75a5090.png\" width=\"310\"></p>\n\n<p>Which of the following regular expressions corresponds to the language accepted by this automation ?</p>\n\n</div><br><br><b>TIFR CSE 2018 | Part B | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (a+b)^{*}aba \\)</p>",
+            "<p>\\( aba(a+b)^{*}aba \\)</p>",
+            "<p>\\( (a+b)aba(b+a)^{*} \\)</p>",
+            "<p>\\( aba(a+b)^{*} \\)</p>",
+            "<p>\\( (ab)^{*}aba \\)</p>"
+          ],
+          "correct_answer": "<p>\\( (a+b)^{*}aba \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/179286/tifr-cse-2018-part-b-question-2\" target=\"_blank\">https://gateoverflow.in/179286/tifr-cse-2018-part-b-question-2</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"280484\"></a><div itemprop=\"text\"><p>Consider the following non-deterministic automaton,where \\( s_1 \\) is the start state and \\( s_4 \\) is the final (accepting) state. The alphabet is \\( \\{a,b\\} \\). A transition with label \\( \\epsilon \\) can be taken without consuming any symbol from the input.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"360\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/theory_of_computation_regular_expression/73b2ceff90b9b85fbc015fdfbcc7e390.png\" width=\"324\"></p>\n\n<p>Which of the following regular expressions correspond to the language accepted by this automaton ?</p>\n\n</div><br><br><b>TIFR CSE 2019 | Part B | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (a+b)^*aba \\)</p>",
+            "<p>\\( (a+b)^*ba^* \\)</p>",
+            "<p>\\( (a+b)^*ba(aa)^* \\)</p>",
+            "<p>\\( (a+b)^* \\)</p>",
+            "<p>\\( (a+b)^*baa^* \\)</p>"
+          ],
+          "correct_answer": "<p>\\( (a+b)^*ba(aa)^* \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/280484/tifr-cse-2019-part-b-question-11\" target=\"_blank\">https://gateoverflow.in/280484/tifr-cse-2019-part-b-question-11</a></p>"
+        }
+      ]
+    }
+  ]
+}

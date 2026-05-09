@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Operating System - Vsam",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Vsam",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,56 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Number System - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Number System",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335502\"></a><div itemprop=\"text\"><p>Which of the following is divisible by \\( 4 \\)?</p>\n\n</div><br><br><b>UGC NET CSE | December 2005 | Part 2 | Question: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 100101100 \\)</p>",
+            "<p>\\( 1110001110001 \\)</p>",
+            "<p>\\( 11110011 \\)</p>",
+            "<p>\\( 10101010101010 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335502/ugc-net-cse-december-2005-part-2-question-6\" target=\"_blank\">https://gateoverflow.in/335502/ugc-net-cse-december-2005-part-2-question-6</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"335665\"></a><div itemprop=\"text\"><p>The hexadecimal equivalent of \\( (10111)_2\\times(1110)_2 \\) is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 150 \\)</p>",
+            "<p>\\( 241 \\)</p>",
+            "<p>\\( 142 \\)</p>",
+            "<p>\\( 101011110 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335665/ugc-net-cse-december-2006-part-2-question-6\" target=\"_blank\">https://gateoverflow.in/335665/ugc-net-cse-december-2006-part-2-question-6</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"154272\"></a><div itemprop=\"text\"><p>The octal equivalent of hexadecimal \\( \\text{(A.B)}_{16} \\) is :</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 47.21 \\)</p>",
+            "<p>\\( 12.74 \\)</p>",
+            "<p>\\( 12.71 \\)&nbsp;</p>",
+            "<p>\\( 17.21 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154272/ugc-net-cse-june-2009-part-2-question-13\" target=\"_blank\">https://gateoverflow.in/154272/ugc-net-cse-june-2009-part-2-question-13</a></p>"
+        }
+      ]
+    }
+  ]
+});

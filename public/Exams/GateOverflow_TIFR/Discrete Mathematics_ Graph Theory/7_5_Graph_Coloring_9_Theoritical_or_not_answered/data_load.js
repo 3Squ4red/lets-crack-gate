@@ -1,0 +1,59 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Graph Theory - Graph Coloring - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Graph Coloring",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"98012\"></a><div itemprop=\"text\"><p>An undirected graph \\( G = (V, E) \\) is said to be \\( k \\)-colourable if there exists a mapping \\( c: V \\rightarrow \\{1, 2, \\dots k \\} \\) such that for every edge \\( \\{u, v\\} \\in E \\) we have \\( c(u) \\neq c(v) \\). Which of the following statements is \\( \\text{FALSE} \\)?</p>\n\n</div><br><br><b>TIFR CSE 2016 | Part B | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( G \\) is \\( \\mid V \\mid \\) -colourable</p>",
+            "<p>\\( G \\) is \\( 2 \\)-colourable if there are no odd cycles in \\( G \\)</p>",
+            "<p>\\( G \\) is \\( (\\Delta +1) \\)-colourable where \\( \\Delta \\) is the maximum degree in \\( G \\)</p>",
+            "<p>There is a polynomial time algorithm to check if \\( G \\) is \\( 2 \\)-colourable</p>",
+            "<p>If \\( G \\) has no triangle then it is \\( 3 \\)-colourable</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/98012/tifr-cse-2016-part-b-question-13\" target=\"_blank\">https://gateoverflow.in/98012/tifr-cse-2016-part-b-question-13</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"95669\"></a><div itemprop=\"text\"><p>A vertex colouring with three colours of a graph \\( G=(V, E) \\) is a mapping \\( c: V \\rightarrow \\{R, G, B\\} \\) so that adjacent vertices receive distinct colours. Consider the following undirected graph.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/discrete_mathematics_graph_theory_graph_coloring/fc94d957af0d2d9f876a921fc7d87e7d.png\" width=\"420\"></p>\n\n<p>How many vertex colouring with three colours does this graph have?</p>\n\n</div><br><br><b>TIFR CSE 2017 | Part B | Question: 1</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3^9 \\)</p>",
+            "<p>\\( 6^3 \\)</p>",
+            "<p>\\( 3 \\times 2^8 \\)</p>",
+            "<p>\\( 27 \\)</p>",
+            "<p>\\( 24 \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/95669/tifr-cse-2017-part-b-question-1\" target=\"_blank\">https://gateoverflow.in/95669/tifr-cse-2017-part-b-question-1</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"400145\"></a><div itemprop=\"text\"><p>You have a regular tetrahedron and \\( 4 \\) distinct colours. You wish to paint the faces of the tetrahedron such that each face gets a different colour. How many ways can you colour the tetrahedron? Recall that a regular tetrahedron is a three-dimensional solid with exactly four faces, all of which are equilateral triangles: see the sketch given below (not drawn to scale) for a rough view of such a solid. Two colourings of the tetrahedron are considered the same if they are identical after possibly rotating the tetrahedron.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"169\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/discrete_mathematics_graph_theory_graph_coloring/c902ba24f44b73fcb35a848c5c90dc7f.png\" width=\"204\"></p>\n\n</div><br><br><b>TIFR CSE 2023 | Part B | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 24 \\)</p>",
+            "<p>\\( 12 \\)</p>",
+            "<p>\\( 8 \\)</p>",
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 2 \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/400145/tifr-cse-2023-part-b-question-13\" target=\"_blank\">https://gateoverflow.in/400145/tifr-cse-2023-part-b-question-13</a></p>"
+        }
+      ]
+    }
+  ]
+});

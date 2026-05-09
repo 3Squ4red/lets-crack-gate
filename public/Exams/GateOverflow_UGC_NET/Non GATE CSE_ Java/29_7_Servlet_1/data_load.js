@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Java - Servlet",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Servlet",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"57198\"></a><div itemprop=\"text\"><p>Match the following interfaces of Java. Servlet package \\( : \\)</p>\n\n<p>\\( \\begin{array}{clcl}&nbsp;& \\textbf{List – I} && \\textbf{List – II}\\\\&nbsp;\\text{a.}& \\text{Servlet config} & \\text{i} & \\text{Enables Servlets to log events} \\\\&nbsp; \\text{b.}&&nbsp; \\text{Servlet Context} & \\text{ii.} & \\text{Read data from a client} \\\\&nbsp;\\text{c.} & \\text{Servlet Request} & \\text{iii.} & \\text{Write data to a client} \\\\&nbsp;\\text{d.} & \\text{Servlet Response&nbsp;} & \\text{iv.} & \\text{To get initialization parameters}\\\\ \\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-iii,&nbsp;b-iv,&nbsp;c-ii,&nbsp;d-i} \\)</p>",
+            "<p>\\( \\text{a-iii,&nbsp;b-ii, c-iv,&nbsp;d-i} \\)</p>",
+            "<p>\\( \\text{a-ii,&nbsp;b-iii, c-iv,&nbsp;d-i} \\)</p>",
+            "<p>\\( \\text{a-iv, b-i, c-ii, d-iii} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{a-iv, b-i, c-ii, d-iii} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57198/ugc-net-cse-june-2014-part-3-question-52\" target=\"_blank\">https://gateoverflow.in/57198/ugc-net-cse-june-2014-part-3-question-52</a></p>"
+        }
+      ]
+    }
+  ]
+});

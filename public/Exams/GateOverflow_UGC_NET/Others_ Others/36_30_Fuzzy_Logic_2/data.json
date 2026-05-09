@@ -1,0 +1,26 @@
+{
+  "title": "Others_ Others - Fuzzy Logic",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Fuzzy Logic",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"59846\"></a><div itemprop=\"text\">\n<p>Let A be a set of comfortable houses given as \\( A = \\big\\{ \\frac{x_1}{0.8}, \\frac{x_2}{0.9}, \\frac{x_3}{0.1}, \\frac{x_4}{0.7} \\big \\} \\) and be the set of affordable houses \\( B = \\big\\{ \\frac{x_1}{0.9}, \\frac{x_2}{0.8}, \\frac{x_3}{0.6}, \\frac{x_4}{0.2} \\big \\} \\) Then the set of comfortable and affordable houses is</p>\n\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 3 | Question: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\big\\{ \\frac{x_1}{0.8}, \\frac{x_2}{0.8}, \\frac{x_3}{0.1}, \\frac{x_4}{0.2} \\big \\} \\)</p>",
+            "<p>\\( \\big\\{ \\frac{x_1}{0.9}, \\frac{x_2}{0.9}, \\frac{x_3}{0.6}, \\frac{x_4}{0.7} \\big \\} \\)</p>",
+            "<p>\\( \\big\\{ \\frac{x_1}{0.8}, \\frac{x_2}{0.8}, \\frac{x_3}{0.6}, \\frac{x_4}{0.7} \\big \\} \\)</p>",
+            "<p>\\( \\big\\{ \\frac{x_1}{0.7}, \\frac{x_2}{0.7}, \\frac{x_3}{0.7}, \\frac{x_4}{0.9} \\big \\} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\big\\{ \\frac{x_1}{0.8}, \\frac{x_2}{0.8}, \\frac{x_3}{0.1}, \\frac{x_4}{0.2} \\big \\} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59846/ugc-net-cse-september-2013-part-3-question-26\" target=\"_blank\">https://gateoverflow.in/59846/ugc-net-cse-september-2013-part-3-question-26</a></p>"
+        }
+      ]
+    }
+  ]
+}

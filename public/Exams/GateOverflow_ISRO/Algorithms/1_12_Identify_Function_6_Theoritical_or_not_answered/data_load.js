@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Identify Function - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Identify Function",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"213576\"></a><div itemprop=\"text\"><p>An array \\( A \\) consists of \\( n \\) integers in locations \\( A[0], A[1], \\ldots&nbsp;A[n-1] \\). It is required to shift the elements of the array cyclically&nbsp;to the left by \\( k \\) places, where \\( 1&lt;=k&lt;=(n-1) \\). An incomplete algorithm for doing this in linear time, without using another array is given bellow. Complete the algorithm by filling in the blanks.</p>\n\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">min=n; i=0;\nwhile(_________) {\n    temp= A[i]; j=i;\n    while(_________) {\n        A[j]= _______;\n        j=(j+k) mod n;\n        if(j&lt;min) then\n        min = j;\n    }\n    A[(n+i-k) mod n]=_______;\n    i=________;\n    \n}</pre>\n\n<p>\\begin{array}{lllll}<br>\n\\text{a.}&i&gt;\\min;&&nbsp; j !=(n+1) \\mod n;& A[j+k]& \\text{temp};&&nbsp;i+1; \\\\&nbsp; &nbsp; &nbsp;<br>\n\\text{b.}&i&lt;\\min; &&nbsp; j !=(n+i)\\mod n;& A[j+k]& \\text{temp};&&nbsp; i+1; \\\\<br>\n\\text{c.}&i&gt;\\min;&&nbsp;j !=(n+i+k) \\mod n; & A[j+k] & \\text{temp};&&nbsp;i+1; \\\\&nbsp; &nbsp; &nbsp;&nbsp;<br>\n\\text{d.}&i&lt;\\min; &&nbsp;j !=(n+i-k) \\mod n;& A[(j+k) \\mod n]& \\text{temp};&&nbsp;i+1;<br>\n\\end{array}</p></div><br><br><b>ISRO CSE 2018 | Question: 12</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>D</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/213576/isro-cse-2018-question-12\" target=\"_blank\">https://gateoverflow.in/213576/isro-cse-2018-question-12</a></p>"
+        }
+      ]
+    }
+  ]
+});

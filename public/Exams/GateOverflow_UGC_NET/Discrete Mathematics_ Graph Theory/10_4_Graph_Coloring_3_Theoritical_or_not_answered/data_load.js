@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Graph Theory - Graph Coloring - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Graph Coloring",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"67748\"></a><div itemprop=\"text\"><p>\\( S_{1} \\) :&nbsp;I teach algorithms and maths.</p>\n\n<p>\\( S_{2} \\) : My professor teaches maths, electronics and computer science.</p>\n\n<p>\\( S_{3} \\) : I have a student of maths.</p>\n\n<p>\\( S_{4} \\) : Algorithm is a part of computer science.</p>\n\n<p>\\( S_{5} \\) : Maths students know computer science.</p>\n\n<p>What would be the chromatic number of a graph, vertices of which are the actors/entities that are involved in the sentences \\( S_{1} \\) to \\( S_{5} \\)&nbsp;and&nbsp;edges&nbsp;to&nbsp;represent&nbsp;the&nbsp;associations/relationships&nbsp;amongst&nbsp;the entities/actors as expressed in the sentences \\( S_{1} \\) to \\( S_{5} \\) above ?</p>\n\n</div><br><br><b>UGC NET CSE | June 2010 | Part 2 | Question: 4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 3 \\)&nbsp;</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67748/ugc-net-cse-june-2010-part-2-question-4\" target=\"_blank\">https://gateoverflow.in/67748/ugc-net-cse-june-2010-part-2-question-4</a></p>"
+        }
+      ]
+    }
+  ]
+});

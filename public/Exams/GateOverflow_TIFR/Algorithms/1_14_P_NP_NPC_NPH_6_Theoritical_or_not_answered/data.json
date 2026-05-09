@@ -1,0 +1,59 @@
+{
+  "title": "Algorithms - P NP NPC NPH - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "P NP NPC NPH",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"18754\"></a><div itemprop=\"text\"><p>Suppose a language \\( L \\) is \\( \\mathbf{NP} \\) complete. Then which of the following is FALSE?</p>\n\n</div><br><br><b>TIFR CSE 2010 | Part B | Question: 39</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( L \\in \\mathbf{NP} \\)</p>",
+            "<p>Every problem in \\( \\mathbf{P} \\) is polynomial time reducible to \\( L \\).</p>",
+            "<p>Every problem in \\( \\mathbf{NP} \\) is polynomial time reducible to \\( L \\).</p>",
+            "<p>The Hamilton cycle problem is polynomial time reducible to \\( L \\).</p>",
+            "<p>\\( \\mathbf{P} \\neq \\mathbf{NP} \\) and \\( L \\in \\mathbf{P} \\).</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/18754/tifr-cse-2010-part-b-question-39\" target=\"_blank\">https://gateoverflow.in/18754/tifr-cse-2010-part-b-question-39</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"95828\"></a><div itemprop=\"text\"><p>A multivariate polynomial in \\( n \\) variables with integer coefficients has a binary root if it is possible to assign each variable either 0 or 1, so that the polynomial evaluates to 0. For example, the multivariate polynomial \\( -2x_1^3 -x_1x_2+2 \\) has the binary root \\( (x_1=1, x_2=0) \\). Then determining whether a multivariate polynomial, given as the sum of monimials, has a binary root:</p>\n\n</div><br><br><b>TIFR CSE 2017 | Part B | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>is trivial: every polynomial has a binary root</p>",
+            "<p>can be done in polynomial time</p>",
+            "<p>is NP-hard, but not in NP</p>",
+            "<p>is in NP, but not in P and not NP-hard</p>",
+            "<p>is both in NP and NP-hard</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/95828/tifr-cse-2017-part-b-question-15\" target=\"_blank\">https://gateoverflow.in/95828/tifr-cse-2017-part-b-question-15</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"95673\"></a><div itemprop=\"text\"><p>Consider the following statements:</p>\n\n<ol style=\"list-style-type:lower-roman\">\n\t<li>Checking if a given \\( undirected \\) graph has a cycle is in \\( \\mathsf{P} \\)</li>\n\t<li>Checking if a given \\( undirected \\) graph has a cycle is in \\( \\mathsf{NP} \\)</li>\n\t<li>Checking if a given \\( directed \\) graph has a cycle is in \\( \\mathsf{P} \\)</li>\n\t<li>Checking if a given \\( directed \\) graph has a cycle is in \\( \\mathsf{NP} \\)</li>\n</ol>\n\n<p>Which of the above statements is/are TRUE? Choose from the following options.</p>\n\n</div><br><br><b>TIFR CSE 2017 | Part B | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Only i and ii</p>",
+            "<p>Only ii and iv</p>",
+            "<p>Only ii, iii, and iv</p>",
+            "<p>Only i, ii and iv</p>",
+            "<p>All of them</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/95673/tifr-cse-2017-part-b-question-2\" target=\"_blank\">https://gateoverflow.in/95673/tifr-cse-2017-part-b-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Prolog",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Prolog",
+      "questions": []
+    }
+  ]
+});

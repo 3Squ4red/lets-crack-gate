@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Programming and DS - Operator Precedence",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Operator Precedence",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"64059\"></a><div itemprop=\"text\"><p>\\( X -&nbsp;= Y + 1 \\) means</p>\n\n</div><br><br><b>UGC NET CSE | December 2011 | Part 2 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( X = X – Y + 1 \\)</p>",
+            "<p>\\( X = -X -&nbsp;Y -&nbsp;1 \\)</p>",
+            "<p>\\( X = -X + Y + 1 \\)</p>",
+            "<p>\\( X= X -&nbsp;Y -&nbsp;1 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( X= X -&nbsp;Y -&nbsp;1 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/64059/ugc-net-cse-december-2011-part-2-question-36\" target=\"_blank\">https://gateoverflow.in/64059/ugc-net-cse-december-2011-part-2-question-36</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,56 @@
+{
+  "title": "Programming and DS_ DS - Stack - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Stack",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335648\"></a><div itemprop=\"text\"><p>What is the time required to insert an element in a stack with linked implementation ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( O (\\log_2 n) \\)</p>",
+            "<p>\\( O (n) \\)</p>",
+            "<p>\\( O (n\\log_2 n) \\)</p>",
+            "<p>\\( O (1) \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335648/ugc-net-cse-december-2006-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/335648/ugc-net-cse-december-2006-part-2-question-23</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"335442\"></a><div itemprop=\"text\"><p>What is the time required to insert an element in a stack with linked implementation?</p>\n\n</div><br><br><b>UGC NET CSE | June 2005 | Part 2 | Question: 21</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( O \\left(\\log_{2}n \\right) \\)</p>",
+            "<p>\\( O \\left(n \\right) \\)</p>",
+            "<p>\\( O \\left(n \\log_{2}n \\right) \\)</p>",
+            "<p>\\( O \\left(1 \\right) \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335442/ugc-net-cse-june-2005-part-2-question-21\" target=\"_blank\">https://gateoverflow.in/335442/ugc-net-cse-june-2005-part-2-question-21</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"67874\"></a><div itemprop=\"text\"><p>If we have six stack operationspushing and popping each of \\( A, B \\) and \\( C \\)-such that push \\( (A) \\) must occur before push \\( (B) \\) which must occur before push \\( (C) \\), then \\( A, C, B \\) is a possible order for the pop operations, since this could be our sequence : push \\( (A) \\), pop \\( (A) \\), push \\( (B) \\), push \\( (C) \\), pop \\( (C) \\), pop \\( (B) \\).&nbsp;Which one of the following orders could not be the order the pop operations are run, if we are to satisfy the requirements described above?</p>\n\n</div><br><br><b>UGC NET CSE | June 2010 | Part 2 | Question: 21</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( ABC \\)</p>",
+            "<p>\\( CBA \\)</p>",
+            "<p>\\( BAC \\)&nbsp;</p>",
+            "<p>\\( CAB \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67874/ugc-net-cse-june-2010-part-2-question-21\" target=\"_blank\">https://gateoverflow.in/67874/ugc-net-cse-june-2010-part-2-question-21</a></p>"
+        }
+      ]
+    }
+  ]
+}

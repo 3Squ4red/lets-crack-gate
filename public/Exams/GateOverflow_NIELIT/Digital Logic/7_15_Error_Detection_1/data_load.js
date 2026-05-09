@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Error Detection",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Error Detection",
+      "questions": []
+    }
+  ]
+});

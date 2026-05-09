@@ -1,0 +1,56 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Spatial Aptitude - NIELIT Scientist B 2020 November",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "NIELIT Scientist B 2020 November",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"351260\"></a><div itemprop=\"text\"><p>Identify the figure that completes the pattern.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/f749e6e8cb9accb3e55709393c8310e0.png\" width=\"200\"></p>\n\n</div><br><br><b>NIELIT Scientist B 2020 November: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p><img alt=\"\" height=\"158\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/ca05fe137f7316de6257561861a23c58.png\" width=\"163\"></p>",
+            "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/11c6f34c699e493ebdc7fa5086e69e40.png\" width=\"160\"></p>",
+            "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/cb2708b464cb7ecb8d6af17539812345.png\" width=\"160\"></p>",
+            "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/73e74233f21520316c417176c3bf11b3.png\" width=\"160\"></p>"
+          ],
+          "correct_answer": "<p><img alt=\"\" height=\"158\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/ca05fe137f7316de6257561861a23c58.png\" width=\"163\"></p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/351260/nielit-scientist-b-2020-november-11\" target=\"_blank\">https://gateoverflow.in/351260/nielit-scientist-b-2020-november-11</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"351264\"></a><div itemprop=\"text\"><p>Find out the alternative figure which contains the given figure as its part.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/d40c442ac3d3dcd6a33e3a2d5240f3c2.png\" width=\"280\"></p>\n\n</div><br><br><b>NIELIT Scientist B 2020 November: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/8c06b04f810bdf33a2a803cf04bd71e7.png\" width=\"140\"></p>",
+            "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/782d162e1538981a7f03c91197862d02.png\" width=\"140\"></p>",
+            "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/69965f6a87a5a34b6da594033057d02c.png\" width=\"140\"></p>",
+            "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/b4e2ea2643fa54d2bc0de2e74dcad475.png\" width=\"140\"></p>"
+          ],
+          "correct_answer": "<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/69965f6a87a5a34b6da594033057d02c.png\" width=\"140\"></p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/351264/nielit-scientist-b-2020-november-7\" target=\"_blank\">https://gateoverflow.in/351264/nielit-scientist-b-2020-november-7</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"351656\"></a><div itemprop=\"text\"><p>Select a suitable figure from the four alternatives that would complete the figure matrix.</p><p style=\"text-align:center\"><img alt=\"Diagram\" width=\"250\" height=\"250\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/3e446c2b928795c9e41629ab9002c017.png\"></p></div><br><br><b>NIELIT Scientist B 2020 November: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p><img alt=\"\" width=\"140\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/8a76c59460de0315470f3c5e6238eb4a.png\"></p>",
+            "<p><img alt=\"\" width=\"140\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/7d0e59371536221e80ef8b5f5b2357da.png\"></p>",
+            "<p><img alt=\"\" width=\"140\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/b8dabbb6f18232b0dc3e72c87f87eed1.png\"></p>",
+            "<p><img alt=\"\" width=\"140\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/3eb011a17036c7ad67eca6301d7ab559.png\"></p>"
+          ],
+          "correct_answer": "<p><img alt=\"\" width=\"140\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/general_aptitude_spatial_aptitude_nielit_scientist_b_2020_november/b8dabbb6f18232b0dc3e72c87f87eed1.png\"></p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/351656/nielit-scientist-b-2020-november-26\" target=\"_blank\">https://gateoverflow.in/351656/nielit-scientist-b-2020-november-26</a></p>"
+        }
+      ]
+    }
+  ]
+});

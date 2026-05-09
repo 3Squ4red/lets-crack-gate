@@ -1,0 +1,27 @@
+{
+  "title": "Digital Logic - Number Representation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Number Representation",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"25015\"></a><div itemprop=\"text\"><p>Let \\( N \\) be the sum of all numbers from \\( 1 \\) to \\( 1023 \\) except the five primes numbers: \\( 2, 3, 11, 17, 31. \\) Suppose all numbers are represented using two bytes (sixteen bits). What is the value of the least significant byte (the least significant eight bits) of \\( N \\)?</p>\n\n</div><br><br><b>TIFR CSE 2012 | Part A | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 00000000 \\)</p>",
+            "<p>\\( 10101110 \\)</p>",
+            "<p>\\( 01000000 \\)</p>",
+            "<p>\\( 10000000 \\)</p>",
+            "<p>\\( 11000000 \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25015/tifr-cse-2012-part-a-question-11\" target=\"_blank\">https://gateoverflow.in/25015/tifr-cse-2012-part-a-question-11</a></p>"
+        }
+      ]
+    }
+  ]
+}

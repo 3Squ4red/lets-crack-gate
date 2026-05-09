@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Object Oriented Programming - Java - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Java",
+      "questions": [
+        {
+          "id": 9,
+          "question": "<p><a name=\"61271\"></a><div itemprop=\"text\">\n<p>The Servlet Response interface enables a servlet to formulate a response for a client using the method</p>\n\n\n</div><br><br><b>UGC NET CSE | Junet 2015 | Part 3 | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>void log(Exception e, String s)</p>",
+            "<p>void destroy()</p>",
+            "<p>int get ServerPort()</p>",
+            "<p>void set ContextType(String Type)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61271/ugc-net-cse-junet-2015-part-3-question-38\" target=\"_blank\">https://gateoverflow.in/61271/ugc-net-cse-junet-2015-part-3-question-38</a></p>"
+        }
+      ]
+    }
+  ]
+});

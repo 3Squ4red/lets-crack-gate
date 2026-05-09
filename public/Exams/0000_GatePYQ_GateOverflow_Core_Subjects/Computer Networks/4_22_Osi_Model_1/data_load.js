@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Osi Model",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Osi Model",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"460074\"></a><div itemprop=\"text\"><p>Identify the ONE CORRECT matching between the OSI layers and their corresponding functionalities as shown.</p><p>\\[ \\begin{array}{|l|l|} \\hline&nbsp;& \\textbf{OSI Layers} && \\textbf{Functionalities} \\\\ \\hline (a) & \\text{Network Layer} & (I) & \\text{Packet Routing} \\\\ \\hline (b) & \\text{Transport Layer} & (II) & \\text{Framing and error handling} \\\\ \\hline (c) & \\text{Datalink layer} & (III) & \\text{Host to host communication} \\\\ \\hline \\end{array} \\]</p></div><br><br><b>GATE CSE 2025 | Set 1 | Question: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(I), (b)-(II), (c)-(III)} \\)</p>",
+            "<p>\\( \\text{(a)-(I), (b)-(III), (c)-(II)} \\)</p>",
+            "<p>\\( \\text{(a)-(II), (b)-(I), (c)-(III)} \\)</p>",
+            "<p>\\( \\text{(a)-(III), (b)-(II), (c)-(I)} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{(a)-(I), (b)-(III), (c)-(II)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/460074/gate-cse-2025-set-1-question-6\" target=\"_blank\">https://gateoverflow.in/460074/gate-cse-2025-set-1-question-6</a></p>"
+        }
+      ]
+    }
+  ]
+});

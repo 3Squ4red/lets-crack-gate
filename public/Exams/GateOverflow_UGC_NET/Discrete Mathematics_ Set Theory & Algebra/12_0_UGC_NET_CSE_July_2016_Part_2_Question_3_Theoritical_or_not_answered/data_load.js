@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Set Theory & Algebra - UGC NET CSE  July 2016  Part 2  Question - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "UGC NET CSE  July 2016  Part 2  Question",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"335395\"></a><div itemprop=\"text\"><p>If \\( f (x)=x+1\\:\\text{and}\\:g(x)=x+3 \\)&nbsp;then \\( f&nbsp;0 f 0&nbsp;f 0 f \\) &nbsp;is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( g \\)</p>",
+            "<p>\\( g+1 \\)</p>",
+            "<p>\\( g^4 \\)</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335395/ugc-net-cse-december-2004-part-2-question-2\" target=\"_blank\">https://gateoverflow.in/335395/ugc-net-cse-december-2004-part-2-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+});

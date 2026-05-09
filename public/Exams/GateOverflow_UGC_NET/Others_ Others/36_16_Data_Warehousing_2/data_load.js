@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Data Warehousing",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Data Warehousing",
+      "questions": []
+    }
+  ]
+});

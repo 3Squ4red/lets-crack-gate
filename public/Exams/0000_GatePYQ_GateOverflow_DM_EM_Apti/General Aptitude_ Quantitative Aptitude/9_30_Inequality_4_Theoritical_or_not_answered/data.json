@@ -1,0 +1,34 @@
+{
+  "title": "General Aptitude_ Quantitative Aptitude - Inequality - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Inequality",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"411690\"></a><div itemprop=\"text\"><p>Consider the following inequalities.</p>\n\n\n\n<p>Which one of the following expressions below satisfies the above two inequalities?</p>\n\n<ol start=\"1\" style=\"list-style-type:upper-alpha\">\n\t<li>\\( x \\leq – 4 \\)</li>\n\t<li>\\( – 4 &lt; x \\leq 4 \\)</li>\n\t<li>\\( 4 &lt; x &lt; 5 \\)</li>\n\t<li>\\( x \\geq 5 \\)</li>\n</ol></div><br><br><b>GATE ECE 2022 | GA Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2x – 1 &gt; 7 \\)</p>",
+            "<p>\\( 2x – 9 &lt; 1 \\)</p>"
+          ],
+          "correct_answer": "<p>C</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/411690/gate-ece-2022-ga-question-7\" target=\"_blank\">https://gateoverflow.in/411690/gate-ece-2022-ga-question-7</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"411803\"></a><div itemprop=\"text\"><p>Which one of the following is a representation (not to scale and in bold) of all values of \\( x \\) satisfying the inequality \\( 2 - 5x \\leq - \\dfrac{6x - 5}{3} \\) on the real number line?</p>\n\n<p>&nbsp; &nbsp; &nbsp; A.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_quantitative_aptitude_inequality/1707cf45e73bd4fbe4e1779d38308fa9.png\" width=\"300\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; B.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_quantitative_aptitude_inequality/562b66d0bc892783772e6e79f5b01728.png\" width=\"300\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; C.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_quantitative_aptitude_inequality/4d2a811c25472399922b2bab1711efdf.png\" width=\"300\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; D.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_quantitative_aptitude_inequality/41e68babbc080ca5aa4ea22433f6a2fa.png\" width=\"300\"></p></div><br><br><b>GATE Mechanical 2022 Set 2 | GA Question: 2</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>C</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/411803/gate-mechanical-2022-set-2-ga-question-2\" target=\"_blank\">https://gateoverflow.in/411803/gate-mechanical-2022-set-2-ga-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+}

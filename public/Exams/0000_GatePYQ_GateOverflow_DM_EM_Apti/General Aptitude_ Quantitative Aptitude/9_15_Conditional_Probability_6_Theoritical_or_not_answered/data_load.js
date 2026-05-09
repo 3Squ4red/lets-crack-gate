@@ -1,0 +1,23 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Quantitative Aptitude - Conditional Probability - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Conditional Probability",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"359497\"></a><div itemprop=\"text\"><p>A box contains \\( 15 \\) blue balls and \\( 45 \\) black balls. If \\( 2 \\) balls are selected randomly,&nbsp;without replacement, the probability of an outcome in which the first selected is a blue ball and the second selected is a black ball, is _____</p>\n\n\n\n<ol start=\"2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>\\( \\frac{45}{236} \\)</li>\n</ol>\n\n<ol start=\"100\" style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>\\( \\frac{1}{4} \\)</li>\n</ol>\n\n<ol start=\"500\" style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>\\( \\frac{3}{4} \\)</li>\n</ol></div><br><br><b>GATE Mechanical 2021 Set 2 | GA Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\frac{3}{16} \\)</p>"
+          ],
+          "correct_answer": "<p>B</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/359497/gate-mechanical-2021-set-2-ga-question-7\" target=\"_blank\">https://gateoverflow.in/359497/gate-mechanical-2021-set-2-ga-question-7</a></p>"
+        }
+      ]
+    }
+  ]
+});

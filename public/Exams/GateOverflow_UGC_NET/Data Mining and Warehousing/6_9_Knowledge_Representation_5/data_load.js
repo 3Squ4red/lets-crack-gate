@@ -1,0 +1,71 @@
+window.__examLoadCallback({
+  "title": "Data Mining and Warehousing - Knowledge Representation",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Knowledge Representation",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"60438\"></a><div itemprop=\"text\"><p>High level knowledge which relates to the use of sentences in different contexts and how the context affect the meaning of the sentences?</p>\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Morphological</p>",
+            "<p>Syntactic</p>",
+            "<p>Semantic</p>",
+            "<p>Pragmatic</p>"
+          ],
+          "correct_answer": "<p>Pragmatic</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60438/ugc-net-cse-december-2013-part-3-question-23\" target=\"_blank\">https://gateoverflow.in/60438/ugc-net-cse-december-2013-part-3-question-23</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"61014\"></a><div itemprop=\"text\"><p>Match the following \\( : \\)</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp;& \\textbf{List – I} && \\textbf{List – II} \\\\&nbsp; \\text{a.} &\\text{Script}&nbsp; & \\text{i.} & \\text{Directed graph with labelled nodes for graphical} \\\\ &&&\\text{representation of knowledge&nbsp;}&nbsp;\\\\&nbsp;\\text{b.} & \\text{Conceptual} & \\text{ii.} & \\text{Knowledge about objects and events is stored in} \\\\&\\text{Dependencies}&& \\text{record-like structures consisting of slots and} \\\\ &&&\\text{slot values.}&nbsp; \\\\&nbsp;\\text{c.} & \\text{Frames} & \\text{iii.} &\\text{Primitive concepts and rules to represent natural} \\\\&&& \\text{language statements&nbsp;} \\\\&nbsp;\\text{d.} & \\text{Associative} & \\text{iv.} & \\text{Frame like structures used to represent} \\\\ &\\text{Network}&& \\text{stereotypical patterns for commonly occurring}\\\\ &&&&nbsp; \\text{events in terms of actors, roles, props and scenes.} \\\\&nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | December 2014 | Part 3 | Question: 58</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-iv, b-ii, c-i, d-iii} \\)</p>",
+            "<p>\\( \\text{a-iv, b-iii, c-ii, d-i} \\)</p>",
+            "<p>\\( \\text{a-ii, b-iii, c-iv, d-i} \\)</p>",
+            "<p>\\( \\text{a-i, b-iii, c-iv, d-ii} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{a-iv, b-iii, c-ii, d-i} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61014/ugc-net-cse-december-2014-part-3-question-58\" target=\"_blank\">https://gateoverflow.in/61014/ugc-net-cse-december-2014-part-3-question-58</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"58900\"></a><div itemprop=\"text\">\n<p>Which of the following is a knowledge representation technique used to represent knowledge about stereotype situation?</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 3 | Question: 72</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Semantic network</p>",
+            "<p>Frames</p>",
+            "<p>Scripts</p>",
+            "<p>Conceptual Dependency</p>"
+          ],
+          "correct_answer": "<p>Scripts</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58900/ugc-net-cse-june-2013-part-3-question-72\" target=\"_blank\">https://gateoverflow.in/58900/ugc-net-cse-june-2013-part-3-question-72</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"55788\"></a><div itemprop=\"text\"><p>Consider a fuzzy set old as defined below</p>\n\n<p>Old =\\( \\left\\{(20, 0.1), (30, 0.2), (40, 0.4), (50, 0.6), (60, 0.8), (70, 1), (80, 1)\\right\\} \\).</p>\n\n<p>Then the alpha-cut for alpha = \\( 0.4 \\) for the set old will be&nbsp;</p>\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 08</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\left\\{(40, 0.4)\\right\\} \\)&nbsp;</p>",
+            "<p>\\( \\left\\{50, 60, 70, 80\\right\\} \\)</p>",
+            "<p>\\( \\left\\{(20, 0.1), (30, 0.2)\\right\\} \\)&nbsp;</p>",
+            "<p>\\( \\left\\{(20, 0), (30, 0), (40, 1), (50, 1), (60, 1), (70, 1), (80, 1)\\right\\} \\)&nbsp;</p>"
+          ],
+          "correct_answer": "<p>\\( \\left\\{(20, 0), (30, 0), (40, 1), (50, 1), (60, 1), (70, 1), (80, 1)\\right\\} \\)&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55788/ugc-net-cse-june-2014-part-3-question-08\" target=\"_blank\">https://gateoverflow.in/55788/ugc-net-cse-june-2014-part-3-question-08</a></p>"
+        }
+      ]
+    }
+  ]
+});

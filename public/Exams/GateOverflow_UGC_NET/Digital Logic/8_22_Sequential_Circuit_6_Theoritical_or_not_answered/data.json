@@ -1,0 +1,41 @@
+{
+  "title": "Digital Logic - Sequential Circuit - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Sequential Circuit",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"154273\"></a><div itemprop=\"text\"><p>A reduced state table has \\( 18 \\) rows. The minimum number of Flip-flops needed to implement the sequential machine is :</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 18 \\)</p>",
+            "<p>\\( 9 \\)</p>",
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 4 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154273/ugc-net-cse-june-2009-part-2-question-14\" target=\"_blank\">https://gateoverflow.in/154273/ugc-net-cse-june-2009-part-2-question-14</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"67813\"></a><div itemprop=\"text\"><p>Advantage of synchronous sequential circuits over asynchronous ones is</p>\n\n</div><br><br><b>UGC NET CSE | June 2010 | Part 2 | Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Faster operation</p>",
+            "<p>Ease of avoiding problems due to hazard</p>",
+            "<p>Lower hardware requirement</p>",
+            "<p>Better noise immunity</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67813/ugc-net-cse-june-2010-part-2-question-7\" target=\"_blank\">https://gateoverflow.in/67813/ugc-net-cse-june-2010-part-2-question-7</a></p>"
+        }
+      ]
+    }
+  ]
+}

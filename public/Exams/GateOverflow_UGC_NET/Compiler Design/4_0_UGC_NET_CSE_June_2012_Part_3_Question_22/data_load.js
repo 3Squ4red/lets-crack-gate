@@ -1,0 +1,147 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - UGC NET CSE  June 2012  Part 3  Question",
+  "duration": 25,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2012  Part 3  Question",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"56428\"></a><div itemprop=\"text\"><p>In which file the compiler manage various objects, which are used in windows programming?</p>\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 3 | Question: 73</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Control File</p>",
+            "<p>Binary File</p>",
+            "<p>Text File</p>",
+            "<p>Obj File</p>"
+          ],
+          "correct_answer": "<p>Obj File</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56428/ugc-net-cse-june-2012-part-3-question-73\" target=\"_blank\">https://gateoverflow.in/56428/ugc-net-cse-june-2012-part-3-question-73</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"58010\"></a><div itemprop=\"text\"><p>Given the production rules of a grammar G1 as</p><p>\\( S_1 \\rightarrow AB \\mid aaB \\)</p><p>\\( A \\rightarrow a \\mid Aa \\)</p><p>\\( B \\rightarrow b \\)</p><p>and the production rules of a grammar G2 as</p><p>\\( S_2 \\rightarrow aS_2bS_2&nbsp; \\mid bS_2 aS_2 \\mid \\lambda \\)</p><p>Which of the following is correct statement?</p></div><br><br><b>UGC NET CSE | June 2013 | Part 2 | Question: 21</b></p>",
+          "type": "single",
+          "options": [
+            "<p>G1 is ambiguous and G2 is not ambiguous</p>",
+            "<p>G1 is ambiguous and G2 is ambiguous</p>",
+            "<p>G1 is not ambiguous and G2 is ambiguous</p>",
+            "<p>G1 is not ambiguous and G2 is not ambiguous</p>"
+          ],
+          "correct_answer": "<p>G1 is ambiguous and G2 is ambiguous</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58010/ugc-net-cse-june-2013-part-2-question-21\" target=\"_blank\">https://gateoverflow.in/58010/ugc-net-cse-june-2013-part-2-question-21</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"58013\"></a><div itemprop=\"text\">\n<p>The equivalent production rules corresponding to the production rules \\( S \\rightarrow S \\alpha_1 \\mid S \\alpha_2 \\mid \\beta_1 \\mid \\beta_2 \\) is</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( S \\rightarrow \\beta_1 \\mid \\beta_2, A \\rightarrow \\alpha_1 A \\mid \\alpha_2 A \\mid \\lambda \\)</p>",
+            "<p>\\( S \\rightarrow \\beta_1 \\mid \\beta_2 \\mid \\beta_1 A \\mid \\beta_2 A \\), \\( A \\rightarrow \\alpha_1 A \\mid \\alpha_2 A \\)</p>",
+            "<p>\\( S \\rightarrow \\beta_1 \\mid \\beta_2, A \\rightarrow \\alpha_1 A \\mid \\alpha_2 A \\)</p>",
+            "<p>\\( S \\rightarrow \\beta_1 \\mid \\beta_2 \\mid \\beta_1 A \\mid \\beta_2 A, A \\rightarrow \\alpha_1 A \\mid \\alpha_2 A \\mid \\lambda \\)</p>"
+          ],
+          "correct_answer": "<p>\\( S \\rightarrow \\beta_1 \\mid \\beta_2 \\mid \\beta_1 A \\mid \\beta_2 A, A \\rightarrow \\alpha_1 A \\mid \\alpha_2 A \\mid \\lambda \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58013/ugc-net-cse-june-2013-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/58013/ugc-net-cse-june-2013-part-2-question-23</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"60212\"></a><div itemprop=\"text\"><p>The process of assigning load addresses to the various parts of the program and adjusting the code and data in the program to reflect the assigned address is called</p></div><br><br><b>UGC NET CSE | December 2013 | Part 2 | Question: 29</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Symbol resolution</p>",
+            "<p>Parsing</p>",
+            "<p>Assembly</p>",
+            "<p>Relocation</p>"
+          ],
+          "correct_answer": "<p>Relocation</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60212/ugc-net-cse-december-2013-part-2-question-29\" target=\"_blank\">https://gateoverflow.in/60212/ugc-net-cse-december-2013-part-2-question-29</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"60400\"></a><div itemprop=\"text\">\n<p>The compiler converts all operands upto the type of the largest operand is called</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Type Promotion</p>",
+            "<p><span style=\"line-height: 20.8px;\">Type&nbsp;</span>Evaluation</p>",
+            "<p><span style=\"line-height: 20.8px;\">Type&nbsp;</span>Conversion</p>",
+            "<p><span style=\"line-height: 20.8px;\">Type&nbsp;</span>Declaration</p>"
+          ],
+          "correct_answer": "<p>Type Promotion</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60400/ugc-net-cse-december-2013-part-3-question-17\" target=\"_blank\">https://gateoverflow.in/60400/ugc-net-cse-december-2013-part-3-question-17</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"61071\"></a><div itemprop=\"text\"><p>Which phase of compiler generates stream of atoms?</p>\n\n</div><br><br><b>UGC NET CSE | Junet 2015 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Syntax Analysis</p>",
+            "<p>Lexical&nbsp;Analysis</p>",
+            "<p>Code Generation</p>",
+            "<p>Code Optimization</p>"
+          ],
+          "correct_answer": "<p>Lexical&nbsp;Analysis</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61071/ugc-net-cse-junet-2015-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/61071/ugc-net-cse-junet-2015-part-2-question-35</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"166269\"></a><div itemprop=\"text\"><p>Match the description of several parts of a classic optimizing compiler in \\( \\textbf{List-I} \\), with the names of those parts in \\( \\textbf{List-II} \\) :</p><p>\\( \\begin{array}{clcl} & \\textbf{List-I} && \\textbf{List-II} \\\\ \\text{(a)}& \\text{A part of a compiler that is responsible} & \\text{(i)}& \\text{Optimizer} \\\\ & \\text{for recognizing syntax.} \\\\ \\\\ \\text{(b)} & \\text{A part of a compiler that takes as input a stream of} & \\text{(ii)} & \\text{Semantic Analysis} \\\\ & \\text{characters and produces as output a stream of words} \\\\ & \\text{along with their associated syntactic categories.} \\\\ \\\\ \\text{(c)} & \\text{A part of a compiler that understand the meanings of} & \\text{(iii)} & \\text{Parser} \\\\ & \\text{variable names and other symbols and checks that they} \\\\ & \\text{are used in ways consistent with their definitions.} \\\\ \\\\ \\text{(d)} & \\text{An IR-to-IR transformer that tries to improve the IR} & \\text{(iv)} & \\text{Scanner} \\\\ & \\text{program in some way (Intermediate Representation).} \\end{array} \\)</p><p>\\( \\textbf{Code :} \\)</p></div><br><br><b>UGC NET CSE | November 2017 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(iii);&nbsp;(b)-(iv); &nbsp;(c)-(ii);&nbsp;(d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(iv);&nbsp;(b)-(iii); &nbsp;(c)-(ii); &nbsp;(d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(ii);&nbsp;(b)-(iv); &nbsp;(c)-(i); &nbsp;(d)-(iii)} \\)</p>",
+            "<p>\\( \\text{(a)-(ii);&nbsp;(b)-(iv);&nbsp; (c)-(iii); (d)-(i)} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{(a)-(iii);&nbsp;(b)-(iv); &nbsp;(c)-(ii);&nbsp;(d)-(i)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166269/ugc-net-cse-november-2017-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/166269/ugc-net-cse-november-2017-part-2-question-35</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"335638\"></a><div itemprop=\"text\"><p>A compiler for a high level language that runs on one machine and produces code for a different machine is called :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Optimizing</p>",
+            "<p>One pass compiler</p>",
+            "<p>Cross compiler</p>",
+            "<p>Multipass compiler</p>"
+          ],
+          "correct_answer": "<p>Cross compiler</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335638/ugc-net-cse-december-2006-part-2-question-33\" target=\"_blank\">https://gateoverflow.in/335638/ugc-net-cse-december-2006-part-2-question-33</a></p>"
+        },
+        {
+          "id": 22,
+          "question": "<p><a name=\"349599\"></a><div itemprop=\"text\"><p>&nbsp;</p>\n\n<p>Find the lexicographic ordering of the bit strings given below based on the ordering \\( 0&lt;1 \\).</p>\n\n\n\n<p>Choose the correct answer from the options given below:</p>\n\n<ol style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>\\( 001 &lt; 010 &lt; 011 &lt; 0001 &lt; 0101 \\)</li>\n\t<li>\\( 0001 &lt; 001 &lt; 010 &lt; 0101 &lt; 011 \\)</li>\n\t<li>\\( 0001 &lt; 0101 &lt; 001 &lt; 010 &lt; 011 \\)</li>\n\t<li>\\( 001 &lt; 010 &lt; 0001 &lt; 0101 &lt; 011 \\)</li>\n</ol></div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 74</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 001 \\)</p>",
+            "<p>\\( 010 \\)</p>",
+            "<p>\\( 011 \\)</p>",
+            "<p>\\( 0001 \\)</p>",
+            "<p>\\( 0101 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 010 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349599/ugc-net-cse-october-2020-part-2-question-74\" target=\"_blank\">https://gateoverflow.in/349599/ugc-net-cse-october-2020-part-2-question-74</a></p>"
+        }
+      ]
+    }
+  ]
+});

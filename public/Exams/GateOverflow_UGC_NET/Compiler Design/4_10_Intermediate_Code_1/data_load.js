@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - Intermediate Code",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Intermediate Code",
+      "questions": []
+    }
+  ]
+});

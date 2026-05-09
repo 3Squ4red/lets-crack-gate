@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - Parameter Passing",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Parameter Passing",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"60180\"></a><div itemprop=\"text\"><p>Consider the following statements \\( S1, S2 \\) and \\( S3 \\):</p><p>\\( S1 \\): In call-by-value, anything that is passed into a function call is unchanged in the caller’s scope when the function returns.</p><p>\\( S2 \\): In call-by-reference, a function receives implicit reference to a variable used as argument.</p><p>\\( S3 \\): In call-by-reference, caller is unable to see the modified variable used as argument.&nbsp;</p></div><br><br><b>UGC NET CSE | December 2014 | Part 3 | Question: 19</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( S3 \\) and \\( S2 \\) are true.&nbsp;</p>",
+            "<p>\\( S3 \\) and \\( S1 \\) are true.</p>",
+            "<p>\\( S2 \\) and \\( S1 \\) are true.&nbsp;</p>",
+            "<p>\\( S1, S2, S3 \\) are true.&nbsp;</p>"
+          ],
+          "correct_answer": "<p>\\( S2 \\) and \\( S1 \\) are true.&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60180/ugc-net-cse-december-2014-part-3-question-19\" target=\"_blank\">https://gateoverflow.in/60180/ugc-net-cse-december-2014-part-3-question-19</a></p>"
+        }
+      ]
+    }
+  ]
+});

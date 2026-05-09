@@ -1,0 +1,56 @@
+window.__examLoadCallback({
+  "title": "CO and Architecture - CO and Architecture - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "CO and Architecture",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"155363\"></a><div itemprop=\"text\"><p>Which of the following are Assembler Directives?</p>\n\n<p>(i) EQU&nbsp; (ii) ORIGIN&nbsp;&nbsp;&nbsp;&nbsp; (iii) START&nbsp;&nbsp;&nbsp;&nbsp; (iv) END</p>\n\n</div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 39</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(ii), (iii) and (iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>(i), (iii) and (iv)&nbsp; &nbsp;</p>",
+            "<p>(iii) and (iv) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>(i), (ii), (iii) and (iv)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155363/ugc-net-cse-december-2008-part-2-question-39\" target=\"_blank\">https://gateoverflow.in/155363/ugc-net-cse-december-2008-part-2-question-39</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"67364\"></a><div itemprop=\"text\"><p>One of the distinguished features of super-computer over other category of computer is</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 50</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Parallel processing</p>",
+            "<p>Highest accuracy level</p>",
+            "<p>More speed</p>",
+            "<p>More capacity</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67364/ugc-net-cse-december-2010-part-2-question-50\" target=\"_blank\">https://gateoverflow.in/67364/ugc-net-cse-december-2010-part-2-question-50</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"30423\"></a><div itemprop=\"text\">\n<p>In an enhancement of a CPU design, the speed of a floating point unit has been increased by 20% and the speed of a fixed point unit has been increased by 10%. What is the overall speed achieved if the ratio of the number of floating point operations to the number of fixed point operations is 2:3 and the floating point operation used to take twice the time taken by the fixed point operation in original design?</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 3 | Question: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>1.62</p>",
+            "<p>1.55</p>",
+            "<p>1.85</p>",
+            "<p>1.285</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/30423/ugc-net-cse-december-2012-part-3-question-27\" target=\"_blank\">https://gateoverflow.in/30423/ugc-net-cse-december-2012-part-3-question-27</a></p>"
+        }
+      ]
+    }
+  ]
+});

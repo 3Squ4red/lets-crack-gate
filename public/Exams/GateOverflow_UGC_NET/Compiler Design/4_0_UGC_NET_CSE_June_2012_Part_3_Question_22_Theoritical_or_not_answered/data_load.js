@@ -1,0 +1,206 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - UGC NET CSE  June 2012  Part 3  Question - Theoretical/Not Answered",
+  "duration": 36,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2012  Part 3  Question",
+      "questions": [
+        {
+          "id": 7,
+          "question": "<p><a name=\"154482\"></a><div itemprop=\"text\"><p>The linker :</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>is similar to interpreter&nbsp;&nbsp;&nbsp;</p>",
+            "<p>uses source code as its input&nbsp;&nbsp;&nbsp;</p>",
+            "<p>is required to create a load module&nbsp;&nbsp;&nbsp;</p>",
+            "<p>none of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154482/ugc-net-cse-june-2009-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/154482/ugc-net-cse-june-2009-part-2-question-32</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"335534\"></a><div itemprop=\"text\"><p>The logic of pumping lemma is a good example of :</p>\n\n</div><br><br><b>UGC NET CSE | June 2006 | Part 2 | Question: 4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>pigeon hole principle</p>",
+            "<p>recursion</p>",
+            "<p>divide and conque technique</p>",
+            "<p>iteration</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335534/ugc-net-cse-june-2006-part-2-question-4\" target=\"_blank\">https://gateoverflow.in/335534/ugc-net-cse-june-2006-part-2-question-4</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"335548\"></a><div itemprop=\"text\"><p>Which activity is not included in the first pass of two pass assemblers ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 31</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Build the symbol table</p>",
+            "<p>Construct the intermediate code</p>",
+            "<p>Separate mnemonic opcode and operand fields</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335548/ugc-net-cse-december-2004-part-2-question-31\" target=\"_blank\">https://gateoverflow.in/335548/ugc-net-cse-december-2004-part-2-question-31</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"335593\"></a><div itemprop=\"text\"><p>In two pass assembler the symbol table is used to store :</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Label and value</p>",
+            "<p>Only value</p>",
+            "<p>Mnemonic</p>",
+            "<p>Memory Location</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335593/ugc-net-cse-december-2004-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/335593/ugc-net-cse-december-2004-part-2-question-35</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"335594\"></a><div itemprop=\"text\"><p>Which activity is included in the first pass of two pass assemblers?</p></div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Build the symbol table</p>",
+            "<p>Construct the intermediate code</p>",
+            "<p>Separate mnemonic opcode and operand fields</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335594/ugc-net-cse-december-2004-part-2-question-34\" target=\"_blank\">https://gateoverflow.in/335594/ugc-net-cse-december-2004-part-2-question-34</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"335595\"></a><div itemprop=\"text\"><p>Code optimization is responsibility of :</p></div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Application programmer</p>",
+            "<p>System programmer</p>",
+            "<p>Operating system</p>",
+            "<p>All of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335595/ugc-net-cse-december-2004-part-2-question-33\" target=\"_blank\">https://gateoverflow.in/335595/ugc-net-cse-december-2004-part-2-question-33</a></p>"
+        },
+        {
+          "id": 14,
+          "question": "<p><a name=\"335632\"></a><div itemprop=\"text\"><p>A permanent database of a general model of compiler is ____________ .</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 39</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Identifier table</p>",
+            "<p>Page map table</p>",
+            "<p>Literal table</p>",
+            "<p>Terminal table</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335632/ugc-net-cse-december-2006-part-2-question-39\" target=\"_blank\">https://gateoverflow.in/335632/ugc-net-cse-december-2006-part-2-question-39</a></p>"
+        },
+        {
+          "id": 16,
+          "question": "<p><a name=\"335639\"></a><div itemprop=\"text\"><p>Which of the following is the most general phase-structured grammar ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Regular</p>",
+            "<p>Context-sensitive</p>",
+            "<p>Context free</p>",
+            "<p>Syntax tree</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335639/ugc-net-cse-december-2006-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/335639/ugc-net-cse-december-2006-part-2-question-32</a></p>"
+        },
+        {
+          "id": 17,
+          "question": "<p><a name=\"335749\"></a><div itemprop=\"text\"><p>In the context of compiler design, “reduction in strength” refers to :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>code optimization obtained by the use of cheaper machine instructions</p>",
+            "<p>reduction in accuracy of the output</p>",
+            "<p>reduction in the range of values of input variables</p>",
+            "<p>reduction in efficiency of the program</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335749/ugc-net-cse-december-2007-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/335749/ugc-net-cse-december-2007-part-2-question-35</a></p>"
+        },
+        {
+          "id": 18,
+          "question": "<p><a name=\"335750\"></a><div itemprop=\"text\"><p>Top-down parsers are predictive parsers, because :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>next tokens are predicted</p>",
+            "<p>length of the parse tree is predicted before hand</p>",
+            "<p>lowest node in the parse tree is predicted</p>",
+            "<p>next lower level of the parse tree is predicted</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335750/ugc-net-cse-december-2007-part-2-question-34\" target=\"_blank\">https://gateoverflow.in/335750/ugc-net-cse-december-2007-part-2-question-34</a></p>"
+        },
+        {
+          "id": 19,
+          "question": "<p><a name=\"335751\"></a><div itemprop=\"text\"><p>Absolute loader demands that the programmer needs to know the :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>start address of the available main memory</p>",
+            "<p>total size of the program</p>",
+            "<p>actual address of the data location</p>",
+            "<p>absolute values of the operands used</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335751/ugc-net-cse-december-2007-part-2-question-33\" target=\"_blank\">https://gateoverflow.in/335751/ugc-net-cse-december-2007-part-2-question-33</a></p>"
+        },
+        {
+          "id": 20,
+          "question": "<p><a name=\"335752\"></a><div itemprop=\"text\"><p>A single instruction in an assembly language program contains :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>one micro operation</p>",
+            "<p>one macro operation</p>",
+            "<p>one instruction to be completed in a single pulse</p>",
+            "<p>one machine code instruction</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335752/ugc-net-cse-december-2007-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/335752/ugc-net-cse-december-2007-part-2-question-32</a></p>"
+        },
+        {
+          "id": 21,
+          "question": "<p><a name=\"335753\"></a><div itemprop=\"text\"><p>In a two pass compiler, during the first pass :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 31</b></p>",
+          "type": "single",
+          "options": [
+            "<p>user defined address symbols are correlated with their binary equivalent</p>",
+            "<p>the syntax of the statement is checked and mistakes, if any, are listed</p>",
+            "<p>object program is generated</p>",
+            "<p>semantic of the source program is elucidated</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335753/ugc-net-cse-december-2007-part-2-question-31\" target=\"_blank\">https://gateoverflow.in/335753/ugc-net-cse-december-2007-part-2-question-31</a></p>"
+        }
+      ]
+    }
+  ]
+});

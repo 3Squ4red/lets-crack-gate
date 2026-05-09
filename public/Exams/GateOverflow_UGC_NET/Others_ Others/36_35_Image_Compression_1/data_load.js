@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Image Compression",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Image Compression",
+      "questions": []
+    }
+  ]
+});

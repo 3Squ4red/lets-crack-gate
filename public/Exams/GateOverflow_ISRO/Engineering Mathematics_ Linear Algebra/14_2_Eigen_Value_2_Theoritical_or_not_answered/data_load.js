@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Linear Algebra - Eigen Value - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Eigen Value",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"49479\"></a><div itemprop=\"text\">\n<p>Eigen vectors of \\( \\begin{bmatrix} 1 && \\cos \\theta \\\\ \\cos \\theta && 1 \\end{bmatrix} \\) are</p>\n\n\n</div><br><br><b>ISRO CSE 2007 | Question: 09</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\begin{bmatrix} a^n && 1 \\\\ 0 && a^n \\end{bmatrix} \\)</p>",
+            "<p>\\( \\begin{bmatrix} a^n && n \\\\ 0 && a^n \\end{bmatrix} \\)</p>",
+            "<p>\\( \\begin{bmatrix} a^n && na^{n-1} \\\\ 0 && a^n \\end{bmatrix} \\)</p>",
+            "<p>\\( \\begin{bmatrix} a^n && na^{n-1} \\\\ -n && a^n \\end{bmatrix} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/49479/isro-cse-2007-question-09\" target=\"_blank\">https://gateoverflow.in/49479/isro-cse-2007-question-09</a></p>"
+        }
+      ]
+    }
+  ]
+});

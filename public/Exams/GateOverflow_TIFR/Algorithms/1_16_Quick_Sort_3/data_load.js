@@ -1,0 +1,43 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Quick Sort",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Quick Sort",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"25209\"></a><div itemprop=\"text\"><p>Consider the quick sort algorithm on a set of \\( n \\) numbers, where in every recursive subroutine of the algorithm, the algorithm chooses the median of that set as the pivot. Then which of the following statements is TRUE?</p>\n\n</div><br><br><b>TIFR CSE 2012 | Part B | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>The running time of the algorithm is \\( \\Theta (n). \\)</p>",
+            "<p>The running time of the algorithm is \\( \\Theta (n\\log n) \\).</p>",
+            "<p>The running time of the algorithm is \\( \\Theta (n^{1.5}) \\).</p>",
+            "<p>The running time of the algorithm is \\( \\Theta (n^{2}) \\).</p>",
+            "<p>None of the above.</p>"
+          ],
+          "correct_answer": "<p>The running time of the algorithm is \\( \\Theta (n\\log n) \\).</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25209/tifr-cse-2012-part-b-question-14\" target=\"_blank\">https://gateoverflow.in/25209/tifr-cse-2012-part-b-question-14</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"179291\"></a><div itemprop=\"text\"><p>Consider the recursive&nbsp;quicksort algorithm with \"random&nbsp;pivoting\". That is, in each recursive call, a pivot is chosen uniformly at random from the sub-array being sorted.When this randomized algorithm is applied to an array of size \\( n \\) all whose elements are distinct, what is the probability that the smallest and the largest elements in the array are compared during a run of the algorithm ?</p>\n\n</div><br><br><b>TIFR CSE 2018 | Part B | Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\left(\\dfrac{1}{n}\\right) \\)</p>",
+            "<p>\\( \\left(\\dfrac{2}{n}\\right) \\)</p>",
+            "<p>\\( \\Theta \\left(\\dfrac{1}{n\\log n}\\right) \\)</p>",
+            "<p>\\( {O} \\left(\\dfrac{1}{n^{2}}\\right) \\)</p>",
+            "<p>\\( \\Theta\\left(\\dfrac{1}{n \\log^{2} n}\\right) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\left(\\dfrac{2}{n}\\right) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/179291/tifr-cse-2018-part-b-question-7\" target=\"_blank\">https://gateoverflow.in/179291/tifr-cse-2018-part-b-question-7</a></p>"
+        }
+      ]
+    }
+  ]
+});

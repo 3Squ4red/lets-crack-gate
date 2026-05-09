@@ -1,0 +1,24 @@
+{
+  "title": "Digital Logic - Min Sum of Products Form - Theoretical/Not Answered",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Min Sum of Products Form",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"19701\"></a><div itemprop=\"text\"><p>Let \\( f=(\\bar{w} + y)(\\bar{x} +y)(w+\\bar{x}+z)(\\bar{w}+z)(\\bar{x}+z) \\)</p>\n\n</div><br><br><b>GATE CSE 1997 | Question: 71</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Express \\( f \\) as the minimal sum of products. Write only the answer.</p>",
+            "<p>If the output line is stuck at \\( 0 \\), for how many input combinations will the value of \\( f \\) be correct?</p>"
+          ],
+          "correct_answer": "9",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/19701/gate-cse-1997-question-71\" target=\"_blank\">https://gateoverflow.in/19701/gate-cse-1997-question-71</a></p>"
+        }
+      ]
+    }
+  ]
+}

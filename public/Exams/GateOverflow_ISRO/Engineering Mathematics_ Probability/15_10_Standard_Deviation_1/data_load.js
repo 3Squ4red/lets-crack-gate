@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Probability - Standard Deviation",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Standard Deviation",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"331489\"></a><div itemprop=\"text\"><p>For the distributions given below:</p>\n\n<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/isro_w_cover/engineering_mathematics_probability_standard_deviation/247c556e8f51bce00e515698043c8fc4.png\" style=\"float:left\" width=\"400\"><img alt=\"\" src=\"images/gateOverFlowPDFsImages/isro_w_cover/engineering_mathematics_probability_standard_deviation/4f3a18bafb238ced33edf0ffd1d33023.png\" width=\"400\"></p>\n\n<p>Which of the following is correct for the above distributions?</p>\n\n</div><br><br><b>ISRO CSE 2020 | Question: 56</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Standard deviation of \\( A \\) is significantly lower than standard deviation of \\( B \\)</p>",
+            "<p>Standard deviation of \\( A \\) is slightly lower than standard deviation of \\( B \\)</p>",
+            "<p>Standard deviation of \\( A \\) is same as standard deviation of \\( B \\)</p>",
+            "<p>Standard deviation of \\( A \\) is significantly higher than standard deviation of \\( B \\)</p>"
+          ],
+          "correct_answer": "<p>Standard deviation of \\( A \\) is same as standard deviation of \\( B \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/331489/isro-cse-2020-question-56\" target=\"_blank\">https://gateoverflow.in/331489/isro-cse-2020-question-56</a></p>"
+        }
+      ]
+    }
+  ]
+});

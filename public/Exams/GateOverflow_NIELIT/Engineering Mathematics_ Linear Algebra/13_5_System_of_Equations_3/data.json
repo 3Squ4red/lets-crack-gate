@@ -1,0 +1,41 @@
+{
+  "title": "Engineering Mathematics_ Linear Algebra - System of Equations",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "System of Equations",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"336680\"></a><div itemprop=\"text\"><p>The system of simultaneous equations</p>\n\n<p>\\( x+2y+z=6\\\\2x+y+2z=6\\\\x+y+z=5 \\)</p>\n\n<p>has</p>\n\n</div><br><br><b>NIELIT 2016 MAR Scientist B - Section B: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>unique solution.</p>",
+            "<p>infinite number of solutions.</p>",
+            "<p>no solution.</p>",
+            "<p>exactly two solutions.</p>"
+          ],
+          "correct_answer": "<p>no solution.</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336680/nielit-2016-mar-scientist-b-section-b-6\" target=\"_blank\">https://gateoverflow.in/336680/nielit-2016-mar-scientist-b-section-b-6</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"351655\"></a><div itemprop=\"text\"><p>&nbsp;</p>\n\n<p>What is the value of \\( k \\) for which the following system of equations has no solution:</p>\n\n<p>\\( \\text{2x-8y=3 and kx+4y=10} \\)</p>\n\n</div><br><br><b>NIELIT Scientist B 2020 November: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( -2 \\)</p>",
+            "<p>\\( 1 \\)</p>",
+            "<p>\\( -1 \\)</p>",
+            "<p>\\( 2 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( -1 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/351655/nielit-scientist-b-2020-november-27\" target=\"_blank\">https://gateoverflow.in/351655/nielit-scientist-b-2020-november-27</a></p>"
+        }
+      ]
+    }
+  ]
+}

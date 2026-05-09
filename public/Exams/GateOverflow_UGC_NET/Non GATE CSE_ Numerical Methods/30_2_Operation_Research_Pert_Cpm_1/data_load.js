@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Numerical Methods - Operation Research Pert Cpm",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Operation Research Pert Cpm",
+      "questions": []
+    }
+  ]
+});

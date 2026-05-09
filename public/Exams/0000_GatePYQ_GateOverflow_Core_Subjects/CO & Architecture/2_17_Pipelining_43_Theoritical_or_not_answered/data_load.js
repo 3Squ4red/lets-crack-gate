@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "CO & Architecture - Pipelining - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Pipelining",
+      "questions": []
+    }
+  ]
+});

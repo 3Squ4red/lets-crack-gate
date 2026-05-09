@@ -1,0 +1,26 @@
+{
+  "title": "Algorithms - Matrix Chain Ordering - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Matrix Chain Ordering",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"70941\"></a><div itemprop=\"text\"><p>Consider the problem of a chain &lt;\\( A_{1} , A_{2} , A_{3},A_{4} \\)&gt;&nbsp;of four matrices. Suppose that the dimensions of the matrices \\( A_{1} , A_{2} , A_{3} \\) and \\( A_{4} \\) are \\( 30 \\times&nbsp;35, 35 \\times&nbsp;15, 15 \\times&nbsp;5 \\) and \\( 5 \\times&nbsp;10 \\) respectively. The minimum number of scalar multiplications needed to compute the product \\( A_{1}A_{2}A_{3}A_{4} \\) is ____.</p></div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 31</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 14875 \\)</p>",
+            "<p>\\( 21000 \\)</p>",
+            "<p>\\( 9375 \\)</p>",
+            "<p>\\( 11875 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70941/ugc-net-cse-august-2016-part-3-question-31\" target=\"_blank\">https://gateoverflow.in/70941/ugc-net-cse-august-2016-part-3-question-31</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Discrete Mathematics - UGC NET CSE  June 2012  Part 3  Question - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2012  Part 3  Question",
+      "questions": [
+        {
+          "id": 6,
+          "question": "<p><a name=\"225800\"></a><div itemprop=\"text\"><p>If \\( A_i = \\{-i, \\dots , -2, -1, 0, 1, 2, \\dots , i \\} \\) then \\( \\cup_{i=1}^\\infty&nbsp;A_i \\) is</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 86</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Z</p>",
+            "<p>Q</p>",
+            "<p>R</p>",
+            "<p>C</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225800/ugc-net-cse-july-2018-part-2-question-86\" target=\"_blank\">https://gateoverflow.in/225800/ugc-net-cse-july-2018-part-2-question-86</a></p>"
+        }
+      ]
+    }
+  ]
+});

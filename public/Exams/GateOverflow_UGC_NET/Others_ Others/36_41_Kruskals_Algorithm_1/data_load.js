@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Kruskals Algorithm",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Kruskals Algorithm",
+      "questions": []
+    }
+  ]
+});

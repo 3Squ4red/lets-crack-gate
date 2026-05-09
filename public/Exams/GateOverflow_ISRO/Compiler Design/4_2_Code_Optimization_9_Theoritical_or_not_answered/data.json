@@ -1,0 +1,26 @@
+{
+  "title": "Compiler Design - Code Optimization - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Code Optimization",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"52264\"></a><div itemprop=\"text\">\n<p>Which of the following statements about peephole optimization is False?</p>\n\n\n</div><br><br><b>ISRO CSE 2011 | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>It is applied to a small part of the code</p>",
+            "<p>It can be used to optimize intermediate code</p>",
+            "<p>To get the best out of this, it has to be applied repeatedly</p>",
+            "<p>It can be applied to the portion of the code that is not contiguous</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/52264/isro-cse-2011-question-13\" target=\"_blank\">https://gateoverflow.in/52264/isro-cse-2011-question-13</a></p>"
+        }
+      ]
+    }
+  ]
+}

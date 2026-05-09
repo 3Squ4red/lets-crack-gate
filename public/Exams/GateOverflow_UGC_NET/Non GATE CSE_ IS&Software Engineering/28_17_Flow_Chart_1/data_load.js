@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ IS&Software Engineering - Flow Chart",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Flow Chart",
+      "questions": []
+    }
+  ]
+});

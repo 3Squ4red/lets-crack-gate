@@ -1,0 +1,26 @@
+{
+  "title": "Non GATE CSE_ IS&Software Engineering - Software Development - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Software Development",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"225875\"></a><div itemprop=\"text\"><p>&nbsp;</p><p>Assume the following regarding the development of a software system P:</p><ul><li>Estimated lines of codes P : 33, 480 LOC</li><li>Average productivity for P : 620 LOC per person -month</li><li>Number of software developers : 6</li><li>Average salary of a software developer : INR 50, 000 per month</li></ul><p>If E, D and C are the estimated development effort (in person-month), estimated development time (in months), and estimated development cost (in INR Lac) respectively, then (E, D, C) =&nbsp;______</p></div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(48, 8, 24)</p>",
+            "<p>(54, 9, 27)</p>",
+            "<p>(60, 10, 30)</p>",
+            "<p>(42, 7, 21)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225875/ugc-net-cse-july-2018-part-2-question-11\" target=\"_blank\">https://gateoverflow.in/225875/ugc-net-cse-july-2018-part-2-question-11</a></p>"
+        }
+      ]
+    }
+  ]
+}

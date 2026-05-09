@@ -1,0 +1,27 @@
+window.__examLoadCallback({
+  "title": "Theory of Computation - Identify Class Language - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Identify Class Language",
+      "questions": [
+        {
+          "id": 5,
+          "question": "<p><a name=\"29865\"></a><div itemprop=\"text\"><p>Let \\( \\sum_{1}= \\left\\{a\\right\\} \\) be a one letter alphabet and \\( \\sum_{2}= \\left\\{a, b\\right\\} \\) be a two letter alphabet. A language over an alphabet is a set of finite length words comprising letters of the alphabet. Let \\( L_{1} \\) and \\( L_{2} \\) be the set of languages over \\( \\sum_{1} \\) and \\( \\sum_{2} \\) respectively. Which of the following is true about \\( L_{1} \\) and \\( L_{2} \\):</p>\n\n</div><br><br><b>TIFR CSE 2015 | Part B | Question: 8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Both are finite.</p>",
+            "<p>Both are countably infinite.</p>",
+            "<p>\\( L_{1} \\) is countable but \\( L_{2} \\) is not.</p>",
+            "<p>\\( L_{2} \\) is countable but \\( L_{1} \\) is not.</p>",
+            "<p>Neither of them is countable.</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/29865/tifr-cse-2015-part-b-question-8\" target=\"_blank\">https://gateoverflow.in/29865/tifr-cse-2015-part-b-question-8</a></p>"
+        }
+      ]
+    }
+  ]
+});

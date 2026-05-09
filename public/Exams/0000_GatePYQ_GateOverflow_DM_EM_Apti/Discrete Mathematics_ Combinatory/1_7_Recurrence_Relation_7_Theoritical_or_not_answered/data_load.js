@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Combinatory - Recurrence Relation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Recurrence Relation",
+      "questions": []
+    }
+  ]
+});

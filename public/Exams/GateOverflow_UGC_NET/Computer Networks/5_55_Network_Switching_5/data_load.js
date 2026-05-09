@@ -1,0 +1,41 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Network Switching",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Network Switching",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"113810\"></a><div itemprop=\"text\"><p>In a packet switching network, if the message size is 48 bytes and each packet contains a header of 3 bytes. If 24 packets are required to transmit the message, the packet size is</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 3 | Question: 28</b></p>",
+          "type": "single",
+          "options": [
+            "<p>2 bytes</p>",
+            "<p>1 byte</p>",
+            "<p>4 bytes</p>",
+            "<p>5 bytes</p>"
+          ],
+          "correct_answer": "<p>5 bytes</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/113810/ugc-net-cse-january-2017-part-3-question-28\" target=\"_blank\">https://gateoverflow.in/113810/ugc-net-cse-january-2017-part-3-question-28</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"55835\"></a><div itemprop=\"text\">\n<p>In which circuit switching, delivery of data is delayed because data must be stored and retrieved from RAM?</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 2 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Space division</p>",
+            "<p>Time division</p>",
+            "<p>Virtual</p>",
+            "<p>Packet</p>"
+          ],
+          "correct_answer": "<p>Time division</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55835/ugc-net-cse-june-2012-part-2-question-16\" target=\"_blank\">https://gateoverflow.in/55835/ugc-net-cse-june-2012-part-2-question-16</a></p>"
+        }
+      ]
+    }
+  ]
+});

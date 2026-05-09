@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Digital Circuits",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Digital Circuits",
+      "questions": []
+    }
+  ]
+});

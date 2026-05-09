@@ -1,0 +1,26 @@
+{
+  "title": "Computer Networks - Error Detection - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Error Detection",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"43816\"></a><div itemprop=\"text\">\n<p>How many check bits are required for \\( 16 \\) bit data word to detect \\( 2 \\) bit errors and single bit correction using hamming code?</p>\n\n\n</div><br><br><b>ISRO-2013-18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 7 \\)</p>",
+            "<p>\\( 8 \\)</p>"
+          ],
+          "correct_answer": "6",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/43816/isro-2013-18\" target=\"_blank\">https://gateoverflow.in/43816/isro-2013-18</a></p>"
+        }
+      ]
+    }
+  ]
+}

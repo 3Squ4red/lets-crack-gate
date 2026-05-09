@@ -1,0 +1,26 @@
+{
+  "title": "Non GATE CSE_ Computer Graphics - Raster Graphics",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Raster Graphics",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"316252\"></a><div itemprop=\"text\"><p>Consider a raster system with resolution \\( 640 \\) by \\( 480 \\). What size is frame buffer (in bytes) for this system to store \\( 12 \\) bits per pixel?</p>\n\n</div><br><br><b>UGC NET CSE | June 2019 | Part 2 | Question: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 450 \\) kilobytes</p>",
+            "<p>\\( 500 \\) kilobytes</p>",
+            "<p>\\( 350 \\) kilobytes</p>",
+            "<p>\\( 400 \\) kilobytes</p>"
+          ],
+          "correct_answer": "<p>\\( 450 \\) kilobytes</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/316252/ugc-net-cse-june-2019-part-2-question-27\" target=\"_blank\">https://gateoverflow.in/316252/ugc-net-cse-june-2019-part-2-question-27</a></p>"
+        }
+      ]
+    }
+  ]
+}

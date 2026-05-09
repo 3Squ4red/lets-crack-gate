@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Analytical Aptitude - Number Series",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Number Series",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,101 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Time Complexity",
+  "duration": 17,
+  "sections": [
+    {
+      "name": "Time Complexity",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"45258\"></a><div itemprop=\"text\"><p>The time complexities of some standard graph algorithms are given. Match each algorithm with its time complexity ? (\\( n \\) and \\( m \\) are no. of nodes and edges respectively)</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp;\\text{a.} & \\text{Bellman Ford algorithm} & \\text{i.} & O(m\\log n)&nbsp; \\\\&nbsp;\\text{b.} & \\text{Kruskals algorithm} & \\text{ii.}&nbsp;& O(n^3)&nbsp;\\\\ &nbsp;\\text{c.} & \\text{Floyd Warshall algorithm} & \\text{iii.} & O(mn)&nbsp;\\\\&nbsp;\\text{d.} & \\text{Topological sorting} & \\text{iv.}&nbsp;& O(n+m)&nbsp;\\\\ \\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 3 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-iii, b-i, c-ii, d-iv} \\)</p>",
+            "<p>\\( \\text{a-ii, b-iv, c-iii, d-i} \\)</p>",
+            "<p>\\( \\text{a-iii, b-iv, c-i, d-ii} \\)</p>",
+            "<p>\\( \\text{a-ii, b-i, c-iii, d-iv} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{a-iii, b-i, c-ii, d-iv} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/45258/ugc-net-cse-december-2012-part-3-question-11\" target=\"_blank\">https://gateoverflow.in/45258/ugc-net-cse-december-2012-part-3-question-11</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"60626\"></a><div itemprop=\"text\"><p>Match the following \\( : \\)</p>\n\n<p>\\( \\begin{array}{} &nbsp;&&nbsp;\\textbf{List – I} &&nbsp; & \\textbf{List – II} \\\\&nbsp;\\text{a.} & \\text{Bucket&nbsp;sort} & \\text{i.} & O(n^3\\lg n)&nbsp; \\\\&nbsp;\\text{b.} & \\text{Matrix chain multiplication} & \\text{ii.} & O(n^3)&nbsp;\\\\ &nbsp;\\text{c.} & \\text{Huffman codes} & \\text{iii.} & O(n\\lg n)&nbsp;\\\\&nbsp;\\text{d.} & \\text{All pairs shortest paths} & \\text{iv.} & O(n)&nbsp;\\\\ &nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | December 2014 | Part 3 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-iv, b-ii, c-i, d-iii} \\)</p>",
+            "<p>\\( \\text{a-ii, b-iv, c-i, d-iii} \\)</p>",
+            "<p>\\( \\text{a-iv, b-ii, c-iii, d-i} \\)</p>",
+            "<p>\\( \\text{a-iii, b-ii, c-iv, d-i} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{a-iv, b-ii, c-iii, d-i} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60626/ugc-net-cse-december-2014-part-3-question-32\" target=\"_blank\">https://gateoverflow.in/60626/ugc-net-cse-december-2014-part-3-question-32</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"12692\"></a><div itemprop=\"text\"><p>Which of the following is asymptotically smaller?</p></div><br><br><b>UGC NET CSE | Junet 2015 | Part 3 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>lg(lg*n)</p>",
+            "<p>lg*(lgn)</p>",
+            "<p>lg(n!)</p>",
+            "<p>lg*(n!)</p>"
+          ],
+          "correct_answer": "<p>lg(lg*n)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/12692/ugc-net-cse-junet-2015-part-3-question-33\" target=\"_blank\">https://gateoverflow.in/12692/ugc-net-cse-junet-2015-part-3-question-33</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"349648\"></a><div itemprop=\"text\"><p>If algorithm \\( A \\) and another algorithm \\( B \\) take \\( \\log_2 (n) \\) and \\( \\sqrt{n} \\) microseconds, respectively, to solve a problem, then the largest size \\( n \\) of a problem these algorithms can solve, respectively, in one second are ______ and ______.</p>\n\n</div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 25</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2^{10^n} \\) and \\( 10^6 \\)</p>",
+            "<p>\\( 2^{10^n} \\) and \\( 10^{12} \\)</p>",
+            "<p>\\( 2^{10^n} \\) and \\( 6.10^6 \\)</p>",
+            "<p>\\( 2^{10^n} \\) and \\( 6.10^{12} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 2^{10^n} \\) and \\( 10^{12} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349648/ugc-net-cse-october-2020-part-2-question-25\" target=\"_blank\">https://gateoverflow.in/349648/ugc-net-cse-october-2020-part-2-question-25</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"59023\"></a><div itemprop=\"text\">\n<p>The amortized time complexity to perform ____ operation(s) in Splay trees is O(Ig n)</p>\n\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 2 | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Search</p>",
+            "<p>Search and Insert</p>",
+            "<p>Search and Delete</p>",
+            "<p>Search, Insert and Delete</p>"
+          ],
+          "correct_answer": "<p>Search, Insert and Delete</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59023/ugc-net-cse-september-2013-part-2-question-9\" target=\"_blank\">https://gateoverflow.in/59023/ugc-net-cse-september-2013-part-2-question-9</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"50831\"></a><div itemprop=\"text\"><p>The time complexity of an efficient algorithm to find the longest monotonically increasing subsequence of n numbers is</p>\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 3 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{O(n)} \\)</p>",
+            "<p>\\( \\text{O(n Ig n)} \\)</p>",
+            "<p>\\( \\text{O(n ^2 )} \\)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{O(n Ig n)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/50831/ugc-net-cse-september-2013-part-3-question-40\" target=\"_blank\">https://gateoverflow.in/50831/ugc-net-cse-september-2013-part-3-question-40</a></p>"
+        }
+      ]
+    }
+  ]
+});

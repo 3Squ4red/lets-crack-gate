@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Probability - Joint Distribution",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Joint Distribution",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Programming_ Programming in C - Operators",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Operators",
+      "questions": []
+    }
+  ]
+});

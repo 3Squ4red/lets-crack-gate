@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Digital Counter - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Digital Counter",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335776\"></a><div itemprop=\"text\"><p>In order to build a \\( \\text{MOD - 18} \\) counter, the minimum number of flip flops needed is equal to :</p>\n\n</div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 18 \\)</p>",
+            "<p>\\( 9 \\)</p>",
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 4 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335776/ugc-net-cse-december-2007-part-2-question-8\" target=\"_blank\">https://gateoverflow.in/335776/ugc-net-cse-december-2007-part-2-question-8</a></p>"
+        }
+      ]
+    }
+  ]
+});

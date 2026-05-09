@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - Code Optimization",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Code Optimization",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"47601\"></a><div itemprop=\"text\">\n<p>In compiler design ‘reducing the strength’ refers to</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>reducing the range of values of input variables</p>",
+            "<p>code optimization using cheaper machine instructions</p>",
+            "<p>reducing efficiency of program</p>",
+            "<p>none of the above</p>"
+          ],
+          "correct_answer": "<p>code optimization using cheaper machine instructions</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/47601/ugc-net-cse-december-2012-part-2-question-11\" target=\"_blank\">https://gateoverflow.in/47601/ugc-net-cse-december-2012-part-2-question-11</a></p>"
+        }
+      ]
+    }
+  ]
+});

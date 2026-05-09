@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Quantitative Aptitude - Pie Chart - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Pie Chart",
+      "questions": [
+        {
+          "id": 5,
+          "question": "<p><a name=\"359828\"></a><div itemprop=\"text\"><p>The monthly distribution of \\( 9 \\) Watt LED bulbs sold by two firms \\( X \\) and \\( Y \\) from January to June \\( 2018 \\) is shown in the pie-chart and the corresponding table. If the total number of LED bulbs sold by the two firms during April-June \\( 2018 \\) is \\( 50000 \\), then the number of LED bulbs sold by the firm \\( Y \\) during April-June \\( 2018 \\) is&nbsp;________.</p>\n\n<p>&nbsp;Percentage of \\( 9 \\) Watt LED bulbs sold&nbsp;&nbsp;by the firms \\( X \\) and \\( Y \\) from January \\( 2018 \\) to June,\\( 2018 \\)</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_quantitative_aptitude_pie_chart/3fe183d5886debf156e2412caea78e48.png\"></p>\n\n<p>\\[ \\begin{array}{|c|c|} \\hline {} & \\text{Ratio of LED bulbs} \\\\ \\text{Month}&nbsp; & \\text{sold by two firms} \\\\ & (X:Y) \\\\ \\hline \\text{January} & 7:8 \\\\ \\hline \\text{February} & 2:3 \\\\ \\hline \\text{March} & 2:1 \\\\ \\hline \\text{April} & 3:2 \\\\ \\hline \\text{May} & 1:4 \\\\ \\hline \\text{June} & 9:11 \\\\ \\hline \\end{array} \\]</p>\n\n</div><br><br><b>GATE Civil 2020 Set 2 | GA Question: 10</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 11250 \\)</p>",
+            "<p>\\( 9750 \\)</p>",
+            "<p>\\( 8750 \\)</p>",
+            "<p>\\( 8250 \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/359828/gate-civil-2020-set-2-ga-question-10\" target=\"_blank\">https://gateoverflow.in/359828/gate-civil-2020-set-2-ga-question-10</a></p>"
+        }
+      ]
+    }
+  ]
+});

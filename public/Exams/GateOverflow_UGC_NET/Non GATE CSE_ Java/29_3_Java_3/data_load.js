@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Java - Java",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Java",
+      "questions": []
+    }
+  ]
+});

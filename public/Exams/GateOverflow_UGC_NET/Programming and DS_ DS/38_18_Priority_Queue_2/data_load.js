@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Programming and DS_ DS - Priority Queue",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Priority Queue",
+      "questions": []
+    }
+  ]
+});

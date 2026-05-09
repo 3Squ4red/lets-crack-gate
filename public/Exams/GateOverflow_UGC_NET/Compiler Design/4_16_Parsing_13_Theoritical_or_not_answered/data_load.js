@@ -1,0 +1,41 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - Parsing - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Parsing",
+      "questions": [
+        {
+          "id": 9,
+          "question": "<p><a name=\"225847\"></a><div itemprop=\"text\"><p>A bottom-up parser generates:</p></div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 39</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Left-most derivation in reverse</p>",
+            "<p>Right-most derivation in reverse</p>",
+            "<p>Left-most derivation</p>",
+            "<p>Right-most derivation</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225847/ugc-net-cse-july-2018-part-2-question-39\" target=\"_blank\">https://gateoverflow.in/225847/ugc-net-cse-july-2018-part-2-question-39</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"407941\"></a><div itemprop=\"text\"><p>Which of the following parser is most powerful parser?</p></div><br><br><b>UGC NET CSE | June 2023 | Part 2: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Operator precedence</p>",
+            "<p>\\( \\text{SLR} \\)</p>",
+            "<p>Canonical \\( \\text{LR} \\)</p>",
+            "<p>\\( \\text{LALR} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/407941/ugc-net-cse-june-2023-part-2-27\" target=\"_blank\">https://gateoverflow.in/407941/ugc-net-cse-june-2023-part-2-27</a></p>"
+        }
+      ]
+    }
+  ]
+});

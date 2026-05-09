@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Probability - Binomial Theorem",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Binomial Theorem",
+      "questions": []
+    }
+  ]
+});

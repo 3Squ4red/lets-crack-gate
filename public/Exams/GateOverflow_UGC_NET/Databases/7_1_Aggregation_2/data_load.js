@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Databases - Aggregation",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Aggregation",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"63965\"></a><div itemprop=\"text\"><p>Which of the following statements is correct?</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 39</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Aggregation is a strong type of association between two classes with full ownership</p>",
+            "<p>Aggregation is a strong type of association between two classes with partial ownership</p>",
+            "<p>Aggregation is a weak type of association between two classes with partial ownership</p>",
+            "<p>Aggregation is a weak type of association between two classes with full ownership</p>"
+          ],
+          "correct_answer": "<p>Aggregation is a weak type of association between two classes with partial ownership</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63965/ugc-net-cse-july-2016-part-3-question-39\" target=\"_blank\">https://gateoverflow.in/63965/ugc-net-cse-july-2016-part-3-question-39</a></p>"
+        }
+      ]
+    }
+  ]
+});

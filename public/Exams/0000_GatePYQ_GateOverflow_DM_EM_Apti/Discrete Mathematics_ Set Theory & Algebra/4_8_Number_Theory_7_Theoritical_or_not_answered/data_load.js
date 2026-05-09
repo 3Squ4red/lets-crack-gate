@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Number Theory - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Number Theory",
+      "questions": []
+    }
+  ]
+});

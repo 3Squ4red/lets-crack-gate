@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Propagation Time",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Propagation Time",
+      "questions": []
+    }
+  ]
+});

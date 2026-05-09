@@ -1,0 +1,26 @@
+{
+  "title": "Compiler Design - Symbol Table - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Symbol Table",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335428\"></a><div itemprop=\"text\"><p>Symbol Table can be used for :</p>\n\n</div><br><br><b>UGC NET CSE | June 2005 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Checking type compatibility</p>",
+            "<p>Suppressing duplication of error message</p>",
+            "<p>Storage allocation</p>",
+            "<p>All of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335428/ugc-net-cse-june-2005-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/335428/ugc-net-cse-june-2005-part-2-question-35</a></p>"
+        }
+      ]
+    }
+  ]
+}

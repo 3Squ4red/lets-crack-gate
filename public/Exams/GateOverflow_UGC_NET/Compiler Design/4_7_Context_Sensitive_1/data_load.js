@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - Context Sensitive",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Context Sensitive",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Optimal Search Tree - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Optimal Search Tree",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"62473\"></a><div itemprop=\"text\"><p>Let \\( n=4 \\) and \\( (a_1, a_2, a_3, a_4) \\)=(do, if, int, while). Let \\( p(1:4)=\\bigg (\\dfrac{3}{8}, \\dfrac{3}{8}, \\dfrac{1}{8}, \\dfrac{1}{8} \\bigg) \\) and \\( q(1:4)=\\bigg(\\dfrac{2}{8}, \\dfrac{3}{8}, \\dfrac{1}{8},&nbsp;\\dfrac{1}{8},&nbsp;\\dfrac{1}{8} \\bigg) \\) where \\( p(i) \\) and \\( q(i) \\) denotes the probability with which we search \\( a_i \\) and the identifier \\( x \\) being searched satisfy \\( a_i &lt; x &lt; a_{i+1} \\) respectively. The optimal search tree is given by:</p><p>A.&nbsp;<img alt=\"\" width=\"200\" height=\"133\" src=\"images/gateOverFlowPDFsImages/ugcnet/algorithms_optimal_search_tree/a577d943e1185735f5ce4eda4bcb24d0.png\"></p><p>B.&nbsp;<img alt=\"\" width=\"200\" height=\"131\" src=\"images/gateOverFlowPDFsImages/ugcnet/algorithms_optimal_search_tree/2268bedac8c33412af806ebba4d1a4be.png\"></p><p>C.&nbsp;<img alt=\"\" width=\"200\" height=\"134\" src=\"images/gateOverFlowPDFsImages/ugcnet/algorithms_optimal_search_tree/afc9599c2dd220a465165f26999cea48.png\"></p><p>D.&nbsp;<img alt=\"\" width=\"200\" height=\"133\" src=\"images/gateOverFlowPDFsImages/ugcnet/algorithms_optimal_search_tree/08f7743d51b06367f43194def42dc6a9.png\"></p></div><br><br><b>UGC NET CSE | December 2015 | Part 3 | Question: 21</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>C</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62473/ugc-net-cse-december-2015-part-3-question-21\" target=\"_blank\">https://gateoverflow.in/62473/ugc-net-cse-december-2015-part-3-question-21</a></p>"
+        }
+      ]
+    }
+  ]
+});

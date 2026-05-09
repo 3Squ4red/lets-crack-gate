@@ -1,0 +1,38 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Quantitative Aptitude - Probability - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Probability",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"411710\"></a><div itemprop=\"text\"><p>A game consists of spinning an arrow around a stationary disk as shown below. When the arrow comes to rest, there are eight equally likely outcomes. It could come to rest in any one of the sectors numbered \\( 1, 2, 3,4, 5, 6, 7 \\) or \\( 8 \\) as shown.</p>\n\n<p>Two such disks are used in a game where their arrows are independently spun.</p>\n\n<p>What is the probability that the sum of the numbers on the resulting sectors upon spinning the two disks is equal to 8 after the arrows come to rest?</p>\n\n<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_quantitative_aptitude_probability/69a7ffbf4bf938682427b050f6f3e109.png\" width=\"500\"></p>\n\n\n\n<ol start=\"2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>\\( \\dfrac{5}{64} \\)</li>\n</ol>\n\n<ol start=\"100\" style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>\\( \\dfrac{3}{32} \\)</li>\n</ol>\n\n<ol start=\"500\" style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>\\( \\dfrac{7}{64} \\)</li>\n</ol></div><br><br><b>GATE CH 2022 | GA Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\dfrac{1}{16} \\)</p>"
+          ],
+          "correct_answer": "<p>D</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/411710/gate-ch-2022-ga-question-7\" target=\"_blank\">https://gateoverflow.in/411710/gate-ch-2022-ga-question-7</a></p>"
+        },
+        {
+          "id": 28,
+          "question": "<p><a name=\"205188\"></a><div itemprop=\"text\"><p>A class of twelve children has two more boys than girls. A group of three children are randomly picked from this class to accompany the teacher on a field trip. What is the probability that the group accompanying the teacher contains more girls than boys?</p>\n\n</div><br><br><b>GATE2018 EE: GA-8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 0 \\)</p>",
+            "<p>\\( \\dfrac{325}{864} \\)</p>",
+            "<p>\\( \\dfrac{525}{864} \\)</p>",
+            "<p>\\( \\dfrac{5}{12} \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/205188/gate2018-ee-ga-8\" target=\"_blank\">https://gateoverflow.in/205188/gate2018-ee-ga-8</a></p>"
+        }
+      ]
+    }
+  ]
+});

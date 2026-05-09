@@ -1,0 +1,206 @@
+window.__examLoadCallback({
+  "title": "Databases - UGC NET CSE  June 2014  Part 2  Question",
+  "duration": 36,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2014  Part 2  Question",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"55196\"></a><div itemprop=\"text\">\n<p>Manager’s salary details are hidden from the employee. This is called as</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 2 | Question: 46</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Conceptual level data hiding</p>",
+            "<p>Physical level data hiding</p>",
+            "<p>External level data hiding&nbsp;</p>",
+            "<p>Local level data hiding&nbsp;</p>"
+          ],
+          "correct_answer": "<p>External level data hiding&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55196/ugc-net-cse-june-2014-part-2-question-46\" target=\"_blank\">https://gateoverflow.in/55196/ugc-net-cse-june-2014-part-2-question-46</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"55204\"></a><div itemprop=\"text\"><p>Match the following \\( : \\)</p>\n\n<p>\\( \\begin{array} {cIcI}&nbsp;& \\textbf{List – I} && \\textbf{List – II} \\\\ &nbsp;\\text{a.} & \\text{DDL} & \\text{i.} & \\text{LOCK TABLE} \\\\ &nbsp;\\text{b.} & \\text{DML}&nbsp;& \\text{ii.} & \\text{COMMIT} \\\\ &nbsp;\\text{c.} & \\text{TCL} & \\text{iii.} & \\text{Natural Differece} \\\\ &nbsp;\\text{d.} & \\text{BINARY} & \\text{iv.} & \\text{REVOKE} \\\\&nbsp; &&nbsp; \\text{Operation}&nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 2 | Question: 50</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-ii; b-i; c-iii; d-iv} \\)</p>",
+            "<p>\\( \\text{a-i; b-ii; c-iv; d-iii} \\)</p>",
+            "<p>\\( \\text{a-ii; b-iii; c-i; d-iv} \\)</p>",
+            "<p>\\( \\text{a-iv; b-i; c-ii; d-iii} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{a-iv; b-i; c-ii; d-iii} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55204/ugc-net-cse-june-2014-part-2-question-50\" target=\"_blank\">https://gateoverflow.in/55204/ugc-net-cse-june-2014-part-2-question-50</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"55611\"></a><div itemprop=\"text\">\n<p>In multiuser database if two users wish to update the same record at the same time, they are prevented from doing so by</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 2 | Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Jamming</p>",
+            "<p>Password</p>",
+            "<p>Documentation</p>",
+            "<p>Record lock</p>"
+          ],
+          "correct_answer": "<p>Record lock</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55611/ugc-net-cse-june-2012-part-2-question-7\" target=\"_blank\">https://gateoverflow.in/55611/ugc-net-cse-june-2012-part-2-question-7</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"56090\"></a><div itemprop=\"text\"><p>The problem that occurs when one transaction updates a database item and the transaction fails for some reason is</p>\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 3 | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Temporary Select Problem</p>",
+            "<p>Temporary Modify Problem</p>",
+            "<p>Dirty Read Problem</p>",
+            "<p>None</p>"
+          ],
+          "correct_answer": "<p>Dirty Read Problem</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56090/ugc-net-cse-june-2012-part-3-question-9\" target=\"_blank\">https://gateoverflow.in/56090/ugc-net-cse-june-2012-part-3-question-9</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"57069\"></a><div itemprop=\"text\"><p>The User Work Area (UWA) is a set of Program variables declared in the host program to communicate the contents of individual records between</p>\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>DBMS and the Host record</p>",
+            "<p>Host program and the Host record</p>",
+            "<p>Host program and DBMS</p>",
+            "<p>Host program and Host language</p>"
+          ],
+          "correct_answer": "<p>Host program and DBMS</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57069/ugc-net-cse-december-2012-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/57069/ugc-net-cse-december-2012-part-2-question-32</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"58522\"></a><div itemprop=\"text\">\n<p>Match the following:</p>\n\n<table border=\"0\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\"><tbody><tr><td>a. Foreign keys</td>\n\t\t\t<td>i. Domain constraint</td>\n\t\t</tr><tr><td>b. Private key</td>\n\t\t\t<td>ii. Referential integrity</td>\n\t\t</tr><tr><td>c. Event control action model</td>\n\t\t\t<td>iii. Encryption</td>\n\t\t</tr><tr><td>d. Data security</td>\n\t\t\t<td>iv. Trigger</td>\n\t\t</tr></tbody></table>\n\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 3 | Question: 47</b></p>",
+          "type": "single",
+          "options": [
+            "<p>a-iii, b-ii, c-i, d-iv</p>",
+            "<p>a-ii, b-i, c-iv, d-iii</p>",
+            "<p>a-iii, b-iv, c-i, d-ii</p>",
+            "<p>a-i, b-ii, c-iii, d-iv</p>"
+          ],
+          "correct_answer": "<p>a-ii, b-i, c-iv, d-iii</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58522/ugc-net-cse-june-2013-part-3-question-47\" target=\"_blank\">https://gateoverflow.in/58522/ugc-net-cse-june-2013-part-3-question-47</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"60043\"></a><div itemprop=\"text\">\n<p>GO BOTTOM and SKIP-3 commands are given one after another in a database file of 30 records. It shifts the control to</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 2 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>28-th record</p>",
+            "<p>27-th&nbsp;<span style=\"line-height: 20.8px;\">record</span></p>",
+            "<p>3-rd&nbsp;<span style=\"line-height: 20.8px;\">record</span></p>",
+            "<p>4-th&nbsp;<span style=\"line-height: 20.8px;\">record</span></p>"
+          ],
+          "correct_answer": "<p>27-th&nbsp;<span style=\"line-height: 20.8px;\">record</span></p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60043/ugc-net-cse-december-2013-part-2-question-12\" target=\"_blank\">https://gateoverflow.in/60043/ugc-net-cse-december-2013-part-2-question-12</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"60782\"></a><div itemprop=\"text\"><p>Match the following \\( : \\)</p>\n\n<p>\\( \\begin{array} {clcl} &nbsp; & \\textbf{List – I} && \\textbf{List – II} \\\\ &nbsp;\\text{a.} & \\text{Secondary Index} & \\text{i.} & \\text{Functional Dependency} \\\\ \\text{b.} & \\text{Non-procedural Query language} & \\text{ii.} & \\text{B-tree} \\\\ &nbsp;\\text{c.} & \\text{Closure of set of attributes} & \\text{iii.} & \\text{Relational Algebric Operation} \\\\ &nbsp;\\text{d.} & \\text{Natural JOIN} & \\text{iv.} & \\text{Domain Calculas} \\\\ &nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 60</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-i, b-ii, c-iv, d-iii} \\)</p>",
+            "<p>\\( \\text{a-ii, b-i, c-iv, d-iii} \\)</p>",
+            "<p>\\( \\text{a-i, b-iii, c-iv, d-ii} \\)</p>",
+            "<p>\\( \\text{a-ii, b-iv, c-i, d-iii} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{a-ii, b-iv, c-i, d-iii} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60782/ugc-net-cse-december-2013-part-3-question-60\" target=\"_blank\">https://gateoverflow.in/60782/ugc-net-cse-december-2013-part-3-question-60</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"61439\"></a><div itemprop=\"text\"><p>Match the following database terms to their functions \\( : \\)</p>\n\n<p>\\( \\begin{array} {clcl}&nbsp;&nbsp;& \\textbf{List – I} && \\textbf{List – II} \\\\ &nbsp; \\text{(a)} & \\text{Normalization} & \\text{(i)} & \\text{Enforces match of primary key}\\\\ &&& \\text{to foreign key} \\\\ &nbsp;\\text{(b)} & \\text{Data Dictionary} &\\text{(ii)}& \\text{Reduces data redundancy in} \\\\ &&& \\text{a database} \\\\ &nbsp;\\text{(c)} & \\text{Referential Integrity} & \\text{(iii)} & \\text{Defines view(s) of the database for} \\\\ && & \\text{particular user(s)} \\\\ &nbsp;\\text{(d)} & \\text{External Schema} & \\text{(iv)} & \\text{Contains metadata describing} \\\\ &&& \\text{database structure} \\\\ &nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)} \\)</p>",
+            "<p>\\( \\text{(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61439/ugc-net-cse-december-2015-part-2-question-14\" target=\"_blank\">https://gateoverflow.in/61439/ugc-net-cse-december-2015-part-2-question-14</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"62251\"></a><div itemprop=\"text\"><p>Which of the following provides the best description of an entity type?</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>A specific concrete object with a defined set of processes (e.g. Jatin with diabetes)</p>",
+            "<p>A value given to a particular attribute (e.g. height - 230 cm)</p>",
+            "<p>A thing that we wish to collect data about zero or more, possibly real world examples of it may exist</p>",
+            "<p>A template for a group of things with the same set of characteristics that may exist in the real world</p>"
+          ],
+          "correct_answer": "<p>A template for a group of things with the same set of characteristics that may exist in the real world</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62251/ugc-net-cse-december-2015-part-2-question-18\" target=\"_blank\">https://gateoverflow.in/62251/ugc-net-cse-december-2015-part-2-question-18</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"62252\"></a><div itemprop=\"text\"><p>A data which improves the performance and accessibility of the database are called:</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 19</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Indexes</p>",
+            "<p>User Data</p>",
+            "<p>Application Metadata</p>",
+            "<p>Data Dictionary</p>"
+          ],
+          "correct_answer": "<p>Indexes</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62252/ugc-net-cse-december-2015-part-2-question-19\" target=\"_blank\">https://gateoverflow.in/62252/ugc-net-cse-december-2015-part-2-question-19</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"63122\"></a><div itemprop=\"text\"><p>Which of the following statement(s) is/are&nbsp;FALSE in the context of Relational DBMS?</p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>Views in a database system are important because they with access control by aloowing users to see only a particular subset of the data in the databse</li>\n\t<li>E-R diagrams are useful to logically model concepts</li>\n\t<li>An update anamoly is when it is not possible to store information unless some other, unrelated information is stored as well</li>\n\t<li>SQL is a procedural language\n\t\n\t</li>\n</ol></div><br><br><b>UGC NET CSE | July 2016 | Part 2 | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>I and IV only</p>",
+            "<p>III and IV only</p>",
+            "<p>I, II and III only</p>",
+            "<p>II, III and IV only</p>"
+          ],
+          "correct_answer": "<p>II, III and IV only</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63122/ugc-net-cse-july-2016-part-2-question-17\" target=\"_blank\">https://gateoverflow.in/63122/ugc-net-cse-july-2016-part-2-question-17</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"63615\"></a><div itemprop=\"text\"><p>Which of the following statements is true?</p><p>\\( D_1 \\): The decomposition of the schema R(A, B, C) into R\\( _1 \\)(A,B) and R\\( _2 \\)(A,C) is always lossless</p><p>\\( D_2 \\): The decomposition of the schema R(A, B, C, D, E) having AD \\( \\rightarrow \\) B, C&nbsp;\\( \\rightarrow \\) DE, B&nbsp;\\( \\rightarrow \\) AE, and AE&nbsp;\\( \\rightarrow \\) C, into R\\( _1 \\)(A,B, D) and R\\( _2 \\)(A, C, D, E) is lossless</p></div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 10</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Both \\( D_1 \\) and \\( D_2 \\)</p>",
+            "<p>Neither \\( D_1 \\) nor \\( D_2 \\)</p>",
+            "<p>Only \\( D_1 \\)</p>",
+            "<p>Only \\( D_2 \\)</p>"
+          ],
+          "correct_answer": "<p>Only \\( D_2 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63615/ugc-net-cse-july-2016-part-3-question-10\" target=\"_blank\">https://gateoverflow.in/63615/ugc-net-cse-july-2016-part-3-question-10</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,41 @@
+window.__examLoadCallback({
+  "title": "Operating System - System Call",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "System Call",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"166451\"></a><div itemprop=\"text\"><p>Match the following WINDOWS system calls and UNIX system calls with reference to process control and File manipulation. \\[ \\begin{array}{llll} & \\textbf{Windows} & & \\textbf{UNIX} \\\\ (a) & \\text{Create –&nbsp;process ( )} & (i) & \\text{Open ( )} \\\\ (b) & \\text{WaitForSingleObject ( )} & (ii) & \\text{Close ( )} \\\\ (c)&nbsp;& \\text{CreateFile ( )} & (iii) & \\text{Fork ( )} \\\\ (d) & \\text{CloseHandle ( )} & (iv) & \\text{Wait ( )} \\end{array} \\]</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 75</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (a)-(iii) \\: (b)-(iv) \\: (c)-(i) \\: d-(ii) \\)</p>",
+            "<p>\\( (a)-(iv)&nbsp;\\: (b)-(iii) \\: (c)-(i) \\: d-(ii) \\)</p>",
+            "<p>\\( (a)-(iv) \\: (b)-(iii) \\: (c)-(ii) \\: d-(i) \\)</p>",
+            "<p>\\( (a)-(iii) \\: (b)-(iv) \\: (c)-(ii) \\: d-(i) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( (a)-(iii) \\: (b)-(iv) \\: (c)-(i) \\: d-(ii) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166451/ugc-net-cse-november-2017-part-3-question-75\" target=\"_blank\">https://gateoverflow.in/166451/ugc-net-cse-november-2017-part-3-question-75</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"349589\"></a><div itemprop=\"text\"><p>&nbsp;</p>\n\n<p>Assuming that the system call \\( \\text{fork}() \\) never fails, consider the following C program \\( P1 \\) and \\( P2 \\) executed on a UNIX/Linux system:</p>\n\n<p>\\( \\begin{array}{|ll|ll|} \\hline & /*P1*/&nbsp; & &/*P2*/ \\\\ \\text{int} & \\text{main}() \\{ & \\text{int} & \\text{main} () \\{ \\\\ & \\text{fork} (); & & \\text{fork();}&nbsp;\\\\ & \\text{fork}(); &&&nbsp; \\text{printf(“Happy \\n”)}; \\\\ &&nbsp;\\text{fork}(); &&nbsp; & \\text{fork()};&nbsp;\\\\ & \\text{printf(“Happy \\n”);}&nbsp; & &\\text{printf(“Happy \\n”);} \\\\ \\} &&nbsp;&nbsp;& & \\text{fork()};\\\\ && & \\text{printf(“Happy \\n”);} \\\\ &&&nbsp;\\} \\\\ \\hline \\end{array} \\)</p>\n\n<p>Statement \\( I \\): \\( P1 \\) displays “Happy” \\( 8 \\) times</p>\n\n<p>Statement \\( II \\): \\( P2 \\) displays “Happy” \\( 12 \\) times</p>\n\n<p>In&nbsp;the light of the above statements, choose the correct answer from the options given below</p>\n\n</div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 84</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Both Statement \\( I \\) and Statement \\( II \\) are true</p>",
+            "<p>Both Statement \\( I \\) and Statement \\( II \\) are false</p>",
+            "<p>Statement \\( I \\) is correct but Statement \\( II \\) is false</p>",
+            "<p>Statement \\( I \\) is incorrect but Statement \\( II \\) is true</p>"
+          ],
+          "correct_answer": "<p>Statement \\( I \\) is correct but Statement \\( II \\) is false</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349589/ugc-net-cse-october-2020-part-2-question-84\" target=\"_blank\">https://gateoverflow.in/349589/ugc-net-cse-october-2020-part-2-question-84</a></p>"
+        }
+      ]
+    }
+  ]
+});

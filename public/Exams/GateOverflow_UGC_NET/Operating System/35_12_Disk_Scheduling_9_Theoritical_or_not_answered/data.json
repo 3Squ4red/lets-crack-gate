@@ -1,0 +1,26 @@
+{
+  "title": "Operating System - Disk Scheduling - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Disk Scheduling",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"60273\"></a><div itemprop=\"text\"><p>Consider a disk queue with request for input/output to block cylinders 98, 183, 37, 122, 14, 124, 65, 67 in that order. Assume that disk head is initially positioned at cylinder 53 and moving towards cylinder number 0. The total number of head movements using Shortest Seek Time First (SSTF) and SCAN algorithms are respectively</p>\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 2 | Question: 48</b></p>",
+          "type": "single",
+          "options": [
+            "<p>236 and 252 cylinders</p>",
+            "<p>640 and 236&nbsp;cylinders</p>",
+            "<p>235 and 640&nbsp;cylinders</p>",
+            "<p>235 and 252&nbsp;cylinders</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60273/ugc-net-cse-december-2013-part-2-question-48\" target=\"_blank\">https://gateoverflow.in/60273/ugc-net-cse-december-2013-part-2-question-48</a></p>"
+        }
+      ]
+    }
+  ]
+}

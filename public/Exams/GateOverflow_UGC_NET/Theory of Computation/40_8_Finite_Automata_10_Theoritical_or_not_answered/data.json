@@ -1,0 +1,56 @@
+{
+  "title": "Theory of Computation - Finite Automata - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Finite Automata",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"288345\"></a><div itemprop=\"text\"><p>Consider the language \\( L \\) given by</p>\n\n<p>\\[ L=\\{ 2^{nk} \\mid k &gt;0, \\text{and n is non-negative integer number} \\} \\]</p>\n\n<p>The minimum number of states of finite automaton which accepts the language \\( L \\) is</p>\n\n</div><br><br><b>UGC NET CSE | December 2018 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( n \\)</p>",
+            "<p>\\( n+1 \\)</p>",
+            "<p>\\( \\frac{n(n+1)}{2} \\)</p>",
+            "<p>\\( 2^n \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/288345/ugc-net-cse-december-2018-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/288345/ugc-net-cse-december-2018-part-2-question-32</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"225855\"></a><div itemprop=\"text\"><p>Two finite state machines are said to be equivalent if they:</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 31</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Have the same number of edges</p>",
+            "<p>Have the same number of states</p>",
+            "<p>Recognize the same set of tokens</p>",
+            "<p>Have the same number of states and edges</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225855/ugc-net-cse-july-2018-part-2-question-31\" target=\"_blank\">https://gateoverflow.in/225855/ugc-net-cse-july-2018-part-2-question-31</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"225854\"></a><div itemprop=\"text\"><p>The finite state machine given in figure below recognizes:</p><p><img alt=\"\" width=\"400\" height=\"365\" src=\"images/gateOverFlowPDFsImages/ugcnet/theory_of_computation_finite_automata/5b78704cc3888bd25ba590075cd8d3a5.png\"></p></div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>any&nbsp;string of odd number of a's</p>",
+            "<p>any&nbsp;string of odd number of b's</p>",
+            "<p>any string of even number of a's and odd number of b's</p>",
+            "<p>any string of odd number of a's and odd number of b's</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225854/ugc-net-cse-july-2018-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/225854/ugc-net-cse-july-2018-part-2-question-32</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Digital Logic - Flip Flop",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Flip Flop",
+      "questions": [
+        {
+          "id": 5,
+          "question": "<p><a name=\"335155\"></a><div itemprop=\"text\"><p>A binary \\( 3 \\)-bit down counter&nbsp;uses \\( J \\)-\\( K \\) flip-flops, \\( FF_{i} \\) with inputs \\( J_{i} \\),&nbsp;\\( K_{i} \\) and outputs \\( Q_{i} \\), \\( i \\) = \\( 0, 1, 2 \\) respectively. The minimized expression for the input from following&nbsp;is :</p>\n\n<ol style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>\\( J_{0} = K_{0} = 0 \\)</li>\n\t<li>\\( J_{0} = K_{0} = 1 \\)</li>\n\t<li>\\( J_{1} = K_{1} = Q_{0} \\)</li>\n\t<li>\\( J_{1} = K_{1} = \\overline{Q}_{0} \\)</li>\n\t<li>\\( J_{2} = K_{2} =Q_{1}&nbsp;Q_{0} \\)</li>\n\t<li>\\( J_{2} = K_{2} =\\overline{Q}_{1} \\overline{Q}_{0} \\)</li>\n</ol>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 2 | Question: 8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>I, III, V</p>",
+            "<p>I, IV, VI</p>",
+            "<p>II, III, V</p>",
+            "<p>II, IV, VI</p>"
+          ],
+          "correct_answer": "<p>II, IV, VI</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335155/ugc-net-cse-january-2017-part-2-question-8\" target=\"_blank\">https://gateoverflow.in/335155/ugc-net-cse-january-2017-part-2-question-8</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"57057\"></a><div itemprop=\"text\"><p>In a positive edge triggered \\( J \\)-\\( K \\) flip flop , if \\( J \\) and \\( K \\) both are high then the output will be ______on the rising edge of the clock :</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 2 | Question: 10</b></p>",
+          "type": "single",
+          "options": [
+            "<p>No change</p>",
+            "<p>Set</p>",
+            "<p>Reset</p>",
+            "<p>Toggle</p>"
+          ],
+          "correct_answer": "<p>Toggle</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57057/ugc-net-cse-july-2016-part-2-question-10\" target=\"_blank\">https://gateoverflow.in/57057/ugc-net-cse-july-2016-part-2-question-10</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"59855\"></a><div itemprop=\"text\"><p>The power dissipation of a flip-flop is \\( 3 \\) mW. The power dissipation of a digital system with \\( 4 \\) flip-flops is given by :</p>\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 3 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3^4 \\) mW</p>",
+            "<p>\\( 4^3 \\) mW</p>",
+            "<p>\\( 4/3 \\) mW</p>",
+            "<p>\\( 12 \\) mW</p>"
+          ],
+          "correct_answer": "<p>\\( 12 \\) mW</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59855/ugc-net-cse-september-2013-part-3-question-34\" target=\"_blank\">https://gateoverflow.in/59855/ugc-net-cse-september-2013-part-3-question-34</a></p>"
+        }
+      ]
+    }
+  ]
+}

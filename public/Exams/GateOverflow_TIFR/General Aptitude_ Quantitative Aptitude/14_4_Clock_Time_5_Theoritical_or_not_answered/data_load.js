@@ -1,0 +1,43 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Quantitative Aptitude - Clock Time - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Clock Time",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"18206\"></a><div itemprop=\"text\"><p>The hour hand and the minute hands of a clock meet at noon and again at mid-night. In between they meet \\( N \\) times, where \\( N \\) is.:</p>\n\n</div><br><br><b>TIFR CSE 2010 | Part A | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 11 \\)</p>",
+            "<p>\\( 12 \\)</p>",
+            "<p>\\( 13 \\)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/18206/tifr-cse-2010-part-a-question-2\" target=\"_blank\">https://gateoverflow.in/18206/tifr-cse-2010-part-a-question-2</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"25502\"></a><div itemprop=\"text\"><p>Consider a well functioning clock where the hour, minute and the seconds needles are exactly at zero.&nbsp;How much time later will the minutes needle be exactly one minute ahead (\\( 1/60 \\) th of the circumference) of&nbsp;the hours needle and the seconds needle again exactly at zero?</p>\n\n<p>Hint: When the desired event happens both the hour needle and the minute needle have moved an integer multiple of \\( 1/60 \\) th of the circumference.</p>\n\n</div><br><br><b>TIFR CSE 2013 | Part A | Question: 20</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 144 \\) minutes</p>",
+            "<p>\\( 66 \\) minutes</p>",
+            "<p>\\( 96 \\) minutes</p>",
+            "<p>\\( 72 \\) minutes</p>",
+            "<p>\\( 132 \\) minutes&nbsp;</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25502/tifr-cse-2013-part-a-question-20\" target=\"_blank\">https://gateoverflow.in/25502/tifr-cse-2013-part-a-question-20</a></p>"
+        }
+      ]
+    }
+  ]
+});

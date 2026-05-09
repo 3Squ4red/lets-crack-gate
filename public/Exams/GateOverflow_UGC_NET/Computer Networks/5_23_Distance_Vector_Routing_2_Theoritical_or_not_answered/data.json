@@ -1,0 +1,26 @@
+{
+  "title": "Computer Networks - Distance Vector Routing - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Distance Vector Routing",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335754\"></a><div itemprop=\"text\"><p>An example of an adaptive routing algorithm is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 30</b></p>",
+          "type": "single",
+          "options": [
+            "<p>distance vector routing</p>",
+            "<p>flooding</p>",
+            "<p>selective flooding</p>",
+            "<p>shortest path routing</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335754/ugc-net-cse-december-2007-part-2-question-30\" target=\"_blank\">https://gateoverflow.in/335754/ugc-net-cse-december-2007-part-2-question-30</a></p>"
+        }
+      ]
+    }
+  ]
+}

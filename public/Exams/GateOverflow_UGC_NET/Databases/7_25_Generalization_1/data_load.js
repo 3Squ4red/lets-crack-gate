@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Databases - Generalization",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Generalization",
+      "questions": []
+    }
+  ]
+});

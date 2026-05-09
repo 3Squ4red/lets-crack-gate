@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Semantic Nets",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Semantic Nets",
+      "questions": []
+    }
+  ]
+});

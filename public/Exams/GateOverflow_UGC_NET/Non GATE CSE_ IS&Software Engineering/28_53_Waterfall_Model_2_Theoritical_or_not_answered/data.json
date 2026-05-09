@@ -1,0 +1,26 @@
+{
+  "title": "Non GATE CSE_ IS&Software Engineering - Waterfall Model - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Waterfall Model",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"70321\"></a><div itemprop=\"text\"><p>The major shortcoming of waterfall model is</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 42</b></p>",
+          "type": "single",
+          "options": [
+            "<p>The difficulty in accommodating changes after requirement analysis.</p>",
+            "<p>The difficult in accommodating changes after feasibility analysis.</p>",
+            "<p>The system testing.</p>",
+            "<p>The maintenance of system.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70321/ugc-net-cse-august-2016-part-2-question-42\" target=\"_blank\">https://gateoverflow.in/70321/ugc-net-cse-august-2016-part-2-question-42</a></p>"
+        }
+      ]
+    }
+  ]
+}

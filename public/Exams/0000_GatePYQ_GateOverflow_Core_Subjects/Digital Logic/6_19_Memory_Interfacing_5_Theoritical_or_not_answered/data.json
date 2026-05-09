@@ -1,0 +1,21 @@
+{
+  "title": "Digital Logic - Memory Interfacing - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Memory Interfacing",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"1555\"></a><div itemprop=\"text\">A RAM chip has a capacity of 1024 words of 8 bits each (1K × 8). The number of 2 × 4 decoders with enable line needed to construct a 16K × 16 RAM from 1K × 8 RAM is<br>\n<br>\n(A) 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(B) 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(C) 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(D) 7</div><br><br><b>GATE CSE 2013 | Question: 46</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>B</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1555/gate-cse-2013-question-46\" target=\"_blank\">https://gateoverflow.in/1555/gate-cse-2013-question-46</a></p>"
+        }
+      ]
+    }
+  ]
+}

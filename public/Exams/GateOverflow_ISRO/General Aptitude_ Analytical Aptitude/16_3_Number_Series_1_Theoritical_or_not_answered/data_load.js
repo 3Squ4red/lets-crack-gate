@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Analytical Aptitude - Number Series - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Number Series",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"435313\"></a><div itemprop=\"text\"><p>Find out the wrong number in the series.<br>\\[<br>7,8,18,57,228,1165,6996<br>\\]</p></div><br><br><b>ISRO CSE 2023 | Question: 82</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 7 \\)</p>",
+            "<p>\\( 8 \\)</p>",
+            "<p>\\( 6996 \\)</p>",
+            "<p>\\( 228 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/435313/isro-cse-2023-question-82\" target=\"_blank\">https://gateoverflow.in/435313/isro-cse-2023-question-82</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,59 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Combinatory - Counting - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Counting",
+      "questions": [
+        {
+          "id": 9,
+          "question": "<p><a name=\"381951\"></a><div itemprop=\"text\"><p>A snail crawls up a vertical pole \\( 75 \\) feet high, starting from the ground. Each day it crawls up \\( 5 \\) feet, and each night it slides down \\( 4 \\) feet. When will it first reach the top of the pole?</p>\n\n</div><br><br><b>TIFR CSE 2022 | Part A | Question: 1</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 75^{\\text {th}} \\) day</p>",
+            "<p>\\( 74^{\\text {th}} \\) day</p>",
+            "<p>\\( 73^{ \\text{rd}} \\) day</p>",
+            "<p>\\( 72^{\\text {nd }} \\) day</p>",
+            "<p>\\( 71^{\\text {st }} \\) day</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/381951/tifr-cse-2022-part-a-question-1\" target=\"_blank\">https://gateoverflow.in/381951/tifr-cse-2022-part-a-question-1</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"400131\"></a><div itemprop=\"text\"><p>Suppose <img alt=\"\" height=\"27\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/discrete_mathematics_combinatory_counting/20055935992e3b4fadd321cc7e29b243.png\" width=\"28\">&nbsp;is a piece on a chess board that attacks squares that are exactly two steps in the vertical direction, and squares that are adjacent horizontally (as marked with a \"*\" figure in the image below)</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/discrete_mathematics_combinatory_counting/f6b7f211d0c1b38983d97a12555426c2.png\"></p>\n\n<p>What is the maximum number of these pieces that can be placed on the squares of a standard \\( 8 \\times 8 \\) chess board such that no two of these pieces attack each other? (Note that each square is allowed to contain at most one piece.)</p>\n\n</div><br><br><b>TIFR CSE 2023 | Part A | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 8 \\)</p>",
+            "<p>\\( 16 \\)</p>",
+            "<p>\\( 24 \\)</p>",
+            "<p>\\( 32 \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/400131/tifr-cse-2023-part-a-question-12\" target=\"_blank\">https://gateoverflow.in/400131/tifr-cse-2023-part-a-question-12</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"400141\"></a><div itemprop=\"text\"><p>How many distinct rectangles can be formed using the vertices in the grid shown below? Squares are also counted as rectangles, and two rectangles are distinct if either their top-left vertices are different or their bottom-right vertices are different.</p>\n\n<p>\\[ \\begin{array}{|c|c|c|c|}\\hline \\quad&\\quad&nbsp;&\\quad &\\quad \\\\\\hline&nbsp;\\quad&\\quad&nbsp;&\\quad &\\quad \\\\\\hline&nbsp;\\quad&\\quad&nbsp;&\\quad &\\quad \\\\\\hline&nbsp;\\quad&\\quad&nbsp;&\\quad &\\quad \\\\\\hline&nbsp;&nbsp;\\end{array} \\]</p>\n\n</div><br><br><b>TIFR CSE 2023 | Part A | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 16 \\)</p>",
+            "<p>\\( 25 \\)</p>",
+            "<p>\\( 36 \\)</p>",
+            "<p>\\( 64 \\)</p>",
+            "<p>\\( 100 \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/400141/tifr-cse-2023-part-a-question-2\" target=\"_blank\">https://gateoverflow.in/400141/tifr-cse-2023-part-a-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+});

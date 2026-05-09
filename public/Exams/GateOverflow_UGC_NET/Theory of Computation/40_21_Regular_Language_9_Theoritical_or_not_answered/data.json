@@ -1,0 +1,41 @@
+{
+  "title": "Theory of Computation - Regular Language - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Regular Language",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"71606\"></a><div itemprop=\"text\"><p>Given the following two languages :</p><p>\\( L_{1} = {uww^{R}&nbsp;ν | u, v, w \\in (a, b)^{+}} \\)</p><p>\\( L_{2} = {uww^{R}&nbsp;ν | u, ν, w \\in (a, b)^{+}&nbsp;, |u| \\geq&nbsp;|ν|} \\)</p><p>Which of the following is correct ?</p></div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 55</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( L_{1} \\) is regular language and \\( L_{2} \\) is not regular language.</p>",
+            "<p>\\( L_{1} \\) is not regular language and \\( L_{2} \\) is regular language.</p>",
+            "<p>Both \\( L_{1} \\) and \\( L_{2} \\) are regular languages.</p>",
+            "<p>Both \\( L_{1} \\) and \\( L_{2} \\) are not regular languages.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/71606/ugc-net-cse-august-2016-part-3-question-55\" target=\"_blank\">https://gateoverflow.in/71606/ugc-net-cse-august-2016-part-3-question-55</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"349617\"></a><div itemprop=\"text\"><p>Consider the following languages:</p><p>\\( L_1=\\{a^{\\grave{z}^z} \\mid \\grave{Z} \\text{is an integer} \\} \\)</p><p>\\( L_2=\\{a^{z\\grave{z}} \\mid \\grave{Z} \\geq 0\\} \\)</p><p>\\( L_3=\\{ \\omega \\omega \\mid \\omega \\epsilon \\{a,b\\}^*\\} \\)</p><p>Which of the languages is(are) regular?</p><p>Choose the correct answer from the options given below:</p></div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 56</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( L_1 \\) and \\( L_2 \\) only</p>",
+            "<p>\\( L_1 \\) and \\( L_3 \\) only</p>",
+            "<p>\\( L_1 \\) only</p>",
+            "<p>\\( L_2 \\) only</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349617/ugc-net-cse-october-2020-part-2-question-56\" target=\"_blank\">https://gateoverflow.in/349617/ugc-net-cse-october-2020-part-2-question-56</a></p>"
+        }
+      ]
+    }
+  ]
+}

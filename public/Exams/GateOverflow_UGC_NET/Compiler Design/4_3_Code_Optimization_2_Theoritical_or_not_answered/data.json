@@ -1,0 +1,26 @@
+{
+  "title": "Compiler Design - Code Optimization - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Code Optimization",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335636\"></a><div itemprop=\"text\"><p>Peer-hole optimization is a form of :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>loop optimization</p>",
+            "<p>local&nbsp;optimization</p>",
+            "<p>constant folding</p>",
+            "<p>data flow analysis</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335636/ugc-net-cse-december-2006-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/335636/ugc-net-cse-december-2006-part-2-question-35</a></p>"
+        }
+      ]
+    }
+  ]
+}

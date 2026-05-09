@@ -1,0 +1,43 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Calculus - Differentiation",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Differentiation",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"179274\"></a><div itemprop=\"text\"><p>Which of the following is&nbsp;the derivative of \\( f(x)=x^{x} \\) when \\( x&gt;0 \\) ?</p>\n\n</div><br><br><b>TIFR CSE 2018 | Part A | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( x^{x} \\)</p>",
+            "<p>\\( x^{x} \\ln \\;x \\)</p>",
+            "<p>\\( x^{x}+x^{x}\\ln\\;x \\)</p>",
+            "<p>\\( (x^{x}) (x^{x}\\ln\\;x) \\)</p>",
+            "<p>\\( \\text{None of the above; function is not differentiable for}x&gt;0 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( x^{x}+x^{x}\\ln\\;x \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/179274/tifr-cse-2018-part-a-question-5\" target=\"_blank\">https://gateoverflow.in/179274/tifr-cse-2018-part-a-question-5</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"400129\"></a><div itemprop=\"text\"><p>Let \\( f(x)=a x^{3}+b x^{2}+c x+d \\) be a polynomial, where \\( a, b, c, d \\) are unknown real numbers. It is further given that \\( f(1)=1, f(2)=2, f(3)=9 \\), and \\( f^{\\prime}(1)=0 \\). Then, the value of \\( f^{\\prime}(2) \\) must be</p>\n\n</div><br><br><b>TIFR CSE 2023 | Part A | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1 \\)</p>",
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( f^{\\prime}(2) \\) cannot be determined uniquely from the information given in the question.</p>"
+          ],
+          "correct_answer": "<p>\\( 3 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/400129/tifr-cse-2023-part-a-question-14\" target=\"_blank\">https://gateoverflow.in/400129/tifr-cse-2023-part-a-question-14</a></p>"
+        }
+      ]
+    }
+  ]
+});

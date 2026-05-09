@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Routing - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Routing",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"63074\"></a><div itemprop=\"text\"><p>A station in a network in a network forward incoming packets by placing them on its shortest output queue. What routing algorithm is being used ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2011 | Part 2 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Hot potato routing</p>",
+            "<p>Flooding</p>",
+            "<p>Static routing</p>",
+            "<p>Delta routing</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63074/ugc-net-cse-december-2011-part-2-question-12\" target=\"_blank\">https://gateoverflow.in/63074/ugc-net-cse-december-2011-part-2-question-12</a></p>"
+        }
+      ]
+    }
+  ]
+});

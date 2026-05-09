@@ -1,0 +1,43 @@
+{
+  "title": "Algorithms - Asymptotic Notations - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Asymptotic Notations",
+      "questions": [
+        {
+          "id": 9,
+          "question": "<p><a name=\"333131\"></a><div itemprop=\"text\"><p>Among the following asymptotic expressions, which of these functions grows the slowest (as a function of \\( n \\)) asymptotically?</p>\n\n</div><br><br><b>TIFR CSE 2020 | Part B | Question: 10</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2^{\\log n} \\)</p>",
+            "<p>\\( n^{10} \\)</p>",
+            "<p>\\( (\\sqrt{\\log n})^{\\log ^{2} n} \\)</p>",
+            "<p>\\( (\\log n)^{\\sqrt{\\log n}} \\)</p>",
+            "<p>\\( 2^{2^{\\sqrt{\\log\\log n}}} \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/333131/tifr-cse-2020-part-b-question-10\" target=\"_blank\">https://gateoverflow.in/333131/tifr-cse-2020-part-b-question-10</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"419346\"></a><div itemprop=\"text\"><p>Consider the following three functions defined for all positive integers \\( n \\geq 0 \\).<br>\n\\[<br>\n\\begin{array}{l}<br>\nf(n)=|\\sin (n)+n|, \\\\<br>\ng(n)=n, \\\\<br>\nh(n)=|\\sin (n)| .<br>\n\\end{array}<br>\n\\]<br>\n<br>\nWhich of the following statements about these functions is / are true?</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>\\( f(n)=O(g(n)) \\)</li>\n\t<li>\\( g(n)=O(f(n)) \\)</li>\n\t<li>\\( h(n)=O(g(n)) \\)</li>\n</ol>\n\n<p>&nbsp;</p>\n\n\n\n<p>&nbsp;</p></div><br><br><b>TIFR CSE 2024 | Part B | Question: 1</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Only&nbsp;\\( \\text{(i)} \\) is true.</p>",
+            "<p>Only \\( \\text{(ii)} \\) is true.</p>",
+            "<p>Only \\( \\text{(i)} \\) and \\( \\text{(ii)} \\) are true.</p>",
+            "<p>Only \\( \\text{(ii)} \\) and \\( \\text{(iii)} \\) are true</p>",
+            "<p>All of \\( \\text{(i), (ii)} \\), and \\( \\text{(iii)} \\) are true.</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/419346/tifr-cse-2024-part-b-question-1\" target=\"_blank\">https://gateoverflow.in/419346/tifr-cse-2024-part-b-question-1</a></p>"
+        }
+      ]
+    }
+  ]
+}

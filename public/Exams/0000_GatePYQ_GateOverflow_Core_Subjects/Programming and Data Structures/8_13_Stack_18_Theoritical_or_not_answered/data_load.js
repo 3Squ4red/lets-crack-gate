@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Programming and DS_ Data Structures - Stack - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Stack",
+      "questions": []
+    }
+  ]
+});

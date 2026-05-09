@@ -1,0 +1,41 @@
+{
+  "title": "Databases - Rdbms - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Rdbms",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"225824\"></a><div itemprop=\"text\"><p>Consider a relation book (title, price) which contains the titles and prices of different books. Assuming that no two books have the same price, what does the following SQL query?</p>\n\n<pre class=\"prettyprint lang-sql\" data-pbcklang=\"sql\" data-pbcktabsize=\"4\">Select title\nfrom book as B\nwhere (select count(*)\n    from book as T\n    where T.price &gt; B. price &lt; 7</pre>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 62</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Titles of the six most expensive books</p>",
+            "<p>Title of the sixth most expensive books</p>",
+            "<p>Titles of the seven most expensive books</p>",
+            "<p>Title of the seventh most expensive books</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225824/ugc-net-cse-july-2018-part-2-question-62\" target=\"_blank\">https://gateoverflow.in/225824/ugc-net-cse-july-2018-part-2-question-62</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"225820\"></a><div itemprop=\"text\"><p>For a database relation \\( R(a, b, c, d) \\) where the domains of a, b, c and d include only atomic values and only the following functional dependencies and those that can be inferred from them hold:</p>\n\n<p>\\( a \\rightarrow c \\)</p>\n\n<p>\\( b \\rightarrow d \\)</p>\n\n<p>The relation is in ____</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 66</b></p>",
+          "type": "single",
+          "options": [
+            "<p>First normal form but not in second normal form</p>",
+            "<p>Second&nbsp;normal form but not in third&nbsp;normal form</p>",
+            "<p>Third&nbsp;normal form</p>",
+            "<p>BCNF</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225820/ugc-net-cse-july-2018-part-2-question-66\" target=\"_blank\">https://gateoverflow.in/225820/ugc-net-cse-july-2018-part-2-question-66</a></p>"
+        }
+      ]
+    }
+  ]
+}

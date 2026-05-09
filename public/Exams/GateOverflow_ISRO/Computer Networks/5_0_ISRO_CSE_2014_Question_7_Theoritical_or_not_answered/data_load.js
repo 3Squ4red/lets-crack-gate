@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - ISRO CSE 2014  Question - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "ISRO CSE 2014  Question",
+      "questions": []
+    }
+  ]
+});

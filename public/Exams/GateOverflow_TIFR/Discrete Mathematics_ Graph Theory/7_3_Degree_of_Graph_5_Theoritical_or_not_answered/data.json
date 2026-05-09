@@ -1,0 +1,27 @@
+{
+  "title": "Discrete Mathematics_ Graph Theory - Degree of Graph - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Degree of Graph",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"280492\"></a><div itemprop=\"text\"><p>A graph is \\( d \\) – regular&nbsp;if every vertex has degree \\( d \\). For a \\( d \\) – regular&nbsp;graph on \\( n \\) vertices, which of the following must be TRUE?</p>\n\n</div><br><br><b>TIFR CSE 2019 | Part B | Question: 3</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( d \\) divides \\( n \\)</p>",
+            "<p>Both \\( d \\) and \\( n \\) are even</p>",
+            "<p>Both \\( d \\) and \\( n \\) are odd</p>",
+            "<p>At least one of \\( d \\) and \\( n \\) is odd</p>",
+            "<p>At least one of \\( d \\) and \\( n \\) is even</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/280492/tifr-cse-2019-part-b-question-3\" target=\"_blank\">https://gateoverflow.in/280492/tifr-cse-2019-part-b-question-3</a></p>"
+        }
+      ]
+    }
+  ]
+}

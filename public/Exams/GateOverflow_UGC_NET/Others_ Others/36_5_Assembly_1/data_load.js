@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Assembly",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Assembly",
+      "questions": []
+    }
+  ]
+});

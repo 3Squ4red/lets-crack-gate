@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ IS&Software Engineering - Issoftware Engineering - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Issoftware Engineering",
+      "questions": [
+        {
+          "id": 11,
+          "question": "<p><a name=\"336690\"></a><div itemprop=\"text\"><p>Relation of COCOMO model is</p>\n\n</div><br><br><b>NIELIT 2016 MAR Scientist B - Section C: 51</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( E=a*(KLOC)^6 \\)</p>",
+            "<p>\\( E=a*(KLOC)^5 \\)</p>",
+            "<p>\\( E=a*(KLOC)^7 \\)</p>",
+            "<p>\\( E=a*(KLOC)^3 \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336690/nielit-2016-mar-scientist-b-section-c-51\" target=\"_blank\">https://gateoverflow.in/336690/nielit-2016-mar-scientist-b-section-c-51</a></p>"
+        }
+      ]
+    }
+  ]
+});

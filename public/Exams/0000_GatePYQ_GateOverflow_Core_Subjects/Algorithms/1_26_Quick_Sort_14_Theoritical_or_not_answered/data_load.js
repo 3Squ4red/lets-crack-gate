@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Quick Sort - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Quick Sort",
+      "questions": []
+    }
+  ]
+});

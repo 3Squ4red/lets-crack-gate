@@ -1,0 +1,27 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Probability - Uniform Distribution - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Uniform Distribution",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"25498\"></a><div itemprop=\"text\"><p>Consider three independent uniformly distributed (taking values between \\( 0 \\) and \\( 1 \\)) random variables.&nbsp;What is the probability that the middle of the three values (between the lowest and the highest value) lies&nbsp;between \\( a \\) and \\( b \\) where \\( 0 ≤ a &lt; b ≤ 1 \\)?</p>\n\n</div><br><br><b>TIFR CSE 2013 | Part A | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3 (1 - b) a (b - a) \\)</p>",
+            "<p>\\( 3 ((b - a) - (b^{2}- a^{2})/2) \\)</p>",
+            "<p>\\( 6 (1 - b) a (b - a) \\)</p>",
+            "<p>\\( (1 - b) a (b - a) \\)</p>",
+            "<p>\\( 6 ((b^{2}- a^{2})/ 2 - (b^{3} - a^{3})/3) \\).</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25498/tifr-cse-2013-part-a-question-18\" target=\"_blank\">https://gateoverflow.in/25498/tifr-cse-2013-part-a-question-18</a></p>"
+        }
+      ]
+    }
+  ]
+});

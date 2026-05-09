@@ -1,0 +1,86 @@
+{
+  "title": "Programming and DS - Programming In C - Theoretical/Not Answered",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "Programming In C",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"69503\"></a><div itemprop=\"text\"><p>Given&nbsp;\\( i= 0, j = 1, k = -&nbsp;1, x = 0.5, y = 0.0 \\)&nbsp;</p>\n\n<p>What is the output of given \\( ‘C’ \\) expression?</p>\n\n<p>x * 3 & & 3 || j | k</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( -1 \\)&nbsp;</p>",
+            "<p>\\( 0 \\)&nbsp;</p>",
+            "<p>\\( 1 \\)&nbsp;</p>",
+            "<p>\\( 2 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/69503/ugc-net-cse-august-2016-part-2-question-11\" target=\"_blank\">https://gateoverflow.in/69503/ugc-net-cse-august-2016-part-2-question-11</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"66600\"></a><div itemprop=\"text\"><p>How many of the following declarations are correct ?</p>\n\n<p>int \\( z = 7.0 \\);</p>\n\n<p>double void = \\( 0.000 \\);</p>\n\n<p>short array \\( [2] = {0, 1, 2} \\);&nbsp;</p>\n\n<p>char c = “\\n”;</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>None</p>",
+            "<p>One is correct</p>",
+            "<p>Two are correct</p>",
+            "<p>All four are correct</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66600/ugc-net-cse-december-2010-part-2-question-11\" target=\"_blank\">https://gateoverflow.in/66600/ugc-net-cse-december-2010-part-2-question-11</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"66603\"></a><div itemprop=\"text\"><p>Which one of the following will set the value of \\( y \\) to \\( 5 \\) if \\( x \\) has the value&nbsp;\\( 3 \\), but not otherwise ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>If \\( (x = 3) y = 5 \\)&nbsp;</p>",
+            "<p>If \\( x = = 3 (y = 5) \\)</p>",
+            "<p>If \\( (x = = 3); y = 5 \\)&nbsp;</p>",
+            "<p>If \\( (x = = 3) y = 5 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66603/ugc-net-cse-december-2010-part-2-question-13\" target=\"_blank\">https://gateoverflow.in/66603/ugc-net-cse-december-2010-part-2-question-13</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"335719\"></a><div itemprop=\"text\"><p>What is the output of the following \\( \\text{’C’} \\) program?</p>\n\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">main()\n{\n    printf(“%x”,-1&gt;&gt;4);\n}</pre>\n\n</div><br><br><b>UGC NET CSE | June 2007 | Part 2 | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{ffff} \\)</p>",
+            "<p>\\( \\text{0fff} \\)</p>",
+            "<p>\\( \\text{0000} \\)</p>",
+            "<p>\\( \\text{fff0} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335719/ugc-net-cse-june-2007-part-2-question-14\" target=\"_blank\">https://gateoverflow.in/335719/ugc-net-cse-june-2007-part-2-question-14</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"349664\"></a><div itemprop=\"text\"><p>Consider the following pseudo-code fragment, where \\( a \\) and \\( b \\) are integer variables that have been initialized:</p>\n\n<p>/* Pre-conditions : \\( (a &gt; 1 \\wedge&nbsp;a &lt; b) \\) */</p>\n\n<p>/* Assume that overflow never occurs */</p>\n\n<p>int \\( x=0 \\); int \\( p=1 \\);</p>\n\n<p>while \\( (p&lt;b) \\{ \\)</p>\n\n<p>\\( p=p*a \\);</p>\n\n<p>\\( x=x+1 \\);</p>\n\n<p>\\( \\} \\)</p>\n\n<p>When the while loop terminates, what will be the value of \\( x \\) in terms of \\( a \\) and \\( b \\)?</p>\n\n</div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( a^b \\)</p>",
+            "<p>\\( b^a \\)</p>",
+            "<p>\\( \\lfloor \\log_a^b \\rfloor \\) /* \\( \\lfloor \\: \\: \\rfloor \\) means floor */</p>",
+            "<p>\\( \\lfloor \\log_a^b \\rfloor \\) /* \\( \\lceil \\: \\: \\rceil \\) means ceil */</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349664/ugc-net-cse-october-2020-part-2-question-9\" target=\"_blank\">https://gateoverflow.in/349664/ugc-net-cse-october-2020-part-2-question-9</a></p>"
+        }
+      ]
+    }
+  ]
+}

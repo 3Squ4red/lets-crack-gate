@@ -1,0 +1,27 @@
+{
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Partial Order - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Partial Order",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"2303\"></a><div itemprop=\"text\"><p>The less-than relation, \\( &lt;, \\) on real number is</p></div><br><br><b>GATE CSE 1993 | Question: 8.5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>a partial ordering since it is asymmetric and reflexive</p>",
+            "<p>a partial ordering since it is antisymmetric and reflexive</p>",
+            "<p>not a partial ordering because it is not asymmetric and not reflexive</p>",
+            "<p>not a partial ordering because it is not antisymmetric and reflexive</p>",
+            "<p>none of the above</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/2303/gate-cse-1993-question-8-5\" target=\"_blank\">https://gateoverflow.in/2303/gate-cse-1993-question-8-5</a></p>"
+        }
+      ]
+    }
+  ]
+}

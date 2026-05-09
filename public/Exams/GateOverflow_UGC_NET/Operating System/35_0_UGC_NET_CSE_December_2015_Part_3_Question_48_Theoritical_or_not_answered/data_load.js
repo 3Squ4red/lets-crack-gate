@@ -1,0 +1,326 @@
+window.__examLoadCallback({
+  "title": "Operating System - UGC NET CSE  December 2015  Part 3  Question - Theoretical/Not Answered",
+  "duration": 64,
+  "sections": [
+    {
+      "name": "UGC NET CSE  December 2015  Part 3  Question",
+      "questions": [
+        {
+          "id": 15,
+          "question": "<p><a name=\"62273\"></a><div itemprop=\"text\"><p>A system has 4 processes and 5 allocatable resources. The current allocation and maximum needs are as follows:</p>\n\n<table border=\"0\" cellpadding=\"1\" style=\"width:500px; border-spacing: 1px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t\t<td><strong>Allocated</strong></td>\n\t\t\t<td><strong>Maximum</strong></td>\n\t\t\t<td><strong>Available</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Process&nbsp;<strong>A</strong></td>\n\t\t\t<td>1 0 2 1 1</td>\n\t\t\t<td>1 1 2 1 3</td>\n\t\t\t<td>0 0 x 1 1</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Process&nbsp;<strong>B</strong></td>\n\t\t\t<td>2 0 1 1 0</td>\n\t\t\t<td>2 2 2 1 0</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Process&nbsp;<strong>C</strong></td>\n\t\t\t<td>1 1 0 1 0</td>\n\t\t\t<td>2 1 3 1 0</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Process&nbsp;<strong>D</strong></td>\n\t\t\t<td>1 1 1 1 0</td>\n\t\t\t<td>1 1 2 2 1</td>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>The smallest value of x for which the above system in safe state is</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 29</b></p>",
+          "type": "single",
+          "options": [
+            "<p>1</p>",
+            "<p>3</p>",
+            "<p>2</p>",
+            "<p>0</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62273/ugc-net-cse-december-2015-part-2-question-29\" target=\"_blank\">https://gateoverflow.in/62273/ugc-net-cse-december-2015-part-2-question-29</a></p>"
+        },
+        {
+          "id": 18,
+          "question": "<p><a name=\"66816\"></a><div itemprop=\"text\"><p>Optical storage is a</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 19</b></p>",
+          "type": "single",
+          "options": [
+            "<p>High-speed direct access storage device.</p>",
+            "<p>Low-speed direct access storage device.</p>",
+            "<p>Medium-speed direct access storage device.</p>",
+            "<p>High-speed sequential access storage device.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66816/ugc-net-cse-december-2010-part-2-question-19\" target=\"_blank\">https://gateoverflow.in/66816/ugc-net-cse-december-2010-part-2-question-19</a></p>"
+        },
+        {
+          "id": 19,
+          "question": "<p><a name=\"67022\"></a><div itemprop=\"text\"><p>Page making process from main memory to disk is called</p></div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 39</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Interruption</p>",
+            "<p>Termination</p>",
+            "<p>Swapping</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67022/ugc-net-cse-december-2010-part-2-question-39\" target=\"_blank\">https://gateoverflow.in/67022/ugc-net-cse-december-2010-part-2-question-39</a></p>"
+        },
+        {
+          "id": 23,
+          "question": "<p><a name=\"71582\"></a><div itemprop=\"text\"><p>Consider the following page reference string :</p>\n\n<p>\\( 1, 2, 3, 4, 2, 1, 5, 6, 2, 1, 2, 3, 7, 6, 3, 2, 1, 2, 3, 6 \\)&nbsp;</p>\n\n<p>Which of the following options, gives the correct number of page faults related to LRU, FIFO, and optimal page replacement algorithms respectively, assuming \\( 05 \\) page frames and all frames are initially empty ?</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 10, 14, 8 \\)</p>",
+            "<p>\\( 8, 10, 7 \\)&nbsp;</p>",
+            "<p>\\( 7, 10, 8 \\)&nbsp;</p>",
+            "<p>\\( 7, 10, 7 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/71582/ugc-net-cse-august-2016-part-3-question-52\" target=\"_blank\">https://gateoverflow.in/71582/ugc-net-cse-august-2016-part-3-question-52</a></p>"
+        },
+        {
+          "id": 26,
+          "question": "<p><a name=\"154488\"></a><div itemprop=\"text\"><p>Variable partition memory management technique with compaction results in :</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Reduction of fragmentation&nbsp;&nbsp;&nbsp;</p>",
+            "<p>Minimal wastage &nbsp;</p>",
+            "<p>Segment sharing&nbsp; &nbsp;&nbsp;</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154488/ugc-net-cse-june-2009-part-2-question-38\" target=\"_blank\">https://gateoverflow.in/154488/ugc-net-cse-june-2009-part-2-question-38</a></p>"
+        },
+        {
+          "id": 27,
+          "question": "<p><a name=\"166428\"></a><div itemprop=\"text\"><p>Consider a system with five processes \\( P_0 \\) through \\( P_4 \\) and three resource types \\( A, B \\) and \\( C \\). Resource type \\( A \\) has seven instances, resource type \\( B \\) has two instances and resource type \\( C \\) has six instances suppose at time \\( T_0 \\) we have the following allocation.</p><p style=\"text-align:center\"><img alt=\"Resource request table\" width=\"750\" height=\"281\" src=\"images/gateOverFlowPDFsImages/ugcnet/operating_system_ugc_net_cse_december_2015_part_3_question/657c5b36d7f1da78f15154026e91a2c0.png\"></p><p>If we implement Deadlock&nbsp;detection algorithm we claim that system is ________</p></div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Semaphore</p>",
+            "<p>Deadlock state</p>",
+            "<p>Circular wait</p>",
+            "<p>Not in deadlock state</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166428/ugc-net-cse-november-2017-part-3-question-52\" target=\"_blank\">https://gateoverflow.in/166428/ugc-net-cse-november-2017-part-3-question-52</a></p>"
+        },
+        {
+          "id": 29,
+          "question": "<p><a name=\"225829\"></a><div itemprop=\"text\"><p>Page information memory is also called as Page Table. The essential contents in each entry of a page table is/are ____</p></div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 57</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Page Access information</p>",
+            "<p>Virtual Page number</p>",
+            "<p>Page Frame number</p>",
+            "<p>Both virtual page number and Page frame number</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225829/ugc-net-cse-july-2018-part-2-question-57\" target=\"_blank\">https://gateoverflow.in/225829/ugc-net-cse-july-2018-part-2-question-57</a></p>"
+        },
+        {
+          "id": 30,
+          "question": "<p><a name=\"225833\"></a><div itemprop=\"text\"><p>In&nbsp;a multi-user operating system, 30 requests are made to use a particular resource per hour, on an average. The probability that no requests are made in 40 minutes, when arrival pattern is a poisson distribution, is ______</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 53</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( e^{-15} \\)</p>",
+            "<p>\\( 1-e^{-15} \\)</p>",
+            "<p>\\( 1-e^{-20} \\)</p>",
+            "<p>\\( e^{-20} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225833/ugc-net-cse-july-2018-part-2-question-53\" target=\"_blank\">https://gateoverflow.in/225833/ugc-net-cse-july-2018-part-2-question-53</a></p>"
+        },
+        {
+          "id": 31,
+          "question": "<p><a name=\"225834\"></a><div itemprop=\"text\"><p>In a paged memory, the page hit ratio is 0.40. The time required to access a page in secondary memory is equal to 120 ns. The time required to access a page in primary memory is 15 ns. The average time required to access a page is ____</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>105</p>",
+            "<p>68</p>",
+            "<p>75</p>",
+            "<p>78</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225834/ugc-net-cse-july-2018-part-2-question-52\" target=\"_blank\">https://gateoverflow.in/225834/ugc-net-cse-july-2018-part-2-question-52</a></p>"
+        },
+        {
+          "id": 35,
+          "question": "<p><a name=\"335172\"></a><div itemprop=\"text\"><p>Names of some of the Operating Systems are given below:</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>MS-DOS&nbsp;&nbsp;&nbsp; &nbsp;</li>\n\t<li>XENIX&nbsp;&nbsp;&nbsp;&nbsp;</li>\n\t<li>OS/\\( 2 \\)</li>\n</ol>\n\n<p>In the above list, following operating systems didn’t&nbsp; provide multiuser facility.</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 3 | Question: 66</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(i) only</p>",
+            "<p>(i)&nbsp; and (ii)only</p>",
+            "<p>(ii) and (iii) only</p>",
+            "<p>(i),(ii) and (iii)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335172/ugc-net-cse-january-2017-part-3-question-66\" target=\"_blank\">https://gateoverflow.in/335172/ugc-net-cse-january-2017-part-3-question-66</a></p>"
+        },
+        {
+          "id": 37,
+          "question": "<p><a name=\"335590\"></a><div itemprop=\"text\"><p>Remote computing system involves the use of timesharing systems and :</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Real time processing</p>",
+            "<p>Batch processing</p>",
+            "<p>Multiprocessing</p>",
+            "<p>All of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335590/ugc-net-cse-december-2004-part-2-question-38\" target=\"_blank\">https://gateoverflow.in/335590/ugc-net-cse-december-2004-part-2-question-38</a></p>"
+        },
+        {
+          "id": 38,
+          "question": "<p><a name=\"335591\"></a><div itemprop=\"text\"><p>In which of the following storage replacement strategies, is a program placed in the largest available hole in the memory ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 37</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Best fit</p>",
+            "<p>First fit</p>",
+            "<p>Worst fit</p>",
+            "<p>Buddy</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335591/ugc-net-cse-december-2004-part-2-question-37\" target=\"_blank\">https://gateoverflow.in/335591/ugc-net-cse-december-2004-part-2-question-37</a></p>"
+        },
+        {
+          "id": 39,
+          "question": "<p><a name=\"335592\"></a><div itemprop=\"text\"><p>Semaphores are used to :</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Synchronise critical resources to prevent deadlock</p>",
+            "<p>Synchronise critical resources to prevent contention</p>",
+            "<p>Do I/o</p>",
+            "<p>Facilitate memory management</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335592/ugc-net-cse-december-2004-part-2-question-36\" target=\"_blank\">https://gateoverflow.in/335592/ugc-net-cse-december-2004-part-2-question-36</a></p>"
+        },
+        {
+          "id": 40,
+          "question": "<p><a name=\"335631\"></a><div itemprop=\"text\"><p>Loading operating system from secondary memory to primary memory is called ____________ .</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Compiling</p>",
+            "<p>Booting</p>",
+            "<p>Refreshing</p>",
+            "<p>Reassembling</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335631/ugc-net-cse-december-2006-part-2-question-40\" target=\"_blank\">https://gateoverflow.in/335631/ugc-net-cse-december-2006-part-2-question-40</a></p>"
+        },
+        {
+          "id": 41,
+          "question": "<p><a name=\"335635\"></a><div itemprop=\"text\"><p>An operating system is :</p></div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Collection of hardware components</p>",
+            "<p>Collection of input-output devices</p>",
+            "<p>Collection of software routines</p>",
+            "<p>All the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335635/ugc-net-cse-december-2006-part-2-question-36\" target=\"_blank\">https://gateoverflow.in/335635/ugc-net-cse-december-2006-part-2-question-36</a></p>"
+        },
+        {
+          "id": 42,
+          "question": "<p><a name=\"335744\"></a><div itemprop=\"text\"><p>The aging algorithm with a = \\( 0.5 \\) is used to predict run times. The previous four runs from oldest to most recent are \\( 40, 20, 20, \\) and \\( 15 \\)&nbsp;msec. The prediction for the next time will be :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 15 \\) msec.</p>",
+            "<p>\\( 25 \\) msec.</p>",
+            "<p>\\( 39 \\) msec.</p>",
+            "<p>\\( 40 \\) msec.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335744/ugc-net-cse-december-2007-part-2-question-40\" target=\"_blank\">https://gateoverflow.in/335744/ugc-net-cse-december-2007-part-2-question-40</a></p>"
+        },
+        {
+          "id": 43,
+          "question": "<p><a name=\"335746\"></a><div itemprop=\"text\"><p>Average process size = \\( s \\) bytes. Each page entry requires \\( e \\) bytes. The optimum page size is given by :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\sqrt{(se)} \\)</p>",
+            "<p>\\( \\sqrt{(2se)} \\)</p>",
+            "<p>\\( s \\)</p>",
+            "<p>\\( e \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335746/ugc-net-cse-december-2007-part-2-question-38\" target=\"_blank\">https://gateoverflow.in/335746/ugc-net-cse-december-2007-part-2-question-38</a></p>"
+        },
+        {
+          "id": 44,
+          "question": "<p><a name=\"335747\"></a><div itemprop=\"text\"><p>A program has five virtual pages, numbered from \\( 0 \\) to \\( 4 \\). If the pages are referenced in the order \\( 012301401234 \\), with three page frames, the total number of page faults with FIFO will be equal to :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 37</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 0 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 9 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335747/ugc-net-cse-december-2007-part-2-question-37\" target=\"_blank\">https://gateoverflow.in/335747/ugc-net-cse-december-2007-part-2-question-37</a></p>"
+        },
+        {
+          "id": 45,
+          "question": "<p><a name=\"335748\"></a><div itemprop=\"text\"><p>How&nbsp;many states can a process be in ?</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 5 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335748/ugc-net-cse-december-2007-part-2-question-36\" target=\"_blank\">https://gateoverflow.in/335748/ugc-net-cse-december-2007-part-2-question-36</a></p>"
+        },
+        {
+          "id": 46,
+          "question": "<p><a name=\"335759\"></a><div itemprop=\"text\"><p>The performance of a file system depends upon the cache hit rate. If it takes \\( 1 \\)&nbsp;msec to satisfy a request from the cache but \\( 10 \\) msec to satisfy a request if a disk read is needed, then the mean time (ms) required for a hit rate \\( ’h’ \\) is given by :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 25</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1 \\)</p>",
+            "<p>\\( h+10(1-h) \\)</p>",
+            "<p>\\( (1-h)+10h \\)</p>",
+            "<p>\\( 10 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335759/ugc-net-cse-december-2007-part-2-question-25\" target=\"_blank\">https://gateoverflow.in/335759/ugc-net-cse-december-2007-part-2-question-25</a></p>"
+        },
+        {
+          "id": 48,
+          "question": "<p><a name=\"386098\"></a><div itemprop=\"text\"><p>Match List I with List II :</p>\n\n<p>\\begin{array}{ll} \\text{List I} & \\text{List II} \\\\ \\\\<br>\n\\text { (A) Least frequently used } & \\text { (I) Memory is distributed among processors } \\\\<br>\n\\text { (B) Critical Section } & \\text { (II) Page replacement policy in cache memory } \\\\<br>\n\\text { (C) Loosely coupled multiprocessor&nbsp;} & \\text { (III) Program section that once begin must}&nbsp;\\\\<br>\n\\qquad \\text{system}&\\qquad \\text&nbsp;{&nbsp; complete execution before another processor} \\\\<br>\n&\\qquad \\text&nbsp;{&nbsp; access the same shared resource }&nbsp;\\\\<br>\n\\text{(D) Distributed operating system&nbsp;} &nbsp;& \\text{(IV) O/S routines are distributed among}\\\\<br>\n\\qquad \\text{organization}<br>\n\\end{array}</p>\n\n<p>Choose the correct answer from the options given below :</p>\n\n</div><br><br><b>UGC NET CSE | October 2022 | Part 1 | Question: 59</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(A)-(III), (B)-(II), (C)-(IV). (D)-(I)} \\)</p>",
+            "<p>\\( \\text{(A)-(I), (B)-(II), (C)-(III), (D)-(IV)} \\)</p>",
+            "<p>\\( \\text{(A)-(II), (B)-(III), (C)-(I), (D)-(IV)} \\)</p>",
+            "<p>\\( \\text{(A)-(II), (B)-(I), (C)-(Iii), (D)-(IV)} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/386098/ugc-net-cse-october-2022-part-1-question-59\" target=\"_blank\">https://gateoverflow.in/386098/ugc-net-cse-october-2022-part-1-question-59</a></p>"
+        }
+      ]
+    }
+  ]
+});

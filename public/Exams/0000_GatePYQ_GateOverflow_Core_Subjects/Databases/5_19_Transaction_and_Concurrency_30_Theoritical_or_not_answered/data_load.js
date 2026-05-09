@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Databases - Transaction and Concurrency - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Transaction and Concurrency",
+      "questions": [
+        {
+          "id": 26,
+          "question": "<p><a name=\"3721\"></a><div itemprop=\"text\"><p>Consider the following schedule \\( S \\) of transactions \\( T1 \\) and \\( T2: \\)</p>\n\n<p>\\[ {\\begin{array}{l|l}<br>\n\\textbf{T1}&&nbsp; &nbsp; \\textbf{T2} \\\\\\hline<br>\n\\text{Read(A)} \\\\<br>\n\\text{A = A – 10}\\\\<br>\n&&nbsp; &nbsp;\\text{Read(A)}\\\\ &nbsp;<br>\n&&nbsp; \\text{Temp = 0.2*A} \\\\<br>\n& \\text{Write(A)}&nbsp;\\\\<br>\n& \\text{Read(B)} \\\\&nbsp; &nbsp;&nbsp;<br>\n\\text{Write(A)}\\\\<br>\n&nbsp;\\text{Read(B)}\\\\<br>\n\\text{B = B + 10}\\\\<br>\n\\text{Write(B)} \\\\<br>\n&&nbsp;\\text{B = B + Temp}&nbsp; \\\\ &nbsp;<br>\n&&nbsp;\\text{Write(B)}\\\\&nbsp;<br>\n\\end{array}} \\]</p>\n\n<p>Which of the following is TRUE about the schedule \\( S \\) ?</p>\n\n</div><br><br><b>GATE IT 2004 | Question: 77</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( S \\) is serializable only as \\( T1, T2 \\)</p>",
+            "<p>\\( S \\) is serializable only as \\( T2, T1 \\)</p>",
+            "<p>\\( S \\) is serializable both as \\( T1, T2 \\) and \\( T2, T1 \\)</p>",
+            "<p>\\( S \\) is not serializable either as \\( T1,T2 \\) or as \\( T2,T1 \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3721/gate-it-2004-question-77\" target=\"_blank\">https://gateoverflow.in/3721/gate-it-2004-question-77</a></p>"
+        }
+      ]
+    }
+  ]
+});

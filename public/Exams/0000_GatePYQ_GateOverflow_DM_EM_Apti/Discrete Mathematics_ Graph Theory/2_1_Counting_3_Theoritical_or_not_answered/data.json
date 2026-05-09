@@ -1,0 +1,26 @@
+{
+  "title": "Discrete Mathematics_ Graph Theory - Counting - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Counting",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"473\"></a><div itemprop=\"text\"><p>Let \\( G \\) be a complete undirected graph on \\( 6 \\) vertices. If vertices of \\( G \\) are labeled, then the number of distinct cycles of length \\( 4 \\) in \\( G \\) is equal to</p>\n\n</div><br><br><b>GATE CSE 2012 | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 15 \\)</p>",
+            "<p>\\( 30 \\)</p>",
+            "<p>\\( 90 \\)</p>",
+            "<p>\\( 360 \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/473/gate-cse-2012-question-38\" target=\"_blank\">https://gateoverflow.in/473/gate-cse-2012-question-38</a></p>"
+        }
+      ]
+    }
+  ]
+}

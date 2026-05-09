@@ -1,0 +1,56 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Time Complexity - Theoretical/Not Answered",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Time Complexity",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335650\"></a><div itemprop=\"text\"><p>Which algorithm has the same average, worst case and best case time?</p></div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 21</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Binary search</p>",
+            "<p>Maximum of n number</p>",
+            "<p>Quick sort</p>",
+            "<p>Fibonacci search</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335650/ugc-net-cse-december-2006-part-2-question-21\" target=\"_blank\">https://gateoverflow.in/335650/ugc-net-cse-december-2006-part-2-question-21</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"66823\"></a><div itemprop=\"text\"><p>The time complexity to build a heap of n elements is</p></div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 0(1) \\)&nbsp;</p>",
+            "<p>\\( 0\\text{(lgn)} \\)</p>",
+            "<p>\\( 0\\text{(n)} \\)</p>",
+            "<p>\\( 0\\text{(nlgn)} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66823/ugc-net-cse-december-2010-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/66823/ugc-net-cse-december-2010-part-2-question-23</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"349621\"></a><div itemprop=\"text\"><p>The running time of an algorithm is \\( O(g(n)) \\) if and only if</p>\n\n\n\n<p>&nbsp;</p></div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>its worst-case running time is \\( O(g(n)) \\) and its best-case running time is \\( \\Omega(g(n)) \\cdot (O= \\textit{ big }O) \\)</p>",
+            "<p>its worst-case running time is \\( \\Omega (g(n)) \\) and its best-case running time is \\( O(g(n)) \\cdot (O= \\textit{ big }O) \\)</p>",
+            "<p>\\( O(g(n))= \\Omega(g(n))(O=\\textit{big } O) \\)</p>",
+            "<p>\\( O(g(n))\\cap \\omega(g(n)) \\) is non-empty set, \\( (o = \\textit{ small } o) \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349621/ugc-net-cse-october-2020-part-2-question-52\" target=\"_blank\">https://gateoverflow.in/349621/ugc-net-cse-october-2020-part-2-question-52</a></p>"
+        }
+      ]
+    }
+  ]
+});

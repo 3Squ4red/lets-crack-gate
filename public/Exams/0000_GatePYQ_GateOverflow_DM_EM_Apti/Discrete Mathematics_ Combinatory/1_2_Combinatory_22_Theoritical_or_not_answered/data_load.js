@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Combinatory - Combinatory - Theoretical/Not Answered",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "Combinatory",
+      "questions": [
+        {
+          "id": 22,
+          "question": "<p><a name=\"3286\"></a><div itemprop=\"text\">In how many ways can \\( b \\) blue balls and \\( r \\) red balls be distributed in \\( n \\) distinct boxes?<br>\n<br>\nA. \\( \\dfrac{(n+b-1)!\\,(n+r-1)!}{(n-1)!\\,b!\\,(n-1)!\\,r!} \\)<br>\n<br>\nB. \\( \\dfrac{(n+(b+r)-1)!}{(n-1)!\\,(n-1)!\\,(b+r)!} \\)<br>\n<br>\nC. \\( \\dfrac{n!}{b!\\,r!} \\)<br>\n<br>\nD. \\( \\dfrac{(n + (b + r) - 1)!} {n!\\,(b + r - 1)} \\)</div><br><br><b>GATE IT 2008 | Question: 25</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>A</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3286/gate-it-2008-question-25\" target=\"_blank\">https://gateoverflow.in/3286/gate-it-2008-question-25</a></p>"
+        }
+      ]
+    }
+  ]
+});

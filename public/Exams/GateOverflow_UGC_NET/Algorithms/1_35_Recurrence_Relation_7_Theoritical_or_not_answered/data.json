@@ -1,0 +1,26 @@
+{
+  "title": "Algorithms - Recurrence Relation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Recurrence Relation",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"225865\"></a><div itemprop=\"text\"><p>The solution of the recurrence relation \\( T(m) = T(3m/4)+1 \\) is</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 21</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\Theta (\\lg \\: m) \\)</p>",
+            "<p>\\( \\Theta (m) \\)</p>",
+            "<p>\\( \\Theta (m\\lg &nbsp;m) \\)</p>",
+            "<p>\\( \\Theta (\\lg\\lg &nbsp;m) \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225865/ugc-net-cse-july-2018-part-2-question-21\" target=\"_blank\">https://gateoverflow.in/225865/ugc-net-cse-july-2018-part-2-question-21</a></p>"
+        }
+      ]
+    }
+  ]
+}

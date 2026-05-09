@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Management Information System",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Management Information System",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,41 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - K Map - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "K Map",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"225787\"></a><div itemprop=\"text\"><p>Simplify the following using \\( \\text{K} \\) – map :</p>\n\n<p>\\( F(A, B, C, D) = \\Sigma (0, 1, 2, 8, 9, 12, 13) \\)</p>\n\n<p>\\( d(A, B, C, D) = \\Sigma (10, 11, 14, 15) \\)</p>\n\n<p>\\( \\text{d} \\) stands for don't care condition.</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 99</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( A+\\bar{B} \\bar{D} +BC \\)</p>",
+            "<p>\\( A+\\bar{B} \\bar{D} + \\bar{B} \\bar{C} \\)</p>",
+            "<p>\\( \\bar{A} +&nbsp;\\bar{B} \\bar{C} \\)</p>",
+            "<p>\\( \\bar{A} + \\bar{B} \\bar{C} + \\bar{B} \\bar{D} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225787/ugc-net-cse-july-2018-part-2-question-99\" target=\"_blank\">https://gateoverflow.in/225787/ugc-net-cse-july-2018-part-2-question-99</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"67823\"></a><div itemprop=\"text\"><p>The function represented by the \\( \\text{k} \\)-map given below is</p><p><img alt=\"\" width=\"300\" height=\"204\" src=\"images/gateOverFlowPDFsImages/ugcnet/digital_logic_k_map/3558d647008924e84f30560aa77f1ff5.png\"></p></div><br><br><b>UGC NET CSE | June 2010 | Part 2 | Question: 10</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( A ⋅ B \\)&nbsp;</p>",
+            "<p>\\( AB + BC + CA \\)</p>",
+            "<p>\\( \\overline{B \\bigoplus C} \\)</p>",
+            "<p>\\( A ⋅ B ⋅ C \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67823/ugc-net-cse-june-2010-part-2-question-10\" target=\"_blank\">https://gateoverflow.in/67823/ugc-net-cse-june-2010-part-2-question-10</a></p>"
+        }
+      ]
+    }
+  ]
+});

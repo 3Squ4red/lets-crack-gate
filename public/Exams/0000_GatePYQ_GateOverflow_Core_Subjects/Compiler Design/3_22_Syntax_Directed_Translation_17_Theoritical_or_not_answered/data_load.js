@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - Syntax Directed Translation - Theoretical/Not Answered",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "Syntax Directed Translation",
+      "questions": []
+    }
+  ]
+});

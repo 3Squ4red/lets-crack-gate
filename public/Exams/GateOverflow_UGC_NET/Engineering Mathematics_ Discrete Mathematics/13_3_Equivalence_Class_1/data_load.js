@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Discrete Mathematics - Equivalence Class",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Equivalence Class",
+      "questions": []
+    }
+  ]
+});

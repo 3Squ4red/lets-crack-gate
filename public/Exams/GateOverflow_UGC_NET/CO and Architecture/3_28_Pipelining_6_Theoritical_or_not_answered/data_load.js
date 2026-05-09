@@ -1,0 +1,41 @@
+window.__examLoadCallback({
+  "title": "CO and Architecture - Pipelining - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Pipelining",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335581\"></a><div itemprop=\"text\"><p>The processing speeds of pipeline segments are usually :</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 47</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Equal</p>",
+            "<p>Unequal</p>",
+            "<p>Greater</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335581/ugc-net-cse-december-2004-part-2-question-47\" target=\"_blank\">https://gateoverflow.in/335581/ugc-net-cse-december-2004-part-2-question-47</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"55893\"></a><div itemprop=\"text\">\n<p>Pipelining strategy is called implement</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 2 | Question: 48</b></p>",
+          "type": "single",
+          "options": [
+            "<p>instruction execution</p>",
+            "<p>instruction prefetch</p>",
+            "<p>instruction decoding</p>",
+            "<p>instruction manipulation</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55893/ugc-net-cse-june-2012-part-2-question-48\" target=\"_blank\">https://gateoverflow.in/55893/ugc-net-cse-june-2012-part-2-question-48</a></p>"
+        }
+      ]
+    }
+  ]
+});

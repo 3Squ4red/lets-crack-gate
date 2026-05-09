@@ -1,0 +1,51 @@
+{
+  "title": "Digital Logic - Number Representation",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Number Representation",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"152702\"></a><div itemprop=\"text\">How many 1’s are present in the binary representation of 3 × 512 + 7 × 64 + 5 × 8 + 3<br>\n<br>\n(A) 8<br>\n<br>\n(B) 9<br>\n<br>\n(C) 10<br>\n<br>\n(D) 11</div><br><br><b>UGC NET CSE | December 2009 | Part 2 | Question: 10</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/152702/ugc-net-cse-december-2009-part-2-question-10\" target=\"_blank\">https://gateoverflow.in/152702/ugc-net-cse-december-2009-part-2-question-10</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"55878\"></a><div itemprop=\"text\">\n<p>If an integer needs two bytes of storage, then the maximum value of signed integer is</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2012 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2^{16}-1 \\)</p>",
+            "<p><span style=\"line-height: 1.6;\">\\( 2^{15}-1 \\)</span></p>",
+            "<p><span style=\"line-height: 1.6;\">\\( 2^{16} \\)</span></p>",
+            "<p><span style=\"line-height: 1.6;\">\\( 2^{15} \\)</span></p>"
+          ],
+          "correct_answer": "<p><span style=\"line-height: 1.6;\">\\( 2^{15}-1 \\)</span></p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55878/ugc-net-cse-june-2012-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/55878/ugc-net-cse-june-2012-part-2-question-35</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"53494\"></a><div itemprop=\"text\">\n<p>Which of the following statement(s) is (are) not correct ?</p>\n\n<p>i. The \\( 2 \\)’s complement of \\( 0 \\) is \\( 0 \\).</p>\n\n<p>ii. In \\( 2 \\)’s complement, the left most bit cannot be used to express a quantity.</p>\n\n<p>iii. For an \\( n \\)-bit word (\\( 2 \\)’s complement) which includes the sign bit, there are \\( 2^{n-1} \\) positive integers, \\( 2^{n+1} \\) negative integers and one 0 for a total of \\( 2^{n} \\) unique states.</p>\n\n<p>iv. In \\( 2 \\)’s complement the significant information is contained in the \\( 1 \\)’s of positive numbers and \\( 0 \\)’s of the negative numbers.</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 2 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( i \\) & \\( iv \\)&nbsp;</p>",
+            "<p>\\( i \\) & \\( ii \\)&nbsp;</p>",
+            "<p>\\( iii \\)&nbsp;</p>",
+            "<p>\\( iv \\)&nbsp;</p>"
+          ],
+          "correct_answer": "<p>\\( iii \\)&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/53494/ugc-net-cse-june-2014-part-2-question-18\" target=\"_blank\">https://gateoverflow.in/53494/ugc-net-cse-june-2014-part-2-question-18</a></p>"
+        }
+      ]
+    }
+  ]
+}

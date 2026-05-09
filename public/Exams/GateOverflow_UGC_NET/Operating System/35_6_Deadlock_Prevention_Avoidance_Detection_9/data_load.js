@@ -1,0 +1,71 @@
+window.__examLoadCallback({
+  "title": "Operating System - Deadlock Prevention Avoidance Detection",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Deadlock Prevention Avoidance Detection",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"71579\"></a><div itemprop=\"text\"><p>Consider a system which have \\( ‘n’ \\) number of processes and \\( ‘m’ \\) number of resource types. The time complexity of the safety algorithm, which checks whether a system is in safe state or not, is of the order of :</p></div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 50</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( O(mn) \\)&nbsp;</p>",
+            "<p>\\( O(m^{2}n^{2}) \\)</p>",
+            "<p>\\( O(m^{2}n) \\)</p>",
+            "<p>\\( O(mn^{2}) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( O(m^{2}n^{2}) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/71579/ugc-net-cse-august-2016-part-3-question-50\" target=\"_blank\">https://gateoverflow.in/71579/ugc-net-cse-august-2016-part-3-question-50</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"60810\"></a><div itemprop=\"text\"><p>Simplest way of deadlock recovery is</p></div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 71</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Roll back</p>",
+            "<p>Preempt resource</p>",
+            "<p>Lock one of the processes</p>",
+            "<p>Kill&nbsp;one of the processes</p>"
+          ],
+          "correct_answer": "<p>Kill&nbsp;one of the processes</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60810/ugc-net-cse-december-2013-part-3-question-71\" target=\"_blank\">https://gateoverflow.in/60810/ugc-net-cse-december-2013-part-3-question-71</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"60959\"></a><div itemprop=\"text\"><p>An operating system has \\( 13 \\) tape drives. There are three processes \\( P1, P2 \\) & \\( P3 \\). Maximum requirement of \\( P1 \\) is \\( 11 \\) tape drives, \\( P2 \\) is \\( 5 \\) tape drives and \\( P3 \\) is \\( 8 \\) tape drives. Currently, \\( P1 \\) is allocated \\( 6 \\) tape drives, \\( P2 \\) is allocated \\( 3 \\) tape drives and \\( P3 \\) is allocated \\( 2 \\) tape drives. Which of the following sequences represent a safe state?&nbsp;</p>\n\n</div><br><br><b>UGC NET CSE | December 2014 | Part 3 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( P2 P1 P3 \\)</p>",
+            "<p>\\( P2 P3 P1 \\)</p>",
+            "<p>\\( P1 P2 P3 \\)</p>",
+            "<p>\\( P1 P3 P2 \\)&nbsp;</p>"
+          ],
+          "correct_answer": "<p>\\( P2 P1 P3 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60959/ugc-net-cse-december-2014-part-3-question-52\" target=\"_blank\">https://gateoverflow.in/60959/ugc-net-cse-december-2014-part-3-question-52</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"316231\"></a><div itemprop=\"text\"><p>A computer has six tape drives with \\( n \\) processes competing for them. Each process may need two drives. What is the maximum value of \\( n \\) for the system to be deadlock free?</p>\n\n</div><br><br><b>UGC NET CSE | June 2019 | Part 2 | Question: 48</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 6 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 5 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/316231/ugc-net-cse-june-2019-part-2-question-48\" target=\"_blank\">https://gateoverflow.in/316231/ugc-net-cse-june-2019-part-2-question-48</a></p>"
+        }
+      ]
+    }
+  ]
+});

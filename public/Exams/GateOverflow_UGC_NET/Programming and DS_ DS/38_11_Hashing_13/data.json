@@ -1,0 +1,81 @@
+{
+  "title": "Programming and DS_ DS - Hashing",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "Hashing",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"152862\"></a><div itemprop=\"text\">A hash function f defined as f(key) = key mod 7, with linear probing used to resolve collisions. Insert the keys 37, 38, 72, 48, 98 and 11 into the table indexed from 0 to 6.<br>\n<br>\nWhat will be the location of 11 ?<br>\n<br>\n(A) 3<br>\n<br>\n(B) 4<br>\n<br>\n(C) 5<br>\n<br>\n(D) 6</div><br><br><b>UGC NET CSE | December 2009 | Part 2 | Question: 25</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/152862/ugc-net-cse-december-2009-part-2-question-25\" target=\"_blank\">https://gateoverflow.in/152862/ugc-net-cse-december-2009-part-2-question-25</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"62281\"></a><div itemprop=\"text\"><p>The hash function used in double hashing is of the form:</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( h(k,i)=(h_1(k)+h_2(k)+i) \\: mod \\: m \\)</p>",
+            "<p>\\( h(k,i)=(h_1(k)+h_2(k)-i) \\: mod \\: m \\)</p>",
+            "<p>\\( h(k,i)=(h_1(k)+i \\: h_2(k)) \\: mod \\: m \\)</p>",
+            "<p>\\( h(k,i)=(h_1(k)-i \\: h_2(k)) \\: mod \\: m \\)</p>"
+          ],
+          "correct_answer": "<p>\\( h(k,i)=(h_1(k)+i \\: h_2(k)) \\: mod \\: m \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62281/ugc-net-cse-december-2015-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/62281/ugc-net-cse-december-2015-part-2-question-35</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"54601\"></a><div itemprop=\"text\">\n<p>Searching for an element in the hash table requires \\( O(1) \\) time for the _________time, whereas for direct addressing it holds for the _______ time.</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 2 | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>worst-case, average</p>",
+            "<p>worst-case, worst-case</p>",
+            "<p>average, worst-case&nbsp;</p>",
+            "<p>best, average&nbsp;</p>"
+          ],
+          "correct_answer": "<p>average, worst-case&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/54601/ugc-net-cse-june-2014-part-2-question-38\" target=\"_blank\">https://gateoverflow.in/54601/ugc-net-cse-june-2014-part-2-question-38</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"57283\"></a><div itemprop=\"text\"><p>If \\( h \\) is chosen from a universal collection of hash functions and is used to hash \\( n \\) keys into a table of size \\( m \\), where \\( n \\leq m \\), the expected number of collisions involving a particular key \\( K \\) is&nbsp;</p>\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 64</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Less than \\( 1 \\)</p>",
+            "<p>Less than \\( lg n \\)</p>",
+            "<p>Greater than \\( 1 \\)</p>",
+            "<p>Greater than \\( lg n \\)&nbsp;</p>"
+          ],
+          "correct_answer": "<p>Less than \\( 1 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57283/ugc-net-cse-june-2014-part-3-question-64\" target=\"_blank\">https://gateoverflow.in/57283/ugc-net-cse-june-2014-part-3-question-64</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"61259\"></a><div itemprop=\"text\">\n<p>Consider a hash table of size m=100 and the hash function h(k)=floor (m(kA mod 1)) for \\( A=\\frac{ (\\sqrt{5}-1)}{2} = 0.618033 \\). Compute the location to which the key k=123456 is placed in hash table</p>\n\n\n</div><br><br><b>UGC NET CSE | Junet 2015 | Part 3 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>77</p>",
+            "<p>82</p>",
+            "<p>88</p>",
+            "<p>89</p>"
+          ],
+          "correct_answer": "<p>88</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61259/ugc-net-cse-junet-2015-part-3-question-34\" target=\"_blank\">https://gateoverflow.in/61259/ugc-net-cse-junet-2015-part-3-question-34</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Databases - Database Design",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Database Design",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"335147\"></a><div itemprop=\"text\"><p>An attribute \\( A \\) of datatype varchar \\( (20) \\) has value 'Ram'&nbsp;and the attribute \\( B \\) of datatype char \\( (20) \\) has value 'Sita'&nbsp;in oracle. The attribute \\( A \\) has ________ memory spaces and \\( B \\) has _______ memory spaces.</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 2 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 20,20 \\)</p>",
+            "<p>\\( 3,20 \\)</p>",
+            "<p>\\( 3,4 \\)</p>",
+            "<p>\\( 20,4 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 3,20 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335147/ugc-net-cse-january-2017-part-2-question-16\" target=\"_blank\">https://gateoverflow.in/335147/ugc-net-cse-january-2017-part-2-question-16</a></p>"
+        }
+      ]
+    }
+  ]
+}

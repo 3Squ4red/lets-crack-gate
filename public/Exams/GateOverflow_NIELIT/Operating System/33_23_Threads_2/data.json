@@ -1,0 +1,26 @@
+{
+  "title": "Operating System - Threads",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Threads",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"336837\"></a><div itemprop=\"text\"><p>Operating System maintains the page table for :</p>\n\n</div><br><br><b>NIELIT 2017 DEC Scientific Assistant A - Section B: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>each process</p>",
+            "<p>each thread</p>",
+            "<p>each instruction</p>",
+            "<p>each address</p>"
+          ],
+          "correct_answer": "<p>each process</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336837/nielit-2017-dec-scientific-assistant-a-section-b-9\" target=\"_blank\">https://gateoverflow.in/336837/nielit-2017-dec-scientific-assistant-a-section-b-9</a></p>"
+        }
+      ]
+    }
+  ]
+}

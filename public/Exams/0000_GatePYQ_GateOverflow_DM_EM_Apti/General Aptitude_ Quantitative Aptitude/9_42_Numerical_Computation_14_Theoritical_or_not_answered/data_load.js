@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Quantitative Aptitude - Numerical Computation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Numerical Computation",
+      "questions": [
+        {
+          "id": 14,
+          "question": "<p><a name=\"313573\"></a><div itemprop=\"text\"><p>The product of three integers \\( X \\), \\( Y \\) and \\( Z \\) is \\( 192 \\). \\( Z \\) is equal to \\( 4 \\) and \\( P \\) is equal to the average of \\( X \\) and \\( Y \\). What is the minimum possible value of \\( P \\)?</p>\n\n</div><br><br><b>GATE2019 ME-2: GA-4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 7 \\)</p>",
+            "<p>\\( 8 \\)</p>",
+            "<p>\\( 9.5 \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/313573/gate2019-me-2-ga-4\" target=\"_blank\">https://gateoverflow.in/313573/gate2019-me-2-ga-4</a></p>"
+        }
+      ]
+    }
+  ]
+});

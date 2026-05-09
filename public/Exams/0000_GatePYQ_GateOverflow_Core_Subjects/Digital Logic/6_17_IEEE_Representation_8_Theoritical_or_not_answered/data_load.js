@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - IEEE Representation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "IEEE Representation",
+      "questions": [
+        {
+          "id": 7,
+          "question": "<p><a name=\"422893\"></a><div itemprop=\"text\"><p>​​The format of a single-precision floating-point number as per the \\( \\text{IEEE 754} \\) standard is:\\[ \\begin{array}{|l|l|l|}\\hline&nbsp; \\textbf{Sign} & \\textbf{Exponent} & \\textbf{Mantissa} \\\\\\hline &nbsp;\\text{(1 bit)} & \\text{(8 bits)} & \\text{(23 bits)} \\\\\\hline&nbsp; &nbsp;\\end{array} \\]</p><p>Choose the largest floating-point number among the following options.&nbsp; &nbsp;&nbsp;</p><p>A. \\( \\begin{array}{|l|l|l|}\\hline&nbsp; \\textbf{Sign} & \\textbf{Exponent} & \\textbf{Mantissa} \\\\\\hline &nbsp;\\text{0} & \\text{01111111} & \\text{11111111111111111111111} \\\\\\hline&nbsp; &nbsp;\\end{array} \\)</p><p>B. \\( \\begin{array}{|l|l|l|}\\hline&nbsp; \\textbf{Sign} & \\textbf{Exponent} & \\textbf{Mantissa} \\\\\\hline &nbsp;\\text{0} & \\text{11111110} & \\text{11111111111111111111111} \\\\\\hline&nbsp; &nbsp;\\end{array} \\)</p><p>C. \\( \\begin{array}{|l|l|l|}\\hline&nbsp; \\textbf{Sign} & \\textbf{Exponent} & \\textbf{Mantissa} \\\\\\hline &nbsp;\\text{0} & \\text{11111111} & \\text{11111111111111111111111} \\\\\\hline&nbsp; &nbsp;\\end{array} \\)</p><p>D.&nbsp;\\( \\begin{array}{|l|l|l|}\\hline&nbsp; \\textbf{Sign} & \\textbf{Exponent} & \\textbf{Mantissa} \\\\\\hline &nbsp;\\text{0} & \\text{01111111} & \\text{00000000000000000000000} \\\\\\hline&nbsp; &nbsp;\\end{array} \\)</p></div><br><br><b>GATE CSE 2024 | Set 2 | Question: 4</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>B</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/422893/gate-cse-2024-set-2-question-4\" target=\"_blank\">https://gateoverflow.in/422893/gate-cse-2024-set-2-question-4</a></p>"
+        }
+      ]
+    }
+  ]
+});

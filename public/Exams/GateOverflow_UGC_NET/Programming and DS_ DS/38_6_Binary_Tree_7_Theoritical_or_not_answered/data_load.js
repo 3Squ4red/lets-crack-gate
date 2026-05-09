@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Programming and DS_ DS - Binary Tree - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Binary Tree",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"154370\"></a><div itemprop=\"text\"><p>In a full binary tree of height k, there are ______ internal nodes .</p></div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>2k-1&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>2k-1&nbsp; &nbsp; &nbsp;</p>",
+            "<p>2k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>2k+1</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154370/ugc-net-cse-june-2009-part-2-question-27\" target=\"_blank\">https://gateoverflow.in/154370/ugc-net-cse-june-2009-part-2-question-27</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Discrete Mathematics - Quantifiers",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Quantifiers",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "Programming and DS_ DS - Linked List",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Linked List",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"152861\"></a><div itemprop=\"text\">With regard to linked list, which of the following statement is false ?<br>\n<br>\n(A) An algorithm to search for an element in a singly linked list requires 0(n)<br>\noperations in the worst case.<br>\n(B) An algorithm for deleting the first element in a singly linked list requires 0(n)<br>\noperations in the worst case.<br>\n(C) An algorithm for finding the maximum value in a circular linked list requires 0(n)<br>\noperations.<br>\n(D) An algorithm for deleting the middle node of a circular linked list requires 0(n)<br>\noperations.</div><br><br><b>UGC NET CSE | December 2009 | Part 2 | Question: 24</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/152861/ugc-net-cse-december-2009-part-2-question-24\" target=\"_blank\">https://gateoverflow.in/152861/ugc-net-cse-december-2009-part-2-question-24</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Compiler Design - Operator Precedence",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Operator Precedence",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ IS&Software Engineering - Size Metrices",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Size Metrices",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"61083\"></a><div itemprop=\"text\"><p>Match the following:</p><p>\\[ \\begin{array}{|ll|ll|} \\hline \\text{a.} &&nbsp;\\text{Size-oriented} &i. &&nbsp;\\text{uses number of external interfaces as one of} \\\\ &\\text{metrics}&& \\text{the&nbsp;measurement parameters} \\\\ \\hline&nbsp;\\text{b.} &&nbsp;\\text{Function-oriented} &ii. &&nbsp;\\text{originally designed to be applied to} \\\\ & \\text{metrics} && \\text{business information systems} \\\\ \\hline&nbsp;\\text{c.} &&nbsp;\\text{Extended function} &iii.&&nbsp;\\text{derived by normalizing quality and/or productivity} \\\\ & \\text{point metrics} &&&nbsp;&nbsp;\\text{measures by considering the size of the software}&nbsp;\\\\ \\hline&nbsp;\\text{d.} &&nbsp;\\text{Function point} &iv. &&nbsp;\\text{uses algorithm characteristics as one of} \\\\ & && \\text{the measurement parameter}&nbsp;\\\\ \\hline \\end{array} \\]</p></div><br><br><b>UGC NET CSE | Junet 2015 | Part 2 | Question: 41</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( a-iii, b-iv, c-i, d-ii \\)</p>",
+            "<p>\\( a-ii, b-i, c-iv, d-iii \\)</p>",
+            "<p>\\( a-iv, b-ii, c-iii, d-i \\)</p>",
+            "<p>\\( a-iii, b-i, c-iv, d-ii \\)</p>"
+          ],
+          "correct_answer": "<p>\\( a-iii, b-i, c-iv, d-ii \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61083/ugc-net-cse-junet-2015-part-2-question-41\" target=\"_blank\">https://gateoverflow.in/61083/ugc-net-cse-junet-2015-part-2-question-41</a></p>"
+        }
+      ]
+    }
+  ]
+});

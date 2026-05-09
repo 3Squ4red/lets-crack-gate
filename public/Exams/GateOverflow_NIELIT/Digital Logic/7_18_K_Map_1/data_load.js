@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - K Map",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "K Map",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"336624\"></a><div itemprop=\"text\"><p><img alt=\"\" height=\"135\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/digital_logic_k_map/1530bda3b4619c3faddf27f65495e642.png\" width=\"246\"></p>\n\n<p>Which will be the equation of simplification of the given K-map?</p>\n\n</div><br><br><b>NIELIT 2016 DEC Scientist B (IT) - Section B: 45</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( AB' + B'CD' + A'B'C' \\)</p>",
+            "<p>\\( AB' + A'B'D' + A'B'C' \\)</p>",
+            "<p>\\( B'D' + AB' + B'C' \\)</p>",
+            "<p>\\( B'D' + A'B'C' + AB' \\)</p>"
+          ],
+          "correct_answer": "<p>\\( B'D' + AB' + B'C' \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336624/nielit-2016-dec-scientist-b-it-section-b-45\" target=\"_blank\">https://gateoverflow.in/336624/nielit-2016-dec-scientist-b-it-section-b-45</a></p>"
+        }
+      ]
+    }
+  ]
+});

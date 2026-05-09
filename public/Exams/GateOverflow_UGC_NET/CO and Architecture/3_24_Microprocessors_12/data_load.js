@@ -1,0 +1,146 @@
+window.__examLoadCallback({
+  "title": "CO and Architecture - Microprocessors",
+  "duration": 25,
+  "sections": [
+    {
+      "name": "Microprocessors",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"45447\"></a><div itemprop=\"text\">\n<p>The essential difference between&nbsp;traps and interrupts is</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 54</b></p>",
+          "type": "single",
+          "options": [
+            "<p>traps are asynchronous and&nbsp;interrupts are synchronous with&nbsp;the program.</p>",
+            "<p>traps are synchronous and&nbsp;interrupts are asynchronous&nbsp;with the program.</p>",
+            "<p>traps are synchronous and&nbsp;interrupts are asynchronous&nbsp;with the I/O devices.</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "<p>traps are synchronous and&nbsp;interrupts are asynchronous&nbsp;with the program.</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/45447/ugc-net-cse-december-2013-part-3-question-54\" target=\"_blank\">https://gateoverflow.in/45447/ugc-net-cse-december-2013-part-3-question-54</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"335129\"></a><div itemprop=\"text\"><p>The contents of Register \\( (BL) \\) and Register \\( (AL) \\) of \\( 8085 \\) microprocessor are \\( 49H \\) and \\( 3AH \\) respectively. The contents of \\( AL \\), the status of carry flag \\( (CF) \\) and sign flag \\( (SF) \\) after executing \\( 'SUB AL, BL' \\) assembly language instruction, are</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 2 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( AL=0FH; \\: CF=1; \\: SF= 1 \\)</p>",
+            "<p>\\( AL = F0H; \\: CF&nbsp;= 0; \\: SF&nbsp;= 0 \\)</p>",
+            "<p>\\( AL =F1H; \\: CF&nbsp;= 1; \\: SF= 1 \\)</p>",
+            "<p>\\( AL =1FH; \\: CF=1; \\:SF=1 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( AL =F1H; \\: CF&nbsp;= 1; \\: SF= 1 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335129/ugc-net-cse-january-2017-part-2-question-34\" target=\"_blank\">https://gateoverflow.in/335129/ugc-net-cse-january-2017-part-2-question-34</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"335233\"></a><div itemprop=\"text\"><p>In \\( 8085 \\) microprocessor, the digit \\( 5 \\) indicates that the microprocessor needs</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 3 | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( -5 \\) volts, \\( +5 \\) volts supply</p>",
+            "<p>\\( +5 \\) volts supply only</p>",
+            "<p>\\( -5 \\) volts supply only</p>",
+            "<p>\\( 5 \\) MHz clock</p>"
+          ],
+          "correct_answer": "<p>\\( +5 \\) volts supply only</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335233/ugc-net-cse-january-2017-part-3-question-5\" target=\"_blank\">https://gateoverflow.in/335233/ugc-net-cse-january-2017-part-3-question-5</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"335232\"></a><div itemprop=\"text\"><p>In \\( 8085 \\), which of the following performs: load register pair immediate operation?</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 3 | Question: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>LDAX rp</p>",
+            "<p>LKLD addr</p>",
+            "<p>LXI rp, data</p>",
+            "<p>INX rp</p>"
+          ],
+          "correct_answer": "<p>LXI rp, data</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335232/ugc-net-cse-january-2017-part-3-question-6\" target=\"_blank\">https://gateoverflow.in/335232/ugc-net-cse-january-2017-part-3-question-6</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"166377\"></a><div itemprop=\"text\"><p>In \\( 8085 \\) microprocessor which of the following flag(s) is (are) affected by an arithmetic operation?</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 1</b></p>",
+          "type": "single",
+          "options": [
+            "<p>AC flag only</p>",
+            "<p>CY flag Only</p>",
+            "<p>Z flag Only</p>",
+            "<p>AC, CY, Z flags</p>"
+          ],
+          "correct_answer": "<p>AC, CY, Z flags</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166377/ugc-net-cse-november-2017-part-3-question-1\" target=\"_blank\">https://gateoverflow.in/166377/ugc-net-cse-november-2017-part-3-question-1</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"166378\"></a><div itemprop=\"text\"><p>In \\( 8085 \\) microprocessor the address bus is of ___________ bits.</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 8 \\)</p>",
+            "<p>\\( 16 \\)</p>",
+            "<p>\\( 32 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 16 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166378/ugc-net-cse-november-2017-part-3-question-2\" target=\"_blank\">https://gateoverflow.in/166378/ugc-net-cse-november-2017-part-3-question-2</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"166379\"></a><div itemprop=\"text\"><p>In the architecture of \\( 8085 \\) microprocessor match the following :</p>\n\n<p>\\( \\begin{array}{clcl}&nbsp;&nbsp;\\text{(a)}&nbsp;& \\text{Processing unit} & \\text{(i)} & \\text{Interrupt} \\\\ &nbsp;\\text{(b)}&nbsp;& \\text{Instruction unit} & \\text{(ii)} & \\text{General purpose Register} \\\\ &nbsp;\\text{(c)}&nbsp;& \\text{Storage and Interface unit} & \\text{(iii)} & \\text{ALU} \\\\ &nbsp;&& \\text{(iv)}&nbsp;& \\text{Timing and Control} \\\\ &nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Code :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 3</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(iv) (b)-(i) (c)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(iii) (b)-(iv) (c)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(ii) (b)-(iii) (c)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(i) (b)-(ii) (c)-(iv)} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{(a)-(iii) (b)-(iv) (c)-(ii)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166379/ugc-net-cse-november-2017-part-3-question-3\" target=\"_blank\">https://gateoverflow.in/166379/ugc-net-cse-november-2017-part-3-question-3</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"166381\"></a><div itemprop=\"text\"><p>Which of the following is correct statement?</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>In memory – mapped I/O, the CPU can manipulate I/O data residing in interface registers that are not used to manipulate memory words.</p>",
+            "<p>The isolated I/O method isolates memory and I/O addresses so that memory address range is not affected by interface address assignment.</p>",
+            "<p>In asynchronous serial transfer of data the two units share a common clock.</p>",
+            "<p>In synchronous serial transmission of data the two units have different clocks.</p>"
+          ],
+          "correct_answer": "<p>The isolated I/O method isolates memory and I/O addresses so that memory address range is not affected by interface address assignment.</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166381/ugc-net-cse-november-2017-part-3-question-5\" target=\"_blank\">https://gateoverflow.in/166381/ugc-net-cse-november-2017-part-3-question-5</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"166382\"></a><div itemprop=\"text\"><p>A micro-instruction format has micro-ops field which is divided into three subfields \\( F1 \\), \\( F2 \\), \\( F3 \\) each having seven distinct micro-operations, conditions field \\( CD \\) for four status bits, branch field \\( BR \\) having four options used in conjunction with address field \\( ADF \\). The address space is of \\( 128 \\) memory locations. The size of micro-instruction is</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 17 \\) bits</p>",
+            "<p>\\( 20 \\) bits</p>",
+            "<p>\\( 24 \\) bits</p>",
+            "<p>\\( 32 \\) bits</p>"
+          ],
+          "correct_answer": "<p>\\( 20 \\) bits</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166382/ugc-net-cse-november-2017-part-3-question-6\" target=\"_blank\">https://gateoverflow.in/166382/ugc-net-cse-november-2017-part-3-question-6</a></p>"
+        }
+      ]
+    }
+  ]
+});

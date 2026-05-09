@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Databases - Query - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Query",
+      "questions": []
+    }
+  ]
+});

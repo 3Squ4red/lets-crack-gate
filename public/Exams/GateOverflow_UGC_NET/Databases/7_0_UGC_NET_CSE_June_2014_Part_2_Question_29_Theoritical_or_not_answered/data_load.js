@@ -1,0 +1,251 @@
+window.__examLoadCallback({
+  "title": "Databases - UGC NET CSE  June 2014  Part 2  Question - Theoretical/Not Answered",
+  "duration": 44,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2014  Part 2  Question",
+      "questions": [
+        {
+          "id": 14,
+          "question": "<p><a name=\"63670\"></a><div itemprop=\"text\"><p>Data security threats include</p>\n\n</div><br><br><b>UGC NET CSE | December 2011 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Privacy invasion</p>",
+            "<p>Hardware failure</p>",
+            "<p>Fraudulent manipulation of data</p>",
+            "<p>Encryption and decryption</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63670/ugc-net-cse-december-2011-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/63670/ugc-net-cse-december-2011-part-2-question-23</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"70825\"></a><div itemprop=\"text\"><p>Which one of the following pairs is correctly matched in the context of database design ?</p><p>\\( \\begin{array}{|l|l|l|l|}\\hline &&nbsp; \\text{List-I(Database term)} && \\text{List-II(Definition)}&nbsp; \\\\\\hline \\text{I.} & \\text{Specialization}&nbsp; & \\text{A.} & \\text{Result of taking the union of two or more} \\\\ &&&\\text{disjoint (lower-level) entity sets to produce} \\\\&&&\\text{a higher-level entity set.} \\\\\\hline&nbsp;\\text{II.} & \\text{Generalization}&nbsp; & \\text{B.} & \\text{Express the number of entities to which} \\\\ &&& \\text{another entity can be associated via a} \\\\ &&& \\text{relationship set.} \\\\\\hline&nbsp;\\text{III.} & \\text{Aggregation}&nbsp; & \\text{C.} & \\text{Result of taking a subset of a higher-level} \\\\ &&& \\text{entity set to form a lower-level entity set.} \\\\\\hline&nbsp;\\text{IV.} & \\text{Mapping cardinality}&nbsp; & \\text{D.} & \\text{An abstraction in which relationship&nbsp;sets} \\\\&&& \\text{(along with their associated entity sets) are} \\\\ &&& \\text{treated as higher-level entity sets, and can} \\\\ &&& \\text{participate in relationships.&nbsp;} \\\\\\hline \\end{array} \\)</p><p><strong>Codes :</strong></p></div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>I-D, II-A, III-B, IV-C</p>",
+            "<p>I-D, II-C, III-B, IV-A</p>",
+            "<p>I-C, II-D, III-A, IV-B</p>",
+            "<p>I-C, II-A, III-D, IV-B</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70825/ugc-net-cse-august-2016-part-3-question-12\" target=\"_blank\">https://gateoverflow.in/70825/ugc-net-cse-august-2016-part-3-question-12</a></p>"
+        },
+        {
+          "id": 16,
+          "question": "<p><a name=\"154277\"></a><div itemprop=\"text\"><p>(i) \\( \\text{DML} \\) includes a query language based on both relation algebra and tuple calculus</p>\n\n<p>(ii) \\( \\text{DML} \\)&nbsp;includes a query language based on tuple calculus</p>\n\n<p>(iii) \\( \\text{DML} \\)&nbsp;includes a query language based on relational algebra</p>\n\n<p>(iv) \\( \\text{DML} \\)&nbsp;includes a query language based on none of the relational algebra and tuple calculus</p>\n\n<p>Which one is correct ?</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(i) only&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>(ii) only&nbsp; &nbsp; &nbsp; &nbsp;</p>",
+            "<p>(iii) only&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>(iv) only</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154277/ugc-net-cse-june-2009-part-2-question-18\" target=\"_blank\">https://gateoverflow.in/154277/ugc-net-cse-june-2009-part-2-question-18</a></p>"
+        },
+        {
+          "id": 17,
+          "question": "<p><a name=\"154362\"></a><div itemprop=\"text\"><p>Which construct in SQL is used to test whether a subquery has any tuples in its result ?</p></div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 21</b></p>",
+          "type": "single",
+          "options": [
+            "<p>UNIQUE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>EXISTS&nbsp; &nbsp;&nbsp;&nbsp;</p>",
+            "<p>GROUP BY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>EXCEPT</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154362/ugc-net-cse-june-2009-part-2-question-21\" target=\"_blank\">https://gateoverflow.in/154362/ugc-net-cse-june-2009-part-2-question-21</a></p>"
+        },
+        {
+          "id": 18,
+          "question": "<p><a name=\"154363\"></a><div itemprop=\"text\"><p>ORACLE supports :</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 22</b></p>",
+          "type": "single",
+          "options": [
+            "<p>inner join and outer join only&nbsp; &nbsp;&nbsp;&nbsp;</p>",
+            "<p>outer join and semi join only&nbsp; &nbsp;&nbsp;&nbsp;</p>",
+            "<p>inner join, outer join , semi join only&nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "<p>inner join, outer join, semi join and anti join</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154363/ugc-net-cse-june-2009-part-2-question-22\" target=\"_blank\">https://gateoverflow.in/154363/ugc-net-cse-june-2009-part-2-question-22</a></p>"
+        },
+        {
+          "id": 19,
+          "question": "<p><a name=\"225818\"></a><div itemprop=\"text\"><p>Database systems that store each relation in a separate operating system file may use the operating system's authorization scheme, instead of defining a special scheme themselves. In this case, which of the following is false?</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 68</b></p>",
+          "type": "single",
+          "options": [
+            "<p>The administrator enjoys more control on the grant option</p>",
+            "<p>It is difficult among the update, delete and insert authorizations</p>",
+            "<p>cannot store more than one relation in a file</p>",
+            "<p>Operations on the database are speeded up as the authorization procedure is carried out at the operating system level</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225818/ugc-net-cse-july-2018-part-2-question-68\" target=\"_blank\">https://gateoverflow.in/225818/ugc-net-cse-july-2018-part-2-question-68</a></p>"
+        },
+        {
+          "id": 20,
+          "question": "<p><a name=\"335378\"></a><div itemprop=\"text\"><p>The entity type on which the __________ type depends is called the identifying owner.</p></div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 19</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Strong entity</p>",
+            "<p>Relationship</p>",
+            "<p>Weak entity</p>",
+            "<p>E - R</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335378/ugc-net-cse-december-2004-part-2-question-19\" target=\"_blank\">https://gateoverflow.in/335378/ugc-net-cse-december-2004-part-2-question-19</a></p>"
+        },
+        {
+          "id": 21,
+          "question": "<p><a name=\"335379\"></a><div itemprop=\"text\"><p>The completeness constraint has rules :</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Supertype, Subtype</p>",
+            "<p>Total specialization, Partial specialization</p>",
+            "<p>Specialization, Generalization</p>",
+            "<p>All of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335379/ugc-net-cse-december-2004-part-2-question-18\" target=\"_blank\">https://gateoverflow.in/335379/ugc-net-cse-december-2004-part-2-question-18</a></p>"
+        },
+        {
+          "id": 22,
+          "question": "<p><a name=\"335380\"></a><div itemprop=\"text\"><p>Specialization is a __________ process.</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Top - down</p>",
+            "<p>Bottom - up</p>",
+            "<p>Both (A) and (B)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335380/ugc-net-cse-december-2004-part-2-question-17\" target=\"_blank\">https://gateoverflow.in/335380/ugc-net-cse-december-2004-part-2-question-17</a></p>"
+        },
+        {
+          "id": 23,
+          "question": "<p><a name=\"335381\"></a><div itemprop=\"text\"><p>The \\( \\text{E-R} \\) model is expressed in terms of :</p><ol start=\"1\" style=\"list-style-type:lower-roman\"><li><p>Entities</p></li><li><p>The relationship among entities</p></li><li><p>The attributes of the entities</p></li></ol><p>Then</p></div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(i) and (iii)</p>",
+            "<p>(i) and (ii)</p>",
+            "<p>(ii) and (iii)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335381/ugc-net-cse-december-2004-part-2-question-16\" target=\"_blank\">https://gateoverflow.in/335381/ugc-net-cse-december-2004-part-2-question-16</a></p>"
+        },
+        {
+          "id": 24,
+          "question": "<p><a name=\"335651\"></a><div itemprop=\"text\"><p>Two phase protocol in a database management system is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 20</b></p>",
+          "type": "single",
+          "options": [
+            "<p>a concurrency mechanism that is not deadlock free</p>",
+            "<p>a recovery protocol used for restoring a database after a crash</p>",
+            "<p>Any update to the system log done in 2-phases</p>",
+            "<p>not effective in Database</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335651/ugc-net-cse-december-2006-part-2-question-20\" target=\"_blank\">https://gateoverflow.in/335651/ugc-net-cse-december-2006-part-2-question-20</a></p>"
+        },
+        {
+          "id": 25,
+          "question": "<p><a name=\"335654\"></a><div itemprop=\"text\"><p>In DBMS, deferred update means :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>All the updates are done first but the entries are made in the log file later</p>",
+            "<p>All the log files entries are made first but the actual updates are done later</p>",
+            "<p>Every update is done first followed by a writing on the log file</p>",
+            "<p>Changes in the views are deferred till a query asks for a view</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335654/ugc-net-cse-december-2006-part-2-question-17\" target=\"_blank\">https://gateoverflow.in/335654/ugc-net-cse-december-2006-part-2-question-17</a></p>"
+        },
+        {
+          "id": 26,
+          "question": "<p><a name=\"335764\"></a><div itemprop=\"text\"><p>Consider the query :</p><pre class=\"prettyprint linenums lang-sql\" data-pbcklang=\"sql\" data-pbcktabsize=\"4\">SELECT student_name FROM students WHERE \nclass_name=(SELECT class_name FROM students WHERE math_marks=100); </pre><p>what will be the output ?</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 20</b></p>",
+          "type": "single",
+          "options": [
+            "<p>the list of names of students with \\( 100 \\) marks in mathematics</p>",
+            "<p>the names of all students of all classes in which at least one student has \\( 100 \\) marks in mathematics</p>",
+            "<p>the names of all students in all classes having \\( 100 \\) marks in mathematics</p>",
+            "<p>the names and class of all students whose marks in mathematics is \\( 100 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335764/ugc-net-cse-december-2007-part-2-question-20\" target=\"_blank\">https://gateoverflow.in/335764/ugc-net-cse-december-2007-part-2-question-20</a></p>"
+        },
+        {
+          "id": 27,
+          "question": "<p><a name=\"335765\"></a><div itemprop=\"text\"><p>The end of an SQL command is denoted by :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 19</b></p>",
+          "type": "single",
+          "options": [
+            "<p>an end-of-line character</p>",
+            "<p>an ‘enter-key’ marker</p>",
+            "<p>entering F4 key</p>",
+            "<p>a semicolon (;)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335765/ugc-net-cse-december-2007-part-2-question-19\" target=\"_blank\">https://gateoverflow.in/335765/ugc-net-cse-december-2007-part-2-question-19</a></p>"
+        },
+        {
+          "id": 28,
+          "question": "<p><a name=\"335767\"></a><div itemprop=\"text\"><p>Aggregate functions in SQL are :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>GREATEST, LEAST and ABS</p>",
+            "<p>SUM, COUNT and AVG</p>",
+            "<p>UPPER, LOWER and LENGTH</p>",
+            "<p>SQRT, POWER and MOD</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335767/ugc-net-cse-december-2007-part-2-question-17\" target=\"_blank\">https://gateoverflow.in/335767/ugc-net-cse-december-2007-part-2-question-17</a></p>"
+        },
+        {
+          "id": 29,
+          "question": "<p><a name=\"335768\"></a><div itemprop=\"text\"><p>A primary key for an entity is :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>a candidate key</p>",
+            "<p>any attribute</p>",
+            "<p>a unique attribute</p>",
+            "<p>a superkey</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335768/ugc-net-cse-december-2007-part-2-question-16\" target=\"_blank\">https://gateoverflow.in/335768/ugc-net-cse-december-2007-part-2-question-16</a></p>"
+        }
+      ]
+    }
+  ]
+});

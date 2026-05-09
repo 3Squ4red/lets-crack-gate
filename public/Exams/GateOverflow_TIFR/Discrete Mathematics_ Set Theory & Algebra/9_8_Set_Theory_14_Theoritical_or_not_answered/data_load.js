@@ -1,0 +1,27 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Set Theory - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Set Theory",
+      "questions": [
+        {
+          "id": 9,
+          "question": "<p><a name=\"358959\"></a><div itemprop=\"text\"><p>Fix \\( n\\geq 6 \\). Consider the set \\( \\mathcal{C} \\) of binary strings \\( x_{1}, x_{2} \\dots x_{n} \\) of length \\( n \\) such that the bits satisfy the following set of equalities, all modulo \\( 2 \\): \\( x_{i}+x_{i+1}+x_{i+2}=0 \\) for all \\( 1\\leq i\\leq n-2, x_{n-1}+x_{n}+x_{1}=0, \\) and \\( x_{n}+x_{1}+x_{2}=0. \\) What is the size of the set \\( \\mathcal{C} \\)?</p>\n\n</div><br><br><b>TIFR CSE 2021 | Part A | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1 \\) for all \\( n\\geq 6 \\)</p>",
+            "<p>\\( 4 \\) for all \\( n\\geq 6 \\)</p>",
+            "<p>\\( 0 \\) for all \\( n\\geq 6 \\)</p>",
+            "<p>&nbsp;If \\( n\\geq 6 \\) is divisible by \\( 3 \\left |&nbsp;\\mathcal{C} \\right |=1 \\). If \\( n\\geq 6 \\) is \\( \\textit{not} \\) divisible by \\( 3 \\) then \\( \\left | \\mathcal{C} \\right |=4 \\).</p>",
+            "<p>If \\( n\\geq 6 \\) is divisible by \\( 3 \\) \\( \\left | \\mathcal{C} \\right |=4 \\). If \\( n\\geq 6 \\) is not divisible by \\( 3 \\) then \\( \\left | \\mathcal{C} \\right |=1 \\).</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/358959/tifr-cse-2021-part-a-question-9\" target=\"_blank\">https://gateoverflow.in/358959/tifr-cse-2021-part-a-question-9</a></p>"
+        }
+      ]
+    }
+  ]
+});

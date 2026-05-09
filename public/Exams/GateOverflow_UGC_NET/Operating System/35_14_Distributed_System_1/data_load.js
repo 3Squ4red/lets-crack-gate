@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Operating System - Distributed System",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Distributed System",
+      "questions": []
+    }
+  ]
+});

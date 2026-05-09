@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "CO & Architecture - Addressing Modes - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Addressing Modes",
+      "questions": []
+    }
+  ]
+});

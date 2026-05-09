@@ -1,0 +1,26 @@
+{
+  "title": "Algorithms - Asymptotic Notation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Asymptotic Notation",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"60565\"></a><div itemprop=\"text\"><p>The recurrence relation \\( T(n) =mT(\\frac{n}{2}) + tan^2 \\) is satisfied by</p>\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>O(n\\( ^2 \\))</p>",
+            "<p>O(n\\( ^{lg \\, m} \\))</p>",
+            "<p>O(n\\( ^2&nbsp;\\: lg \\:n) \\)</p>",
+            "<p>O(n lg n)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60565/ugc-net-cse-december-2013-part-3-question-36\" target=\"_blank\">https://gateoverflow.in/60565/ugc-net-cse-december-2013-part-3-question-36</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Databases - Joins",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Joins",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"62734\"></a><div itemprop=\"text\"><p>Consider the following three tables \\( R, S \\) and \\( T. \\) In this question, all the join operations are natural joins \\( (\\bowtie ) \\). \\( (\\pi ) \\)&nbsp;is the projection operation of a relation:</p>\n\n<p>\\( \\begin{array}{|ccc|} \\hline & R & \\\\ \\hline &nbsp;&nbsp;A && B \\\\ \\hline 1 && 2 \\\\ 3 && 2 \\\\ 5 && 6 \\\\ 7 & &8 \\\\ 9 && 8 \\\\ \\hline \\end{array} \\begin{array}{|ccc|} \\hline & S & \\\\ \\hline &nbsp;&nbsp;B && C \\\\ \\hline 6 && 2 \\\\ 2 && 4 \\\\ 8 && 1 \\\\ 8 & &3 \\\\ 2 && 5 \\\\ \\hline \\end{array} \\begin{array}{|ccc|} \\hline & T & \\\\ &nbsp; \\hline A && C \\\\ \\hline 7 && 1 \\\\ 1 && 2 \\\\ 9 && 3 \\\\ 5 & &4 \\\\ 3 && 5 \\\\ \\hline \\end{array} \\)</p>\n\n<p>Possible answer tables for this question are also given as below:</p>\n\n<p>\\( \\underset{\\text{(a)}}{\\begin{array}{|ccc|} \\hline A & B & C \\\\ \\hline&nbsp;1 & 2& 4&nbsp;\\\\ 1 &2& 5 \\\\ 3 &2& 4&nbsp;\\\\ 3 &2& 5 \\\\ 5 & 6 &2&nbsp;\\\\&nbsp;7&nbsp;& 8 & 1&nbsp;\\\\ 7 & 8 & 3 \\\\&nbsp; 9 & 8 & 1 \\\\ 9 & 8 & 3 \\\\ \\hline \\end{array}} \\underset{\\text{(b)}}{\\begin{array}{|ccc|} \\hline A & B & C \\\\ \\hline&nbsp;1 & 2& 2&nbsp;\\\\ 3&nbsp;&2& 5 \\\\ 5&nbsp;&6& 4&nbsp;\\\\ 7 &8& 1 \\\\ 9 & 8 &3 \\\\ \\hline \\end{array}} \\underset{\\text{(c)}}{\\begin{array}{|ccc|} \\hline A & B & C \\\\ \\hline&nbsp;1 & 6& 2&nbsp;\\\\ 3&nbsp;&2& 5 \\\\ 5&nbsp;&2& 4&nbsp;\\\\ 7 &8& 1 \\\\ 9 & 8 &3 \\\\ \\hline \\end{array}} \\underset{\\text{(d)}}{\\begin{array}{|ccc|} \\hline A & B & C \\\\ \\hline&nbsp;3 & 2& 5&nbsp;\\\\ &nbsp;7 &8& 1 \\\\ 9 & 8 &3 \\\\ \\hline \\end{array}} \\)</p>\n\n<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/ugcnet/databases_joins/abb59b46b0922c8a64f0f28d29c199e8.png\"></p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 3 | Question: 63</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(a)</p>",
+            "<p>(b)</p>",
+            "<p>(c)</p>",
+            "<p>(d)</p>"
+          ],
+          "correct_answer": "<p>(b)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62734/ugc-net-cse-december-2015-part-3-question-63\" target=\"_blank\">https://gateoverflow.in/62734/ugc-net-cse-december-2015-part-3-question-63</a></p>"
+        }
+      ]
+    }
+  ]
+});

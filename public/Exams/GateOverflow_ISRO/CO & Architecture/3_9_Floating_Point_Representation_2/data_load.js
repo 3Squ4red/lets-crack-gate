@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "CO & Architecture - Floating Point Representation",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Floating Point Representation",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"331434\"></a><div itemprop=\"text\"><p>An array of \\( 2 \\) two byte integers is stored in big endian machine in byte addresses as shown below. What will be its storage pattern in little endian machine ?</p>\n\n<p>\\[ \\begin{array}{c|c}\\text{Address}& \\text{Data}\\\\\\hline0 \\times 104&78\\\\0 \\times 103&56\\\\0 \\times 102&34\\\\0 \\times 101&12\\end{array} \\]</p>\n\n</div><br><br><b>ISRO CSE 2020 | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\begin{array}{c|c}\\text{Address}& \\text{Data}\\\\\\hline0 \\times 104&12\\\\0 \\times 103&56\\\\0 \\times 102&34\\\\0 \\times 101&78 \\\\ \\\\\\end{array} \\)</p>",
+            "<p>\\begin{array}{c|c}\\text{Address}& \\text{Data}\\\\\\hline0 \\times 104&12\\\\0 \\times 103&34\\\\0 \\times 102&56\\\\0 \\times 101&78\\\\\\\\\\end{array} \\\\</p>",
+            "<p>\\begin{array}{c|c}\\text{Address}& \\text{Data}\\\\\\hline0 \\times 104&56\\\\0 \\times 103&78\\\\0 \\times 102&12\\\\0 \\times 101&34\\\\\\\\\\end{array} \\\\</p>",
+            "<p>\\( \\begin{array}{c|c}\\text{Address}& \\text{Data}\\\\\\hline0 \\times 104&56\\\\0 \\times 103&12\\\\0 \\times 102&78\\\\0 \\times 101&34\\end{array} \\)</p>"
+          ],
+          "correct_answer": "<p>\\begin{array}{c|c}\\text{Address}& \\text{Data}\\\\\\hline0 \\times 104&56\\\\0 \\times 103&78\\\\0 \\times 102&12\\\\0 \\times 101&34\\\\\\\\\\end{array} \\\\</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/331434/isro-cse-2020-question-5\" target=\"_blank\">https://gateoverflow.in/331434/isro-cse-2020-question-5</a></p>"
+        }
+      ]
+    }
+  ]
+});

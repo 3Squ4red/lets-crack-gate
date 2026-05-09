@@ -1,0 +1,43 @@
+window.__examLoadCallback({
+  "title": "Theory of Computation - Closure Property",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Closure Property",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"25772\"></a><div itemprop=\"text\"><p>Which of the following statements is FALSE?</p></div><br><br><b>TIFR CSE 2013 | Part B | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>The intersection of a context free language with a regular language is context free.</p>",
+            "<p>The intersection of two regular languages is regular.</p>",
+            "<p>The intersection of two context free languages is context free</p>",
+            "<p>The intersection of a context free language and the complement of a regular language is context free.</p>",
+            "<p>The intersection of a regular language and the complement of a regular language is regular.</p>"
+          ],
+          "correct_answer": "<p>The intersection of two context free languages is context free</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25772/tifr-cse-2013-part-b-question-11\" target=\"_blank\">https://gateoverflow.in/25772/tifr-cse-2013-part-b-question-11</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"97627\"></a><div itemprop=\"text\"><p>Which language class has the following properties?</p><p>\\( \\quad \\) It is closed under union and intersection but not complement.</p></div><br><br><b>TIFR CSE 2016 | Part B | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Regular language</p>",
+            "<p>Context-free language</p>",
+            "<p>Recursive language</p>",
+            "<p>Recursively enumerable language</p>",
+            "<p>Languages that are not recursively enumerable</p>"
+          ],
+          "correct_answer": "<p>Recursively enumerable language</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/97627/tifr-cse-2016-part-b-question-2\" target=\"_blank\">https://gateoverflow.in/97627/tifr-cse-2016-part-b-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+});

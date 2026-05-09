@@ -1,0 +1,37 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Probability - Expectation - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Expectation",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"20011\"></a><div itemprop=\"text\"><p>Assume that you are flipping a fair coin, i.e. probability of heads or tails is equal. Then the expected number of coin flips required to obtain two consecutive heads for the first time is.</p>\n\n<ol style=\"list-style-type:lower-alpha\">\n\t<li>\\( 4 \\)</li>\n\t<li>\\( 3 \\)</li>\n\t<li>\\( 6 \\)</li>\n\t<li>\\( 10 \\)</li>\n\t<li>\\( 5 \\)</li>\n</ol></div><br><br><b>TIFR CSE 2011 | Part A | Question: 6</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>C</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/20011/tifr-cse-2011-part-a-question-6\" target=\"_blank\">https://gateoverflow.in/20011/tifr-cse-2011-part-a-question-6</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"27111\"></a><div itemprop=\"text\">\n<p>A fair dice (with faces numbered \\( 1, . . . , 6 \\)) is independently rolled repeatedly. Let \\( X \\) denote the&nbsp;number of rolls till an even number is seen and let \\( Y \\) denote the number of rolls till \\( 3 \\) is seen. Evaluate \\( E(Y |X = 2) \\).</p>\n\n\n</div><br><br><b>TIFR CSE 2014 | Part A | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 6\\frac{5}{6} \\)</p>",
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 5\\frac{1}{2} \\)</p>",
+            "<p>\\( 6\\frac{1}{3} \\)</p>",
+            "<p>\\( 5\\frac{2}{3} \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/27111/tifr-cse-2014-part-a-question-17\" target=\"_blank\">https://gateoverflow.in/27111/tifr-cse-2014-part-a-question-17</a></p>"
+        }
+      ]
+    }
+  ]
+});

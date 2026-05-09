@@ -1,0 +1,116 @@
+{
+  "title": "Non GATE CSE_ Computer Graphics - Computer Graphics - Theoretical/Not Answered",
+  "duration": 19,
+  "sections": [
+    {
+      "name": "Computer Graphics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"408061\"></a><div itemprop=\"text\"><p>What is the transformation matrix M that transforms a square in the xy plane defined by (1, 1),&nbsp;(-1, 1),&nbsp;(-1, -1),&nbsp;(1, -1)&nbsp;to a parallelogram whose corresponding vertices are (2, 1),&nbsp;(0,1),&nbsp;(-2, -1),&nbsp;and (0, -1)&nbsp;?</p>\n\n</div><br><br><b>Computer Science - UGC NET 2021 [ Question ID = 2338 ]</b></p>",
+          "type": "single",
+          "options": [
+            "<p>1 1 0<br>\n\t0 1 0<br>\n\t0 0 1<br>\n\t&nbsp;</p>",
+            "<p>1 0 0<br>\n\t1 1 0<br>\n\t0 0 1<br>\n\t&nbsp;</p>",
+            "<p>1 1 1<br>\n\t0 1 0<br>\n\t0 0 1<br>\n\t&nbsp;</p>",
+            "<p>1 1 0<br>\n\t1 1 0<br>\n\t0 0 1</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/408061/computer-science-ugc-net-2021-question-id-2338\" target=\"_blank\">https://gateoverflow.in/408061/computer-science-ugc-net-2021-question-id-2338</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"409553\"></a><div itemprop=\"text\"><p>Suppose a Bezier curve P(t) is defined by the following four control points in the xy - plane : P0 = (-2,0); P1 = (-2,4); P2 = (2,4); and P3 = (2,0). Then which of the following statements are correct ?&nbsp;</p>\n\n<ol style=\"list-style-type:decimal\" type=\"1\">\n\t<li>Bezier curve P(t) has degree 3.</li>\n\t<li>P(1 / 2) = (0,3).</li>\n\t<li>Bezier curve P(t) may extend outside the convex hull of its control points.</li>\n</ol>\n\n<p>Choose the correct answer from the options given below :&nbsp;</p>\n\n</div><br><br><b>Computer Science - UGC NET 2021 [ Question ID = 2339 ]</b></p>",
+          "type": "single",
+          "options": [
+            "<p>1 and 2 only.</p>",
+            "<p>1 and 3 only.</p>",
+            "<p>2 and 3 only.</p>",
+            "<p>1, 2, and 3.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/409553/computer-science-ugc-net-2021-question-id-2339\" target=\"_blank\">https://gateoverflow.in/409553/computer-science-ugc-net-2021-question-id-2339</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"409552\"></a><div itemprop=\"text\"><p>Given below are two statements :&nbsp;</p>\n\n<p><strong>Statement I:</strong> The maximum number of sides that a triangle might have when clipped to a rectangular viewport is 6.</p>\n\n<p><strong>Statement II:</strong> In 3D graphics, the perspective transformation is nonlinear in z.</p>\n\n<p>In light of the above statements, choose the correct answer from the options given below :&nbsp;</p>\n\n</div><br><br><b>Computer Science - UGC NET 2021 [ Question ID = 2340 ]</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Both Statement I and Statement II are true.</p>",
+            "<p>Both Statement I and Statement II are false.</p>",
+            "<p>Statement I is true but Statement II is false.</p>",
+            "<p>Statement I is false but Statement II is true.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/409552/computer-science-ugc-net-2021-question-id-2340\" target=\"_blank\">https://gateoverflow.in/409552/computer-science-ugc-net-2021-question-id-2340</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"57376\"></a><div itemprop=\"text\"><p>Let \\( V_1 = 2I-J+k \\) and \\( V_2 = I+J-K \\), then the angle between \\( V_1 \\) and \\( V_2 \\) and a vector perpendicular to both \\( V_1 \\) and \\( V_2 \\) shall be</p>\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 3 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 90^o \\text{and} (-2I+J-3K) \\)</p>",
+            "<p>\\( 60^o \\text{and} (2I+J+3K) \\)</p>",
+            "<p>\\( 90^o \\text{and} (2I+J-3K) \\)</p>",
+            "<p>\\( 90^o \\text{and} (-2I-J+3K) \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57376/ugc-net-cse-december-2012-part-3-question-12\" target=\"_blank\">https://gateoverflow.in/57376/ugc-net-cse-december-2012-part-3-question-12</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"60794\"></a><div itemprop=\"text\"><p>What steps shall be required to rotate an object from point \\( P_1 \\) (as shown in fig. 1) and its placement such that what was at \\( P_1 \\) is now reduced and is at \\( P_2 \\) (as shown in fig. 2)?</p><p><img alt=\"\" width=\"400\" height=\"184\" src=\"images/gateOverFlowPDFsImages/ugcnet/non_gate_cse_computer_graphics_computer_graphics/3cc6f913e64c70cb84bd419f7478d9ab.png\"></p><ol style=\"list-style-type:upper-roman\"><li>Translate \\( P_1 \\) to origin</li><li>Scale as required</li><li>Rotate</li><li>Translate to the final position \\( P_2 \\)</li></ol></div><br><br><b>UGC NET CSE | December 2013 | Part 3 | Question: 66</b></p>",
+          "type": "single",
+          "options": [
+            "<p>I, II and III</p>",
+            "<p>II, III and IV</p>",
+            "<p>I, III and IV</p>",
+            "<p>All of the above</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60794/ugc-net-cse-december-2013-part-3-question-66\" target=\"_blank\">https://gateoverflow.in/60794/ugc-net-cse-december-2013-part-3-question-66</a></p>"
+        },
+        {
+          "id": 14,
+          "question": "<p><a name=\"62707\"></a><div itemprop=\"text\"><p>Which of the following is not a lossy compression technique?</p>\n\n</div><br><br><b>UGC NET CSE | December 2015 | Part 3 | Question: 50</b></p>",
+          "type": "single",
+          "options": [
+            "<p>JPEG</p>",
+            "<p>MPEG</p>",
+            "<p>FFT</p>",
+            "<p>Arithmetic coding</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62707/ugc-net-cse-december-2015-part-3-question-50\" target=\"_blank\">https://gateoverflow.in/62707/ugc-net-cse-december-2015-part-3-question-50</a></p>"
+        },
+        {
+          "id": 24,
+          "question": "<p><a name=\"225878\"></a><div itemprop=\"text\"><p>A graphic display system has a frame buffer that is 640 pixels high&nbsp;<strong>, </strong>480 pixels high and &nbsp;1 bit of color depth. If the access time for each pixel on the average is 200 nanoseconds, then the refresh rate of this frame buffer is approximately:</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>16 frames per second</p>",
+            "<p>19&nbsp;frames per second</p>",
+            "<p>21&nbsp;frames per second</p>",
+            "<p>23&nbsp;frames per second</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225878/ugc-net-cse-july-2018-part-2-question-8\" target=\"_blank\">https://gateoverflow.in/225878/ugc-net-cse-july-2018-part-2-question-8</a></p>"
+        }
+      ]
+    }
+  ]
+}

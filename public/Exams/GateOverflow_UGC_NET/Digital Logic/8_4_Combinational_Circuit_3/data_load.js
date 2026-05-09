@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Combinational Circuit",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Combinational Circuit",
+      "questions": []
+    }
+  ]
+});

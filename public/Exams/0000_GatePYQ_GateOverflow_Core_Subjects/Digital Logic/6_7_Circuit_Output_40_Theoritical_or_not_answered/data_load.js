@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Circuit Output - Theoretical/Not Answered",
+  "duration": 17,
+  "sections": [
+    {
+      "name": "Circuit Output",
+      "questions": [
+        {
+          "id": 36,
+          "question": "<p><a name=\"3804\"></a><div itemprop=\"text\"><p>Which of the following input sequences will always generate a \\( 1 \\) at the output \\( z \\) at the end of the third cycle?</p>\n\n<p><img alt=\"GATE2005-IT_43\" height=\"286\" src=\"images/gateOverFlowPDFsImages/volume2/digital_logic_circuit_output/89a9f0ad7e1b968158170238f15de981.png\" width=\"506\"></p>\n\n</div><br><br><b>GATE IT 2005 | Question: 43</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\begin{array}{|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline&nbsp; \\text{0} & \\text{0} & \\text{0} \\\\\\hline&nbsp;&nbsp; \\text{1} & \\text{0} & \\text{1} \\\\\\hline&nbsp; \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array} \\)</p>",
+            "<p>\\( \\begin{array}{|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline&nbsp; \\text{1} & \\text{0} & \\text{1} \\\\\\hline&nbsp;&nbsp; \\text{1} & \\text{1} & \\text{0} \\\\\\hline&nbsp; \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array} \\)</p>",
+            "<p>\\( \\begin{array}{|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline&nbsp; \\text{0} & \\text{1} & \\text{1} \\\\\\hline&nbsp;&nbsp; \\text{1} & \\text{0} & \\text{1} \\\\\\hline&nbsp; \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array} \\)</p>",
+            "<p>\\( \\begin{array}{|l|l|}\\hline \\textbf{A} & \\textbf{B} & \\textbf{C} \\\\\\hline&nbsp; \\text{0} & \\text{0} & \\text{1} \\\\\\hline&nbsp;&nbsp; \\text{1} & \\text{1} & \\text{0} \\\\\\hline&nbsp; \\text{1} & \\text{1} & \\text{1} \\\\\\hline \\end{array} \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3804/gate-it-2005-question-43\" target=\"_blank\">https://gateoverflow.in/3804/gate-it-2005-question-43</a></p>"
+        }
+      ]
+    }
+  ]
+});

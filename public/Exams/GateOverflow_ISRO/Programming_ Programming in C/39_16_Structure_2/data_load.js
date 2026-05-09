@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Programming_ Programming in C - Structure",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Structure",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"213586\"></a><div itemprop=\"text\"><p>Consider the following declaration :</p>\n\n<pre class=\"prettyprint lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">structaddr {\n    char city[10];\n    char street[30];\n    int pin;\n};\nstruct {\n    char name[30];\n    int gender;\n    struct addr locate;\n} person, *kd = &person;\n</pre>\n\n<p>Then *\\( (kd-&gt;name + 2) \\)&nbsp;can be used instead of:</p>\n\n</div><br><br><b>ISRO CSE 2018 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( person.name+2 \\)</p>",
+            "<p>\\( kd-&gt; (name+2) \\)</p>",
+            "<p>\\( *((*kd).name+2) \\)</p>",
+            "<p>either \\( A) \\) or \\( B) \\) , not \\( C) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( *((*kd).name+2) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/213586/isro-cse-2018-question-2\" target=\"_blank\">https://gateoverflow.in/213586/isro-cse-2018-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+});

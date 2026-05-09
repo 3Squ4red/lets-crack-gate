@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Data Mart",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Data Mart",
+      "questions": []
+    }
+  ]
+});

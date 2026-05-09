@@ -1,0 +1,41 @@
+{
+  "title": "Operating System - Memory Management - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Memory Management",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"155364\"></a><div itemprop=\"text\"><p>Which of the following \\( OS \\) treats hardware as a file system?</p>\n\n</div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( UNIX \\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</p>",
+            "<p>\\( DOS \\)&nbsp; &nbsp;</p>",
+            "<p>\\( Windows \\) \\( NT \\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155364/ugc-net-cse-december-2008-part-2-question-40\" target=\"_blank\">https://gateoverflow.in/155364/ugc-net-cse-december-2008-part-2-question-40</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"56517\"></a><div itemprop=\"text\">\n<p>Given a memory partitions of 100 K, 500 K, 200 K, 300 K and 600 K (in order) and processes of 212 K, 417 K, 112 K and 426 K (in order), using the first fit algorithm, in which partition would the process requiring 426 K be placed?</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>500 K</p>",
+            "<p>200 K</p>",
+            "<p>300 K</p>",
+            "<p>600 K</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56517/ugc-net-cse-december-2012-part-2-question-14\" target=\"_blank\">https://gateoverflow.in/56517/ugc-net-cse-december-2012-part-2-question-14</a></p>"
+        }
+      ]
+    }
+  ]
+}

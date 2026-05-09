@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Adder - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Adder",
+      "questions": []
+    }
+  ]
+});

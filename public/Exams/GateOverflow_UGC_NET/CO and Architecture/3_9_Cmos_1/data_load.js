@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "CO and Architecture - Cmos",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Cmos",
+      "questions": []
+    }
+  ]
+});

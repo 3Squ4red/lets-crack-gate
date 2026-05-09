@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Others - Algorithm Design",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Algorithm Design",
+      "questions": []
+    }
+  ]
+});

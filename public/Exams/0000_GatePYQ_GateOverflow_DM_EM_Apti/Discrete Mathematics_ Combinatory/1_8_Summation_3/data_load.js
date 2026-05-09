@@ -1,0 +1,36 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Combinatory - Summation",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Summation",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"422\"></a><div itemprop=\"text\"><p>Let \\( P =\\sum \\limits_&nbsp;{i\\;\\text{odd}}^{1\\le&nbsp;i \\le 2k} i \\) and \\( Q = \\sum\\limits_{i\\;\\text{even}}^{1 \\le i \\le 2k} i \\), where \\( k \\) is a positive integer. Then</p>\n\n</div><br><br><b>GATE CSE 2008 | Question: 24</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( P = Q - k \\)</p>",
+            "<p>\\( P = Q + k \\)</p>",
+            "<p>\\( P = Q \\)</p>",
+            "<p>\\( P = Q + 2k \\)</p>"
+          ],
+          "correct_answer": "<p>\\( P = Q - k \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/422/gate-cse-2008-question-24\" target=\"_blank\">https://gateoverflow.in/422/gate-cse-2008-question-24</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"8248\"></a><div itemprop=\"text\">\\( \\sum\\limits_{x=1}^{99}\\frac{1}{x(x+1)} \\) = ______.</div><br><br><b>GATE CSE 2015 Set 1 | Question: 26</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "0.99",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/8248/gate-cse-2015-set-1-question-26\" target=\"_blank\">https://gateoverflow.in/8248/gate-cse-2015-set-1-question-26</a></p>"
+        }
+      ]
+    }
+  ]
+});

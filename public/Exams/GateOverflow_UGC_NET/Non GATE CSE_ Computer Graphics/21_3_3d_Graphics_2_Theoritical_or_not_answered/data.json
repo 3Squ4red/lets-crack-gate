@@ -1,0 +1,26 @@
+{
+  "title": "Non GATE CSE_ Computer Graphics - 3d Graphics - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "3d Graphics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"225877\"></a><div itemprop=\"text\"><p>Which of the following statements is/are <strong>True </strong>regarding the solution of the visibility problem in 3D graphics?</p>\n\n<p>S1: The painter's algorithm sorts polygons by depth and then paints (scan - converts) each Polygon on to the screen starting with the most nearest polygon</p>\n\n<p>S2: Backface Culling refers to eliminating geometry with backfacing normals</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>S1 only</p>",
+            "<p>S2 only</p>",
+            "<p>Both S1 and S2</p>",
+            "<p>Neither S1 nor S2</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225877/ugc-net-cse-july-2018-part-2-question-9\" target=\"_blank\">https://gateoverflow.in/225877/ugc-net-cse-july-2018-part-2-question-9</a></p>"
+        }
+      ]
+    }
+  ]
+}

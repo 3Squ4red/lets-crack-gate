@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Databases - Database Normalization - Theoretical/Not Answered",
+  "duration": 25,
+  "sections": [
+    {
+      "name": "Database Normalization",
+      "questions": [
+        {
+          "id": 49,
+          "question": "<p><a name=\"413601\"></a><div itemprop=\"text\"><p>Given the following relation instances \\[ \\begin{array}{|ll|ll||ll|}\\hline & \\textbf{X} &&nbsp; & \\textbf{Y } &&nbsp; \\textbf{ Z} \\\\\\hline & \\text{1} & & \\text{4} & \\text{2} \\\\\\hline&nbsp; &nbsp;& \\text{1} & & \\text{5} & \\text{3} \\\\\\hline&nbsp; & \\text{1} & & \\text{4} & \\text{3} \\\\\\hline&nbsp;& \\text{1} & & \\text{5} & \\text{2} \\\\\\hline&nbsp;& \\text{3} & & \\text{2} & \\text{&nbsp; 1}& \\\\\\hline&nbsp; \\end{array} \\]</p><p>Which of the following conditions is/are <strong>TRUE</strong>?</p></div><br><br><b>GATE Data Science and Artificial Intelligence  2024 | Sample Paper | Question: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\mathrm{XY} -&gt;&nbsp;\\mathrm{Z} \\) and \\( \\mathrm{Z} -&gt;&nbsp;\\mathrm{Y} \\)</p>",
+            "<p>\\( \\mathrm{YZ} -&gt;&nbsp;\\mathrm{X} \\) and \\( \\mathrm{X} -&gt;&nbsp;&gt;\\mathrm{Y} \\)</p>",
+            "<p>\\( \\mathrm{Y} -&gt;&nbsp;\\mathrm{X} \\) and \\( \\mathrm{Y} -&gt;&gt;\\mathrm{X} \\)</p>",
+            "<p>\\( \\mathrm{XZ}-&gt;\\mathrm{Y} \\) and \\( \\mathrm{Y}-&gt;\\mathrm{X} \\)<p>&nbsp;</p></p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/413601/gate-data-science-and-artificial-intelligence-2024-sample-paper-question-26\" target=\"_blank\">https://gateoverflow.in/413601/gate-data-science-and-artificial-intelligence-2024-sample-paper-question-26</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,35 @@
+[0m
+[4m/Users/jeet/Source Code/GatePYQ/lets-crack-gate/src/pages/HomePage.jsx[24m
+   [2m55:5[22m  [31merror[39m  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  53 |     // Read streak from legacy DB (localStorage) as fallback initially
+  54 |     const savedStreak = parseInt(localStorage.getItem("dailyStreakCount") || "0")
+> 55 |     setStreak(savedStreak)
+     |     ^^^^^^^^^ Avoid calling setState() directly within an effect
+  56 |
+  57 |     // Calculate robust streak from IndexedDB
+  58 |     const calculateStreak = async () => {  [2mreact-hooks/set-state-in-effect[22m
+  [2m128:7[22m  [31merror[39m  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+  126 |     if (isExpiredCustom) {
+  127 |       localStorage.removeItem('customExamDate');
+> 128 |       setCustomTargetDate(null);
+      |       ^^^^^^^^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  129 |       return;
+  130 |     }
+  131 |                                                                                                                          [2mreact-hooks/set-state-in-effect[22m
+
+[31m[1m✖ 2 problems (2 errors, 0 warnings)[22m[39m
+[0m

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Databases - Indexing - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Indexing",
+      "questions": []
+    }
+  ]
+});

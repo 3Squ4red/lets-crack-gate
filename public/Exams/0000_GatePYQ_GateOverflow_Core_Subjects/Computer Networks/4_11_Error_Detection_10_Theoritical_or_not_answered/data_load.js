@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Error Detection - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Error Detection",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,51 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Analytical Aptitude - Logical Reasoning - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Logical Reasoning",
+      "questions": [
+        {
+          "id": 15,
+          "question": "<p><a name=\"411870\"></a><div itemprop=\"text\"><p>Residency is a famous housing complex with many well-established individuals among its residents. A recent survey conducted among the residents of the complex revealed that all of those residents who are well established in their respective fields happen to be academicians. The survey also revealed that most of these academicians are authors of some best-selling books.</p>\n\n<p>Based only on the information provided above, which one of the following statements can be logically inferred with <em>certainty?</em></p>\n\n</div><br><br><b>GATE IN 2023 | GA Question: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Some residents of the complex who are well established in their fields are also authors of some best-selling books.</p>",
+            "<p>All academicians residing in the complex are well established in their fields.</p>",
+            "<p>Some authors of best-selling books are residents of the complex who are well established in their fields.</p>",
+            "<p>Some academicians residing in the complex are well established in their fields.</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/411870/gate-in-2023-ga-question-6\" target=\"_blank\">https://gateoverflow.in/411870/gate-in-2023-ga-question-6</a></p>"
+        },
+        {
+          "id": 25,
+          "question": "<p><a name=\"40307\"></a><div itemprop=\"text\">Anuj, Bhola, Chandan, Dilip, Eswar and Faisal live on different floors in a six-storeyed building (the ground floor is numbered \\( 1 \\), the floor above it \\( 2 \\), and so on) Anuj lives on an even-numbered floor, Bhola does not live on an odd numbered floor. Chandan does not live on any of the floors below Faisal's floor. Dilip does not live on floor number \\( 2 \\). Eswar does not live on a floor immediately above or immediately below Bhola. Faisal lives three floors above Dilip. Which of the following floor-person combinations is correct?<br>\n<br>\n\\[ \\begin{array}{|c|c|c|c|c|c|c|} \\hline \\text{} & \\text{Anuj} & \\text{Bhola} &\\text{Chandan} &\\text{Dilip} & \\text{Eswar} & \\text{Faisal} \\\\\\hline \\text{(A)} & \\text{6} &\\text{2} &\\text{5} &\\text{1} &\\text{3} &\\text{4} \\\\\\hline \\text{(B)} & \\text{2} &\\text{6} & \\text{5}& \\text{1} &\\text{3} &\\text{4}\\\\\\hline \\text{(C)} & \\text{4} &\\text{2} & \\text{6} & \\text{3} &\\text{1} &\\text{5}\\\\\\hline \\text{(D)} & \\text{2} &\\text{4} & \\text{6} & \\text{1} &\\text{3} &\\text{5}\\\\\\hline \\end{array} \\]</div><br><br><b>GATE2014 AE: GA-7</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>B</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/40307/gate2014-ae-ga-7\" target=\"_blank\">https://gateoverflow.in/40307/gate2014-ae-ga-7</a></p>"
+        },
+        {
+          "id": 26,
+          "question": "<p><a name=\"41515\"></a><div itemprop=\"text\">\n<p>Lights of four colors (red, blue, green, yellow) are hung on a ladder. On every step of the ladder there are two lights. If one of the lights is red, the other light on that step will always be blue. If one of the lights on a step is green, the other light on that step will always be yellow. Which of the following statements is not necessarily correct?&nbsp;</p>\n\n\n</div><br><br><b>GATE2014 EC-2: GA-7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>The number of red lights is equal to the number of blue lights&nbsp;</p>",
+            "<p>The number of green lights is equal to the number of yellow lights&nbsp;</p>",
+            "<p>The sum of the red and green lights is equal to the sum of the yellow and blue lights&nbsp;</p>",
+            "<p>The sum of the red and blue lights is equal to the sum of the green and yellow lights</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/41515/gate2014-ec-2-ga-7\" target=\"_blank\">https://gateoverflow.in/41515/gate2014-ec-2-ga-7</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Others - Encryption Decryption",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Encryption Decryption",
+      "questions": []
+    }
+  ]
+});

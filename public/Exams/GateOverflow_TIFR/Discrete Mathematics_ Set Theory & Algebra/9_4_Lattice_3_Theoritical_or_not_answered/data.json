@@ -1,0 +1,27 @@
+{
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Lattice - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Lattice",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"27341\"></a><div itemprop=\"text\"><p>Consider the ordering relation \\( x\\mid y \\subseteq N \\times N \\) over natural numbers \\( N \\) such that \\( x \\mid y \\) if there exists \\( z \\in N \\)&nbsp;such that \\( x ∙&nbsp;z = y \\). A set is called lattice if every finite subset has a least upper bound and greatest&nbsp;lower bound. It is called a complete lattice if every subset has a least upper bound and greatest lower bound.&nbsp;Then,</p>\n\n</div><br><br><b>TIFR CSE 2014 | Part B | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\mid \\) is an equivalence relation.</p>",
+            "<p>Every subset of \\( N \\) has an upper bound under \\( | \\).</p>",
+            "<p>\\( \\mid \\) is a total order.</p>",
+            "<p>\\( (N, \\mid) \\) is a complete lattice.</p>",
+            "<p>\\( (N, \\mid) \\) is a lattice but not a complete lattice.</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/27341/tifr-cse-2014-part-b-question-16\" target=\"_blank\">https://gateoverflow.in/27341/tifr-cse-2014-part-b-question-16</a></p>"
+        }
+      ]
+    }
+  ]
+}

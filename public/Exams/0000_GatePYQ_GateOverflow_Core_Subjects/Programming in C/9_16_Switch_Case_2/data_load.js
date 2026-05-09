@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "Programming_ Programming in C - Switch Case",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Switch Case",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"8557\"></a><div itemprop=\"text\"><p>Consider the following C program:</p>\n\n<pre class=\"prettyprint lang-c_cpp\">#include&lt;stdio.h&gt;\nint main()\n{\n    int i, j, k = 0;\n    j=2 * 3 / 4 + 2.0 / 5 + 8 / 5;\n    k-=--j;\n    for (i=0; i&lt;5; i++)\n    {\n        switch(i+k)\n        {\n            case 1: \n            case 2: printf(\"\\n%d\", i+k);\n            case 3: printf(\"\\n%d\", i+k);\n            default: printf(\"\\n%d\", i+k);\n        }\n    }\n    return 0;\n}</pre>\n\n<p>The number of times printf statement is executed is _______.</p></div><br><br><b>GATE CSE 2015 Set 3 | Question: 48</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "10",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/8557/gate-cse-2015-set-3-question-48\" target=\"_blank\">https://gateoverflow.in/8557/gate-cse-2015-set-3-question-48</a></p>"
+        }
+      ]
+    }
+  ]
+});

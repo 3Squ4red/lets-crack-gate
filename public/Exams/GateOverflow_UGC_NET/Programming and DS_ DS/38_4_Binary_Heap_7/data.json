@@ -1,0 +1,71 @@
+{
+  "title": "Programming and DS_ DS - Binary Heap",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Binary Heap",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"335140\"></a><div itemprop=\"text\"><p>Which of the following is a valid heap?</p><ol start=\"1\" style=\"list-style-type:lower-alpha\"><li><img alt=\"\" width=\"200\" height=\"193\" src=\"images/gateOverFlowPDFsImages/ugcnet/programming_and_ds_ds_binary_heap/de07350ebda0b75a591d2d739cda4d15.png\"></li><li><img alt=\"\" width=\"200\" height=\"193\" src=\"images/gateOverFlowPDFsImages/ugcnet/programming_and_ds_ds_binary_heap/e8e3f9d75f0e51201d688d4e99c04e43.png\"></li><li><img alt=\"\" width=\"200\" height=\"193\" src=\"images/gateOverFlowPDFsImages/ugcnet/programming_and_ds_ds_binary_heap/ff9ff4c1607445b1682edf9710ec8f08.png\"></li><li><img alt=\"\" width=\"200\" height=\"190\" src=\"images/gateOverFlowPDFsImages/ugcnet/programming_and_ds_ds_binary_heap/e839e90294b01370f3299bc6614387ae.png\"></li></ol><p>&nbsp;</p></div><br><br><b>UGC NET CSE | January 2017 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( a \\)</p>",
+            "<p>\\( b \\)</p>",
+            "<p>\\( c \\)</p>",
+            "<p>\\( d \\)</p>"
+          ],
+          "correct_answer": "<p>\\( b \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335140/ugc-net-cse-january-2017-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/335140/ugc-net-cse-january-2017-part-2-question-23</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"58278\"></a><div itemprop=\"text\"><p>In any n-element heap, the number of nodes of height h is,</p>\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 3 | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>less than equal to \\( \\biggl[ \\frac{n}{2^h} \\biggr] \\)</p>",
+            "<p>greater than \\( \\biggl[ \\frac{n}{2^h} \\biggl] \\)</p>",
+            "<p>greater than \\( \\biggl[ \\frac{n}{2^h+1} \\biggr] \\)</p>",
+            "<p>less than equal to \\( \\biggl [ \\frac{n}{2^h+1} \\biggr] \\)</p>"
+          ],
+          "correct_answer": "<p>less than equal to \\( \\biggl [ \\frac{n}{2^h+1} \\biggr] \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58278/ugc-net-cse-june-2013-part-3-question-13\" target=\"_blank\">https://gateoverflow.in/58278/ugc-net-cse-june-2013-part-3-question-13</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"166396\"></a><div itemprop=\"text\"><p>Heap allocation is required for languages that</p>\n\n</div><br><br><b>UGC NET CSE | November 2017 | Part 3 | Question: 20</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Use dynamic scope rules</p>",
+            "<p>Support dynamic data structures</p>",
+            "<p>Support recursion</p>",
+            "<p>Support recursion and dynamic data structures</p>"
+          ],
+          "correct_answer": "<p>Support dynamic data structures</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/166396/ugc-net-cse-november-2017-part-3-question-20\" target=\"_blank\">https://gateoverflow.in/166396/ugc-net-cse-november-2017-part-3-question-20</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"349649\"></a><div itemprop=\"text\"><p>In a binary max heap containing \\( n \\) numbers, the smallest element can be found in ______</p>\n\n</div><br><br><b>UGC NET CSE | October 2020 | Part 2 | Question: 24</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( O(n) \\)</p>",
+            "<p>\\( O(\\log _2 n) \\)</p>",
+            "<p>\\( O(1) \\)</p>",
+            "<p>\\( O(\\log_2 \\log_2 n) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( O(n) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/349649/ugc-net-cse-october-2020-part-2-question-24\" target=\"_blank\">https://gateoverflow.in/349649/ugc-net-cse-october-2020-part-2-question-24</a></p>"
+        }
+      ]
+    }
+  ]
+}

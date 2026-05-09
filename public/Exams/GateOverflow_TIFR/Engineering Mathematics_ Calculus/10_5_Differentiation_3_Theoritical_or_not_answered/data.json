@@ -1,0 +1,27 @@
+{
+  "title": "Engineering Mathematics_ Calculus - Differentiation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Differentiation",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"381938\"></a><div itemprop=\"text\"><p>Suppose \\( w(t)=4 e^{i t}, x(t)=3 e^{i(t+\\pi / 3)}, y(t)=3 e^{i(t-\\pi / 3)} \\) and \\( z(t)=3 e^{i(t+\\pi)} \\) are points that move in the complex plane as the time \\( t \\) varies in \\( (-\\infty, \\infty) \\). Let \\( c(t) \\) be the point in the complex plane such that \\( |w(t)-c(t)|^2+|x(t)-c(t)|^2+|y(t)-c(t)|^2+|z(t)-c(t)|^2 \\) is minimum. For each value of \\( t \\), the point \\( c(t) \\) is unique, but \\( c(t) \\) moves at constant speed as \\( t \\) varies. At what speed? That is, what is \\( \\left|\\frac{\\mathrm{d}}{\\mathrm{d} t} c(t)\\right|? \\)&nbsp;</p>\n\n</div><br><br><b>TIFR CSE 2022 | Part A | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\frac{1}{2 \\pi} \\)</p>",
+            "<p>\\( 2 \\pi \\)</p>",
+            "<p>\\( \\sqrt{3} \\pi \\)</p>",
+            "<p>\\( \\frac{1}{\\sqrt{3} \\pi} \\)</p>",
+            "<p>\\( 1 \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/381938/tifr-cse-2022-part-a-question-14\" target=\"_blank\">https://gateoverflow.in/381938/tifr-cse-2022-part-a-question-14</a></p>"
+        }
+      ]
+    }
+  ]
+}

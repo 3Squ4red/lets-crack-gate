@@ -1,0 +1,216 @@
+window.__examLoadCallback({
+  "title": "Programming and DS_ Data Structures - Hashing",
+  "duration": 39,
+  "sections": [
+    {
+      "name": "Hashing",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"2717\"></a><div itemprop=\"text\">\n<p>An advantage of chained hash table (external hashing) over the open addressing scheme is</p>\n\n\n</div><br><br><b>GATE CSE 1996 | Question: 1.13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Worst case complexity of search operations is less</p>",
+            "<p>Space used is less</p>",
+            "<p>Deletion is easier</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "<p>Deletion is easier</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/2717/gate-cse-1996-question-1-13\" target=\"_blank\">https://gateoverflow.in/2717/gate-cse-1996-question-1-13</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"1004\"></a><div itemprop=\"text\"><p>Given the following input \\( (4322, 1334, 1471, 9679, 1989, 6171, 6173, 4199) \\) and the hash function \\( x \\) mod \\( 10 \\), which of the following statements are true?</p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>\n\t<p>\\( 9679, 1989, 4199 \\) hash to the same value</p>\n\t</li>\n\t<li>\n\t<p>\\( 1471, 6171 \\) hash to the same value</p>\n\t</li>\n\t<li>\n\t<p>All elements hash to the same value</p>\n\t</li>\n\t<li>\n\t<p>Each element hashes to a different value</p>\n\t</li>\n</ol>\n\n</div><br><br><b>GATE CSE 2004 | Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>I only</p>",
+            "<p>II only</p>",
+            "<p>I and II only</p>",
+            "<p>III or IV</p>"
+          ],
+          "correct_answer": "<p>I and II only</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1004/gate-cse-2004-question-7\" target=\"_blank\">https://gateoverflow.in/1004/gate-cse-2004-question-7</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"1238\"></a><div itemprop=\"text\"><p>Consider a hash table of size seven, with starting index zero, and a hash function \\( (3x + 4)\\mod 7 \\). Assuming the hash table is initially empty, which of the following is the contents of the table when the sequence \\( 1, 3, 8, 10 \\) is inserted into the table using closed hashing? Note that −&nbsp;denotes an empty location in the table.</p>\n\n</div><br><br><b>GATE CSE 2007 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 8 \\), −,&nbsp;−, −, −, −, \\( 10 \\)</p>",
+            "<p>\\( 1, 8, 10 \\), −, −, −, \\( 3 \\)</p>",
+            "<p>\\( 1 \\), −, −, −, −, −, \\( 3 \\)</p>",
+            "<p>\\( 1, 10, 8 \\), −, −, −,\\( 3 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 1, 8, 10 \\), −, −, −, \\( 3 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1238/gate-cse-2007-question-40\" target=\"_blank\">https://gateoverflow.in/1238/gate-cse-2007-question-40</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"1322\"></a><div itemprop=\"text\"><p>The keys \\( 12, 18, 13, 2, 3, 23, 5 \\) and \\( 15 \\) are inserted into an initially empty hash table of length \\( 10 \\) using open addressing with hash function \\( h(k) = k \\mod 10 \\) and linear probing. What is the resultant hash table?</p>\n\n</div><br><br><b>GATE CSE 2009 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\begin{array}{|l|l|} \\hline&nbsp;0 &&nbsp; &nbsp;\\\\\\hline 1 &&nbsp; \\\\\\hline 2 & 2&nbsp; \\\\\\hline 3 & 23 \\\\\\hline 4 &&nbsp; \\\\\\hline 5 & 15 \\\\\\hline 6 &&nbsp; &nbsp;\\\\\\hline 7 &&nbsp; \\\\\\hline 8 & 18 \\\\\\hline 9 &&nbsp; \\\\\\hline&nbsp;&nbsp;\\end{array} \\)&nbsp;</p>",
+            "<p>\\( \\begin{array}{|l|l|} \\hline&nbsp;0 &&nbsp; &nbsp;\\\\\\hline 1 &&nbsp; \\\\\\hline 2 & 12&nbsp; \\\\\\hline 3 & 13&nbsp;\\\\\\hline 4 &&nbsp; \\\\\\hline 5 & 5 \\\\\\hline 6 &&nbsp; &nbsp;\\\\\\hline 7 &&nbsp; \\\\\\hline 8 & 18 \\\\\\hline 9 &&nbsp; \\\\\\hline&nbsp;&nbsp;\\end{array} \\)</p>",
+            "<p>\\( \\begin{array}{|l|l|} \\hline&nbsp;0 &&nbsp; &nbsp;\\\\\\hline 1 &&nbsp; \\\\\\hline 2 & 12&nbsp; \\\\\\hline 3 & 13&nbsp;\\\\\\hline 4 & 2 \\\\\\hline 5 & 3&nbsp;\\\\\\hline 6 & 23&nbsp; &nbsp;\\\\\\hline 7 & 5&nbsp; \\\\\\hline 8 & 18 \\\\\\hline 9 & 15&nbsp; \\\\\\hline&nbsp;&nbsp;\\end{array} \\)</p>",
+            "<p>\\( \\begin{array}{|l|l|} \\hline&nbsp;0 &&nbsp; &nbsp;\\\\\\hline 1 &&nbsp; \\\\\\hline 2&nbsp;& 2,12&nbsp; &nbsp;\\\\\\hline 3 & 13,3,23 &nbsp;\\\\\\hline 4 &&nbsp; \\\\\\hline 5 & 5,15 &nbsp; \\\\\\hline 6 &&nbsp; &nbsp;\\\\\\hline 7 &&nbsp; \\\\\\hline 8 & 18 \\\\\\hline 9 &&nbsp; \\\\\\hline&nbsp;&nbsp;\\end{array} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\begin{array}{|l|l|} \\hline&nbsp;0 &&nbsp; &nbsp;\\\\\\hline 1 &&nbsp; \\\\\\hline 2 & 12&nbsp; \\\\\\hline 3 & 13&nbsp;\\\\\\hline 4 & 2 \\\\\\hline 5 & 3&nbsp;\\\\\\hline 6 & 23&nbsp; &nbsp;\\\\\\hline 7 & 5&nbsp; \\\\\\hline 8 & 18 \\\\\\hline 9 & 15&nbsp; \\\\\\hline&nbsp;&nbsp;\\end{array} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1322/gate-cse-2009-question-36\" target=\"_blank\">https://gateoverflow.in/1322/gate-cse-2009-question-36</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"2360\"></a><div itemprop=\"text\"><p>A hash table of length \\( 10 \\) uses open addressing with hash function \\( h(k) = k \\mod 10 \\), and linear probing. After inserting \\( 6 \\) values into an empty hash table, the table is shown as below</p>\n\n<p>\\[ \\begin{array}{|l|l|}\\hline \\text{0}&nbsp; &&nbsp; \\text{} \\\\ \\hline \\text{1} & \\text{} \\\\\\hline&nbsp; \\text{2} & \\text{42} \\\\ \\hline&nbsp; \\text{3} & \\text{23} \\\\\\hline&nbsp;&nbsp; \\text{4} & \\text{34} \\\\\\hline&nbsp;&nbsp; \\text{5} & \\text{52} \\\\\\hline&nbsp;&nbsp; \\text{6} & \\text{46} \\\\\\hline&nbsp;&nbsp; \\text{7} & \\text{33} \\\\\\hline&nbsp;&nbsp; \\text{8} & \\text{} \\\\\\hline&nbsp;&nbsp; \\text{9} & \\text{} \\\\\\hline&nbsp; &nbsp;\\end{array} \\]</p>\n\n<p>Which one of the following choices gives a possible order in which the key values could have been inserted in the table?</p>\n\n</div><br><br><b>GATE CSE 2010 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 46, 42, 34, 52, 23, 33 \\)</p>",
+            "<p>\\( 34, 42, 23, 52, 33, 46 \\)</p>",
+            "<p>\\( 46, 34, 42, 23, 52, 33 \\)</p>",
+            "<p>\\( 42, 46, 33, 23, 34, 52 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 46, 34, 42, 23, 52, 33 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/2360/gate-cse-2010-question-52\" target=\"_blank\">https://gateoverflow.in/2360/gate-cse-2010-question-52</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"43327\"></a><div itemprop=\"text\"><p>A hash table of length \\( 10 \\) uses open addressing with hash function \\( h(k) = k \\: \\mod \\: 10 \\), and linear probing. After inserting \\( 6 \\) values into an empty hash table, the table is shown as below<br>\n\\[ \\begin{array}{|l|l|}\\hline \\text{0}&nbsp; &&nbsp; \\text{} \\\\ \\hline \\text{1} & \\text{} \\\\\\hline&nbsp; \\text{2} & \\text{42} \\\\ \\hline&nbsp; \\text{3} & \\text{23} \\\\\\hline&nbsp;&nbsp; \\text{4} & \\text{34} \\\\\\hline&nbsp;&nbsp; \\text{5} & \\text{52} \\\\\\hline&nbsp;&nbsp; \\text{6} & \\text{46} \\\\\\hline&nbsp;&nbsp; \\text{7} & \\text{33} \\\\\\hline&nbsp;&nbsp; \\text{8} & \\text{} \\\\\\hline&nbsp;&nbsp; \\text{9} & \\text{}&nbsp; \\\\\\hline \\end{array} \\]</p>\n\n<p>How many different insertion sequences of the key values using the same hash function and linear probing will result in the hash table shown above?</p>\n\n</div><br><br><b>GATE CSE 2010 | Question: 53</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 10 \\)</p>",
+            "<p>\\( 20 \\)</p>",
+            "<p>\\( 30 \\)</p>",
+            "<p>\\( 40 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 30 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/43327/gate-cse-2010-question-53\" target=\"_blank\">https://gateoverflow.in/43327/gate-cse-2010-question-53</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"1918\"></a><div itemprop=\"text\"><p>Consider a hash table with \\( 9 \\) slots. The hash function is \\( h(k)= k \\mod 9 \\). The collisions are resolved by chaining. The following \\( 9 \\) keys are inserted in the order: \\( 5, 28, 19, 15, 20, 33, 12, 17, 10 \\). The maximum, minimum, and average chain lengths in the hash table, respectively, are</p>\n\n</div><br><br><b>GATE CSE 2014 Set 1 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3, 0, \\) and \\( 1 \\)</p>",
+            "<p>\\( 3, 3, \\) and \\( 3 \\)</p>",
+            "<p>\\( 4, 0, \\) and \\( 1 \\)</p>",
+            "<p>\\( 3, 0, \\) and \\( 2 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 3, 0, \\) and \\( 1 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1918/gate-cse-2014-set-1-question-40\" target=\"_blank\">https://gateoverflow.in/1918/gate-cse-2014-set-1-question-40</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"2074\"></a><div itemprop=\"text\"><p>Consider a hash table with \\( 100 \\) slots. Collisions are resolved using chaining. Assuming simple uniform hashing, what is the probability that the first \\( 3 \\) slots are unfilled after the first \\( 3 \\) insertions?</p>\n\n</div><br><br><b>GATE CSE 2014 Set 3 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (97 \\times 97 \\times 97) / 100^3 \\)</p>",
+            "<p>\\( (99 \\times 98 \\times 97) / 100^3 \\)</p>",
+            "<p>\\( (97 \\times 96 \\times 95) / 100^3 \\)</p>",
+            "<p>\\( (97 \\times 96 \\times 95 / (3! \\times 100^3) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( (97 \\times 97 \\times 97) / 100^3 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/2074/gate-cse-2014-set-3-question-40\" target=\"_blank\">https://gateoverflow.in/2074/gate-cse-2014-set-3-question-40</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"8152\"></a><div itemprop=\"text\"><p>Which one of the following hash functions &nbsp;on integers will distribute keys most uniformly over \\( 10 \\) buckets numbered \\( 0 \\) to \\( 9 \\) for \\( i \\) ranging from \\( 0 \\) to \\( 2020 \\)?</p>\n\n\n\n</div><br><br><b>GATE CSE 2015 Set 2 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( h(i) = i^2 \\text{mod} 10 \\)</p>",
+            "<p>\\( h(i) = i^3 \\text{mod} 10 \\)</p>",
+            "<p>\\( h(i) = (11 \\ast i^2) \\text{mod} 10 \\)</p>",
+            "<p>\\( h(i) = (12 \\ast i^2) \\text{mod} 10 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( h(i) = i^3 \\text{mod} 10 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/8152/gate-cse-2015-set-2-question-33\" target=\"_blank\">https://gateoverflow.in/8152/gate-cse-2015-set-2-question-33</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"8414\"></a><div itemprop=\"text\">Given that hash table \\( T \\) with \\( 25 \\) slots that stores \\( 2000 \\) elements, the load factor \\( a \\) for \\( T \\) is _________.</div><br><br><b>GATE CSE 2015 Set 3 | Question: 17</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "80",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/8414/gate-cse-2015-set-3-question-17\" target=\"_blank\">https://gateoverflow.in/8414/gate-cse-2015-set-3-question-17</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"422951\"></a><div itemprop=\"text\"><p>​​​​​​Consider performing uniform hashing on an open address hash table with load factor \\( \\alpha=\\frac{n}{m}&lt;1 \\), where \\( n \\) elements are stored in the table with \\( m \\) slots. The expected number of probes in an unsuccessful search is at most \\( \\frac{1}{1-\\alpha} \\).</p><p>Inserting an element in this hash table requires at most probes,\\( \\_\\_\\_\\_\\_\\_\\_ \\) on average.</p><p></p></div><br><br><b>GATE DS&AI 2024 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\ln \\left(\\frac{1}{1-\\alpha}\\right) \\)</p>",
+            "<p>\\( \\frac{1}{1-\\alpha} \\)</p>",
+            "<p>\\( 1+\\frac{\\alpha}{2} \\)</p>",
+            "<p>\\( \\frac{1}{1+\\alpha} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\frac{1}{1-\\alpha} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/422951/gate-ds&ai-2024-question-11\" target=\"_blank\">https://gateoverflow.in/422951/gate-ds&ai-2024-question-11</a></p>"
+        },
+        {
+          "id": 14,
+          "question": "<p><a name=\"3559\"></a><div itemprop=\"text\"><p>Which of the following statement(s) is TRUE?</p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>A hash function takes a message of arbitrary length and generates a fixed length code.</li>\n\t<li>A hash function takes a message of fixed length and generates a code of variable length.</li>\n\t<li>A hash function may give the same hash value for distinct messages.\n\t\n\t</li>\n</ol></div><br><br><b>GATE IT 2006 | Question: 20</b></p>",
+          "type": "single",
+          "options": [
+            "<p>I only</p>",
+            "<p>II and III&nbsp;only</p>",
+            "<p>I and III&nbsp;only</p>",
+            "<p>II&nbsp;only</p>"
+          ],
+          "correct_answer": "<p>I and III&nbsp;only</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3559/gate-it-2006-question-20\" target=\"_blank\">https://gateoverflow.in/3559/gate-it-2006-question-20</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"3461\"></a><div itemprop=\"text\"><p>Consider a hash function that distributes keys uniformly. The hash table size is \\( 20 \\). After hashing of how many keys will the probability that any new key hashed collides with an existing one exceed \\( 0.5 \\).</p>\n\n</div><br><br><b>GATE IT 2007 | Question: 28</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 7 \\)</p>",
+            "<p>\\( 10 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 6 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3461/gate-it-2007-question-28\" target=\"_blank\">https://gateoverflow.in/3461/gate-it-2007-question-28</a></p>"
+        },
+        {
+          "id": 16,
+          "question": "<p><a name=\"3358\"></a><div itemprop=\"text\"><p>Consider a hash table of size \\( 11 \\) that uses open addressing with linear probing. Let \\( h(k) = k&nbsp;\\mod 11 \\) be the hash function used. A sequence of records with keys</p>\n\n<p>\\( 43 \\ 36 \\ 92 \\ 87 \\ 11 \\ 4 \\ 71 \\ 13 \\ 14 \\)</p>\n\n<p>is inserted into an initially empty hash table, the bins of which are indexed from zero to ten. What is the index of the bin into which the last record is inserted?</p>\n\n</div><br><br><b>GATE IT 2008 | Question: 48</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 7 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 7 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3358/gate-it-2008-question-48\" target=\"_blank\">https://gateoverflow.in/3358/gate-it-2008-question-48</a></p>"
+        }
+      ]
+    }
+  ]
+});

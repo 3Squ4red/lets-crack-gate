@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Synchronous Asynchronous Circuits - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Synchronous Asynchronous Circuits",
+      "questions": []
+    }
+  ]
+});

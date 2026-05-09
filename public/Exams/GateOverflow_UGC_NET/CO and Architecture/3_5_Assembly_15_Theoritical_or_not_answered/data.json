@@ -1,0 +1,111 @@
+{
+  "title": "CO and Architecture - Assembly - Theoretical/Not Answered",
+  "duration": 19,
+  "sections": [
+    {
+      "name": "Assembly",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"69959\"></a><div itemprop=\"text\"><p>The content of the accumulator after the execution of the following 8085 assembly language program, is</p>\n\n<p>MVI A, 35H</p>\n\n<p>MOV B, A</p>\n\n<p>STC</p>\n\n<p>CMC</p>\n\n<p>RAR</p>\n\n<p>XRA B</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 00H \\)&nbsp;</p>",
+            "<p>\\( 35H \\)</p>",
+            "<p>\\( EFH \\)</p>",
+            "<p>\\( 2FH \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/69959/ugc-net-cse-august-2016-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/69959/ugc-net-cse-august-2016-part-2-question-32</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"66906\"></a><div itemprop=\"text\"><p>Object code is the output of ______.</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 31</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Operating System</p>",
+            "<p>Compiler or Assembler</p>",
+            "<p>Only Assembler</p>",
+            "<p>Only Compiler</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66906/ugc-net-cse-december-2010-part-2-question-31\" target=\"_blank\">https://gateoverflow.in/66906/ugc-net-cse-december-2010-part-2-question-31</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"66907\"></a><div itemprop=\"text\"><p>'Macro'&nbsp;in an assembly level program is _______.</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Sub program</p>",
+            "<p>A complete program</p>",
+            "<p>A hardware portion</p>",
+            "<p>Relative coding</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66907/ugc-net-cse-december-2010-part-2-question-32\" target=\"_blank\">https://gateoverflow.in/66907/ugc-net-cse-december-2010-part-2-question-32</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"66913\"></a><div itemprop=\"text\"><p>Macro-processors are ______.</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 35</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Hardware</p>",
+            "<p>Compiler</p>",
+            "<p>Registers</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66913/ugc-net-cse-december-2010-part-2-question-35\" target=\"_blank\">https://gateoverflow.in/66913/ugc-net-cse-december-2010-part-2-question-35</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"288362\"></a><div itemprop=\"text\"><p>Consider the following \\( \\textsf{x}86 \\) –&nbsp;assembly language instructions:</p>\n\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">MOV AL, 153\nNEG AL</pre>\n\n<p>The contents of the destination register \\( AL \\) (in \\( 8 \\)-bit binary notation), th&nbsp;status of Carry Flag \\( (CF) \\) and Sign Flag \\( (SF) \\) after the execution of above instructions, are</p>\n\n</div><br><br><b>UGC NET CSE | December 2018 | Part 2 | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( AL=0110 \\: 0110; \\: CF=0; \\: SF=0 \\)</p>",
+            "<p>\\( AL=0110 \\: 0111; \\: CF=0; \\: SF=1 \\)</p>",
+            "<p>\\( AL=0110 \\: 0110; \\: CF=1; \\: SF=1 \\)</p>",
+            "<p>\\( AL=0110 \\: 0111; \\: CF=1; \\: SF=0 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/288362/ugc-net-cse-december-2018-part-2-question-15\" target=\"_blank\">https://gateoverflow.in/288362/ugc-net-cse-december-2018-part-2-question-15</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"57091\"></a><div itemprop=\"text\">The Register that stores all interrupt requests is<br>\n<br>\nInterrupt mask register<br>\n<br>\nInterrupt service register<br>\n<br>\nInterrupt request register<br>\n<br>\nStatus register</div><br><br><b>UGC NET CSE | July 2016 | Part 3 | Question: 4</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>C</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57091/ugc-net-cse-july-2016-part-3-question-4\" target=\"_blank\">https://gateoverflow.in/57091/ugc-net-cse-july-2016-part-3-question-4</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"225789\"></a><div itemprop=\"text\"><p>Match the items in \\( \\textbf{List-I} \\) and \\( \\textbf{List-II} \\) :</p>\n\n<p>\\( \\begin{array}{clcl}&nbsp;{} & {\\textbf{List-I}}&nbsp; & {} & {\\textbf{List-II}} \\\\ &nbsp;\\text{(a)}&nbsp;&&nbsp; \\text{interrupts which can be delayed when a much} & \\text{(i)}&nbsp;&&nbsp; \\text{Normal}\\\\ & \\text{highest priority interrupt has occurred} \\\\&nbsp;\\text{(b)}&nbsp;& \\text{Unplanned interrupts which occur&nbsp;while executing} & \\text{(ii)}&nbsp;& \\text{Synchronous}\\\\&\\text{a program&nbsp;} \\\\&nbsp;&nbsp;\\text{(c)} & \\text{Source of interrupt is in phase with the system} & \\text{(iii)}&nbsp;& \\text{Maskable} \\\\ & \\text{clock}\\\\ &nbsp; & \\text{&nbsp;} & \\text{(iv)} & \\text{Exception}\\\\&nbsp;&nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Code :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 97</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(ii), (b)-(i), (c)-(iv)} \\)</p>",
+            "<p>\\( \\text{(a)-(ii), (b)-(iv), (c)-(iii)} \\)</p>",
+            "<p>\\( \\text{(a)-(iii), (b)-(i), (c)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(iii), (b)-(iv), (c)-(ii)} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225789/ugc-net-cse-july-2018-part-2-question-97\" target=\"_blank\">https://gateoverflow.in/225789/ugc-net-cse-july-2018-part-2-question-97</a></p>"
+        }
+      ]
+    }
+  ]
+}

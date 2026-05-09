@@ -1,0 +1,26 @@
+{
+  "title": "Databases - Transaction and Concurrency - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Transaction and Concurrency",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"66815\"></a><div itemprop=\"text\"><p>Which of the following is an optimistic concurrency control method ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Validation based</p>",
+            "<p>Time stamp ordering</p>",
+            "<p>Lock-based</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66815/ugc-net-cse-december-2010-part-2-question-18\" target=\"_blank\">https://gateoverflow.in/66815/ugc-net-cse-december-2010-part-2-question-18</a></p>"
+        }
+      ]
+    }
+  ]
+}

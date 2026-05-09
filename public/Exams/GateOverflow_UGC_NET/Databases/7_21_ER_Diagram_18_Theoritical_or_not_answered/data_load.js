@@ -1,0 +1,86 @@
+window.__examLoadCallback({
+  "title": "Databases - ER Diagram - Theoretical/Not Answered",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "ER Diagram",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"69557\"></a><div itemprop=\"text\"><p>Consider the following Entity-Relationship \\( (E-R) \\) diagram and three possible relationship sets I, II&nbsp;and III)&nbsp;for this \\( E-R \\) diagram:</p><p style=\"text-align:center\"><img alt=\"\" width=\"500\" height=\"365\" src=\"images/gateOverFlowPDFsImages/ugcnet/databases_er_diagram/3c6c66d4c214969fd4f0e3a6c4ee5a4f.png\"></p><p>\\[ \\text{I}: \\quad \\begin{array}{|c|c|c|c|} \\hline&nbsp; \\text{P}&\\text{Q}&\\text{S}&\\text{T}\\\\ \\hline p_1 & q_1 & s_1 & t_1 \\\\ \\hline p_1 & q_1 & s_1 & t_2 \\\\ \\hline \\end{array} \\qquad \\text{II}: \\quad \\begin{array}{|c|c|c|c|} \\hline&nbsp; \\text{P}&\\text{Q}&\\text{S}&\\text{T}\\\\ \\hline p_1 & q_1 & s_1 & t_1 \\\\ \\hline p_1 & q_1 & s_2 & t_2 \\\\ \\hline \\end{array} \\qquad \\text{III}: \\quad \\begin{array}{|c|c|c|c|} \\hline&nbsp; \\text{P}&\\text{Q}&\\text{S}&\\text{T}\\\\ \\hline p_1 & q_1 & s_1 & t_1 \\\\ \\hline p_1 & q_2 & s_1 & t_1 \\\\ \\hline \\end{array} \\]</p><p>If different symbols stand for different values (e.g., \\( t _{1} \\) is definitely not equal to \\( t_{2} \\) ), then which of the above could not be the relationship set for the \\( E-R \\) diagram ?</p></div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 19</b></p>",
+          "type": "single",
+          "options": [
+            "<p>I&nbsp;only</p>",
+            "<p>I&nbsp;and II&nbsp;only</p>",
+            "<p>II&nbsp;only</p>",
+            "<p>I, II&nbsp;and III</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/69557/ugc-net-cse-august-2016-part-2-question-19\" target=\"_blank\">https://gateoverflow.in/69557/ugc-net-cse-august-2016-part-2-question-19</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"155354\"></a><div itemprop=\"text\"><p>An entity has:</p>\n\n<p>(i) a set of properties</p>\n\n<p>(ii) a set of properties and values for all the properties</p>\n\n<p>(iii) a set of properties and the values for some set of properties may non-uniquely identify an entity</p>\n\n<p>(iv) a set of properties and the values for some set of properties may uniquely identify an entity</p>\n\n<p>Which of the above are valid?</p>\n\n</div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 30</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(i) only&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>(ii) only&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</p>",
+            "<p>(iii) only&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>(iv) only</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155354/ugc-net-cse-december-2008-part-2-question-30\" target=\"_blank\">https://gateoverflow.in/155354/ugc-net-cse-december-2008-part-2-question-30</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"66812\"></a><div itemprop=\"text\"><p>In generalisation, the differences between members of an entity is</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Maximized</p>",
+            "<p>Minimized</p>",
+            "<p>Both (A) & (B)</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66812/ugc-net-cse-december-2010-part-2-question-16\" target=\"_blank\">https://gateoverflow.in/66812/ugc-net-cse-december-2010-part-2-question-16</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"360810\"></a><div itemprop=\"text\"><p>Find minimum number of tables required for converting the following entity relationship diagram into relational database?</p><p style=\"text-align:center\"><img alt=\"Er diagram\" width=\"650\" height=\"211\" src=\"images/gateOverFlowPDFsImages/ugcnet/databases_er_diagram/4fc94d03a501931b8fe143f08cf4763e.png\"></p></div><br><br><b>UGC NET CSE | December 2019 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 5 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/360810/ugc-net-cse-december-2019-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/360810/ugc-net-cse-december-2019-part-2-question-23</a></p>"
+        },
+        {
+          "id": 14,
+          "question": "<p><a name=\"67841\"></a><div itemprop=\"text\"><p>An entity instance is a single occurrence of an ______.</p>\n\n</div><br><br><b>UGC NET CSE | June 2010 | Part 2 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Entity type</p>",
+            "<p>Relationship type</p>",
+            "<p>Entity and relationship type</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67841/ugc-net-cse-june-2010-part-2-question-16\" target=\"_blank\">https://gateoverflow.in/67841/ugc-net-cse-june-2010-part-2-question-16</a></p>"
+        }
+      ]
+    }
+  ]
+});

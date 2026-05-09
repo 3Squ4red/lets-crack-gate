@@ -1,0 +1,41 @@
+{
+  "title": "Non GATE CSE_ Computer Graphics - Projection - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Projection",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"70831\"></a><div itemprop=\"text\"><p>A point \\( P(2, 5) \\) is rotated about a pivot point \\( (1, 2) \\) by 60°. What is the new transformed point \\( P' \\)&nbsp;?</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( (1, 4) \\)</p>",
+            "<p>\\( (–1, 4) \\)</p>",
+            "<p>\\( (1, – 4) \\)</p>",
+            "<p>\\( (– 4, 1) \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70831/ugc-net-cse-august-2016-part-3-question-16\" target=\"_blank\">https://gateoverflow.in/70831/ugc-net-cse-august-2016-part-3-question-16</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"70834\"></a><div itemprop=\"text\"><p>In perspective projection (from 3D to 2D), objects behind the centre of projection are projected upside down and backward onto the view-plane. This is known as _____.</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 17</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Topological distortion</p>",
+            "<p>Vanishing point</p>",
+            "<p>View confusion</p>",
+            "<p>Perspective foreshortening</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70834/ugc-net-cse-august-2016-part-3-question-17\" target=\"_blank\">https://gateoverflow.in/70834/ugc-net-cse-august-2016-part-3-question-17</a></p>"
+        }
+      ]
+    }
+  ]
+}

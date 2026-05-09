@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Modular Arithmetic",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Modular Arithmetic",
+      "questions": []
+    }
+  ]
+});

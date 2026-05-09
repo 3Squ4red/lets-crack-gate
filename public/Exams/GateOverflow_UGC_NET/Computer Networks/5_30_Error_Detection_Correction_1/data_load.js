@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Error Detection Correction",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Error Detection Correction",
+      "questions": []
+    }
+  ]
+});

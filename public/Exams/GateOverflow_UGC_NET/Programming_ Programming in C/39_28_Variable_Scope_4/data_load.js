@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Programming_ Programming in C - Variable Scope",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Variable Scope",
+      "questions": []
+    }
+  ]
+});

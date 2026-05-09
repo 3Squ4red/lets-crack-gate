@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Issoftware Engineering",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Issoftware Engineering",
+      "questions": []
+    }
+  ]
+});

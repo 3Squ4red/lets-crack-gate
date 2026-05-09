@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Edi Layer",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Edi Layer",
+      "questions": []
+    }
+  ]
+});

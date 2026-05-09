@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Minimum Spanning Tree",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Minimum Spanning Tree",
+      "questions": []
+    }
+  ]
+});

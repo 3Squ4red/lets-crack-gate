@@ -1,0 +1,116 @@
+{
+  "title": "Digital Logic - UGC NET CSE  June 2013  Part 3  Question - Theoretical/Not Answered",
+  "duration": 19,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2013  Part 3  Question",
+      "questions": [
+        {
+          "id": 8,
+          "question": "<p><a name=\"155036\"></a><div itemprop=\"text\"><p>The dual of the switching function \\( x+yz \\) is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( x+yz \\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+            "<p>\\( x’+y’z’ \\)</p>",
+            "<p>\\( x(y+z) \\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "<p>\\( x’(y’+z’) \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155036/ugc-net-cse-december-2008-part-2-question-13\" target=\"_blank\">https://gateoverflow.in/155036/ugc-net-cse-december-2008-part-2-question-13</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"288366\"></a><div itemprop=\"text\"><p>Consider the following boolean equations:</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>\\( wx+w(x+y)+x(x+y)=x+wy \\)</li>\n\t<li>\\( (w \\overline{x}(y+x \\overline{z})+ \\overline{w} \\overline{x})y= \\overline{x}y \\)</li>\n</ol>\n\n<p>What can you say about the above equations ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2018 | Part 2 | Question: 11</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(i) is true and (ii) is false</p>",
+            "<p>(i) is false and (ii) is true</p>",
+            "<p>Both (i) and (ii) are&nbsp;true</p>",
+            "<p>Both (i) and (ii) are&nbsp;false</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/288366/ugc-net-cse-december-2018-part-2-question-11\" target=\"_blank\">https://gateoverflow.in/288366/ugc-net-cse-december-2018-part-2-question-11</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"288372\"></a><div itemprop=\"text\"><p>​​​​​​Which of the following statements are true ?</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>Every logic network is equivalent to one using just NAND gates or just NOR gates.</li>\n\t<li>Boolean expressions and logic networks correspond to labelled&nbsp;acyclic diagraphs.</li>\n\t<li>No two Boolean algebras with n atoms are isomorphic.</li>\n\t<li>Non-zero elements of finite Boolean algebras are not uniquely expressible as joins of atoms</li>\n</ol>\n\n<p>Choose the correct answer from the code given below :</p>\n\n</div><br><br><b>UGC NET CSE | December 2018 | Part 2 | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>i and iv only</p>",
+            "<p>i, ii and iii only</p>",
+            "<p>i and ii only</p>",
+            "<p>ii, iii, and iv only</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/288372/ugc-net-cse-december-2018-part-2-question-5\" target=\"_blank\">https://gateoverflow.in/288372/ugc-net-cse-december-2018-part-2-question-5</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"335662\"></a><div itemprop=\"text\"><p>The characteristic equation of the \\( \\text{D} \\) flip-flop is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>&nbsp;</p>",
+            "<p>\\( \\text{Q=D} \\)</p>",
+            "<p>\\( \\text{Q=1} \\)</p>",
+            "<p>\\( \\text{Q=0} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335662/ugc-net-cse-december-2006-part-2-question-9\" target=\"_blank\">https://gateoverflow.in/335662/ugc-net-cse-december-2006-part-2-question-9</a></p>"
+        },
+        {
+          "id": 14,
+          "question": "<p><a name=\"335663\"></a><div itemprop=\"text\"><p>A sum of products expression can be implemented with __________ logic gates.</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>AND−OR</p>",
+            "<p>NAND−OR</p>",
+            "<p>AND−NOT</p>",
+            "<p>OR−AND</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335663/ugc-net-cse-december-2006-part-2-question-8\" target=\"_blank\">https://gateoverflow.in/335663/ugc-net-cse-december-2006-part-2-question-8</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"335664\"></a><div itemprop=\"text\"><p>An example of a self complementing code is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 8421 \\) code</p>",
+            "<p>Gray code</p>",
+            "<p>Excess-\\( 3 \\) code</p>",
+            "<p>\\( 7421 \\) code</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335664/ugc-net-cse-december-2006-part-2-question-7\" target=\"_blank\">https://gateoverflow.in/335664/ugc-net-cse-december-2006-part-2-question-7</a></p>"
+        },
+        {
+          "id": 16,
+          "question": "<p><a name=\"335777\"></a><div itemprop=\"text\"><p>Simplified form of Boolean expression \\( \\text{xy+(~x)z+yz} \\) is :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{xy+(~x)z} \\)</p>",
+            "<p>\\( \\text{(~x)y+(~x)z} \\)</p>",
+            "<p>\\( \\text{(~x)y+xz} \\)</p>",
+            "<p>\\( \\text{xy+xz} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335777/ugc-net-cse-december-2007-part-2-question-7\" target=\"_blank\">https://gateoverflow.in/335777/ugc-net-cse-december-2007-part-2-question-7</a></p>"
+        }
+      ]
+    }
+  ]
+}

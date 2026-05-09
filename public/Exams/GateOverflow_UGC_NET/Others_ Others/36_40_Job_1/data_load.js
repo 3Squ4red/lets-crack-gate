@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Job",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Job",
+      "questions": []
+    }
+  ]
+});

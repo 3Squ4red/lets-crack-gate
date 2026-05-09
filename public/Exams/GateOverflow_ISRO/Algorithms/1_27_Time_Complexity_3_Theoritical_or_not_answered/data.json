@@ -1,0 +1,26 @@
+{
+  "title": "Algorithms - Time Complexity - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Time Complexity",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"331364\"></a><div itemprop=\"text\"><p>What is the complexity of the following code?</p>\n\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">sum=0;\n    for(i=1;i&lt;=n;i*=2)\n         for(j=1;j&lt;=n;j++)\n            sum++;</pre>\n\n<p>Which of the following is not a valid string?</p>\n\n</div><br><br><b>ISRO CSE 2020 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( O(n^2) \\)</p>",
+            "<p>\\( O(n\\log\\ n) \\)</p>",
+            "<p>\\( O(n) \\)</p>",
+            "<p>\\( O(n\\log\\ n\\log\\ n) \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/331364/isro-cse-2020-question-36\" target=\"_blank\">https://gateoverflow.in/331364/isro-cse-2020-question-36</a></p>"
+        }
+      ]
+    }
+  ]
+}

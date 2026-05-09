@@ -1,0 +1,131 @@
+window.__examLoadCallback({
+  "title": "Programming and DS_ DS - Hashing - Theoretical/Not Answered",
+  "duration": 22,
+  "sections": [
+    {
+      "name": "Hashing",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"70947\"></a><div itemprop=\"text\"><p>Consider a hash table of size \\( m = 10000 \\), and the hash function \\( h(K) = floor (m(KA \\bmod&nbsp;1)) \\) for \\( A = ( \\sqrt{5}&nbsp;– 1)/2 \\). The key \\( 123456 \\) is mapped to location ______.</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 46 \\)</p>",
+            "<p>\\( 41 \\)</p>",
+            "<p>\\( 43 \\)</p>",
+            "<p>\\( 48 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70947/ugc-net-cse-august-2016-part-3-question-32\" target=\"_blank\">https://gateoverflow.in/70947/ugc-net-cse-august-2016-part-3-question-32</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"335574\"></a><div itemprop=\"text\"><p>Which of the following is not collision Resolution Technique :</p>\n\n</div><br><br><b>UGC NET CSE | December 2005 | Part 2 | Question: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Hash addressing</p>",
+            "<p>Chainning</p>",
+            "<p>Indexing</p>",
+            "<p>None of these</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335574/ugc-net-cse-december-2005-part-2-question-34\" target=\"_blank\">https://gateoverflow.in/335574/ugc-net-cse-december-2005-part-2-question-34</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"63068\"></a><div itemprop=\"text\"><p>A hash table has space for \\( 75 \\) records, then the probability of collision before the table is \\( 6 \\)% full.</p>\n\n</div><br><br><b>UGC NET CSE | December 2011 | Part 2 | Question: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( .25 \\)</p>",
+            "<p>\\( .20 \\)&nbsp;</p>",
+            "<p>\\( .35 \\)</p>",
+            "<p>\\( .30 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63068/ugc-net-cse-december-2011-part-2-question-6\" target=\"_blank\">https://gateoverflow.in/63068/ugc-net-cse-december-2011-part-2-question-6</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"56842\"></a><div itemprop=\"text\"><p>A hash function \\( f \\) defined as \\( f (key) = key \\mod 13 \\), with linear probing is used to insert keys 55, 58, 68, 91, 27, 145. What will be the location of 79?</p>\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p>1</p>",
+            "<p>2</p>",
+            "<p>3</p>",
+            "<p>4</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56842/ugc-net-cse-december-2012-part-2-question-26\" target=\"_blank\">https://gateoverflow.in/56842/ugc-net-cse-december-2012-part-2-question-26</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"225863\"></a><div itemprop=\"text\"><p>A hash function h defined h(key)=key mod 7, with linear probing, is used to insert the keys 44, 45, 79, 55, 91, 18, 63 into a table indexed from 0 to 6. What will be the location of key 18?</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>3</p>",
+            "<p>4</p>",
+            "<p>5</p>",
+            "<p>6</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225863/ugc-net-cse-july-2018-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/225863/ugc-net-cse-july-2018-part-2-question-23</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"225816\"></a><div itemprop=\"text\"><p>Consider a hash table of sze seven, with starting index zero, and a hash function (7x+3) mod 4. Assuming that the hash table is initially empty, which of the following is the contents of the table when the sequence 1, 3, 8, 10 is inserted into the table using closed hashing? Here \"____\" denotes an empty location in the table.</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 70</b></p>",
+          "type": "single",
+          "options": [
+            "<p>3, 10, 1, 8, ___ , ____ , ____</p>",
+            "<p>1, 3, 8, 10, ___, ___, ___</p>",
+            "<p>1, ___, 3, ___, 8, ___, 10</p>",
+            "<p>3, 10, ___, ____, 8, ___, ___</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225816/ugc-net-cse-july-2018-part-2-question-70\" target=\"_blank\">https://gateoverflow.in/225816/ugc-net-cse-july-2018-part-2-question-70</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"67880\"></a><div itemprop=\"text\"><p>A chained hash table has an array size of \\( 100 \\). What is the maximum number of entries that can be placed in the table ?</p>\n\n</div><br><br><b>UGC NET CSE | June 2010 | Part 2 | Question: 24</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 100 \\)</p>",
+            "<p>\\( 200 \\)</p>",
+            "<p>\\( 10000 \\)</p>",
+            "<p>There is no upper limit</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/67880/ugc-net-cse-june-2010-part-2-question-24\" target=\"_blank\">https://gateoverflow.in/67880/ugc-net-cse-june-2010-part-2-question-24</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"407959\"></a><div itemprop=\"text\"><p>Consider a hash table of size seven with starting index zero and a hash function \\( (6 x+3) \\bmod 4 \\). Assuming the hash table is initially empty. Which of the following is the content of the table when the sequence \\( 1,3,8,10,5 \\), is inserted into the table using closed hashing? Here \" denotes an empty location in the table.</p>\n\n</div><br><br><b>UGC NET CSE | June 2023 | Part 2: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1,3,8,10,5, \\)_,_</p>",
+            "<p>\\( 3,8,1, \\)_,\\( 10,5 \\)</p>",
+            "<p>_,\\( 3,8,1 \\),_,\\( 10,5 \\)</p>",
+            "<p>_\\( 1,3,8,10,5 \\),_</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/407959/ugc-net-cse-june-2023-part-2-9\" target=\"_blank\">https://gateoverflow.in/407959/ugc-net-cse-june-2023-part-2-9</a></p>"
+        }
+      ]
+    }
+  ]
+});

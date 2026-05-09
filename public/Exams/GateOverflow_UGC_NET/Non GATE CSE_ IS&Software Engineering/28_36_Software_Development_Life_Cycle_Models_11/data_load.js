@@ -1,0 +1,101 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ IS&Software Engineering - Software Development Life Cycle Models",
+  "duration": 17,
+  "sections": [
+    {
+      "name": "Software Development Life Cycle Models",
+      "questions": [
+        {
+          "id": 6,
+          "question": "<p><a name=\"56841\"></a><div itemprop=\"text\"><p>RAD stands for</p>\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 24</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Rapid and Design</p>",
+            "<p>Rapid Aided Development</p>",
+            "<p>Rapid Application Development</p>",
+            "<p>Rapid Application Design</p>"
+          ],
+          "correct_answer": "<p>Rapid Application Development</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56841/ugc-net-cse-december-2012-part-2-question-24\" target=\"_blank\">https://gateoverflow.in/56841/ugc-net-cse-december-2012-part-2-question-24</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"57139\"></a><div itemprop=\"text\"><p>_____ is an “umbrella” activity that is applied throughout the software engineering process.</p></div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 48</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Debugging</p>",
+            "<p>Testing</p>",
+            "<p>Designing</p>",
+            "<p>Software quality assurance</p>"
+          ],
+          "correct_answer": "<p>Software quality assurance</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57139/ugc-net-cse-december-2012-part-2-question-48\" target=\"_blank\">https://gateoverflow.in/57139/ugc-net-cse-december-2012-part-2-question-48</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"62325\"></a><div itemprop=\"text\"><p>Which of the following is not a software process model?</p></div><br><br><b>UGC NET CSE | December 2015 | Part 2 | Question: 47</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Prototyping</p>",
+            "<p>Iterative</p>",
+            "<p>Timeboxiing</p>",
+            "<p>Glassboxing</p>"
+          ],
+          "correct_answer": "<p>Glassboxing</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/62325/ugc-net-cse-december-2015-part-2-question-47\" target=\"_blank\">https://gateoverflow.in/62325/ugc-net-cse-december-2015-part-2-question-47</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"63484\"></a><div itemprop=\"text\"><p>The ____ model is preferred for software development when the requirements are not clear.</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 2 | Question: 42</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Rapid Application Development</p>",
+            "<p>Rational Unified Process</p>",
+            "<p>Evolutionary Model</p>",
+            "<p>Waterfall Model</p>"
+          ],
+          "correct_answer": "<p>Evolutionary Model</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63484/ugc-net-cse-july-2016-part-2-question-42\" target=\"_blank\">https://gateoverflow.in/63484/ugc-net-cse-july-2016-part-2-question-42</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"316222\"></a><div itemprop=\"text\"><p>Match List-I with List-II:</p>\n\n<p>&nbsp;</p>\n\n<p>\\[ \\begin{array}{|c|c|c|c|} \\hline&nbsp; &nbsp;& \\text{List-I}\\\\ & \\text{(Software} \\\\ & \\text{Process} \\\\ & \\text{Models)} &&nbsp; & \\text{List-II} \\\\ & &&nbsp; & \\text{(Software Systems)} \\\\\\hline&nbsp;(a) & \\text{Waterfall model} & (i) & \\text{e-business software that starts with only the}&nbsp; &nbsp; \\\\ & & & \\text{basic functionalities and then moves on to&nbsp;} \\\\ & & & \\text{more advanced features} &nbsp;\\\\\\hline(b) & \\text{Incremental} \\\\&nbsp; & \\text{development}&nbsp; & (ii) & \\text{An inventory control system for super-} \\\\ & & & \\text{market to be developed within three months}&nbsp; &nbsp; &nbsp;\\\\\\hline(c)&nbsp;& \\text{Prototyping} & (iii) & \\text{A virtual reality system&nbsp; for&nbsp; simulating} \\\\ & & & \\text{vehicle nevigation in a highway} &nbsp;\\\\\\hline (d) &&nbsp;\\text{RAD} & (iv) &&nbsp;\\text{Automate the manual system for student} \\\\ & & & \\text{record maintenance in a school} \\\\\\hline \\end{array} \\]</p>\n\n<p>&nbsp;</p>\n\n<p>Choose the correct option from those given below:</p>\n\n</div><br><br><b>UGC NET CSE | June 2019 | Part 2 | Question: 57</b></p>",
+          "type": "single",
+          "options": [
+            "<p>a-ii; b-iv; c-i; d-iii</p>",
+            "<p>a-i; b-iii; c-iv; d-ii</p>",
+            "<p>a-iii; b-ii; c-iv; d-i</p>",
+            "<p>a-iv; b-i; c-iii; d-ii</p>"
+          ],
+          "correct_answer": "<p>a-iv; b-i; c-iii; d-ii</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/316222/ugc-net-cse-june-2019-part-2-question-57\" target=\"_blank\">https://gateoverflow.in/316222/ugc-net-cse-june-2019-part-2-question-57</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"59227\"></a><div itemprop=\"text\">\n<p>Working software is not available until late in the process in</p>\n\n\n</div><br><br><b>UGC NET CSE | September 2013 | Part 2 | Question: 29</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Waterfall model</p>",
+            "<p>Prototyping model</p>",
+            "<p>Incremental model</p>",
+            "<p>Evolutionary Development model</p>"
+          ],
+          "correct_answer": "<p>Waterfall model</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59227/ugc-net-cse-september-2013-part-2-question-29\" target=\"_blank\">https://gateoverflow.in/59227/ugc-net-cse-september-2013-part-2-question-29</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Object Oriented Programming - Friend Class",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Friend Class",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,51 @@
+{
+  "title": "Computer Networks - Transmission Media",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Transmission Media",
+      "questions": [
+        {
+          "id": 6,
+          "question": "<p><a name=\"155031\"></a><div itemprop=\"text\"><p>The \\( ATM \\) cell is:</p>\n\n<ol>\n\t<li>\\( 48 \\) bytes long&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</li>\n\t<li>\\( 53 \\) bytes long</li>\n\t<li>\\( 64 \\) bytes long&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n\t<li>\\( 69 \\) bytes long</li>\n</ol></div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 7</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155031/ugc-net-cse-december-2008-part-2-question-7\" target=\"_blank\">https://gateoverflow.in/155031/ugc-net-cse-december-2008-part-2-question-7</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"56840\"></a><div itemprop=\"text\"><p>Coaxial cables are categorized by Radio Government rating are adapted for specialized functions. Category RG-59 with impedance 75 \\( \\Omega \\) used for</p>\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Cable TV</p>",
+            "<p>Ethernet</p>",
+            "<p>Thin Ethernet</p>",
+            "<p>Thick Ethernet</p>"
+          ],
+          "correct_answer": "<p>Cable TV</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56840/ugc-net-cse-december-2012-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/56840/ugc-net-cse-december-2012-part-2-question-23</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"63439\"></a><div itemprop=\"text\"><p>Optical fiber uses reflection to guide light through a channel, in which angle of incidence is ____ the critical angle</p>\n\n</div><br><br><b>UGC NET CSE | July 2016 | Part 2 | Question: 30</b></p>",
+          "type": "single",
+          "options": [
+            "<p>equal to</p>",
+            "<p>less than</p>",
+            "<p>greater than</p>",
+            "<p>less than or equal to</p>"
+          ],
+          "correct_answer": "<p>greater than</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/63439/ugc-net-cse-july-2016-part-2-question-30\" target=\"_blank\">https://gateoverflow.in/63439/ugc-net-cse-july-2016-part-2-question-30</a></p>"
+        }
+      ]
+    }
+  ]
+}

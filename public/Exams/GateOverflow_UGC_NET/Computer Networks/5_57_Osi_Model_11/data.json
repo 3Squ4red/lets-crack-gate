@@ -1,0 +1,86 @@
+{
+  "title": "Computer Networks - Osi Model",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "Osi Model",
+      "questions": [
+        {
+          "id": 5,
+          "question": "<p><a name=\"57102\"></a><div itemprop=\"text\"><p>Data Encryption Techniques are particularly used for _____</p>\n\n</div><br><br><b>UGC NET CSE | December 2012 | Part 2 | Question: 43</b></p>",
+          "type": "single",
+          "options": [
+            "<p>protecting data in Data Communication System</p>",
+            "<p>reduce Storage Space Requirement</p>",
+            "<p>enhances Data Integrity</p>",
+            "<p>decreases Data Integrity</p>"
+          ],
+          "correct_answer": "<p>protecting data in Data Communication System</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57102/ugc-net-cse-december-2012-part-2-question-43\" target=\"_blank\">https://gateoverflow.in/57102/ugc-net-cse-december-2012-part-2-question-43</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"60024\"></a><div itemprop=\"text\">\n<p>When data and acknowledgement are sent in same frame, this is called as&nbsp;</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 2 | Question: 1</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Piggy packing</p>",
+            "<p>Piggy backing</p>",
+            "<p>Back&nbsp;<span style=\"line-height: 20.8px;\">packing</span></p>",
+            "<p>Good&nbsp;<span style=\"line-height: 20.8px;\">packing</span></p>"
+          ],
+          "correct_answer": "<p>Piggy backing</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60024/ugc-net-cse-december-2013-part-2-question-1\" target=\"_blank\">https://gateoverflow.in/60024/ugc-net-cse-december-2013-part-2-question-1</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"60025\"></a><div itemprop=\"text\">\n<p>Encryption and decryption is the responsibility of ____ Layer</p>\n\n\n</div><br><br><b>UGC NET CSE | December 2013 | Part 2 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Physical</p>",
+            "<p>Network</p>",
+            "<p>Application</p>",
+            "<p>Datalink</p>"
+          ],
+          "correct_answer": "<p>Application</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/60025/ugc-net-cse-december-2013-part-2-question-2\" target=\"_blank\">https://gateoverflow.in/60025/ugc-net-cse-december-2013-part-2-question-2</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"58286\"></a><div itemprop=\"text\"><p>Match the following \\( : \\)</p>\n\n<p>\\( \\begin{array}&nbsp;{} &nbsp;\\text{a.} & \\text{Data link Layer} & \\text{i.} & \\text{Flow Control}&nbsp;\\\\ &nbsp;\\text{b.} & \\text{Network Layer} & \\text{ii.} & \\text{Node to node delivery} \\\\ &nbsp;\\text{c.} & \\text{Transport Layer} & \\text{iii.}&&nbsp; \\text{Mail services} \\\\ &nbsp;\\text{d.} & \\text{Application Layer} & \\text{iv.} &\\text{Routing} \\\\ \\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 3 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-ii, b-i, c-iv, d-iii} \\)</p>",
+            "<p>\\( \\text{a-ii, b-iv, c-i, d-iii} \\)</p>",
+            "<p>\\( \\text{a-ii, b-i, c-iii, d-iv} \\)</p>",
+            "<p>\\( \\text{a-ii, b-iv, c-iii, d-i} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\text{a-ii, b-iv, c-i, d-iii} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58286/ugc-net-cse-june-2013-part-3-question-18\" target=\"_blank\">https://gateoverflow.in/58286/ugc-net-cse-june-2013-part-3-question-18</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"57597\"></a><div itemprop=\"text\"><p>Which layers of the OSI reference model are host-to-host layers ?&nbsp;</p>\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 70</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Transport, Session, Presentation, Application</p>",
+            "<p>Network, Transport, Session, Presentation</p>",
+            "<p>Data-link, Network, Transport, Session</p>",
+            "<p>Physical, Data-link, Network, Transport&nbsp;</p>"
+          ],
+          "correct_answer": "<p>Transport, Session, Presentation, Application</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57597/ugc-net-cse-june-2014-part-3-question-70\" target=\"_blank\">https://gateoverflow.in/57597/ugc-net-cse-june-2014-part-3-question-70</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Data Mining Algorithm",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Data Mining Algorithm",
+      "questions": []
+    }
+  ]
+});

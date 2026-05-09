@@ -1,0 +1,26 @@
+{
+  "title": "Non GATE CSE_ Web Technologies - Xml - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Xml",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"225885\"></a><div itemprop=\"text\"><p>The definitions in an XML document are said to be ______ when the tagging system ans definitions in the DTD are all in compliance</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>well-formed</p>",
+            "<p>reasonable</p>",
+            "<p>valid</p>",
+            "<p>logical</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225885/ugc-net-cse-july-2018-part-2-question-2\" target=\"_blank\">https://gateoverflow.in/225885/ugc-net-cse-july-2018-part-2-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+}

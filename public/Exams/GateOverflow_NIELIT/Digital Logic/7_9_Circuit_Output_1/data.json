@@ -1,0 +1,26 @@
+{
+  "title": "Digital Logic - Circuit Output",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Circuit Output",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"378690\"></a><div itemprop=\"text\"><p>The logic expression for the output of following circuit is:</p><p style=\"text-align:center\"><img alt=\"Digital circuit image\" width=\"700\" height=\"208\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/digital_logic_circuit_output/477f98d6f2b44140e912dbfc7c4a1d59.png\"></p></div><br><br><b>NIELIT 2021 Dec Scientist B - Section B: 73</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\overline{\\text{A}}\\text{C}+\\overline{\\text{B}}\\text{C}+\\text{CD} \\)</p>",
+            "<p>\\( \\text{A}\\overline{\\text{C}}+\\text{B}\\overline{\\text{C}}+\\overline{\\text{C}}\\text{D} \\)</p>",
+            "<p>\\( \\text{ABC}+\\overline{\\text{CD}} \\)</p>",
+            "<p>\\( \\overline{\\text{AB}}+\\overline{\\text{BC}}+\\overline{\\text{CD}} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\overline{\\text{A}}\\text{C}+\\overline{\\text{B}}\\text{C}+\\text{CD} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/378690/nielit-2021-dec-scientist-b-section-b-73\" target=\"_blank\">https://gateoverflow.in/378690/nielit-2021-dec-scientist-b-section-b-73</a></p>"
+        }
+      ]
+    }
+  ]
+}

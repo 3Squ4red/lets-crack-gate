@@ -1,0 +1,309 @@
+window.__examLoadCallback({
+  "title": "Operating System - Resource Allocation",
+  "duration": 55,
+  "sections": [
+    {
+      "name": "Resource Allocation",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"568\"></a><div itemprop=\"text\"><p>A computer system has \\( 6 \\) tape devices, with n processes competing for them. Each process may need \\( 3 \\) tape drives. The maximum value of n for which the system is guaranteed to be deadlock-free is:</p>\n\n</div><br><br><b>GATE CSE 1992 | Question: 02-xi</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 1 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 2 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/568/gate-cse-1992-question-02-xi\" target=\"_blank\">https://gateoverflow.in/568/gate-cse-1992-question-02-xi</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"2263\"></a><div itemprop=\"text\"><p>An operating system contains \\( 3 \\) user processes each requiring \\( 2 \\) units of resource \\( R \\). The minimum number of units of \\( R \\) such that no deadlocks will ever arise is</p>\n\n</div><br><br><b>GATE CSE 1997 | Question: 6.7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 6 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 4 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/2263/gate-cse-1997-question-6-7\" target=\"_blank\">https://gateoverflow.in/2263/gate-cse-1997-question-6-7</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"1669\"></a><div itemprop=\"text\"><p>A computer has six tape drives, with \\( n \\) processes competing for them. Each process may need two drives. What is the maximum value of \\( n \\) for the system to be deadlock free?</p>\n\n</div><br><br><b>GATE CSE 1998 | Question: 1.32</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 6 \\)</p>",
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 3 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 5 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1669/gate-cse-1998-question-1-32\" target=\"_blank\">https://gateoverflow.in/1669/gate-cse-1998-question-1-32</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"670\"></a><div itemprop=\"text\"><p>Which of the following is not a valid deadlock prevention scheme?</p>\n\n\n\n</div><br><br><b>GATE CSE 2000 | Question: 2.23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Release all resources before requesting a new resource.</p>",
+            "<p>Number the resources uniquely and never request a lower numbered resource than the last one requested.</p>",
+            "<p>Never request a resource after releasing any resource.</p>",
+            "<p>Request and all required resources be allocated before execution.</p>"
+          ],
+          "correct_answer": "<p>Never request a resource after releasing any resource.</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/670/gate-cse-2000-question-2-23\" target=\"_blank\">https://gateoverflow.in/670/gate-cse-2000-question-2-23</a></p>"
+        },
+        {
+          "id": 12,
+          "question": "<p><a name=\"1394\"></a><div itemprop=\"text\"><p>Suppose \\( n \\) processes, \\( P_1, \\dots P_n \\) share \\( m \\) identical resource units, which can be reserved and released one at a time. The maximum resource requirement of process \\( P_i \\) is \\( s_i \\), where \\( s_i&nbsp;&gt; 0 \\). Which one of the following is a sufficient condition for ensuring that deadlock does not occur?</p>\n\n</div><br><br><b>GATE CSE 2005 | Question: 71</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\forall i,\\: s_i, &lt; m \\)</p>",
+            "<p>\\( \\forall i, \\:s_i &lt;n \\)</p>",
+            "<p>\\( \\displaystyle{\\sum_{i=1}^n} \\: s_i&nbsp; &lt; (m+n) \\)</p>",
+            "<p>\\( \\displaystyle{\\sum_{i=1}^n} \\: s_i&nbsp; &lt; (m \\times&nbsp;n) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\displaystyle{\\sum_{i=1}^n} \\: s_i&nbsp; &lt; (m+n) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1394/gate-cse-2005-question-71\" target=\"_blank\">https://gateoverflow.in/1394/gate-cse-2005-question-71</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"1844\"></a><div itemprop=\"text\"><p>Consider the following snapshot of a system running \\( n \\) processes. Process \\( i \\) is&nbsp;&nbsp;holding \\( x_i \\)&nbsp;instances of a resource \\( R \\),&nbsp;\\( 1\\leq i\\leq n \\)&nbsp;. Currently, all instances of \\( R \\) are occupied. Further, for all \\( i \\), process \\( i \\) has placed a request for an additional \\( y_i \\)&nbsp;instances while holding the \\( x_i \\)&nbsp;instances it already has. There are exactly two processes \\( p \\) and \\( q \\) and such that \\( y_p=y_q=0 \\).&nbsp;Which one of the following can serve as&nbsp;&nbsp;a necessary condition to guarantee that the system is not approaching a deadlock?</p>\n\n</div><br><br><b>GATE CSE 2006 | Question: 66</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\min(x_{p},x_{q})&lt;\\max_{k\\neq p,q}y_{k} \\)</p>",
+            "<p>\\( x_{p}+x_{q}\\geq \\min_{k\\neq p,q}y_{k} \\)</p>",
+            "<p>\\( \\max(x_{p},x_{q})&gt;1 \\)</p>",
+            "<p>\\( \\min(x_{p},x_{q})&gt;1 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( x_{p}+x_{q}\\geq \\min_{k\\neq p,q}y_{k} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1844/gate-cse-2006-question-66\" target=\"_blank\">https://gateoverflow.in/1844/gate-cse-2006-question-66</a></p>"
+        },
+        {
+          "id": 14,
+          "question": "<p><a name=\"1255\"></a><div itemprop=\"text\"><p>A single processor system has three resource types \\( X, Y \\) and \\( Z \\), which are shared by three processes. There are \\( 5 \\) units of each resource type. Consider the following scenario, where the column <strong>alloc&nbsp;</strong>denotes the number of units of each resource type allocated to each process, and the column <strong>request&nbsp;</strong>denotes the number of units of each resource type requested by a process in order to complete execution. Which of these processes will finish <strong>LAST</strong>?</p>\n\n<p>\\[ \\begin{array}{|l|lll|ll|}\\hline &\\text{} &nbsp;\\rlap{\\textbf{alloc}}&nbsp; &&&\\rlap{&nbsp; \\textbf{request}}&nbsp; \\\\\\hline&nbsp; &\\text{X} & \\text{Y} & \\text{Z} &nbsp;&\\text{X} & \\text{Y} & \\text{Z}&nbsp; \\\\\\hline&nbsp; \\textbf{P0} & \\text{1} & \\text{2} & \\text{1}& \\text{1} & \\text{0} & \\text{3}&nbsp; \\\\\\hline&nbsp; \\textbf{P1} & \\text{2} & \\text{0} & \\text{1} & \\text{0} & \\text{1} & \\text{2} \\\\\\hline&nbsp;\\textbf{P2} & \\text{2} & \\text{2} & \\text{1} &&nbsp;\\text{1} & \\text{2} & \\text{0} \\\\\\hline \\end{array} \\]</p>\n\n</div><br><br><b>GATE CSE 2007 | Question: 57</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( P0 \\)</p>",
+            "<p>\\( P1 \\)</p>",
+            "<p>\\( P2 \\)</p>",
+            "<p>None of the above, since the system is in a deadlock</p>"
+          ],
+          "correct_answer": "<p>\\( P2 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1255/gate-cse-2007-question-57\" target=\"_blank\">https://gateoverflow.in/1255/gate-cse-2007-question-57</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"488\"></a><div itemprop=\"text\"><p>Which of the following is NOT true of deadlock prevention and deadlock avoidance schemes?</p>\n\n</div><br><br><b>GATE CSE 2008 | Question: 65</b></p>",
+          "type": "single",
+          "options": [
+            "<p>In deadlock prevention, the request for resources is always granted if the resulting state is safe</p>",
+            "<p>In deadlock avoidance, the request for resources is always granted if the resulting state is safe</p>",
+            "<p>Deadlock avoidance is less restrictive than deadlock prevention</p>",
+            "<p>Deadlock avoidance requires&nbsp;knowledge of resource requirements <em>apriori..</em></p>"
+          ],
+          "correct_answer": "<p>In deadlock prevention, the request for resources is always granted if the resulting state is safe</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/488/gate-cse-2008-question-65\" target=\"_blank\">https://gateoverflow.in/488/gate-cse-2008-question-65</a></p>"
+        },
+        {
+          "id": 16,
+          "question": "<p><a name=\"1316\"></a><div itemprop=\"text\"><p>Consider a system with \\( 4 \\) types of resources \\( R1 \\) (\\( 3 \\) units), \\( R2 \\) (\\( 2 \\) units), \\( R3 \\) (\\( 3 \\) units), \\( R4 \\) (\\( 2 \\) units). A non-preemptive resource allocation policy is used. At any given instance, a request is not entertained if it cannot be completely satisfied. Three processes \\( P1 \\), \\( P2 \\), \\( P3 \\)&nbsp;request the resources as follows if executed independently.</p>\n\n<p>\\[ \\begin{array}{|l|l|l|}\\hline \\textbf{Process P1:}&nbsp; &&nbsp; \\textbf{Process P2:} & \\textbf{Process P3:}&nbsp; \\\\ \\hline \\text{t=0: requests 2 units of R2} & \\text{t=0: requests 2 units of R3} & \\text{t=0: requests 1 unit of R4} \\\\ \\text{t=1: requests 1 unit of R3} & \\text{t=2: requests 1 unit of R4} & \\text{t=2: requests 2 units of R1}\\\\\\text{t=3: requests 2 units of R1} & \\text{t=4: requests 1 unit of R1} & \\text{t=5: releases 2 units of R1} \\\\ \\text{t=5: releases 1 unit of R2} & \\text{t=6: releases 1 unit of R3} & \\text{t=7: requests 1 unit of R2}&nbsp;\\\\ \\text{and 1 unit of R1}& \\text{t=8: Finishes} & \\text{t=8: requests 1 unit of R3}\\\\<br>\n\\text{t=7: releases 1 unit of R3}&nbsp;&& \\text{t=9: Finishes} \\\\ \\text{t=8: requests 2 units of R4} & \\text{} \\\\ \\text{t=10: Finishes} & \\text{}&nbsp; \\\\ \\hline \\end{array} \\]<br>\nWhich one of the following statements is TRUE if all three processes run concurrently starting at time \\( t = 0 \\)?</p>\n\n</div><br><br><b>GATE CSE 2009 | Question: 30</b></p>",
+          "type": "single",
+          "options": [
+            "<p>All processes will finish without any deadlock</p>",
+            "<p>Only \\( P1 \\) and \\( P2 \\) will be in deadlock</p>",
+            "<p>Only \\( P1 \\) and \\( P3 \\) will be in deadlock</p>",
+            "<p>All three processes will be in deadlock</p>"
+          ],
+          "correct_answer": "<p>All processes will finish without any deadlock</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1316/gate-cse-2009-question-30\" target=\"_blank\">https://gateoverflow.in/1316/gate-cse-2009-question-30</a></p>"
+        },
+        {
+          "id": 17,
+          "question": "<p><a name=\"2348\"></a><div itemprop=\"text\"><p>A system has \\( n \\) resources \\( R_0, \\dots,R_{n-1} \\), and \\( k \\) processes \\( P_0, \\dots, P_{k-1} \\). The implementation of the resource&nbsp;request logic of each process \\( P_i \\) is as follows:</p>\n\n<p>\\( \\text{if} (i\\%2==0) \\{ \\)<br>\n\\( \\quad\\text{if} (i&lt;n) \\text{request} R_i; \\)<br>\n\\( \\quad\\text{if} (i+2 &lt; n) \\text{request} R_{i+2};&nbsp;\\} \\)<br>\n\\( \\text{else} \\{ \\)<br>\n\\( \\quad\\text{if} (i&lt;n) \\text{request} R_{n-i}; \\)<br>\n\\( \\quad\\text{if} (i+2 &lt;n) \\text{request} R_{n-i-2}; \\} \\)</p>\n\n<p>In which of the following situations is a deadlock possible?</p>\n\n</div><br><br><b>GATE CSE 2010 | Question: 46</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( n=40,\\: k=26 \\)</p>",
+            "<p>\\( n=21,\\:k=12 \\)</p>",
+            "<p>\\( n=20,\\:k=10 \\)</p>",
+            "<p>\\( n=41,\\:k=19 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( n=21,\\:k=12 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/2348/gate-cse-2010-question-46\" target=\"_blank\">https://gateoverflow.in/2348/gate-cse-2010-question-46</a></p>"
+        },
+        {
+          "id": 18,
+          "question": "<p><a name=\"1438\"></a><div itemprop=\"text\"><p>Three concurrent processes \\( X \\), \\( Y \\), and \\( Z \\) execute three different code segments that access and&nbsp;update certain shared variables. Process \\( X \\) executes the \\( P \\) operation (i.e., \\( wait \\)) on semaphores&nbsp;\\( a \\), \\( b, \\) and \\( c \\); process \\( Y \\) executes the \\( P \\) operation on semaphores \\( b \\), \\( c, \\) and \\( d \\); process \\( Z \\) executes the \\( P \\) operation on semaphores \\( c \\), \\( d \\), and \\( a \\) before entering the respective code segments. After completing the execution of its code segment, each process invokes the \\( V \\) operation (i.e., \\( signal \\)) on its three semaphores. All semaphores are binary semaphores initialized to one. Which one of the following represents a deadlock-free order of invoking the \\( P \\) operations by the processes?</p>\n\n</div><br><br><b>GATE CSE 2013 | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( X: \\) \\( P(a)P(b)P(c) \\) \\( Y: \\) \\( P(b)P(c)P(d) \\) \\( Z: \\) \\( P(c)P(d)P(a) \\)</p>",
+            "<p>\\( X: \\) \\( P(b)P(a)P(c) \\) \\( Y: \\) \\( P(b)P(c)P(d) \\) \\( Z: \\) \\( P(a)P(c)P(d) \\)</p>",
+            "<p>\\( X: \\) \\( P(b)P(a)P(c) \\) \\( Y: \\) \\( P(c)P(b)P(d) \\) \\( Z: \\) \\( P(a)P(c)P(d) \\)</p>",
+            "<p>\\( X: \\) \\( P(a)P(b)P(c) \\) \\( Y: \\) \\( P(c)P(b)P(d) \\) \\( Z: \\) \\( P(c)P(d)P(a) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( X: \\) \\( P(b)P(a)P(c) \\) \\( Y: \\) \\( P(b)P(c)P(d) \\) \\( Z: \\) \\( P(a)P(c)P(d) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1438/gate-cse-2013-question-16\" target=\"_blank\">https://gateoverflow.in/1438/gate-cse-2013-question-16</a></p>"
+        },
+        {
+          "id": 19,
+          "question": "<p><a name=\"1800\"></a><div itemprop=\"text\"><p>An operating system uses the&nbsp;<em>Banker's algorithm</em>&nbsp;for deadlock avoidance when managing the allocation of three resource types \\( X, Y, \\) and \\( Z \\) to three processes \\( P0, P1, \\) and \\( P2. \\) The table given below presents the current system state. Here, the&nbsp;<em>Allocation matrix</em>&nbsp;shows the current number of resources of each type allocated to each process and the&nbsp;<em>Max matrix&nbsp;</em>shows the maximum number of resources of each type required by each process during its execution.</p><p>\\[ \\overset{\\Large{\\textbf{Allocation}}}{\\begin{array}{|l|ll|} \\hline & X & Y & Z \\\\\\hline&nbsp; \\textbf{P0} & 0 & 0 & 1&nbsp; \\\\&nbsp; \\textbf{P1}&nbsp;& 3 & 2 & 0&nbsp; \\\\&nbsp; \\textbf{P2}&nbsp;& 2 & 1 & 1&nbsp; \\\\\\hline \\end{array}}\\quad \\qquad \\overset{\\Large{\\textbf{Max}}}{\\begin{array}{|ll|} \\hline X & Y & Z \\\\\\hline&nbsp; 8 & 4 & 3&nbsp; \\\\&nbsp; 6 & 2 & 0&nbsp; \\\\&nbsp; &nbsp;3 & 3 & 3 \\\\\\hline \\end{array}} \\]<br>There are \\( 3 \\) units of type \\( X, 2 \\) units of type \\( Y \\) and \\( 2 \\) units of type \\( Z \\) still available. The system is currently in a&nbsp;<strong>safe&nbsp;</strong>state. Consider the following independent requests for additional resources in the current state:&nbsp;</p><p><strong>REQ1</strong>: \\( P0 \\) requests \\( 0 \\) units of \\( X, 0 \\) units of \\( Y \\) and \\( 2 \\) units of \\( Z \\)&nbsp;</p><p><strong>REQ2</strong>: \\( P1 \\) requests \\( 2 \\) units of \\( X, 0 \\) units of \\( Y \\) and \\( 0 \\) units of \\( Z \\)&nbsp;</p><p>Which one of the following is&nbsp;<strong>TRUE</strong>?</p></div><br><br><b>GATE CSE 2014 Set 1 | Question: 31</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Only REQ1 can be permitted.</p>",
+            "<p>Only REQ2 can be permitted.</p>",
+            "<p>Both REQ1 and REQ2 can be permitted.</p>",
+            "<p>Neither REQ1 nor REQ2 can be permitted.</p>"
+          ],
+          "correct_answer": "<p>Only REQ2 can be permitted.</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1800/gate-cse-2014-set-1-question-31\" target=\"_blank\">https://gateoverflow.in/1800/gate-cse-2014-set-1-question-31</a></p>"
+        },
+        {
+          "id": 20,
+          "question": "<p><a name=\"2065\"></a><div itemprop=\"text\">A system contains three programs and each requires three tape units for its operation. The minimum number of tape units which the system must have such that deadlocks never arise is _________.</div><br><br><b>GATE CSE 2014 Set 3 | Question: 31</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "7",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/2065/gate-cse-2014-set-3-question-31\" target=\"_blank\">https://gateoverflow.in/2065/gate-cse-2014-set-3-question-31</a></p>"
+        },
+        {
+          "id": 21,
+          "question": "<p><a name=\"8114\"></a><div itemprop=\"text\"><p>A system has \\( 6 \\) identical resources and \\( N \\) processes competing for them. Each process can request at most \\( 2 \\) resources. Which one of the following values of \\( N \\) could lead to a deadlock?</p></div><br><br><b>GATE CSE 2015 Set 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1 \\)</p>",
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 4 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/8114/gate-cse-2015-set-2-question-23\" target=\"_blank\">https://gateoverflow.in/8114/gate-cse-2015-set-2-question-23</a></p>"
+        },
+        {
+          "id": 22,
+          "question": "<p><a name=\"8561\"></a><div itemprop=\"text\"><p>Consider the following policies for preventing deadlock in a system with mutually exclusive resources.</p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>Process should acquire all their resources at the beginning of execution. If any resource is not available, all resources acquired so far are released.</li>\n\t<li>The resources are numbered uniquely, and processes are allowed to request for resources only in increasing resource numbers</li>\n\t<li>The resources are numbered uniquely, and processes are allowed to request for resources only in deccreasing resource numbers</li>\n\t<li>The resources are numbered uniquely. A processes is allowed to request for resources only for a resource with resource number larger than its currently held resources</li>\n</ol>\n\n<p>Which of the above policies can be used for preventing deadlock?</p>\n\n</div><br><br><b>GATE CSE 2015 Set 3 | Question: 52</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Any one of (I) and (III) but not (II) or (IV)</p>",
+            "<p>Any one of (I), (III) and (IV) but not (II)</p>",
+            "<p>Any one of (II) and (III) but not (I) or (IV)</p>",
+            "<p>Any one of (I), (II), (III) and (IV)</p>"
+          ],
+          "correct_answer": "<p>Any one of (I), (II), (III) and (IV)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/8561/gate-cse-2015-set-3-question-52\" target=\"_blank\">https://gateoverflow.in/8561/gate-cse-2015-set-3-question-52</a></p>"
+        },
+        {
+          "id": 23,
+          "question": "<p><a name=\"118375\"></a><div itemprop=\"text\"><p>A system shares \\( 9 \\) tape drives. The current allocation and maximum requirement of tape drives for that processes are shown below:</p><p>\\[ \\begin{array}{|c|c|} \\hline&nbsp; \\textbf{Process} & \\textbf{Current Allocation} & \\textbf{Maximum Requirement} \\\\\\hline \\text{P1} & 3 & 7 \\\\\\hline \\text{P2} & 1&nbsp;& 6 \\\\\\hline \\text{P3} & 3&nbsp;& 5&nbsp;\\\\\\hline&nbsp; \\end{array} \\]</p><p>Which of the following best describes current state of the system?</p></div><br><br><b>GATE CSE 2017 Set 2 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Safe, Deadlocked</p>",
+            "<p>Safe, Not Deadlocked</p>",
+            "<p>Not Safe, Deadlocked</p>",
+            "<p>Not Safe, Not Deadlocked</p>"
+          ],
+          "correct_answer": "<p>Safe, Not Deadlocked</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/118375/gate-cse-2017-set-2-question-33\" target=\"_blank\">https://gateoverflow.in/118375/gate-cse-2017-set-2-question-33</a></p>"
+        },
+        {
+          "id": 24,
+          "question": "<p><a name=\"302809\"></a><div itemprop=\"text\"><p>Consider the following snapshot of a system running \\( n \\) concurrent processes. Process \\( i \\) is holding \\( X_i \\) instances of a resource \\( R \\), \\( 1 \\leq i \\leq n \\). Assume that all instances of \\( R \\) are currently in use. Further, for all \\( i \\), process \\( i \\) can place a request for at most \\( Y_i \\) additional instances of \\( R \\) while holding the \\( X_i \\) instances it already has. Of the \\( n \\) processes, there are exactly two processes \\( p \\) and \\( q \\) such that \\( Y_p = Y_q =0 \\). Which one of the following conditions guarantees that no other process apart from \\( p \\) and \\( q \\) can complete execution?</p></div><br><br><b>GATE CSE 2019 | Question: 39</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( X_p + X_q &lt; \\text{Min} \\{Y_k \\mid 1 \\leq k \\leq n, k \\neq p, k \\neq q \\} \\)</p>",
+            "<p>\\( X_p + X_q &lt; \\text{Max} \\{Y_k \\mid 1 \\leq k \\leq n, k \\neq p, k \\neq q \\} \\)</p>",
+            "<p>\\( \\text{Min}(X_p,X_q) \\geq \\text{Min} \\{Y_k \\mid 1 \\leq k \\leq n, k \\neq p, k \\neq q\\} \\)</p>",
+            "<p>\\( \\text{Min}(X_p,X_q) \\leq \\text{Max} \\{Y_k \\mid 1 \\leq k \\leq n, k \\neq p, k \\neq q\\} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( X_p + X_q &lt; \\text{Min} \\{Y_k \\mid 1 \\leq k \\leq n, k \\neq p, k \\neq q \\} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/302809/gate-cse-2019-question-39\" target=\"_blank\">https://gateoverflow.in/302809/gate-cse-2019-question-39</a></p>"
+        },
+        {
+          "id": 25,
+          "question": "<p><a name=\"371920\"></a><div itemprop=\"text\"><p>Which of the following statements is/are \\( \\text{TRUE} \\) with respect to deadlocks?</p>\n\n</div><br><br><b>GATE CSE 2022 | Question: 16</b></p>",
+          "type": "multiple",
+          "options": [
+            "<p>Circular wait is a necessary condition for the formation of deadlock.</p>",
+            "<p>In a system where each resource has more than one instance, a cycle in its wait-for graph indicates the presence of a deadlock.</p>",
+            "<p>If the current allocation of resources to processes leads the system to unsafe state, then deadlock will necessarily occur.</p>",
+            "<p>In the resource-allocation graph of a system, if every edge is an assignment edge, then the system is not in deadlock state.</p>"
+          ],
+          "correct_answer": [
+            "<p>Circular wait is a necessary condition for the formation of deadlock.</p>",
+            "<p>In the resource-allocation graph of a system, if every edge is an assignment edge, then the system is not in deadlock state.</p>"
+          ],
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/371920/gate-cse-2022-question-16\" target=\"_blank\">https://gateoverflow.in/371920/gate-cse-2022-question-16</a></p>"
+        },
+        {
+          "id": 26,
+          "question": "<p><a name=\"3823\"></a><div itemprop=\"text\"><p>Two shared resources \\( R_1 \\)&nbsp;and \\( R_2 \\) are used by processes \\( P_1 \\)&nbsp;and \\( P_2 \\). Each process has a certain priority for accessing each resource. Let \\( T_{ij} \\)&nbsp;denote the priority of \\( P_i \\)&nbsp;for accessing&nbsp; \\( R_j \\). A process \\( P_i \\) can snatch a resource \\( R_k \\) from process \\( P_j \\)&nbsp;if \\( T_{ik} \\) is greater than \\( T_{jk} \\).<br>\nGiven the following :</p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>\\( T_{11}&nbsp;&gt; T_{21} \\)</li>\n\t<li>\\( T_{12}&nbsp;&gt; T_{22} \\)</li>\n\t<li>\\( T_{11} &lt;&nbsp;T_{21} \\)</li>\n\t<li>\\( T_{12} &lt;&nbsp;T_{22} \\)</li>\n</ol>\n\n<p>Which of the following conditions ensures that \\( P_1 \\)&nbsp;and \\( P_2 \\) can never deadlock?</p>\n\n</div><br><br><b>GATE IT 2005 | Question: 62</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(I) and (IV)</p>",
+            "<p>(II) and (III)</p>",
+            "<p>(I) and (II)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "<p>(I) and (II)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3823/gate-it-2005-question-62\" target=\"_blank\">https://gateoverflow.in/3823/gate-it-2005-question-62</a></p>"
+        },
+        {
+          "id": 27,
+          "question": "<p><a name=\"3364\"></a><div itemprop=\"text\"><p>An operating system implements a policy that requires a process to release all resources before making a request for another resource. Select the TRUE statement from the following:</p>\n\n</div><br><br><b>GATE IT 2008 | Question: 54</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Both starvation and deadlock can occur</p>",
+            "<p>Starvation can occur but deadlock cannot occur</p>",
+            "<p>Starvation cannot occur but deadlock can occur</p>",
+            "<p>Neither starvation nor deadlock can occur</p>"
+          ],
+          "correct_answer": "<p>Starvation can occur but deadlock cannot occur</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3364/gate-it-2008-question-54\" target=\"_blank\">https://gateoverflow.in/3364/gate-it-2008-question-54</a></p>"
+        }
+      ]
+    }
+  ]
+});

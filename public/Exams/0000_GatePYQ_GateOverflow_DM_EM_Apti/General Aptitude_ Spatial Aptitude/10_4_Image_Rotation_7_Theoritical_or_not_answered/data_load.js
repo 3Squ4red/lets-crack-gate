@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Spatial Aptitude - Image Rotation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Image Rotation",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"371501\"></a><div itemprop=\"text\"><p>A palindrome is a word that reads the same forwards and backwards. In a game of words, a player has the following two plates painted with letters.</p>\n\n<p>&nbsp; &nbsp;&nbsp; &nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_spatial_aptitude_image_rotation/b8232f3611c4848465cf848efe8fb5e9.png\" width=\"175\"></p>\n\n<p>From the additional plates given in the options, which one of the combinations of additional plates would allow the player to construct a five-letter palindrome. The player should use all the five plates exactly once. The plates can be rotated in their plane.</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;A.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_spatial_aptitude_image_rotation/bf06aea0d3ab47edb36ef2d79c0485a4.png\" width=\"200\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; B.&nbsp;&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_spatial_aptitude_image_rotation/72a93874de8a029de0964ba0d65965fa.png\" width=\"200\"></p>\n\n<p>&nbsp; &nbsp; &nbsp;&nbsp;C.&nbsp;&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_spatial_aptitude_image_rotation/a936eaac175c0dbf39b7be167dc12d19.png\" width=\"200\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; D.&nbsp;&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_spatial_aptitude_image_rotation/2fb8479acafcda1f58cdf8b7bf9d84d0.png\" width=\"200\"></p></div><br><br><b>GATE CSE 2022 | GA Question: 5</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>B</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/371501/gate-cse-2022-ga-question-5\" target=\"_blank\">https://gateoverflow.in/371501/gate-cse-2022-ga-question-5</a></p>"
+        }
+      ]
+    }
+  ]
+});

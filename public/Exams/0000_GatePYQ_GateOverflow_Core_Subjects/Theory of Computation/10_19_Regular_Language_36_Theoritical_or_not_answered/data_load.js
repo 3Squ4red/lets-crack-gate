@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Theory of Computation - Regular Language - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Regular Language",
+      "questions": [
+        {
+          "id": 9,
+          "question": "<p><a name=\"655\"></a><div itemprop=\"text\"><p>What can be said about a regular language \\( L \\) over \\( \\{ a \\} \\) whose minimal finite state automaton has two states?</p>\n\n\n\n\n\n</div><br><br><b>GATE CSE 2000 | Question: 2.8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( L \\) must be \\( \\{a^n&nbsp;\\mid&nbsp;n \\&nbsp; \\text{is odd}\\} \\)</p>",
+            "<p>\\( L \\) must be \\( \\{a^n&nbsp;\\mid&nbsp;n \\&nbsp; \\text{&nbsp;is even}\\} \\)</p>",
+            "<p>\\( L \\) must be \\( \\{a^n&nbsp;\\mid&nbsp;n&nbsp;\\geq&nbsp;0\\} \\)</p>",
+            "<p>Either \\( L \\) must be \\( \\{a^n&nbsp;\\mid&nbsp;n&nbsp;\\text{is odd}\\} \\), or \\( L \\) must be \\( \\{a^n&nbsp;\\mid&nbsp;n \\text{&nbsp;is even}\\} \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/655/gate-cse-2000-question-2-8\" target=\"_blank\">https://gateoverflow.in/655/gate-cse-2000-question-2-8</a></p>"
+        }
+      ]
+    }
+  ]
+});

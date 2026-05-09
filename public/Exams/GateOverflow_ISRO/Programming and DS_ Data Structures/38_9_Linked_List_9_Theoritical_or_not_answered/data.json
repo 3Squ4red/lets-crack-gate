@@ -1,0 +1,26 @@
+{
+  "title": "Programming and DS_ Data Structures - Linked List - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Linked List",
+      "questions": [
+        {
+          "id": 6,
+          "question": "<p><a name=\"128485\"></a><div itemprop=\"text\"><p>In a doubly linked list the number of pointers affected for an insertion operation will be</p>\n\n</div><br><br><b>ISRO CSE 2017 | Question: 53</b></p>",
+          "type": "single",
+          "options": [
+            "<p>4</p>",
+            "<p>0</p>",
+            "<p>1</p>",
+            "<p>Depends on the nodes of doubly linked list</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/128485/isro-cse-2017-question-53\" target=\"_blank\">https://gateoverflow.in/128485/isro-cse-2017-question-53</a></p>"
+        }
+      ]
+    }
+  ]
+}

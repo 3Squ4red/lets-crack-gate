@@ -1,0 +1,43 @@
+{
+  "title": "Engineering Mathematics_ Probability - Binomial Distribution - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Binomial Distribution",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"19050\"></a><div itemprop=\"text\"><p>Suppose three coins are lying on a table, two of them with heads facing up and one with tails facing up. One coin is chosen at random and flipped. What is the probability that after the flip the majority of the coins(i.e., at least two of them) will have heads facing up?</p>\n\n</div><br><br><b>TIFR CSE 2010 | Part B | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\left(\\frac{1}{3}\\right) \\)</p>",
+            "<p>\\( \\left(\\frac{1}{8}\\right) \\)</p>",
+            "<p>\\( \\left(\\frac{1}{4}\\right) \\)</p>",
+            "<p>\\( \\left(\\frac{1}{4}+\\frac{1}{8}\\right) \\)</p>",
+            "<p>\\( \\left(\\frac{2}{3}\\right) \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/19050/tifr-cse-2010-part-b-question-38\" target=\"_blank\">https://gateoverflow.in/19050/tifr-cse-2010-part-b-question-38</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"25437\"></a><div itemprop=\"text\"><p>An unbiased die is thrown \\( n \\) times. The probability that the product of numbers would be even is</p>\n\n</div><br><br><b>TIFR CSE 2013 | Part A | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\dfrac{1}{(2n)} \\)</p>",
+            "<p>\\( \\dfrac{1}{[(6n)!]} \\)</p>",
+            "<p>\\( 1 -&nbsp;6^{-n} \\)</p>",
+            "<p>\\( 6^{-n} \\)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25437/tifr-cse-2013-part-a-question-14\" target=\"_blank\">https://gateoverflow.in/25437/tifr-cse-2013-part-a-question-14</a></p>"
+        }
+      ]
+    }
+  ]
+}

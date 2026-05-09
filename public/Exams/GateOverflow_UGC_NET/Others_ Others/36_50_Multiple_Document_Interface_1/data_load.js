@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Multiple Document Interface",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Multiple Document Interface",
+      "questions": []
+    }
+  ]
+});

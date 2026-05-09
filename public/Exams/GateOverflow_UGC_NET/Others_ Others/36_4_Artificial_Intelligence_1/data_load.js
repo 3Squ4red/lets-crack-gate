@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Artificial Intelligence",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Artificial Intelligence",
+      "questions": []
+    }
+  ]
+});

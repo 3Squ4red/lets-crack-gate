@@ -1,0 +1,86 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Others - NIELIT 2017 July Scientist B CS - Section B",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "NIELIT 2017 July Scientist B CS - Section B",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"336351\"></a><div itemprop=\"text\"><p>How many wires are threaded through the cores in a coincident-current core memory?</p>\n\n</div><br><br><b>NIELIT 2017 July Scientist B (CS) - Section B: 24</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 6 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 2 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336351/nielit-2017-july-scientist-b-cs-section-b-24\" target=\"_blank\">https://gateoverflow.in/336351/nielit-2017-july-scientist-b-cs-section-b-24</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"336708\"></a><div itemprop=\"text\"><p>In what module multiple instances of execution will yield the same result even if one instance has not terminated before the next one has begun?</p>\n\n</div><br><br><b>NIELIT 2016 MAR Scientist B - Section C: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Non reusable module</p>",
+            "<p>Serially usable</p>",
+            "<p>Re-enterable module</p>",
+            "<p>Recursive module</p>"
+          ],
+          "correct_answer": "<p>Re-enterable module</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/336708/nielit-2016-mar-scientist-b-section-c-33\" target=\"_blank\">https://gateoverflow.in/336708/nielit-2016-mar-scientist-b-section-c-33</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"337185\"></a><div itemprop=\"text\"><p>The equation of the plane through the point \\( (-1,3,2) \\) and perpendicular to each of the planes \\( x+2y+3z=5 \\)&nbsp;and \\( 3x+3y+z=0 \\) is</p> </div><br><br><b>NIELIT 2016 MAR Scientist C - Section B: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 7x-8y+3z+25=0 \\)</p>",
+            "<p>\\( 7x+8y+3z+25=0 \\)</p>",
+            "<p>\\( 7x-8y+3z-25=0 \\)</p>",
+            "<p>\\( 7x-8y-3z-25=0 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 7x-8y+3z+25=0 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/337185/nielit-2016-mar-scientist-c-section-b-15\" target=\"_blank\">https://gateoverflow.in/337185/nielit-2016-mar-scientist-c-section-b-15</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"337193\"></a><div itemprop=\"text\"><p>The area under the curve \\( y(x)=3e^{-5x} \\) from \\( x=0 \\text{to} x=\\infty \\) is</p>\n\n</div><br><br><b>NIELIT 2016 MAR Scientist C - Section B: 7</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\dfrac{3}{5} \\)</p>",
+            "<p>\\( \\dfrac{-3}{5} \\)</p>",
+            "<p>\\( {5} \\)</p>",
+            "<p>\\( \\dfrac{5}{3} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( \\dfrac{3}{5} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/337193/nielit-2016-mar-scientist-c-section-b-7\" target=\"_blank\">https://gateoverflow.in/337193/nielit-2016-mar-scientist-c-section-b-7</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"337194\"></a><div itemprop=\"text\"><p>If&nbsp;\\( y=f(x) \\), in the interval \\( [a,b] \\) is rotated about the \\( x \\)-axis, the Volume of the solid of revolution is \\( (f’(x)=dy/dx) \\)</p>\n\n</div><br><br><b>NIELIT 2016 MAR Scientist C - Section B: 6</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\int_{a}^{b}&nbsp;\\pi [f(x)]^{2} dx \\\\</p>",
+            "<p>\\int_{a}^{b}[f(x)]^{3} dx \\\\</p>",
+            "<p>\\int_{a}^{b}&nbsp;\\pi [{f}'(x)]^{2} dx \\\\</p>",
+            "<p>\\int_{a}^{b}&nbsp;\\pi^{2} f(x)dx \\\\</p>"
+          ],
+          "correct_answer": "<p>\\int_{a}^{b}&nbsp;\\pi [f(x)]^{2} dx \\\\</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/337194/nielit-2016-mar-scientist-c-section-b-6\" target=\"_blank\">https://gateoverflow.in/337194/nielit-2016-mar-scientist-c-section-b-6</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "CO & Architecture - Data Path - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Data Path",
+      "questions": []
+    }
+  ]
+});

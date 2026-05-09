@@ -1,0 +1,26 @@
+{
+  "title": "Engineering Mathematics_ Linear Algebra - Determinant - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Determinant",
+      "questions": [
+        {
+          "id": 5,
+          "question": "<p><a name=\"435366\"></a><div itemprop=\"text\"><p>Given \\( P \\) is a matrix \\( =\\left(\\begin{array}{llll}3 & 2 & 1 & 4 \\\\ 4 & 0 & 3 & 1 \\\\ 6 & 4 & 2 & 8 \\\\ 2 & 5 & 1 & 3\\end{array}\\right) \\)<br><br>If \\( \\operatorname{det}|\\mathrm{P}| \\) denotes the determinant of matrix \\( P \\), then which of the following is true:</p></div><br><br><b>ISRO CSE 2023 | Question: 30</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\operatorname{det}|\\mathrm{P}| \\) is indeterminate</p>",
+            "<p>\\( \\operatorname{det}|\\mathrm{P}| \\) is negative</p>",
+            "<p>\\( \\operatorname{det}|\\mathrm{P}|=0 \\)</p>",
+            "<p>None of the above<p>&nbsp;</p></p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/435366/isro-cse-2023-question-30\" target=\"_blank\">https://gateoverflow.in/435366/isro-cse-2023-question-30</a></p>"
+        }
+      ]
+    }
+  ]
+}

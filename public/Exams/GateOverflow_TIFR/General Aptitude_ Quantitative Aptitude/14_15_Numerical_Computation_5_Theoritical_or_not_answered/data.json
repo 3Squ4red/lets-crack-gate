@@ -1,0 +1,27 @@
+{
+  "title": "General Aptitude_ Quantitative Aptitude - Numerical Computation - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Numerical Computation",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"25989\"></a><div itemprop=\"text\"><p>Consider numbers greater than one that satisfy the following properties:</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>They have no repeated prime factors;</li>\n\t<li>For all primes \\( p \\geq 2 \\), \\( p \\) divides the number if and only if \\( p − 1 \\) divides the number.</li>\n</ol>\n\n<p>The number of such numbers is</p>\n\n</div><br><br><b>TIFR CSE 2014 | Part A | Question: 4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 0 \\)</p>",
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 100 \\)</p>",
+            "<p>Infinite</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25989/tifr-cse-2014-part-a-question-4\" target=\"_blank\">https://gateoverflow.in/25989/tifr-cse-2014-part-a-question-4</a></p>"
+        }
+      ]
+    }
+  ]
+}

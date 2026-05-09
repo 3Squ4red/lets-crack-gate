@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Functions - Theoretical/Not Answered",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "Functions",
+      "questions": []
+    }
+  ]
+});

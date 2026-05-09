@@ -1,0 +1,107 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Graph Theory - Graph Coloring",
+  "duration": 17,
+  "sections": [
+    {
+      "name": "Graph Coloring",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"25508\"></a><div itemprop=\"text\"><p>Let \\( G= (V, E) \\) be a simple undirected graph on \\( n \\) vertices. A colouring of \\( G \\) is an assignment of colours to each vertex such that endpoints of every edge are given different colours. Let \\( \\chi (G) \\) denote the chromatic number of \\( G \\), i.e. the minimum numbers of colours needed for a valid colouring of \\( G \\). A set \\( B\\subseteq V \\) is an independent set if no pair of vertices in \\( B \\) is connected by an edge. Let \\( a(G) \\) be the number of vertices in a largest possible independent set in \\( G \\). In the absence of any further information about \\( G \\) we can conclude.</p>\n\n</div><br><br><b>TIFR CSE 2013 | Part B | Question: 1</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\chi \\left(G\\right)\\geq a\\left(G\\right) \\)</p>",
+            "<p>\\( \\chi \\left(G\\right)\\leq &nbsp;a\\left(G\\right) \\)</p>",
+            "<p>\\( a\\left(G\\right)\\geq \\frac{n}{\\chi \\left(G\\right)} \\)</p>",
+            "<p>\\( a\\left(G\\right)\\leq \\frac{n}{\\chi \\left(G\\right)} \\)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "<p>\\( a\\left(G\\right)\\geq \\frac{n}{\\chi \\left(G\\right)} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25508/tifr-cse-2013-part-b-question-1\" target=\"_blank\">https://gateoverflow.in/25508/tifr-cse-2013-part-b-question-1</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"95817\"></a><div itemprop=\"text\"><p>A vertex colouring of a graph \\( G=(V, E) \\) with \\( k \\) coulours is a mapping \\( c: V \\rightarrow \\{1, \\dots , k\\} \\) such that \\( c(u) \\neq c(v) \\) for every \\( (u, v) \\in E \\). Consider the following statements:</p>\n\n<ol style=\"list-style-type:lower-roman\">\n\t<li>If every vertex in \\( G \\) has degree at most \\( d \\) then \\( G \\) admits a vertex coulouring using \\( d+1 \\) colours.</li>\n\t<li>Every cycle admits a vertex colouring using \\( 2 \\)&nbsp;colours</li>\n\t<li>Every tree admits a vertex colouring using \\( 2 \\)&nbsp;colours</li>\n</ol>\n\n<p>Which of the above statements is/are TRUE? Choose from the following options:</p>\n\n</div><br><br><b>TIFR CSE 2017 | Part B | Question: 10</b></p>",
+          "type": "single",
+          "options": [
+            "<p>only i</p>",
+            "<p>only i and ii</p>",
+            "<p>only i and iii</p>",
+            "<p>only ii and iii</p>",
+            "<p>i, ii, and iii</p>"
+          ],
+          "correct_answer": "<p>only i and iii</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/95817/tifr-cse-2017-part-b-question-10\" target=\"_blank\">https://gateoverflow.in/95817/tifr-cse-2017-part-b-question-10</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"179388\"></a><div itemprop=\"text\"><p>How many ways are there to assign colours from range&nbsp; \\( \\left\\{1,2,\\ldots,r\\right\\} \\) to vertices of the following graph so that adjacent vertices receive distinct colours?</p>\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"151\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/discrete_mathematics_graph_theory_graph_coloring/5d18b4b2804eac5be8e168f24789dad3.png\" width=\"190\"></p>\n\n</div><br><br><b>TIFR CSE 2018 | Part A | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( r^{4} \\)</p>",
+            "<p>\\( r^{4} - 4r^{3} \\)</p>",
+            "<p>\\( r^{4}-5r^{3}+8r^{2}-4r \\)</p>",
+            "<p>\\( r^{4}-4r^{3}+9r^{2}-3r \\)</p>",
+            "<p>\\( r^{4}-5r^{3}+10r^{2}-15r \\)</p>"
+          ],
+          "correct_answer": "<p>\\( r^{4}-5r^{3}+8r^{2}-4r \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/179388/tifr-cse-2018-part-a-question-9\" target=\"_blank\">https://gateoverflow.in/179388/tifr-cse-2018-part-a-question-9</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"358940\"></a><div itemprop=\"text\"><p>Let \\( A \\) be a \\( 3 \\times 6 \\) matrix with real-valued entries. Matrix \\( A \\) has rank \\( 3 \\). We construct a graph with \\( 6 \\) vertices where each vertex represents distinct column in \\( A \\), and there is an edge between two vertices if the two columns represented by the vertices are linearly independent. Which of the following statements \\( \\text{MUST} \\) be true of the graph constructed?</p>\n\n</div><br><br><b>TIFR CSE 2021 | Part B | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Each vertex has degree at most \\( 2 \\).</p>",
+            "<p>The graph is connected.</p>",
+            "<p>There is a clique of size \\( 3 \\).</p>",
+            "<p>The graph has a cycle of length \\( 4 \\).</p>",
+            "<p>The graph is \\( 3 \\)-colourable.</p>"
+          ],
+          "correct_answer": "<p>There is a clique of size \\( 3 \\).</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/358940/tifr-cse-2021-part-b-question-13\" target=\"_blank\">https://gateoverflow.in/358940/tifr-cse-2021-part-b-question-13</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"358939\"></a><div itemprop=\"text\"><p>Consider the following greedy algorithm for colouring an \\( n \\)-vertex undirected graph \\( G \\) with colours \\( c_{1}, c_{2}, \\dots: \\) consider the vertices of \\( G \\) in any sequence and assign the chosen vertex the first colour that has not already been assigned to any of its neighbours. Let \\( m(n, r) \\) be the minimum number of edges in a graph that causes this greedy algorithm to use \\( r \\) colours. Which of the following is correct?</p>\n\n</div><br><br><b>TIFR CSE 2021 | Part B | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( m\\left ( n, r \\right ) = \\Theta \\left ( r \\right ) \\)</p>",
+            "<p>\\( m\\left ( n, r \\right ) = \\Theta \\left ( r\\left \\lceil&nbsp;\\log_{2} \\:r \\right \\rceil \\right ) \\)</p>",
+            "<p>\\( m\\left ( n, r \\right ) = \\binom{r}{2} \\)</p>",
+            "<p>\\( m\\left ( n, r \\right ) = nr \\)</p>",
+            "<p>\\( m\\left ( n, r \\right ) = n\\binom{r}{2} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( m\\left ( n, r \\right ) = \\binom{r}{2} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/358939/tifr-cse-2021-part-b-question-14\" target=\"_blank\">https://gateoverflow.in/358939/tifr-cse-2021-part-b-question-14</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"473104\"></a><div itemprop=\"text\"><p>What is the largest number of knights that can be placed on a \\( 60 \\times 60 \\) chessboard such that no two knights attack each other (two knights attack each other if they are two steps away vertically and one step away horizontally, or vice versa).</p><p style=\"text-align:center\"><img alt=\"\" width=\"400\" height=\"400\" src=\"images/gateOverFlowPDFsImages/tifr_w_cover/discrete_mathematics_graph_theory_graph_coloring/be504099e6a11d91faab009601c057e6.png\"></p><p>The figure above shows a part of a chessboard showing all those squares that a knight placed in the central white square attacks.</p></div><br><br><b>TIFR CSE 2025 | Part A | Question: 9</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1200 \\)</p>",
+            "<p>\\( 1500 \\)</p>",
+            "<p>\\( 1800 \\)</p>",
+            "<p>\\( 2100 \\)</p>",
+            "<p>\\( 2400 \\)<p>&nbsp;</p></p>"
+          ],
+          "correct_answer": "<p>\\( 1800 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/473104/tifr-cse-2025-part-a-question-9\" target=\"_blank\">https://gateoverflow.in/473104/tifr-cse-2025-part-a-question-9</a></p>"
+        }
+      ]
+    }
+  ]
+});

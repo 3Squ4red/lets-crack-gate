@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Transportation Problem - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Transportation Problem",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"71656\"></a><div itemprop=\"text\"><p>Consider the following statements :</p>\n\n<p>(a) Assignment problem can be used to minimize the cost.</p>\n\n<p>(b) Assignment problem is a special case of transportation problem.</p>\n\n<p>(c) Assignment problem requires that only one activity be assigned to each resource.</p>\n\n<p>Which of the following options is correct ?</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 63</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(a) and (b) only</p>",
+            "<p>(a) and (c) only</p>",
+            "<p>(b) and (c) only</p>",
+            "<p>(a), (b) and (c)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/71656/ugc-net-cse-august-2016-part-3-question-63\" target=\"_blank\">https://gateoverflow.in/71656/ugc-net-cse-august-2016-part-3-question-63</a></p>"
+        }
+      ]
+    }
+  ]
+});

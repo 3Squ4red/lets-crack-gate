@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Programming and DS - Array of Pointers",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Array of Pointers",
+      "questions": []
+    }
+  ]
+});

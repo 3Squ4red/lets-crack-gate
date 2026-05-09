@@ -1,0 +1,27 @@
+window.__examLoadCallback({
+  "title": "Programming_ Programming in C - Parameter Passing",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Parameter Passing",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"280487\"></a><div itemprop=\"text\"><p>Consider the following program fragment:</p>\n\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">var a,b : integer;\nprocedure G(c,d: integer);\nbegin\n    c:=c-d;\n    d:=c+d;\n    c:=d-c\nend;\na:=2;\nb:=3;\nG(a,b);</pre>\n\n<p>If both parameters to \\( G \\) are passed by reference, what are the values of \\( a \\) and \\( b \\) at the end of the above program fragment ?</p>\n\n</div><br><br><b>TIFR CSE 2019 | Part B | Question: 8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( a=0 \\) and \\( b=2 \\)</p>",
+            "<p>\\( a=3 \\) and \\( b=2 \\)</p>",
+            "<p>\\( a=2 \\) and \\( b=3 \\)</p>",
+            "<p>\\( a=1 \\) and \\( b=5 \\)</p>",
+            "<p>None of the above</p>"
+          ],
+          "correct_answer": "<p>\\( a=3 \\) and \\( b=2 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/280487/tifr-cse-2019-part-b-question-8\" target=\"_blank\">https://gateoverflow.in/280487/tifr-cse-2019-part-b-question-8</a></p>"
+        }
+      ]
+    }
+  ]
+});

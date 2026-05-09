@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Discrete Mathematics - Boolean Function",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Boolean Function",
+      "questions": []
+    }
+  ]
+});

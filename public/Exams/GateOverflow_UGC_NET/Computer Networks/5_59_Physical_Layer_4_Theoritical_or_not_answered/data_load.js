@@ -1,0 +1,41 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Physical Layer - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Physical Layer",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"66900\"></a><div itemprop=\"text\"><p>How much bandwidth is there in \\( 1 \\) micron of spectrum at a wavelength of \\( 1 \\) micron ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 28</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 300 \\) MHz</p>",
+            "<p>\\( 3 \\) GHz</p>",
+            "<p>\\( 300 \\) THz</p>",
+            "<p>\\( 30 \\) KHz</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66900/ugc-net-cse-december-2010-part-2-question-28\" target=\"_blank\">https://gateoverflow.in/66900/ugc-net-cse-december-2010-part-2-question-28</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"225844\"></a><div itemprop=\"text\"><p>The period of a signal is 100 ms. Its frequency is ____</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 42</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 100^3 \\) Hertz</p>",
+            "<p>\\( 10^{-2} \\) KHz</p>",
+            "<p>\\( 10^{-3} \\) KHz</p>",
+            "<p>\\( 10^5 \\) Hertz</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225844/ugc-net-cse-july-2018-part-2-question-42\" target=\"_blank\">https://gateoverflow.in/225844/ugc-net-cse-july-2018-part-2-question-42</a></p>"
+        }
+      ]
+    }
+  ]
+});

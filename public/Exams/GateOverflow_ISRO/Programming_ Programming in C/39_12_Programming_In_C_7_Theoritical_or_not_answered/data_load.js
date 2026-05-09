@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Programming_ Programming in C - Programming In C - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Programming In C",
+      "questions": [
+        {
+          "id": 7,
+          "question": "<p><a name=\"19791\"></a><div itemprop=\"text\">\n<p>Which of the following has the compilation error in C?</p>\n\n\n</div><br><br><b>ISRO2015-74</b></p>",
+          "type": "single",
+          "options": [
+            "<p>int n = 17;</p>",
+            "<p>char c = 99;</p>",
+            "<p>float f = (float)99.32;</p>",
+            "<p>#include &lt;stdio.h&gt;</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/19791/isro2015-74\" target=\"_blank\">https://gateoverflow.in/19791/isro2015-74</a></p>"
+        }
+      ]
+    }
+  ]
+});

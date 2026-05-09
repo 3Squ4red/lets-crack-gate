@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Slotted Aloha",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Slotted Aloha",
+      "questions": []
+    }
+  ]
+});

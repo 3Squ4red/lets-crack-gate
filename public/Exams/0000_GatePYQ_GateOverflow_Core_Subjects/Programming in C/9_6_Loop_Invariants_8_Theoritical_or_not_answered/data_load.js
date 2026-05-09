@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Programming_ Programming in C - Loop Invariants - Theoretical/Not Answered",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Loop Invariants",
+      "questions": []
+    }
+  ]
+});

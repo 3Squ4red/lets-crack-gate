@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Artificial Intelligence - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Artificial Intelligence",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"71697\"></a><div itemprop=\"text\"><p>Match each Artificial Intelligence term in List-I that best describes a given situation in List-II :</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp;&&nbsp; \\textbf{List-I} && \\textbf{List-II} \\\\&nbsp;\\text{I.} & \\text{Semantic Network} & \\text{a.} & \\text{Knowledge about what to do as} \\\\ &&& \\text{opposed to how to do it} \\\\&nbsp; \\text{II.} & \\text{Frame} & \\text{b.} & \\text{A premise of rule that is not concluded} \\\\ &&& \\text{by any rule} \\\\&nbsp;\\text{III.} & \\text{Declarative Knowledge} & \\text{c.} & \\text{A method of knowledge representation that} \\\\ &&& \\text{uses a graph} \\\\&nbsp;\\text{IV.} & \\text{Primitive} & \\text{d.} & \\text{A data structure representing stereotypical} \\\\ &&&&nbsp; \\text{knowledge} \\\\&nbsp;\\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 71</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{I-d, II-a, III-b, IV-c} \\)</p>",
+            "<p>\\( \\text{I-d, II-c, III-a, IV-b} \\)</p>",
+            "<p>\\( \\text{I-d, II-c, III-b, IV-a} \\)</p>",
+            "<p>\\( \\text{I-c, II-d, III-a, IV-b} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/71697/ugc-net-cse-august-2016-part-3-question-71\" target=\"_blank\">https://gateoverflow.in/71697/ugc-net-cse-august-2016-part-3-question-71</a></p>"
+        }
+      ]
+    }
+  ]
+});

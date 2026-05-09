@@ -1,0 +1,135 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Shortest Path",
+  "duration": 22,
+  "sections": [
+    {
+      "name": "Shortest Path",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"954\"></a><div itemprop=\"text\"><p>Let \\( G =(V,E) \\)&nbsp;be an undirected graph with a subgraph \\( G_1 = (V_1, E_1) \\). Weights are assigned to edges of \\( G \\)<em>&nbsp;</em>as follows.</p><p>\\[ w(e) = \\begin{cases} 0 \\text{,&nbsp; &nbsp;if}&nbsp;e \\in E_1 \\\\1 \\text{,&nbsp; &nbsp;otherwise} \\end{cases} \\]</p><p>A single-source shortest path algorithm is executed on the weighted graph \\( (V,E,w) \\)&nbsp;with an arbitrary vertex \\( v_1 \\) of \\( V_1 \\) as the source. Which of the following can always be inferred from the path costs computed?</p></div><br><br><b>GATE CSE 2003 | Question: 67</b></p>",
+          "type": "single",
+          "options": [
+            "<p>The number of edges in the shortest paths from \\( v_1 \\) to all vertices of \\( G \\)</p>",
+            "<p>\\( G_1 \\) is connected</p>",
+            "<p>\\( V_1 \\) forms a clique in \\( G \\)</p>",
+            "<p>\\( G_1 \\) is a tree</p>"
+          ],
+          "correct_answer": "<p>\\( G_1 \\) is connected</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/954/gate-cse-2003-question-67\" target=\"_blank\">https://gateoverflow.in/954/gate-cse-2003-question-67</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"1239\"></a><div itemprop=\"text\"><p>In an unweighted, undirected connected graph, the shortest path from a node \\( S \\) to every other node is computed most efficiently, in terms of <em>time</em> <em>complexity</em>, by</p></div><br><br><b>GATE CSE 2007 | Question: 41</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Dijkstra’s algorithm starting from \\( S \\).</p>",
+            "<p>Warshall’s algorithm.</p>",
+            "<p>Performing a DFS starting from \\( S \\).</p>",
+            "<p>Performing a BFS starting from \\( S \\).</p>"
+          ],
+          "correct_answer": "<p>Performing a BFS starting from \\( S \\).</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1239/gate-cse-2007-question-41\" target=\"_blank\">https://gateoverflow.in/1239/gate-cse-2007-question-41</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"333191\"></a><div itemprop=\"text\"><p>Let \\( G = (V,E) \\) be a directed, weighted graph with weight function \\( w: E \\rightarrow \\mathbb{R} \\). For some function \\( f: V \\rightarrow \\mathbb{R} \\), for each edge\\( (u,v)\\in E \\), define&nbsp;\\( {w}'(u,v) \\) as \\( w(u,v)+f(u)-f(v) \\).</p><p>Which one of the options completes the following sentence so that it is TRUE?</p><p>“The shortest paths in \\( G \\) under \\( w \\) are shortest paths under&nbsp;\\( {w}' \\) too,_____________”.</p></div><br><br><b>GATE CSE 2020 | Question: 40</b></p>",
+          "type": "single",
+          "options": [
+            "<p>for every \\( f: V \\rightarrow&nbsp;\\mathbb{R} \\)</p>",
+            "<p>if and only if \\( \\forall u \\in V, \\: f(u) \\) is positive</p>",
+            "<p>if and only if \\( \\forall u \\in V, \\: f(u) \\) is negative</p>",
+            "<p>if and only if \\( f(u) \\) is the distance from \\( s \\) to \\( u \\) in the graph obtained by adding a&nbsp;new vertex \\( s \\) to \\( G \\) and edges of zero weight from \\( s \\) to every vertex of \\( G \\)</p>"
+          ],
+          "correct_answer": "<p>for every \\( f: V \\rightarrow&nbsp;\\mathbb{R} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/333191/gate-cse-2020-question-40\" target=\"_blank\">https://gateoverflow.in/333191/gate-cse-2020-question-40</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"460047\"></a><div itemprop=\"text\"><p>Let \\( G(V, E) \\) be an undirected and unweighted graph with \\( 100 \\) vertices. Let \\( d(u, v) \\) denote the number of edges in a shortest path between vertices \\( u \\) and \\( v \\) in \\( V \\). Let the maximum value of \\( d(u, v), u, v \\in V \\) such that \\( u \\neq v \\), be \\( 30 \\). Let \\( T \\) be any breadth-first-search tree of \\( G \\). Which ONE of the given options is CORRECT for every such graph \\( G \\) ?</p></div><br><br><b>GATE CSE 2025 | Set 1 | Question: 33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>The height of \\( T \\) is exactly \\( 15 \\).</p>",
+            "<p>The height of \\( T \\) is exactly \\( 30 \\).</p>",
+            "<p>The height of \\( T \\) is at least \\( 15 \\).</p>",
+            "<p>The height of \\( T \\) is at least \\( 30 \\).</p>"
+          ],
+          "correct_answer": "<p>The height of \\( T \\) is at least \\( 15 \\).</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/460047/gate-cse-2025-set-1-question-33\" target=\"_blank\">https://gateoverflow.in/460047/gate-cse-2025-set-1-question-33</a></p>"
+        },
+        {
+          "id": 6,
+          "question": "<p><a name=\"460072\"></a><div itemprop=\"text\"><p>Let \\( G \\) be any undirected graph with positive edge weights, and \\( T \\) be a minimum spanning tree of \\( G \\). For any two vertices, \\( u \\) and \\( v \\), let \\( d_{1}(u, v) \\) and \\( d_{2}(u, v) \\) be the shortest distances between \\( u \\) and \\( v \\) in \\( G \\) and \\( T \\), respectively. Which ONE of the options is CORRECT for all possible \\( G, T, u \\) and \\( v \\) ?</p></div><br><br><b>GATE CSE 2025 | Set 1 | Question: 8</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( d_{1}(u, v)=d_{2}(u, v) \\)</p>",
+            "<p>\\( d_{1}(u, v) \\leq d_{2}(u, v) \\)</p>",
+            "<p>\\( d_{1}(u, v) \\geq d_{2}(u, v) \\)</p>",
+            "<p>\\( d_{1}(u, v) \\neq d_{2}(u, v) \\)</p>"
+          ],
+          "correct_answer": "<p>\\( d_{1}(u, v) \\leq d_{2}(u, v) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/460072/gate-cse-2025-set-1-question-8\" target=\"_blank\">https://gateoverflow.in/460072/gate-cse-2025-set-1-question-8</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"460808\"></a><div itemprop=\"text\"><p>​​​​Let \\( \\text{G} \\) be an edge-weighted undirected graph with positive edge weights. Suppose a positive constant \\( \\alpha \\) is added to the weight of every edge.<br><br>Which ONE of the following statements is TRUE about the minimum spanning trees (MSTs) and shortest paths (SPs) in \\( \\text{G} \\) before and after the edge weight update?</p></div><br><br><b>GATE CSE 2025 | Set 2 | Question: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Every MST remains an MST, and every SP remains an SP.</p>",
+            "<p>MSTs need not remain MSTs, and every SP remains an SP.</p>",
+            "<p>Every MST remains an MST, and SPs need not remain SPs.</p>",
+            "<p>MSTs need not remain MSTs, and SPs need not remain SPs.</p>"
+          ],
+          "correct_answer": "<p>Every MST remains an MST, and SPs need not remain SPs.</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/460808/gate-cse-2025-set-2-question-27\" target=\"_blank\">https://gateoverflow.in/460808/gate-cse-2025-set-2-question-27</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"460974\"></a><div itemprop=\"text\"><p>Let \\( G \\) be a simple, unweighted, and undirected graph. A subset of the vertices and edges of \\( G \\) are shown below.</p><p style=\"text-align:center\"><img alt=\"Graph image\" width=\"500\" height=\"211\" src=\"images/gateOverFlowPDFsImages/volume2/algorithms_shortest_path/6de0bf2738f81010ca03d519f75b8949.png\"></p><p><br>It is given that \\( a-b-c-d \\) is a shortest path between \\( a \\) and \\( d \\); \\( e-f-g-h \\) is a shortest path between \\( e \\) and \\( h ; a-f-c-h \\) is a shortest path between \\( a \\) and \\( h \\). Which of the following is/are NOT the edges of \\( G \\) ?</p></div><br><br><b>GATE DA 2025 | Question: 48</b></p>",
+          "type": "multiple",
+          "options": [
+            "<p>\\( (b, d) \\)</p>",
+            "<p>\\( (b, g) \\)</p>",
+            "<p>\\( (b, h) \\)</p>",
+            "<p>\\( (e, g) \\)</p>"
+          ],
+          "correct_answer": [
+            "<p>\\( (b, d) \\)</p>",
+            "<p>\\( (b, h) \\)</p>",
+            "<p>\\( (e, g) \\)</p>"
+          ],
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/460974/gate-da-2025-question-48\" target=\"_blank\">https://gateoverflow.in/460974/gate-da-2025-question-48</a></p>"
+        },
+        {
+          "id": 9,
+          "question": "<p><a name=\"3434\"></a><div itemprop=\"text\"><p>Consider a weighted, undirected graph with positive edge weights and let \\( uv \\) be an edge in the graph. It is known that the shortest path from the source vertex \\( s \\) to \\( u \\) has weight 53 and the shortest path from \\( s \\) to \\( v \\) has weight 65. Which one of the following statements is always TRUE?</p></div><br><br><b>GATE IT 2007 | Question: 3, UGCNET-June2012-III: 34</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Weight \\( (u,v) \\leq 12 \\)</p>",
+            "<p>Weight \\( (u,v) = 12 \\)</p>",
+            "<p>Weight \\( (u,v) \\geq 12 \\)</p>",
+            "<p>Weight \\( (u,v) &gt; 12 \\)</p>"
+          ],
+          "correct_answer": "<p>Weight \\( (u,v) \\geq 12 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3434/gate-it-2007-question-3-ugcnet-june2012-iii-34\" target=\"_blank\">https://gateoverflow.in/3434/gate-it-2007-question-3-ugcnet-june2012-iii-34</a></p>"
+        }
+      ]
+    }
+  ]
+});

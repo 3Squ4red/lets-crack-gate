@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Algorithm Design Technique",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Algorithm Design Technique",
+      "questions": []
+    }
+  ]
+});

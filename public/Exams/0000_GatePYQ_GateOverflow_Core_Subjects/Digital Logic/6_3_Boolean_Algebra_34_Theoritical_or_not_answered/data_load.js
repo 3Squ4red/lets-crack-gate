@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Boolean Algebra - Theoretical/Not Answered",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Boolean Algebra",
+      "questions": []
+    }
+  ]
+});

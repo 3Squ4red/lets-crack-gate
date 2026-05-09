@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - E Payment",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "E Payment",
+      "questions": []
+    }
+  ]
+});

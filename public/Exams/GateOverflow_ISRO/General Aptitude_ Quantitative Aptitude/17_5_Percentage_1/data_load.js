@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Quantitative Aptitude - Percentage",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Percentage",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"435311\"></a><div itemprop=\"text\"><p>Study the following table carefully and answer the questions given below it:</p><p>\\[ \\begin{array}{|c|c|c|c|c|c|} \\hline \\text{Years} & {\\text{Toys}}& {\\text{Toys}}& {\\text{Toys}} & {\\text{Toys}} & {\\text{Toys}} \\\\ \\hline & \\text{A} & \\text{B} & \\text{C} & \\text{D} & \\text{E} \\\\ \\hline 1982 & 200 & 150 & 78 & 90 & 65 \\\\ \\hline 1983 & 150 & 180 & 100 & 105 & 70 \\\\ \\hline 1984 & 180 & 175 & 92 & 110 & 85 \\\\ \\hline 1985 & 195 & 160 & 120 & 125 & 75 \\\\ \\hline 1986 & 220 & 185 & 130 & 135 & 80 \\\\ \\hline \\end{array} \\]</p><p><br>What was the percentage (approximate) increase in production of D type of toys from \\( 1983 \\) to \\( 1985 \\)?</p></div><br><br><b>ISRO CSE 2023 | Question: 84</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 10 \\)</p>",
+            "<p>\\( 20 \\)</p>",
+            "<p>\\( 19 \\)</p>",
+            "<p>\\( 76 \\)<p>&nbsp;</p></p>"
+          ],
+          "correct_answer": "<p>\\( 19 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/435311/isro-cse-2023-question-84\" target=\"_blank\">https://gateoverflow.in/435311/isro-cse-2023-question-84</a></p>"
+        }
+      ]
+    }
+  ]
+});

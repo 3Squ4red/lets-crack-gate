@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Databases - Data Dependency - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Data Dependency",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"335653\"></a><div itemprop=\"text\"><p>Which statement is false regarding data independence ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 18</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Hierarchical data model suffers from data independence</p>",
+            "<p>Network model suffers from data independence</p>",
+            "<p>Relational model suffers only from logical data independence</p>",
+            "<p>Relational model suffers only from physical data independence</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335653/ugc-net-cse-december-2006-part-2-question-18\" target=\"_blank\">https://gateoverflow.in/335653/ugc-net-cse-december-2006-part-2-question-18</a></p>"
+        }
+      ]
+    }
+  ]
+});

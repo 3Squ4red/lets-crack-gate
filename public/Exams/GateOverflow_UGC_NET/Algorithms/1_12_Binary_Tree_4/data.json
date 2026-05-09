@@ -1,0 +1,26 @@
+{
+  "title": "Algorithms - Binary Tree",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Binary Tree",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"59410\"></a><div itemprop=\"text\"><p>A full binary tree with \\( n \\) leaves contains</p></div><br><br><b>UGC NET CSE | December 2014 | Part 2 | Question: 25</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( n \\) nodes&nbsp;</p>",
+            "<p>\\( \\log_{2} n \\) nodes&nbsp;</p>",
+            "<p>\\( 2n –1 \\) nodes</p>",
+            "<p>\\( 2^{n} \\) nodes&nbsp;</p>"
+          ],
+          "correct_answer": "<p>\\( 2n –1 \\) nodes</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/59410/ugc-net-cse-december-2014-part-2-question-25\" target=\"_blank\">https://gateoverflow.in/59410/ugc-net-cse-december-2014-part-2-question-25</a></p>"
+        }
+      ]
+    }
+  ]
+}

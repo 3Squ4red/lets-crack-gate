@@ -1,0 +1,27 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Set Theory & Algebra - Partial Order - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Partial Order",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"25664\"></a><div itemprop=\"text\"><p>A set \\( S \\) together with partial order \\( \\ll \\) is called a well order if it has no infinite descending chains, i.e. there is no infinite sequence \\( x_1, x_2,\\ldots \\) of elements from \\( S \\) such that \\( x_{i+1} \\ll x_i \\) and \\( x_{i+1} \\neq x_i \\) for all \\( i \\).</p>\n\n<p>Consider the set of all words (finite sequence of letters \\( a - z \\)), denoted by \\( W \\), in dictionary order.</p>\n\n</div><br><br><b>TIFR CSE 2013 | Part B | Question: 4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Between \\( ``aa\" \\) and \\( ``az\" \\) there are only \\( 24 \\) words.</p>",
+            "<p>Between \\( ``aa\" \\) and \\( ``az\" \\) there are only \\( 2^{24} \\) words.</p>",
+            "<p>\\( W \\) is not a partial order.</p>",
+            "<p>\\( W \\) is a partial order but not a well order.</p>",
+            "<p>\\( W \\) is a well order.</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25664/tifr-cse-2013-part-b-question-4\" target=\"_blank\">https://gateoverflow.in/25664/tifr-cse-2013-part-b-question-4</a></p>"
+        }
+      ]
+    }
+  ]
+});

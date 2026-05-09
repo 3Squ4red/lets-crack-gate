@@ -1,0 +1,27 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Sorting - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Sorting",
+      "questions": [
+        {
+          "id": 10,
+          "question": "<p><a name=\"358938\"></a><div itemprop=\"text\"><p>Let \\( A\\left [ i \\right ] : i=0, 1, 2, \\dots , n-1 \\) be an array of \\( n \\) distinct integers. We wish to sort \\( A \\) in ascending order. We are given that each element in the array is at a position that is at most \\( k \\) away from its position in the sorted array, that is, we are given that \\( A[i] \\) will move to a position in \\( \\left \\{ i-k,i-k+1,\\dots,i,\\dots ,i+k-1,i+k \\right \\} \\) after the array is sorted in ascending order. Suppose insertion sort is used to sort this array: that is, in the&nbsp;\\( i \\) th&nbsp;iteration,&nbsp;\\( A[i] \\) is compared with the elements in positions \\( A[i-1], A[i-2], \\dots \\) until one that is smaller is found and \\( A[i] \\) is inserted after that element. Note that elements can be moved back when later insertions are made before them. Let \\( t(n) \\) be the worst-case number of comparisons made by insertion sort for such inputs. Then,</p>\n\n</div><br><br><b>TIFR CSE 2021 | Part B | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( t\\left ( n \\right ) = \\Theta \\left ( n^{2} \\right ) \\)</p>",
+            "<p>\\( t\\left ( n \\right ) = \\Theta \\left ( n\\: \\log_{2}\\:n \\right ) \\)</p>",
+            "<p>\\( t\\left ( n \\right ) = \\Theta \\left ( nk\\:\\log\\:k \\right ) \\)</p>",
+            "<p>\\( t\\left ( n \\right ) = \\Theta \\left ( n\\:\\log_{2}\\:k \\right ) \\)</p>",
+            "<p>\\( t\\left ( n \\right ) = \\Theta \\left ( nk \\right ) \\)</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/358938/tifr-cse-2021-part-b-question-15\" target=\"_blank\">https://gateoverflow.in/358938/tifr-cse-2021-part-b-question-15</a></p>"
+        }
+      ]
+    }
+  ]
+});

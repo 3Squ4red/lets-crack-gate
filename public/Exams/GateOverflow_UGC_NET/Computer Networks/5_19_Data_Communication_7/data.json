@@ -1,0 +1,36 @@
+{
+  "title": "Computer Networks - Data Communication",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Data Communication",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"152887\"></a><div itemprop=\"text\">Device on one network can communicate with devices on another network via a<br>\n<br>\n(A) Hub/Switch<br>\n<br>\n(B) Utility server<br>\n<br>\n(C) File server<br>\n<br>\n(D) Gateway</div><br><br><b>UGC NET CSE | December 2009 | Part 2 | Question: 26</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/152887/ugc-net-cse-december-2009-part-2-question-26\" target=\"_blank\">https://gateoverflow.in/152887/ugc-net-cse-december-2009-part-2-question-26</a></p>"
+        },
+        {
+          "id": 7,
+          "question": "<p><a name=\"61246\"></a><div itemprop=\"text\">\n<p>Suppose a digitazed voice channel is made by digitizing 8 kHz bandwidth analog voice signal. It is required to sample the signal at twice the highest frequency (two samples per hertz). What is the bit rate required, if it is assumed that each sample required 8 bits?</p>\n\n\n</div><br><br><b>UGC NET CSE | Junet 2015 | Part 3 | Question: 29</b></p>",
+          "type": "single",
+          "options": [
+            "<p>32 kbps</p>",
+            "<p>64&nbsp;<span style=\"line-height: 20.8px;\">kbps</span></p>",
+            "<p>128&nbsp;<span style=\"line-height: 20.8px;\">kbps</span></p>",
+            "<p>256&nbsp;<span style=\"line-height: 20.8px;\">kbps</span></p>"
+          ],
+          "correct_answer": "<p>128&nbsp;<span style=\"line-height: 20.8px;\">kbps</span></p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/61246/ugc-net-cse-junet-2015-part-3-question-29\" target=\"_blank\">https://gateoverflow.in/61246/ugc-net-cse-junet-2015-part-3-question-29</a></p>"
+        }
+      ]
+    }
+  ]
+}

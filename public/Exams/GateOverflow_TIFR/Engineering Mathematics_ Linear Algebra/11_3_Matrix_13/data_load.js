@@ -1,0 +1,139 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Linear Algebra - Matrix",
+  "duration": 22,
+  "sections": [
+    {
+      "name": "Matrix",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"18492\"></a><div itemprop=\"text\"><p>Let the characteristic equation of matrix \\( M \\) be \\( \\lambda ^{2} - \\lambda - 1 = 0 \\). Then.</p>\n\n</div><br><br><b>TIFR CSE 2010 | Part A | Question: 16</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( M^{-1} \\) does not exist.</p>",
+            "<p>\\( M^{-1} \\) exists but cannot be determined from the data.</p>",
+            "<p>\\( M^{-1} = M + I \\)</p>",
+            "<p>\\( M^{-1} = M - I \\)</p>",
+            "<p>\\( M^{-1} \\) exists and can be determined from the data but the choices (c) and (d) are incorrect.</p>"
+          ],
+          "correct_answer": "<p>\\( M^{-1} = M - I \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/18492/tifr-cse-2010-part-a-question-16\" target=\"_blank\">https://gateoverflow.in/18492/tifr-cse-2010-part-a-question-16</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"25141\"></a><div itemprop=\"text\"><p>Let \\( A \\) be a matrix such that \\( A^{k}=0 \\). What is the inverse of \\( I - A \\)?</p>\n\n</div><br><br><b>TIFR CSE 2012 | Part B | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 0 \\)</p>",
+            "<p>\\( I \\)</p>",
+            "<p>\\( A \\)</p>",
+            "<p>\\( 1 + A +&nbsp;A^{2} + ...+&nbsp;A^{k - 1} \\)</p>",
+            "<p>Inverse is not guaranteed to exist.</p>"
+          ],
+          "correct_answer": "<p>\\( 1 + A +&nbsp;A^{2} + ...+&nbsp;A^{k - 1} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25141/tifr-cse-2012-part-b-question-12\" target=\"_blank\">https://gateoverflow.in/25141/tifr-cse-2012-part-b-question-12</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"25659\"></a><div itemprop=\"text\"><p>How many \\( 4 \\times 4 \\) matrices with entries from \\( {0, 1} \\) have odd determinant?</p>\n\n<p>Hint: Use modulo \\( 2 \\) arithmetic.</p>\n\n</div><br><br><b>TIFR CSE 2013 | Part B | Question: 3</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 20160 \\)</p>",
+            "<p>\\( 32767 \\)</p>",
+            "<p>\\( 49152 \\)</p>",
+            "<p>\\( 57343 \\)</p>",
+            "<p>\\( 65520 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 20160 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/25659/tifr-cse-2013-part-b-question-3\" target=\"_blank\">https://gateoverflow.in/25659/tifr-cse-2013-part-b-question-3</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"29588\"></a><div itemprop=\"text\"><p>Consider the following \\( 3 \\times 3 \\) matrices.<br>\n<br>\nM_{1}=\\begin{pmatrix} &nbsp;&nbsp;<br>\n0&1&1 \\\\<br>\n1&0&1 &nbsp;\\\\<br>\n1&1&0&nbsp;<br>\n\\end{pmatrix} </p>\n\n<p>M_{2}=\\begin{pmatrix} &nbsp;&nbsp;<br>\n1&0&1 \\\\<br>\n0&0&0 &nbsp;\\\\<br>\n1&0&1&nbsp;<br>\n\\end{pmatrix} </p>\n\n<p>How may \\( 0-1 \\) column vectors of the form</p>\n\n<p>\\( X \\)= \\begin{pmatrix}<br>\nx_{1} \\\\<br>\nx_{2} \\\\<br>\nx_{3}<br>\n\\end{pmatrix} &nbsp; &nbsp; &nbsp; </p>\n\n<p>are there such that \\( M_{1}X =&nbsp;M_{2}X \\) (modulo \\( 2 \\))? (modulo \\( 2 \\) means all operations are done modulo \\( 2 \\), i.e, \\( 3 = 1 \\) (modulo \\( 2 \\)), \\( 4 = 0 \\) (modulo \\( 2 \\))).</p>\n\n</div><br><br><b>TIFR CSE 2015 | Part A | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>None</p>",
+            "<p>Two &nbsp;</p>",
+            "<p>Three</p>",
+            "<p>Four</p>",
+            "<p>Eight&nbsp;</p>"
+          ],
+          "correct_answer": "<p>Two &nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/29588/tifr-cse-2015-part-a-question-14\" target=\"_blank\">https://gateoverflow.in/29588/tifr-cse-2015-part-a-question-14</a></p>"
+        },
+        {
+          "id": 8,
+          "question": "<p><a name=\"333104\"></a><div itemprop=\"text\"><p>Let \\( A \\) be am \\( n\\times n \\) invertible matrix with real entries whose column sums are all equal to \\( 1 \\). Consider the following statements:</p>\n\n<ol>\n\t<li>Every column in the matrix \\( A^{2} \\) sums to \\( 2 \\)</li>\n\t<li>Every column in the matrix \\( A^{3} \\) sums to \\( 3 \\)</li>\n\t<li>Every column in the matrix \\( A^{-1} \\) sums to \\( 1 \\)</li>\n</ol>\n\n<p>Which of the following is TRUE?</p>\n\n</div><br><br><b>TIFR CSE 2020 | Part A | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>none of the statements \\( (1),(2),(3) \\) is correct</p>",
+            "<p>statement \\( (1) \\) is correct but not statements \\( (2) \\) or \\( (3) \\)</p>",
+            "<p>statement \\( (2) \\) is correct but not statements \\( (1) \\) or \\( (3) \\)</p>",
+            "<p>statement \\( (3) \\) is correct but not statements \\( (1) \\) or \\( (2) \\)</p>",
+            "<p>all the \\( 3 \\) statements \\( (1),(2), \\) and \\( (3) \\) are correct</p>"
+          ],
+          "correct_answer": "<p>statement \\( (3) \\) is correct but not statements \\( (1) \\) or \\( (2) \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/333104/tifr-cse-2020-part-a-question-5\" target=\"_blank\">https://gateoverflow.in/333104/tifr-cse-2020-part-a-question-5</a></p>"
+        },
+        {
+          "id": 10,
+          "question": "<p><a name=\"400128\"></a><div itemprop=\"text\"><p>Consider the \\( n \\times n \\) matrix \\( M \\) defined as follows:<br>\n\\[ M=\\left(\\begin{array}{cccc}<br>\n1 & 2 & \\ldots & n \\\\<br>\nn+1 & n+2 & \\ldots & 2 n \\\\<br>\n2 n+1 & 2 n+2 & \\ldots & 3 n \\\\<br>\n\\vdots & \\vdots & \\ldots & \\vdots \\\\<br>\n(n-1) n+1 & (n-1) n+2 & \\ldots & n^{2}<br>\n\\end{array}\\right). \\]<br>\nLet \\( M_{i, j} \\) denote the entry present in the \\( i \\)-th row and the \\( j \\)-th column of \\( M \\) for each \\( 1 \\leq i, j \\leq n \\). Define a set \\( S \\) as<br>\n\\[<br>\nS=\\left\\{M_{i_{1}, j_{1}}+M_{i_{2}, j_{2}}+\\cdots+M_{i_{n}, j_{n}} \\mid\\left(i_{1}, \\ldots, i_{n}\\right) \\text { and }\\left(j_{1}, \\ldots, j_{n}\\right)\\right.<br>\n\\]<br>\nare permutations of \\( [n]\\} \\).</p>\n\n<p>(Here, \\( [n] \\) denotes the set \\( \\{1,2, \\ldots, n\\} \\) of positive integers from \\( 1 \\) to \\( n.) \\) How many elements does \\( S \\) have?</p>\n\n</div><br><br><b>TIFR CSE 2023 | Part A | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1 \\)</p>",
+            "<p>\\( \\left(\\begin{array}{l}n \\\\ 2\\end{array}\\right) \\)</p>",
+            "<p>\\( n \\) !</p>",
+            "<p>\\( (n !)^{2} \\)</p>",
+            "<p>\\( n \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 1 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/400128/tifr-cse-2023-part-a-question-15\" target=\"_blank\">https://gateoverflow.in/400128/tifr-cse-2023-part-a-question-15</a></p>"
+        },
+        {
+          "id": 11,
+          "question": "<p><a name=\"400138\"></a><div itemprop=\"text\"><p>Suppose \\( A \\) is a \\( 2 \\times 2 \\) matrix such that the sum of the principal diagonal entries of \\( A \\) is \\( 10 \\) and the sum of the principal diagonal entries of \\( A^{2} \\) is \\( 20 \\). (For any \\( 2 \\times 2 \\) matrix \\( B \\), the principal diagonal entries of \\( B \\) are the entries \\( B_{1,1} \\) and \\( B_{2,2}.) \\) What is \\( \\operatorname{det}(A)? \\)&nbsp;</p>\n\n</div><br><br><b>TIFR CSE 2023 | Part A | Question: 5</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 0 \\)</p>",
+            "<p>\\( 40 \\)</p>",
+            "<p>\\( 80 \\)</p>",
+            "<p>Nonzero, but cannot be uniquely determined from the above data.</p>",
+            "<p>Cannot be uniquely determined from the above data, and could also be zero.</p>"
+          ],
+          "correct_answer": "<p>\\( 40 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/400138/tifr-cse-2023-part-a-question-5\" target=\"_blank\">https://gateoverflow.in/400138/tifr-cse-2023-part-a-question-5</a></p>"
+        },
+        {
+          "id": 13,
+          "question": "<p><a name=\"419132\"></a><div itemprop=\"text\"><p>Let \\( \\text{A} \\) and \\( \\text{B} \\) be two \\( n \\times n \\) invertible matrices with real entries such that every row in \\( \\text{A} \\) sums to \\( 1 \\) and every row in \\( \\text{B} \\) sums to \\( 2 \\). Consider the following three statements:</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>Every row in the matrix \\( \\text{AB} \\) sums to \\( 2 \\).</li>\n\t<li>Every row in the matrix \\( \\text{A}^{-1} B \\) sums to \\( 2 \\).</li>\n\t<li>Every row in the matrix \\( \\text{A}^{-1} \\text{B}^{-1} \\) sums to \\( \\frac{1}{2} \\).</li>\n</ol>\n\n<p>Which of the above statements is/are true?</p>\n\n</div><br><br><b>TIFR CSE 2024 | Part A | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>None of the statements \\( \\text{(i), (ii), (iii)} \\) is true.</p>",
+            "<p>All the three statements \\( \\text{(i), (ii)} \\), and \\( \\text{(iii)} \\) are true.</p>",
+            "<p>Statement \\( \\text{(i)} \\) is true but not necessarily statements \\( \\text{(ii)} \\) or \\( \\text{(iii)} \\).</p>",
+            "<p>Statements \\( \\text{(i)} \\) and \\( \\text{(ii)} \\) are true but not necessarily statement \\( \\text{(iii)} \\).</p>",
+            "<p>Statements \\( \\text{(i)} \\) and \\( \\text{(iii)} \\) are true but not necessarily statement \\( \\text{(ii)} \\).\n\t<p>&nbsp;</p></p>"
+          ],
+          "correct_answer": "<p>All the three statements \\( \\text{(i), (ii)} \\), and \\( \\text{(iii)} \\) are true.</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/419132/tifr-cse-2024-part-a-question-14\" target=\"_blank\">https://gateoverflow.in/419132/tifr-cse-2024-part-a-question-14</a></p>"
+        }
+      ]
+    }
+  ]
+});

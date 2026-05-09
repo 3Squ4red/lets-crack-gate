@@ -1,0 +1,131 @@
+window.__examLoadCallback({
+  "title": "Discrete Mathematics_ Graph Theory - UGC NET CSE  June 2013  Part 2  Question - Theoretical/Not Answered",
+  "duration": 22,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2013  Part 2  Question",
+      "questions": [
+        {
+          "id": 14,
+          "question": "<p><a name=\"154270\"></a><div itemprop=\"text\"><p>The complete graph with four vertices has \\( k \\) edges where \\( k \\) is :</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3 \\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "<p>\\( 4 \\)&nbsp; &nbsp; &nbsp;</p>",
+            "<p>\\( 5 \\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "<p>\\( 6 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154270/ugc-net-cse-june-2009-part-2-question-12\" target=\"_blank\">https://gateoverflow.in/154270/ugc-net-cse-june-2009-part-2-question-12</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"154364\"></a><div itemprop=\"text\"><p>Which two of the following are equivalent for an undirected graph&nbsp; G ?</p>\n\n<p>(i) G is a tree</p>\n\n<p>(ii) There is at least one path between any two distinct vertices of G</p>\n\n<p>(iii) G contains no cycles and has (n-1) edges</p>\n\n<p>(iv) G has n edges</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(i) and (ii)&nbsp; &nbsp;&nbsp;&nbsp;</p>",
+            "<p>(i) and (iii)&nbsp; &nbsp;&nbsp;</p>",
+            "<p>(i) and (iv)&nbsp;&nbsp;&nbsp;</p>",
+            "<p>(ii) and (iii)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154364/ugc-net-cse-june-2009-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/154364/ugc-net-cse-june-2009-part-2-question-23</a></p>"
+        },
+        {
+          "id": 16,
+          "question": "<p><a name=\"155026\"></a><div itemprop=\"text\"><p>The graph K3,4&nbsp;has:</p>\n\n</div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3 \\) edges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>\\( 4 \\) edges&nbsp; &nbsp; &nbsp;</p>",
+            "<p>\\( 7 \\) edges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>\\( 12 \\) edges</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155026/ugc-net-cse-december-2008-part-2-question-2\" target=\"_blank\">https://gateoverflow.in/155026/ugc-net-cse-december-2008-part-2-question-2</a></p>"
+        },
+        {
+          "id": 17,
+          "question": "<p><a name=\"225805\"></a><div itemprop=\"text\"><p>E is the number of edges in the graph and f is maximum flow in the graph. When the capacities are integers, the runtime of Ford-Fulberson&nbsp;algorithm is bounded by</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 81</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( O \\: (E*f) \\)</p>",
+            "<p>\\( O \\: (E^2*f) \\)</p>",
+            "<p>\\( O \\: (E*f^2) \\)</p>",
+            "<p>\\( O \\: (E^2*f^2) \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225805/ugc-net-cse-july-2018-part-2-question-81\" target=\"_blank\">https://gateoverflow.in/225805/ugc-net-cse-july-2018-part-2-question-81</a></p>"
+        },
+        {
+          "id": 19,
+          "question": "<p><a name=\"335374\"></a><div itemprop=\"text\"><p>Weighted graph :</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Is a bi-directional graph</p>",
+            "<p>Is directed graph</p>",
+            "<p>Is graph in which number associated with arc</p>",
+            "<p>Eliminates table method</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335374/ugc-net-cse-december-2004-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/335374/ugc-net-cse-december-2004-part-2-question-23</a></p>"
+        },
+        {
+          "id": 20,
+          "question": "<p><a name=\"335393\"></a><div itemprop=\"text\"><p>The following lists are the degrees of all the vertices of a graph :</p>\n\n<ol start=\"1\" style=\"list-style-type:lower-roman\">\n\t<li>\\( 1,2,3,4,5 \\)</li>\n\t<li>\\( 3,4,5,6,7 \\)</li>\n\t<li>\\( 1, 4, 5, 8, 6 \\)</li>\n\t<li>\\( 3,4,5,6 \\)</li>\n</ol>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>(i)&nbsp;and (ii)</p>",
+            "<p>(iii) and (iv)</p>",
+            "<p>(iii) and (ii)</p>",
+            "<p>(ii) and (iv)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335393/ugc-net-cse-december-2004-part-2-question-4\" target=\"_blank\">https://gateoverflow.in/335393/ugc-net-cse-december-2004-part-2-question-4</a></p>"
+        },
+        {
+          "id": 21,
+          "question": "<p><a name=\"335668\"></a><div itemprop=\"text\"><p>The number of edges in a complete graph with \\( N \\) vertices is equal to :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 3</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( N (N−1) \\)</p>",
+            "<p>\\( 2N−1 \\)</p>",
+            "<p>\\( N−1 \\)</p>",
+            "<p>\\( N(N−1)/2 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335668/ugc-net-cse-december-2006-part-2-question-3\" target=\"_blank\">https://gateoverflow.in/335668/ugc-net-cse-december-2006-part-2-question-3</a></p>"
+        },
+        {
+          "id": 22,
+          "question": "<p><a name=\"335782\"></a><div itemprop=\"text\"><p>The number of edges in a complete graph with \\( ‘n’ \\) vertices is equal to :</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( n(n-1) \\)</p>",
+            "<p>\\( \\large\\frac{n(n-1)}{2} \\)</p>",
+            "<p>\\( n^2 \\)</p>",
+            "<p>\\( 2n-1 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335782/ugc-net-cse-december-2007-part-2-question-2\" target=\"_blank\">https://gateoverflow.in/335782/ugc-net-cse-december-2007-part-2-question-2</a></p>"
+        }
+      ]
+    }
+  ]
+});

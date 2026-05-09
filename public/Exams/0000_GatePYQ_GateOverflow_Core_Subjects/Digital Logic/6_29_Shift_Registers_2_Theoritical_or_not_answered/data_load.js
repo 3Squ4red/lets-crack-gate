@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Shift Registers - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Shift Registers",
+      "questions": []
+    }
+  ]
+});

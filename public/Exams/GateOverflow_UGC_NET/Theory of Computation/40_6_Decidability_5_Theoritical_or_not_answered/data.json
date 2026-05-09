@@ -1,0 +1,25 @@
+{
+  "title": "Theory of Computation - Decidability - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Decidability",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"288340\"></a><div itemprop=\"text\"><p>Consider the following problems :</p><p>Which one of the following is correct?</p><ol style=\"list-style-type:upper-alpha\" type=\"A\"><li>Only i&nbsp;and iii&nbsp;are undecidable problems</li><li>Only ii&nbsp;and iii&nbsp;are undecidable problems</li><li>Only i&nbsp;and ii&nbsp;are undecidable problems</li><li>i, ii&nbsp;and iii&nbsp;are undecidable problems</li></ol></div><br><br><b>UGC NET CSE | December 2018 | Part 2 | Question: 37</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Whether a finite state automaton halts on all inputs?</p>",
+            "<p>Whether a given context free language is regular?</p>",
+            "<p>Whether a Turing machine computes the product of two numbers?</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/288340/ugc-net-cse-december-2018-part-2-question-37\" target=\"_blank\">https://gateoverflow.in/288340/ugc-net-cse-december-2018-part-2-question-37</a></p>"
+        }
+      ]
+    }
+  ]
+}

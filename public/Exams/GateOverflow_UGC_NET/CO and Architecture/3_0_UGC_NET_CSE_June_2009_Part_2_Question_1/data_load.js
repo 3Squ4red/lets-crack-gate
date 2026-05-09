@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "CO and Architecture - UGC NET CSE  June 2009  Part 2  Question",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2009  Part 2  Question",
+      "questions": []
+    }
+  ]
+});

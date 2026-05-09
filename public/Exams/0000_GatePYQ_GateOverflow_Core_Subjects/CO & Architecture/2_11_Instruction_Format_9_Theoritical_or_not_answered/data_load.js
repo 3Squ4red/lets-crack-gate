@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "CO & Architecture - Instruction Format - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Instruction Format",
+      "questions": []
+    }
+  ]
+});

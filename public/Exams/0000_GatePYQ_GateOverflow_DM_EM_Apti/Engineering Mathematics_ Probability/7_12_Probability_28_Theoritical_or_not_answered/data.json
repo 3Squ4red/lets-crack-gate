@@ -1,0 +1,26 @@
+{
+  "title": "Engineering Mathematics_ Probability - Probability - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Probability",
+      "questions": [
+        {
+          "id": 28,
+          "question": "<p><a name=\"3284\"></a><div itemprop=\"text\"><p>What is the probability that in a randomly chosen group of \\( r \\) people at least three people have the same birthday?</p>\n\n</div><br><br><b>GATE IT 2008 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1-\\dfrac{365-364 \\dots (365-r+1)}{365^{r}} \\)</p>",
+            "<p>\\( \\dfrac{365 \\cdot 364 \\dots (365-r+1)}{365^r}+ ^{r}C_{1}\\cdot 365 \\cdot&nbsp;\\dfrac{364.363 \\dots (364-(r-2)+1)}{364^{r+2} } \\)</p>",
+            "<p>\\( 1- \\dfrac{365 \\cdot 364 \\dots (365-r+1)}{365^{r}} - ^{r}C_{2} \\cdot&nbsp;365 \\cdot \\dfrac{ 364 \\cdot 363 \\dots (364-(r-2)+1)}{364^{r-2}} \\)</p>",
+            "<p>\\( \\dfrac{365 \\cdot 364 \\dots (365-r+1)}{365^{r}} \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3284/gate-it-2008-question-23\" target=\"_blank\">https://gateoverflow.in/3284/gate-it-2008-question-23</a></p>"
+        }
+      ]
+    }
+  ]
+}

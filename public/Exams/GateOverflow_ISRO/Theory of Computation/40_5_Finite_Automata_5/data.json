@@ -1,0 +1,71 @@
+{
+  "title": "Theory of Computation - Finite Automata",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "Finite Automata",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"3411\"></a><div itemprop=\"text\">\n<p>The number of states required by a Finite State Machine,to simulate the behavior of a computer with a memory capable of storing 'm' words, each of length 'n' bits is?</p>\n\n\n</div><br><br><b>ISRO CSE 2014 | Question: 2</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( m \\times 2^n \\)</p>",
+            "<p>\\( 2^{m+n} \\)</p>",
+            "<p>\\( 2^{mn} \\)</p>",
+            "<p>\\( m+n \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 2^{mn} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/3411/isro-cse-2014-question-2\" target=\"_blank\">https://gateoverflow.in/3411/isro-cse-2014-question-2</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"55100\"></a><div itemprop=\"text\"><p>Consider the following Deterministic Finite Automaton \\( M \\).</p><p style=\"text-align:center\"><img alt=\"DFA diagram\" width=\"600\" height=\"183\" src=\"images/gateOverFlowPDFsImages/isro_w_cover/theory_of_computation_finite_automata/8ca4883d5946fb2f59b7ba0ab574971d.png\"></p><p>Let \\( S \\) denote the set of eight length bit strings whose second, third, sixth and seventh b<span style=\"line-height: 20.8px;\">its are 1. The number of strings in \\( S \\) that are accepted by \\( M \\) is</span></p></div><br><br><b>ISRO CSE 2014 | Question: 79</b></p>",
+          "type": "single",
+          "options": [
+            "<p>0</p>",
+            "<p>1</p>",
+            "<p>2</p>",
+            "<p>3</p>"
+          ],
+          "correct_answer": "<p>2</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/55100/isro-cse-2014-question-79\" target=\"_blank\">https://gateoverflow.in/55100/isro-cse-2014-question-79</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"331452\"></a><div itemprop=\"text\"><p>Minimum number of states required in DFA accepting binary strings not ending in \\( \\text{“101”} \\) is</p>\n\n</div><br><br><b>ISRO CSE 2020 | Question: 41</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>",
+            "<p>\\( 5 \\)</p>",
+            "<p>\\( 6 \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 4 \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/331452/isro-cse-2020-question-41\" target=\"_blank\">https://gateoverflow.in/331452/isro-cse-2020-question-41</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"45665\"></a><div itemprop=\"text\">\n<p>What are the final states of the DFA generated from the following NFA?</p>\n\n<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/isro_w_cover/theory_of_computation_finite_automata/e685a162c64d5bff71884f3c9f2696dd.png\"></p>\n\n\n</div><br><br><b>ISRO-2013-73</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( q_{0}, q_{1}, q_{2} \\)</p>",
+            "<p>\\( [q_{0}, q_{1}], [q_{0}, q_{2}], [ ] \\)</p>",
+            "<p>\\( q_{0}, [q_{1}, q_{2}] \\)</p>",
+            "<p>\\( [q_{0}, q_{1}], q_{2} \\)</p>"
+          ],
+          "correct_answer": "<p>\\( q_{0}, q_{1}, q_{2} \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/45665/isro-2013-73\" target=\"_blank\">https://gateoverflow.in/45665/isro-2013-73</a></p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Internet Security",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Internet Security",
+      "questions": []
+    }
+  ]
+});

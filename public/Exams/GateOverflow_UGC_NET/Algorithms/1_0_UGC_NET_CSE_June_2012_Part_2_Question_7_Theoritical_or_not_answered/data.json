@@ -1,0 +1,56 @@
+{
+  "title": "Algorithms - UGC NET CSE  June 2012  Part 2  Question - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2012  Part 2  Question",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"70961\"></a><div itemprop=\"text\"><p>Match the following :</p>\n\n<p>\\( \\begin{array}{clcl}&nbsp;\\text{a.} & \\text{Prim’s algorithm} & \\text{i.} & \\text{O(V^2E)} \\\\&nbsp; \\text{b.} & \\text{Bellman-Ford&nbsp;algorithm} & \\text{ii.} & \\text{O(VElgV)} \\\\&nbsp;\\text{c.} & \\text{Floyd-Warshall algorithm} & \\text{iii.} & \\text{O(ElgV)} \\\\&nbsp;\\text{d.} & \\text{Johnson’s&nbsp;algorithm} & \\text{iv.} & \\text{O(V^3)} &nbsp;\\\\&nbsp;\\end{array} \\)</p>\n\n<p>where \\( V \\) is the set of nodes and \\( E \\) is the set of edges in the graph.</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-i, b-iii, c-iv, d-ii} \\)</p>",
+            "<p>\\( \\text{a-i, b-iii, c-ii, d-iv} \\)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "<p>\\( \\text{a-iii, b-i, c-iv, d-ii} \\)&nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "<p>\\( \\text{a-iii, b-i, c-ii, d-iv} \\)&nbsp; &nbsp; &nbsp; &nbsp;</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70961/ugc-net-cse-august-2016-part-3-question-36\" target=\"_blank\">https://gateoverflow.in/70961/ugc-net-cse-august-2016-part-3-question-36</a></p>"
+        },
+        {
+          "id": 3,
+          "question": "<p><a name=\"225856\"></a><div itemprop=\"text\"><p>Consider a Boolean function of 'n' variables. The order of an algorithm that determines whether the Boolean function produces a output 1 is</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 30</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Logarithmic</p>",
+            "<p>Linear</p>",
+            "<p>Quadratic</p>",
+            "<p>Exponential</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225856/ugc-net-cse-july-2018-part-2-question-30\" target=\"_blank\">https://gateoverflow.in/225856/ugc-net-cse-july-2018-part-2-question-30</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"225859\"></a><div itemprop=\"text\"><p>Match the following with respect to algorithm paradigms :</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp;& \\textbf{List-I} & {} & \\textbf{List-II} \\\\&nbsp;\\text{(a)} & \\text{The 8-Queen's problem} & \\text{(i)} & \\text{Dynamic programming} &nbsp;\\\\&nbsp;\\text{(b)} & \\text{Single-Source shortest paths} & \\text{(ii)} & \\text{Divide and Conquer} \\\\ \\text{(c)} & \\text{STRASSEN's Matrix multiplication} & \\text{(iii)} & \\text{Greedy approach} \\\\&nbsp;\\text{(d)}& \\text{Optimal Binary search trees} & \\text{(iv)} & \\text{Back tracking} \\\\&nbsp; \\end{array} \\)</p>\n\n<p>\\( \\textbf{Code :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)} \\)</p>",
+            "<p>\\( \\text{(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)} \\)</p>",
+            "<p>\\( \\text{(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225859/ugc-net-cse-july-2018-part-2-question-27\" target=\"_blank\">https://gateoverflow.in/225859/ugc-net-cse-july-2018-part-2-question-27</a></p>"
+        }
+      ]
+    }
+  ]
+}

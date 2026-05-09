@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Fuzzy Relations",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Fuzzy Relations",
+      "questions": []
+    }
+  ]
+});

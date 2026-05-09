@@ -1,0 +1,24 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Linear Algebra - Eigen Value - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Eigen Value",
+      "questions": [
+        {
+          "id": 33,
+          "question": "<p><a name=\"375185\"></a><div itemprop=\"text\"><p>Which one of the following statements is NOT true for a square matrix A?</p><p>My question is what is “principal minors of A” ?&nbsp;</p></div><br><br><b>GATE-2014 EC</b></p>",
+          "type": "single",
+          "options": [
+            "<p>If A is real symmetric, the eigen values of A are the diagonal elements of it.</p>",
+            "<p>If all the principal minors of A are positive, all the eigen values of A are also positive.</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/375185/gate-2014-ec\" target=\"_blank\">https://gateoverflow.in/375185/gate-2014-ec</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Algorithms - Optimal Search Tree",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Optimal Search Tree",
+      "questions": []
+    }
+  ]
+});

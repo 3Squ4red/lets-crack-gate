@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Linear Programming - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Linear Programming",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"71638\"></a><div itemprop=\"text\"><p>Consider the following linear programming problem :</p>\n\n<p>\\( \\max. z = 0.50 x_{2} – 0.10x_{1} \\)</p>\n\n<p>Subject to the constraints</p>\n\n<p>\\( 2x_{1} + 5x_{2} \\leq&nbsp;80 \\)</p>\n\n<p>\\( x_{1} + x_{2} \\leq&nbsp;20 \\)</p>\n\n<p>and \\( x_{1}, x_{2} \\geq&nbsp;0 \\)&nbsp;</p>\n\n<p>The total maximum profit \\( (z) \\) for the above problem is :</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 61</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 6 \\)&nbsp;</p>",
+            "<p>\\( 8 \\)</p>",
+            "<p>\\( 10 \\)&nbsp;</p>",
+            "<p>\\( 12 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/71638/ugc-net-cse-august-2016-part-3-question-61\" target=\"_blank\">https://gateoverflow.in/71638/ugc-net-cse-august-2016-part-3-question-61</a></p>"
+        }
+      ]
+    }
+  ]
+});

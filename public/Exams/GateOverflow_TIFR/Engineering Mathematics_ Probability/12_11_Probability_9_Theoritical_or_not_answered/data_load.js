@@ -1,0 +1,23 @@
+window.__examLoadCallback({
+  "title": "Engineering Mathematics_ Probability - Probability - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Probability",
+      "questions": [
+        {
+          "id": 7,
+          "question": "<p><a name=\"358964\"></a><div itemprop=\"text\"><p>What is the probability that at least two out of four people have their birthdays in the same month, assuming their birthdays are uniformly distributed over the twelve months?</p>\n\n\n\n<ol start=\"2\" style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>\\( \\frac{5}{8} \\)</li>\n</ol>\n\n<ol start=\"100\" style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>\\( \\frac{5}{12} \\)</li>\n</ol>\n\n<ol start=\"500\" style=\"list-style-type:upper-roman\" type=\"I\">\n\t<li>\\( \\frac{41}{96} \\)</li>\n</ol>\n\n<ol start=\"5\" style=\"list-style-type:upper-alpha\" type=\"A\">\n\t<li>\\( \\frac{55}{96} \\)</li>\n</ol></div><br><br><b>TIFR CSE 2021 | Part A | Question: 4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\frac{25}{48} \\)</p>"
+          ],
+          "correct_answer": "<p>D</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/358964/tifr-cse-2021-part-a-question-4\" target=\"_blank\">https://gateoverflow.in/358964/tifr-cse-2021-part-a-question-4</a></p>"
+        }
+      ]
+    }
+  ]
+});

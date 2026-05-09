@@ -1,0 +1,31 @@
+{
+  "title": "Non GATE CSE_ Others - UGC NET CSE  June 2009  Part 2  Question",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "UGC NET CSE  June 2009  Part 2  Question",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"154487\"></a><div itemprop=\"text\"><p>Which of the following changes permission to deny write permission to group and others ?</p>\n\n<ol>\n\t<li>Chmod go-w filex&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</li>\n\t<li>Chmod go w filex&nbsp; &nbsp;&nbsp;</li>\n\t<li>Chmod go=w filex&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</li>\n\t<li>None of the above</li>\n</ol></div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 37</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154487/ugc-net-cse-june-2009-part-2-question-37\" target=\"_blank\">https://gateoverflow.in/154487/ugc-net-cse-june-2009-part-2-question-37</a></p>"
+        },
+        {
+          "id": 15,
+          "question": "<p><a name=\"386060\"></a><div itemprop=\"text\"><p>Read the following and Answer the Questions:<br>\nConsider&nbsp;the relational schema of sailors&nbsp;\\( \\text{S} \\). Reserves \\( \\mathrm{R} \\) and Boots \\( \\text{B} \\).</p>\n\n<p><strong>Table \\( 1 \\): Sailors \\( \\text{S} \\)</strong><br>\n\\begin{array}{|l|l|l|}<br>\n\\hline Sid & Sname & Ratting & Age \\\\<br>\n\\hline 22 & Dustin & 7 & 45.0&nbsp;\\\\<br>\n29 & Brutus & 1 & 33.0&nbsp;\\\\<br>\n31 & Lubber & 8 & 55.5&nbsp;\\\\<br>\n32 & Andy & 8 & 25.5&nbsp;\\\\<br>\n58 & Rusty & 10 & 35.0&nbsp;\\\\<br>\n64 & Horatio & 7 & 35.0&nbsp;\\\\<br>\n71 & Zorba & 10 & 16.0&nbsp;\\\\<br>\n74 & Horatio & 9 & 35.0&nbsp;\\\\<br>\n85 & Art & 3 & 25.5&nbsp;\\\\<br>\n95 & Bob & 3 & 63.5&nbsp;\\\\<br>\n\\hline<br>\n\\end{array}</p>\n\n<p><br>\n<strong>Table&nbsp;\\( 2 \\): Reserves&nbsp;\\( \\text{R} \\)</strong></p>\n\n<p>\\begin{array}{|l|l|l|}<br>\n\\hline sid & Bid & day \\\\<br>\n\\hline 22 & 101 & 10 / 1098&nbsp;\\\\<br>\n22 & 108 & 101098 \\\\<br>\n22 & 108 & 101898 \\\\<br>\n22 & 104 & 10 / 798&nbsp;\\\\<br>\n31 & 108 & 11 / 1098&nbsp;\\\\<br>\n31 & 103 & 11 / 699&nbsp;\\\\<br>\n31 & 104 & 11 / 298&nbsp;\\\\<br>\n64 & 101 & 9558 \\\\<br>\n64 & 102 & 28858 \\\\<br>\n74 & 103 & 98958 \\\\<br>\n\\hline<br>\n\\end{array}</p>\n\n<p><br>\n<strong>Table \\( 3 \\): Boats \\( \\text{B} \\)</strong></p>\n\n<p>\\begin{array}{|l|l|l|}<br>\n\\hline Bid & Bname & Color&nbsp;\\\\<br>\n\\hline 101 & Interlake & blue \\\\<br>\n102 & Interlake & red \\\\<br>\n103 & Clipper&nbsp;& green \\\\<br>\n104 & Marine & red \\\\<br>\n\\hline<br>\n\\end{array}</p>\n\n<p>Which of the following relational algebra query/queries computes/compute the name of sailors who have reserved red boat?</p>\n\n<p>\\( \\text{Q1} \\) \\( \\pi \\) sname (( \\( \\delta \\)\\( _{color} \\)&nbsp;= \\( _{red} \\) Boats) \\( \\bowtie \\) Reserves&nbsp;\\( \\bowtie \\) Sailors)</p>\n\n<p>\\( \\text{Q2} \\) \\( \\pi \\) sname&nbsp;(\\( \\pi \\)&nbsp;\\( _{ bid} \\)&nbsp;(( \\( \\pi \\)&nbsp;\\( _{ bid} \\) \\( \\delta \\)\\( _{color} \\)&nbsp;= \\( _{red} Boats \\)) \\( \\bowtie \\) Reserves) \\( \\bowtie \\) Sailors)</p>\n\n<p>\\( \\text{Q3} \\) \\( \\pi \\) sname &nbsp;(( \\( \\delta \\)\\( _{ color} \\)&nbsp;= \\( _{red} \\) Reserves) Boats&nbsp;\\( \\bowtie \\) Sailors)</p>\n\n<ol>\n\t<li>Both \\( \\text{Q1} \\)&nbsp;and&nbsp;\\( \\text{Q3} \\)</li>\n\t<li>Both \\( \\text{Q2} \\)&nbsp;and&nbsp;\\( \\text{Q3} \\)</li>\n\t<li>Only&nbsp;\\( \\text{Q1} \\)</li>\n\t<li>Only&nbsp;\\( \\text{Q2} \\)</li>\n</ol>\n\n<p><br>\n&nbsp;</p></div><br><br><b>UGC NET CSE | October 2022 | Part 1 | Question: 97</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/386060/ugc-net-cse-october-2022-part-1-question-97\" target=\"_blank\">https://gateoverflow.in/386060/ugc-net-cse-october-2022-part-1-question-97</a></p>"
+        }
+      ]
+    }
+  ]
+}

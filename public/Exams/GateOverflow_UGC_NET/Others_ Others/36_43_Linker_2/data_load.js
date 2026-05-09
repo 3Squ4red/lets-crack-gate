@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Linker",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Linker",
+      "questions": []
+    }
+  ]
+});

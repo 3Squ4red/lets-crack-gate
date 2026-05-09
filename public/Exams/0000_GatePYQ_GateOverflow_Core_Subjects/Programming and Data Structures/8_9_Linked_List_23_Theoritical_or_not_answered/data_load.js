@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Programming and DS_ Data Structures - Linked List - Theoretical/Not Answered",
+  "duration": 14,
+  "sections": [
+    {
+      "name": "Linked List",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,26 @@
+{
+  "title": "Non GATE CSE_ IS&Software Engineering - Cocomo Model",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Cocomo Model",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"335190\"></a><div itemprop=\"text\"><p>A software company needs to develop a project that is estimated as \\( 1000 \\) function points and is planning to use JAVA as the programming language whose approximate lines of code per function point is accepted as \\( 50 \\). Considering \\( a=1.4 \\) as multiplicative factor, \\( b=1.0 \\) as exponention factor for the basic COCOMO effort equation and \\( c=3.0 \\) as multiplicative factor, \\( d=0.33 \\) as exponention factor for the basic COCOMO duration equation, approximately how long does project take to complete?</p>\n\n</div><br><br><b>UGC NET CSE | January 2017 | Part 3 | Question: 48</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 11.2 \\) months</p>",
+            "<p>\\( 12.2 \\) months&nbsp;</p>",
+            "<p>\\( 13.2 \\) months</p>",
+            "<p>\\( 10.2 \\) months</p>"
+          ],
+          "correct_answer": "<p>\\( 12.2 \\) months&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335190/ugc-net-cse-january-2017-part-3-question-48\" target=\"_blank\">https://gateoverflow.in/335190/ugc-net-cse-january-2017-part-3-question-48</a></p>"
+        }
+      ]
+    }
+  ]
+}

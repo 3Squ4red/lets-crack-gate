@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "CO & Architecture - Microprogramming - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Microprogramming",
+      "questions": []
+    }
+  ]
+});

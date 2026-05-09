@@ -1,0 +1,26 @@
+{
+  "title": "Theory of Computation - Finite Automata - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Finite Automata",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"213562\"></a><div itemprop=\"text\"><p style=\"text-align:center\"><img alt=\"Diagram of finite Automata\" width=\"300\" height=\"550\" src=\"images/gateOverFlowPDFsImages/isro_w_cover/theory_of_computation_finite_automata/9c533140038357420b60d4712cec58c9.png\"></p><p>The \\( FSM \\) (Finite State Machine) machine pictured in the figure above</p></div><br><br><b>ISRO CSE 2018 | Question: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Complements a given bit pattern</p>",
+            "<p>Finds \\( 2's \\) complement of a given bit pattern</p>",
+            "<p>Increments a given bit pattern by \\( 1 \\)&nbsp;</p>",
+            "<p>Changes the sign bit</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/213562/isro-cse-2018-question-26\" target=\"_blank\">https://gateoverflow.in/213562/isro-cse-2018-question-26</a></p>"
+        }
+      ]
+    }
+  ]
+}

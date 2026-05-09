@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - K Map - Theoretical/Not Answered",
+  "duration": 11,
+  "sections": [
+    {
+      "name": "K Map",
+      "questions": []
+    }
+  ]
+});

@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Theory of Computation - Finite Automata - Theoretical/Not Answered",
+  "duration": 22,
+  "sections": [
+    {
+      "name": "Finite Automata",
+      "questions": [
+        {
+          "id": 13,
+          "question": "<p><a name=\"1376\"></a><div itemprop=\"text\"><p>Consider the machine \\( M \\):</p>\n\n<p><img alt=\"\" height=\"184\" src=\"images/gateOverFlowPDFsImages/volume2/theory_of_computation_finite_automata/46480ee352e0b97d82a42404185660e7.png\" width=\"447\"></p>\n\n<p>The language recognized by \\( M \\) is:</p>\n\n</div><br><br><b>GATE CSE 2005 | Question: 53</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\left\\{ w \\in \\{a, b\\}^* \\text{| every a in w is followed by exactly two b ’s} \\right\\} \\)</p>",
+            "<p>\\( \\left\\{w \\in \\{a, b\\}^* \\text{| every a in w is followed by at least two b ’s} \\right\\} \\)</p>",
+            "<p>\\( \\left\\{w \\in \\{a, b\\}^* \\text{| w contains the substring ‘ abb ’} \\right\\} \\)</p>",
+            "<p>\\( \\left\\{w \\in \\{a, b\\}^* \\text{| w does not contain ‘ aa ’ as a substring} \\right\\} \\)</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/1376/gate-cse-2005-question-53\" target=\"_blank\">https://gateoverflow.in/1376/gate-cse-2005-question-53</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Computer Networks - Application Layer",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Application Layer",
+      "questions": []
+    }
+  ]
+});

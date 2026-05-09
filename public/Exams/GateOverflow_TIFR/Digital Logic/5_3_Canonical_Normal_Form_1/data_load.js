@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Canonical Normal Form",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Canonical Normal Form",
+      "questions": []
+    }
+  ]
+});

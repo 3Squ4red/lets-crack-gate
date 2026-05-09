@@ -1,0 +1,41 @@
+{
+  "title": "Operating System - Virtual Memory - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Virtual Memory",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"155366\"></a><div itemprop=\"text\"><p>If the executing program size is greater than the existing \\( RAM \\) of a computer, it is still possible to execute the program if the \\( OS \\) supports :</p>\n\n</div><br><br><b>UGC NET CSE | December 2008 | Part 2 | Question: 42</b></p>",
+          "type": "single",
+          "options": [
+            "<p>multitasking&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>virtual memory&nbsp; &nbsp;</p>",
+            "<p>paging system&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "<p>none of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/155366/ugc-net-cse-december-2008-part-2-question-42\" target=\"_blank\">https://gateoverflow.in/155366/ugc-net-cse-december-2008-part-2-question-42</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"335427\"></a><div itemprop=\"text\"><p>Moving Process from main memory to disk is called :</p>\n\n</div><br><br><b>UGC NET CSE | June 2005 | Part 2 | Question: 36</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Caching</p>",
+            "<p>Termination</p>",
+            "<p>Swapping</p>",
+            "<p>Interruption</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335427/ugc-net-cse-june-2005-part-2-question-36\" target=\"_blank\">https://gateoverflow.in/335427/ugc-net-cse-june-2005-part-2-question-36</a></p>"
+        }
+      ]
+    }
+  ]
+}

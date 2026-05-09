@@ -1,0 +1,26 @@
+{
+  "title": "Digital Logic - ISRO CSE 2008  Question - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "ISRO CSE 2008  Question",
+      "questions": [
+        {
+          "id": 4,
+          "question": "<p><a name=\"56070\"></a><div itemprop=\"text\"><p>The logic circuit given below converts a binary code \\( Y_1Y_2Y_3 \\) into&nbsp;</p>\n\n<p><img alt=\"\" src=\"images/gateOverFlowPDFsImages/isro_w_cover/digital_logic_isro_cse_2008_question/f33cb3276f58a4dfe7eaf88191fe63b5.png\" width=\"400\"></p>\n\n</div><br><br><b>ISRO CSE 2016 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Excess-\\( 3 \\) code</p>",
+            "<p>Gray code</p>",
+            "<p>\\( \\text{BCD} \\) code</p>",
+            "<p>Hamming code</p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/56070/isro-cse-2016-question-12\" target=\"_blank\">https://gateoverflow.in/56070/isro-cse-2016-question-12</a></p>"
+        }
+      ]
+    }
+  ]
+}

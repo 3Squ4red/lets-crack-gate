@@ -1,0 +1,21 @@
+window.__examLoadCallback({
+  "title": "Digital Logic - Sequential Circuit",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Sequential Circuit",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"460030\"></a><div itemprop=\"text\"><p>Consider the given sequential circuit designed using D-Flip-flops. The circuit is initialized with some value (initial state). The number of distinct states the circuit will go through before returning back to the initial state is ___________. (Answer in integer)</p><p style=\"text-align:center\"><img alt=\"Circuit Diagram\" width=\"800\" height=\"429\" src=\"images/gateOverFlowPDFsImages/volume2/digital_logic_sequential_circuit/b4f3fbc21ad9cd5340e36a8e02bab62b.png\"></p></div><br><br><b>GATE CSE 2025 | Set 1 | Question: 50</b></p>",
+          "type": "numeric",
+          "options": [],
+          "correct_answer": "7:8",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/460030/gate-cse-2025-set-1-question-50\" target=\"_blank\">https://gateoverflow.in/460030/gate-cse-2025-set-1-question-50</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,56 @@
+{
+  "title": "Programming and DS_ DS - Binary Search Tree - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Binary Search Tree",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"69942\"></a><div itemprop=\"text\"><p>The runtime for traversing all the nodes of a binary search tree with \\( n \\) nodes and printing them in an order is</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 23</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( O(\\lg n) \\)</p>",
+            "<p>\\( O(n \\lg n) \\)&nbsp;</p>",
+            "<p>\\( O(n) \\)</p>",
+            "<p>\\( O(n^{2}) \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/69942/ugc-net-cse-august-2016-part-2-question-23\" target=\"_blank\">https://gateoverflow.in/69942/ugc-net-cse-august-2016-part-2-question-23</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"335483\"></a><div itemprop=\"text\"><p>Which traversal techniques lists the nodes of a binary search tree in ascending order?</p></div><br><br><b>UGC NET CSE | December 2005 | Part 2 | Question: 25</b></p>",
+          "type": "single",
+          "options": [
+            "<p>post –&nbsp; order</p>",
+            "<p>in – order</p>",
+            "<p>pre –&nbsp;order</p>",
+            "<p>linear –&nbsp;&nbsp;order&nbsp;</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335483/ugc-net-cse-december-2005-part-2-question-25\" target=\"_blank\">https://gateoverflow.in/335483/ugc-net-cse-december-2005-part-2-question-25</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"225860\"></a><div itemprop=\"text\"><p>A binary search tree in which every non-leaf node has non-empty left and right subtrees is called a strictly binary tree. Such a tree with 19 leaves:</p>\n\n</div><br><br><b>UGC NET CSE | July 2018 | Part 2 | Question: 26</b></p>",
+          "type": "single",
+          "options": [
+            "<p>cannot have more than 37 nodes</p>",
+            "<p>has exactly 37 nodes</p>",
+            "<p>has exactly 35 nodes</p>",
+            "<p>cannot have more than 35 nodes</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/225860/ugc-net-cse-july-2018-part-2-question-26\" target=\"_blank\">https://gateoverflow.in/225860/ugc-net-cse-july-2018-part-2-question-26</a></p>"
+        }
+      ]
+    }
+  ]
+}

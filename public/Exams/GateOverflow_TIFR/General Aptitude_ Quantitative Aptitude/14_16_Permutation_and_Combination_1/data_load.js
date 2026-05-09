@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "General Aptitude_ Quantitative Aptitude - Permutation and Combination",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Permutation and Combination",
+      "questions": []
+    }
+  ]
+});

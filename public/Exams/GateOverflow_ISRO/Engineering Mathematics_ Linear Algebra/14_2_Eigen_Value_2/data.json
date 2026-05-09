@@ -1,0 +1,26 @@
+{
+  "title": "Engineering Mathematics_ Linear Algebra - Eigen Value",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Eigen Value",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"43968\"></a><div itemprop=\"text\">\n<p>What is the matrix transformation which takes the independent vectors \\begin{pmatrix}<br>\n1& \\\\<br>\n2&&nbsp;<br>\n\\end{pmatrix}\\( and \\)\\begin{pmatrix}<br>\n2& \\\\<br>\n5&&nbsp;<br>\n\\end{pmatrix}\\( and transforms them to \\)\\begin{pmatrix}<br>\n1& \\\\<br>\n1&&nbsp;<br>\n\\end{pmatrix}\\( and \\)\\begin{pmatrix}<br>\n3& \\\\<br>\n2&&nbsp;<br>\n\\end{pmatrix} respectively?</p>\n\n\n</div><br><br><b>ISRO-2013-33</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\begin{pmatrix}<br>\n\t1&-1 \\\\<br>\n\t1& 0<br>\n\t\\end{pmatrix}</p>",
+            "<p>\\begin{pmatrix}<br>\n\t0&0 \\\\<br>\n\t0.5& 0.5<br>\n\t\\end{pmatrix}</p>",
+            "<p>\\begin{pmatrix}<br>\n\t-1&0 \\\\<br>\n\t1& 1<br>\n\t\\end{pmatrix}</p>",
+            "<p>\\begin{pmatrix}<br>\n\t-1&1 \\\\<br>\n\t1& 0<br>\n\t\\end{pmatrix}</p>"
+          ],
+          "correct_answer": "<p>\\begin{pmatrix}<br>\n\t-1&1 \\\\<br>\n\t1& 0<br>\n\t\\end{pmatrix}</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/43968/isro-2013-33\" target=\"_blank\">https://gateoverflow.in/43968/isro-2013-33</a></p>"
+        }
+      ]
+    }
+  ]
+}

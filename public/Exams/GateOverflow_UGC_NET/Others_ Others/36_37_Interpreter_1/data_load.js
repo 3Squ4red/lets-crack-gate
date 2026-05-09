@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Interpreter",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Interpreter",
+      "questions": []
+    }
+  ]
+});

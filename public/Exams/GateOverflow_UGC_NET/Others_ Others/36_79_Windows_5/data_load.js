@@ -1,0 +1,56 @@
+window.__examLoadCallback({
+  "title": "Others_ Others - Windows",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Windows",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"57012\"></a><div itemprop=\"text\">\n<p>A part of Windows \\( 2000 \\) operating system that is not portable is</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 38</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Device Management&nbsp;</p>",
+            "<p>Virtual Memory Management&nbsp;</p>",
+            "<p>Processor Management&nbsp;</p>",
+            "<p>User Interface&nbsp;</p>"
+          ],
+          "correct_answer": "<p>Virtual Memory Management&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57012/ugc-net-cse-june-2014-part-3-question-38\" target=\"_blank\">https://gateoverflow.in/57012/ugc-net-cse-june-2014-part-3-question-38</a></p>"
+        },
+        {
+          "id": 4,
+          "question": "<p><a name=\"57189\"></a><div itemprop=\"text\">\n<p>All the classes necessary for windows programming are available in the module :</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 47</b></p>",
+          "type": "single",
+          "options": [
+            "<p>win.txt</p>",
+            "<p>win.main</p>",
+            "<p>win.std</p>",
+            "<p>MFC&nbsp;</p>"
+          ],
+          "correct_answer": "<p>win.txt</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57189/ugc-net-cse-june-2014-part-3-question-47\" target=\"_blank\">https://gateoverflow.in/57189/ugc-net-cse-june-2014-part-3-question-47</a></p>"
+        },
+        {
+          "id": 5,
+          "question": "<p><a name=\"57190\"></a><div itemprop=\"text\">\n<p>Windows \\( 32 \\) API supports&nbsp;</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2014 | Part 3 | Question: 48</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 16 \\)-bit Windows</p>",
+            "<p>\\( 32 \\)-bit Windows</p>",
+            "<p>\\( 64 \\)-bit Windows</p>",
+            "<p>All of the above&nbsp;</p>"
+          ],
+          "correct_answer": "<p>All of the above&nbsp;</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/57190/ugc-net-cse-june-2014-part-3-question-48\" target=\"_blank\">https://gateoverflow.in/57190/ugc-net-cse-june-2014-part-3-question-48</a></p>"
+        }
+      ]
+    }
+  ]
+});

@@ -1,0 +1,131 @@
+{
+  "title": "Programming_ Programming in C - UGC NET CSE  December 2012  Part 3  Question - Theoretical/Not Answered",
+  "duration": 22,
+  "sections": [
+    {
+      "name": "UGC NET CSE  December 2012  Part 3  Question",
+      "questions": [
+        {
+          "id": 6,
+          "question": "<p><a name=\"58526\"></a><div itemprop=\"text\"><p>What will be the output of the following segment of the program?</p><pre class=\"prettyprint lang-c_cpp\">main()\n{\nchar *s=”hello world”;\nint i=7;\nprintf(“%, *s, i,  s);\n}</pre></div><br><br><b>UGC NET CSE | June 2013 | Part 3 | Question: 50</b></p>",
+          "type": "single",
+          "options": [
+            "<p><span style=\"line-height: 1.6;\">syntax error</span></p>",
+            "<p><span style=\"line-height: 1.6;\">hello w</span></p>",
+            "<p><span style=\"line-height: 1.6;\">hello</span></p>",
+            "<p><span style=\"line-height: 1.6;\">o world</span></p>"
+          ],
+          "correct_answer": "X",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58526/ugc-net-cse-june-2013-part-3-question-50\" target=\"_blank\">https://gateoverflow.in/58526/ugc-net-cse-june-2013-part-3-question-50</a></p>"
+        },
+        {
+          "id": 17,
+          "question": "<p><a name=\"70836\"></a><div itemprop=\"text\"><p>Match the following with reference to Functional programming history :</p>\n\n<p>\\( \\begin{array}{clcl} &nbsp;\\text{a.} & \\text{Lambda calculus} & \\text{i.} & \\text{Church, 1932} \\\\&nbsp;\\text{b.} & \\text{Lambda calculus as} & \\text{ii.} & \\text{Wordsworth, 1970} \\\\&nbsp; & \\text{programming language} \\\\&nbsp;\\text{c.} & \\text{Lazy evaluation} & \\text{iii.} & \\text{Haskel, 1990} \\\\&nbsp;&nbsp;\\text{d.} & \\text{Type classes} & \\text{iv.} & \\text{Mecarthy, 1960} \\\\&nbsp; \\end{array} \\)</p>\n\n<p>\\( \\textbf{Codes :} \\)</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 3 | Question: 19</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( \\text{a-iv, b-i, c-iii, d-ii} \\)</p>",
+            "<p>\\( \\text{a-i, b-iv, c-ii, d-iii} \\)</p>",
+            "<p>\\( \\text{a-iii, b-ii, c-iv, d-i} \\)</p>",
+            "<p>\\( \\text{a-ii, b-i, c-iv, d-iii} \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/70836/ugc-net-cse-august-2016-part-3-question-19\" target=\"_blank\">https://gateoverflow.in/70836/ugc-net-cse-august-2016-part-3-question-19</a></p>"
+        },
+        {
+          "id": 18,
+          "question": "<p><a name=\"152693\"></a><div itemprop=\"text\"><p>P : “Program is a step by step execution of the instructions”. Given P, which of the following is true ?</p>\n\n</div><br><br><b>UGC NET CSE | December 2009 | Part 2 | Question: 04</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Program is a subset of an instruction set.</p>",
+            "<p>Program is a sequence of a subset of an instruction set.</p>",
+            "<p>Program is a partially ordered set of an instruction set.</p>",
+            "<p>All of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/152693/ugc-net-cse-december-2009-part-2-question-04\" target=\"_blank\">https://gateoverflow.in/152693/ugc-net-cse-december-2009-part-2-question-04</a></p>"
+        },
+        {
+          "id": 20,
+          "question": "<p><a name=\"154279\"></a><div itemprop=\"text\"><p>There exists a construct which returns a value ‘true’ if the argument subquery is :</p>\n\n</div><br><br><b>UGC NET CSE | June 2009 | Part 2 | Question: 20</b></p>",
+          "type": "single",
+          "options": [
+            "<p>empty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>non-empty&nbsp; &nbsp; &nbsp;&nbsp;</p>",
+            "<p>in error&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>",
+            "<p>none of the above</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/154279/ugc-net-cse-june-2009-part-2-question-20\" target=\"_blank\">https://gateoverflow.in/154279/ugc-net-cse-june-2009-part-2-question-20</a></p>"
+        },
+        {
+          "id": 22,
+          "question": "<p><a name=\"335385\"></a><div itemprop=\"text\"><p>Consider the following statements,</p>\n\n<pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">Int i=4, j=3, k=0;\nk=++i - --j  +  i++---j  +j++;</pre>\n\n<p>What will be the values of \\( i, j \\) and \\( k \\) after the statement.</p>\n\n</div><br><br><b>UGC NET CSE | December 2004 | Part 2 | Question: 12</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 7,2,8 \\)</p>",
+            "<p>\\( 5,2,10 \\)</p>",
+            "<p>\\( 6,2,8 \\)</p>",
+            "<p>\\( 4,2,8 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335385/ugc-net-cse-december-2004-part-2-question-12\" target=\"_blank\">https://gateoverflow.in/335385/ugc-net-cse-december-2004-part-2-question-12</a></p>"
+        },
+        {
+          "id": 23,
+          "question": "<p><a name=\"335656\"></a><div itemprop=\"text\"><p>The declaration “unsigned u” indicates :</p></div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>u is an unsigned character</p>",
+            "<p>u is an unsigned integer</p>",
+            "<p>u is a character</p>",
+            "<p>u is a string</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335656/ugc-net-cse-december-2006-part-2-question-15\" target=\"_blank\">https://gateoverflow.in/335656/ugc-net-cse-december-2006-part-2-question-15</a></p>"
+        },
+        {
+          "id": 24,
+          "question": "<p><a name=\"335658\"></a><div itemprop=\"text\"><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">int arr[ ]={1, 2, 3, 4} \nint count;\nincr( ) {return ++count;} \nmain( )\n{\narr[count++]=incr( );\nprintf(“arr[count]=%d\\n”, arr[count]);\n}</pre>\n\n<p>The value printed by the above program is :</p>\n\n</div><br><br><b>UGC NET CSE | December 2006 | Part 2 | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 1 \\)</p>",
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 3 \\)</p>",
+            "<p>\\( 4 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335658/ugc-net-cse-december-2006-part-2-question-13\" target=\"_blank\">https://gateoverflow.in/335658/ugc-net-cse-december-2006-part-2-question-13</a></p>"
+        },
+        {
+          "id": 25,
+          "question": "<p><a name=\"335771\"></a><div itemprop=\"text\"><p>Which of the following is a valid C code to print character ‘A’ to ‘C’ ?</p></div><br><br><b>UGC NET CSE | December 2007 | Part 2 | Question: 13</b></p>",
+          "type": "single",
+          "options": [
+            "<p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">x='A' ;\nswitch(x)\n{case 'A'= printf ( \"%d\\n\" , x);\n....\ncase  'C'= printf ( \"%d\\n\" , x);\n}</pre></p>",
+            "<p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">x='A';\nswitch(x)\n{case  'A' &lt;= x &lt;= 'C'  : printf ( \"%d\\n\" , x);}</pre></p>",
+            "<p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">x='A' ;\nswitch(x)\n{\ncase  'A'  : printf ( \"%d\\n\" , x);\nbreak;\ncase  'B'  : printf ( \"%d\\n\" , x);\nbreak;\ncase  'C'  : printf ( \"%d\\n\" , x);\nbreak; \n}</pre></p>",
+            "<p><pre class=\"prettyprint linenums lang-c_cpp\" data-pbcklang=\"c_cpp\" data-pbcktabsize=\"4\">x='A' ; \nswitch(x)\n{\ncase  'A' =printf ( \"%d\\n\" , x);\ncase  'B' =printf ( \"%d\\n\" , x); \ncase  'C' =printf ( \"%d\\n\" , x);\n}</pre></p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/335771/ugc-net-cse-december-2007-part-2-question-13\" target=\"_blank\">https://gateoverflow.in/335771/ugc-net-cse-december-2007-part-2-question-13</a></p>"
+        }
+      ]
+    }
+  ]
+}

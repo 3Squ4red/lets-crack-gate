@@ -1,0 +1,21 @@
+{
+  "title": "General Aptitude_ Analytical Aptitude - Direction Sense - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Direction Sense",
+      "questions": [
+        {
+          "id": 6,
+          "question": "<p><a name=\"411745\"></a><div itemprop=\"text\"><p>An ant walks in a straight line on a plane leaving behind a trace of its movement. The initial position of the ant is at point \\( \\text{P} \\) facing east.</p>\n\n<p>The ant first turns \\( 72^{\\circ}&nbsp; \\) anticlockwise at \\( \\text{P}, \\) and then does the following two steps in sequence exactly FIVE times before halting.</p>\n\n<p style=\"text-align:center\"><img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_analytical_aptitude_direction_sense/392729a1c932202df4b0474e94b42271.png\" width=\"200\"></p>\n\n<p>&nbsp;</p>\n\n<ol>\n\t<li>moves forward for \\( 10 \\; \\text{cm.} \\)</li>\n\t<li>turns \\( 144^{\\circ} \\) clockwise.</li>\n</ol>\n\n<p>The pattern made by the trace left behind by the ant is</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;A.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_analytical_aptitude_direction_sense/12ba08e68f2c425be74855deea28e1e3.png\" width=\"400\">&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;B.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_analytical_aptitude_direction_sense/474a3769aa5ba566e58c5397233fe594.png\" width=\"400\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;C.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_analytical_aptitude_direction_sense/a19ac094d515234cb29f47da32489184.png\" width=\"400\"></p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;D.&nbsp;<img alt=\"\" src=\"images/gateOverFlowPDFsImages/volume1/general_aptitude_analytical_aptitude_direction_sense/6b404f093e271a84d3ffc937229b652c.png\" width=\"400\"></p></div><br><br><b>GATE Civil 2022 Set 2 | GA Question: 10</b></p>",
+          "type": "single",
+          "options": [],
+          "correct_answer": "<p>C</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/411745/gate-civil-2022-set-2-ga-question-10\" target=\"_blank\">https://gateoverflow.in/411745/gate-civil-2022-set-2-ga-question-10</a></p>"
+        }
+      ]
+    }
+  ]
+}

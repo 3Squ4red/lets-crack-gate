@@ -1,0 +1,27 @@
+window.__examLoadCallback({
+  "title": "Theory of Computation - Closure Property - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Closure Property",
+      "questions": [
+        {
+          "id": 2,
+          "question": "<p><a name=\"27321\"></a><div itemprop=\"text\"><p>Which the following is FALSE?</p></div><br><br><b>TIFR CSE 2014 | Part B | Question: 14</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Complement of a recursive language is recursive.</p>",
+            "<p>A language recognized by a non-deterministic Turing machine can also be recognized by a deterministic&nbsp;Turing machine.</p>",
+            "<p>Complement of a context free language can be recognized by a Turing machine.</p>",
+            "<p>If a language and its complement are both recursively enumerable then it is recursive.</p>",
+            "<p>Complement of a non-recursive language can never be recognized by any Turing machine.</p>"
+          ],
+          "correct_answer": "E",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/27321/tifr-cse-2014-part-b-question-14\" target=\"_blank\">https://gateoverflow.in/27321/tifr-cse-2014-part-b-question-14</a></p>"
+        }
+      ]
+    }
+  ]
+});

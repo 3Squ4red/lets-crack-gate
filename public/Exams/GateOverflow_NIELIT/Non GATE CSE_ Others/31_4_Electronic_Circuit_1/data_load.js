@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Others - Electronic Circuit",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Electronic Circuit",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"351611\"></a><div itemprop=\"text\"><p>The resistance to be connected across terminal \\( a, b \\) for maximum power transfer to it is:</p><p><img alt=\"\" width=\"450\" src=\"images/gateOverFlowPDFsImages/nielit_w_cover/non_gate_cse_others_electronic_circuit/2c5b78ff0a54f635cab36a06e962bcc7.png\"></p></div><br><br><b>NIELIT Scientist B 2020 November: 71</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 40\\; \\Omega \\)</p>",
+            "<p>\\( 5\\; \\Omega \\)</p>",
+            "<p>\\( 2.5 \\;\\Omega \\)</p>",
+            "<p>\\( 10\\; \\Omega \\)</p>"
+          ],
+          "correct_answer": "<p>\\( 5\\; \\Omega \\)</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/351611/nielit-scientist-b-2020-november-71\" target=\"_blank\">https://gateoverflow.in/351611/nielit-scientist-b-2020-november-71</a></p>"
+        }
+      ]
+    }
+  ]
+});

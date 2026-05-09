@@ -1,0 +1,26 @@
+window.__examLoadCallback({
+  "title": "Non GATE CSE_ Object Oriented Programming - C - Theoretical/Not Answered",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "C",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"69526\"></a><div itemprop=\"text\"><p>A function template in C++ provides _____ level of generalization.</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 15</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 4 \\)&nbsp;</p>",
+            "<p>\\( 3 \\)&nbsp;</p>",
+            "<p>\\( 2 \\)</p>",
+            "<p>\\( 1 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/69526/ugc-net-cse-august-2016-part-2-question-15\" target=\"_blank\">https://gateoverflow.in/69526/ugc-net-cse-august-2016-part-2-question-15</a></p>"
+        }
+      ]
+    }
+  ]
+});

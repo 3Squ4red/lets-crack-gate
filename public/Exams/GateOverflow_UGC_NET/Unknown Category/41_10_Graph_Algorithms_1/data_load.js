@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Unknown Category - Graph Algorithms",
+  "duration": 0,
+  "sections": [
+    {
+      "name": "Graph Algorithms",
+      "questions": []
+    }
+  ]
+});

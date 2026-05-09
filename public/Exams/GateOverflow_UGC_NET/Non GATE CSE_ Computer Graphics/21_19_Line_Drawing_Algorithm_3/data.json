@@ -1,0 +1,26 @@
+{
+  "title": "Non GATE CSE_ Computer Graphics - Line Drawing Algorithm",
+  "duration": 3,
+  "sections": [
+    {
+      "name": "Line Drawing Algorithm",
+      "questions": [
+        {
+          "id": 3,
+          "question": "<p><a name=\"58484\"></a><div itemprop=\"text\">\n<p>Bresenham line drawing algorithm is attractive because it uses</p>\n\n\n</div><br><br><b>UGC NET CSE | June 2013 | Part 3 | Question: 27</b></p>",
+          "type": "single",
+          "options": [
+            "<p>Real arithmetic only</p>",
+            "<p>Integer arithmetic only</p>",
+            "<p>Floating point arithmetic</p>",
+            "<p>Real and integer arithmetic</p>"
+          ],
+          "correct_answer": "<p>Integer arithmetic only</p>",
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": "<p><a href=\"https://gateoverflow.in/58484/ugc-net-cse-june-2013-part-3-question-27\" target=\"_blank\">https://gateoverflow.in/58484/ugc-net-cse-june-2013-part-3-question-27</a></p>"
+        }
+      ]
+    }
+  ]
+}

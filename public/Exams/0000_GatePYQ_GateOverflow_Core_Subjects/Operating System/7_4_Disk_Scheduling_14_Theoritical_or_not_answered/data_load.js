@@ -1,0 +1,10 @@
+window.__examLoadCallback({
+  "title": "Operating System - Disk Scheduling - Theoretical/Not Answered",
+  "duration": 8,
+  "sections": [
+    {
+      "name": "Disk Scheduling",
+      "questions": []
+    }
+  ]
+});

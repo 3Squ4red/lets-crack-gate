@@ -1,0 +1,41 @@
+{
+  "title": "Discrete Mathematics_ Graph Theory - Graph Connectivity - Theoretical/Not Answered",
+  "duration": 6,
+  "sections": [
+    {
+      "name": "Graph Connectivity",
+      "questions": [
+        {
+          "id": 1,
+          "question": "<p><a name=\"69567\"></a><div itemprop=\"text\"><p>Consider an undirected graph \\( G \\) where self-loops are not allowed. The vertex set of \\( G \\) is \\( {(i, j) | 1 \\leq&nbsp;i \\leq&nbsp;12, 1 \\leq&nbsp;j \\leq&nbsp;12} \\). There is an edge between \\( (a, b) \\) and \\( (c, d) \\) if \\( |a – c| \\leq&nbsp;1 \\) or \\( | b – d | \\leq&nbsp;1 \\). The number of edges in this graph is</p>\n\n</div><br><br><b>UGC NET CSE | August 2016 | Part 2 | Question: 22</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( 726 \\)</p>",
+            "<p>\\( 796 \\)</p>",
+            "<p>\\( 506 \\)</p>",
+            "<p>\\( 616 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/69567/ugc-net-cse-august-2016-part-2-question-22\" target=\"_blank\">https://gateoverflow.in/69567/ugc-net-cse-august-2016-part-2-question-22</a></p>"
+        },
+        {
+          "id": 2,
+          "question": "<p><a name=\"66495\"></a><div itemprop=\"text\"><p>The minimum number of edges in a connected graph with \\( ‘n’ \\) vertices is equal to</p>\n\n</div><br><br><b>UGC NET CSE | December 2010 | Part 2 | Question: 4</b></p>",
+          "type": "single",
+          "options": [
+            "<p>\\( n (n – 1) \\)&nbsp;</p>",
+            "<p>\\( \\frac{n(n-1)}{2} \\)</p>",
+            "<p>\\( n^{2} \\)</p>",
+            "<p>\\( n – 1 \\)</p>"
+          ],
+          "correct_answer": "Q-Q",
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": "<p><a href=\"https://gateoverflow.in/66495/ugc-net-cse-december-2010-part-2-question-4\" target=\"_blank\">https://gateoverflow.in/66495/ugc-net-cse-december-2010-part-2-question-4</a></p>"
+        }
+      ]
+    }
+  ]
+}
