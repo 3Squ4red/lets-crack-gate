@@ -39,7 +39,7 @@ const analyticsHTML = `
     </div>
   </div>
   <div class="nav-bar">
-    <a href="/" class="nav-btn">⬅️ Back to Home</a>
+    <a href="${import.meta.env.BASE_URL}" class="nav-btn">⬅️ Back to Home</a>
     <h2 style="margin:0;color:white;">📊 AI Analytics Dashboard</h2>
     <div style="width:120px;"></div>
   </div>

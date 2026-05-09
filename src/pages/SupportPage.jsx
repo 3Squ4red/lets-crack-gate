@@ -1,4 +1,5 @@
 import { useEffect } from 'react'
+import { Link } from 'react-router-dom'
 import { useStyles } from '../hooks/useStyles'
 
 export default function SupportPage() {
@@ -11,7 +12,7 @@ export default function SupportPage() {
   return (
     <div className="lcg-main" style={{ height: '100vh', margin: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: 'var(--surface2)' }}>
       <div style={{ position: 'absolute', top: 20, left: 20 }}>
-        <a href="/" className="lcg-util-btn">← Back to Home</a>
+        <Link to="/" className="lcg-util-btn">← Back to Home</Link>
       </div>
       <div className="lcg-card" style={{ padding: 30, textAlign: 'center', maxWidth: 450, width: '90%' }}>
         <div style={{ color: 'var(--p)', fontSize: 24, fontWeight: 700, marginBottom: 12, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8 }}>
