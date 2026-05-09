@@ -40,7 +40,7 @@ const examHTML = `
   <nav class="lcg-navbar">
     <a class="lcg-brand" href="/">
       <div class="lcg-brand-icon" style="background: transparent;">
-        <img src="/images/new_gate_logo.png" alt="Logo" style="width: 100%; height: 100%; object-fit: contain;" />
+        <img src={`${import.meta.env.BASE_URL}images/new_gate_logo.png`} alt="Logo" style={{ width: "100%", height: "100%", objectFit: "contain" }} />
       </div>
       <span class="lcg-brand-name">LetsCrack GATE</span>
     </a>
@@ -221,12 +221,12 @@ const examHTML = `
 <!-- Exam Section -->
 <div id="examSection" class="gate-exam-root" style="display:none">
   <div class="gate-top">
-    <div class="gate-iit-org-logo"><img src="/images/logo_iit_madras_without_background.png" alt="IIT Madras Logo" /></div>
+    <div class="gate-iit-org-logo"><img src={`${import.meta.env.BASE_URL}images/logo_iit_madras_without_background.png`} alt="IIT Madras Logo" /></div>
     <div class="gate-iit-org-name">
       <h1>GRADUATE APTITUDE TEST IN ENGINEERING (GATE 2027)</h1>
       <p>Organizing Institute: INDIAN INSTITUTE OF TECHNOLOGY MADRAS</p>
     </div>
-    <div class="gate-iit-goal"><img src="/images/bombayTheGoal.png" alt="The Goal" /></div>
+    <div class="gate-iit-goal"><img src={`${import.meta.env.BASE_URL}images/bombayTheGoal.png`} alt="The Goal" /></div>
   </div>
   <div class="gate-ins-ques">
     <div class="gate-test-name"><p id="examTitle">GATE Exam</p></div>
@@ -275,7 +275,7 @@ const examHTML = `
       </div>
       <div class="gate-top-right">
         <div class="gate-prof-can-name-con">
-          <div class="gate-profile-pic"><img src="/images/NewCandidateImage.jpg" alt="Candidate" width="60" /></div>
+          <div class="gate-profile-pic"><img src={`${import.meta.env.BASE_URL}images/NewCandidateImage.jpg`} alt="Candidate" width="60" /></div>
           <div class="gate-candidate-name" id="candidateNameSidebar">AIR 1</div>
         </div>
       </div>
@@ -290,13 +290,13 @@ const examHTML = `
           <div class="gate-question-content-box">
             <div class="gate-question-number-header">
               <b>Question No. <span id="questionNumber">1</span></b>
-              <img src="/images/Down.png" class="gate-scroll-btn gate-scroll-down-btn" id="gate-scroll-down" onclick="gateScrollToBottom()" alt="Down" />
+              <img src={`${import.meta.env.BASE_URL}images/Down.png`} class="gate-scroll-btn gate-scroll-down-btn" id="gate-scroll-down" onclick="gateScrollToBottom()" alt="Down" />
             </div>
             <div class="gate-question-scroll-body" id="gate-question-container" onscroll="gateCheckScroll()">
               <div class="gate-question-text" id="questionText">Loading question...</div>
               <div class="gate-options" id="optionsContainer"></div>
             </div>
-            <img src="/images/Up.png" class="gate-scroll-btn gate-scroll-up-btn" id="gate-scroll-up" onclick="gateScrollToTop()" alt="Up" />
+            <img src={`${import.meta.env.BASE_URL}images/Up.png`} class="gate-scroll-btn gate-scroll-up-btn" id="gate-scroll-up" onclick="gateScrollToTop()" alt="Up" />
           </div>
           <div class="gate-sidebar-toggle close" onclick="gateToggleSidebar()"></div>
         </div>

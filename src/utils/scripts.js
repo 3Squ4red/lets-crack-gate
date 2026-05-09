@@ -2,7 +2,7 @@ export function injectScript(src) {
   return new Promise((resolve) => {
     if (document.querySelector(`script[data-src="${src}"]`)) { resolve(); return; }
     const s = document.createElement('script');
-    s.src = src;
+    s.src = src.startsWith('/') ? `${import.meta.env.BASE_URL}${src.slice(1)}` : src;
     s.setAttribute('data-src', src);
     s.onload = resolve;
     s.onerror = resolve;

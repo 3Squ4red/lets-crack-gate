@@ -26,7 +26,7 @@ export default function AnalyticsPage() {
 const analyticsHTML = `
 <div class="analytics-container">
   <div class="top-header">
-    <div class="logo-area"><div class="gate-logo-circle"><img src="/images/logo_iit_madras_without_background.png" alt="logo"></div></div>
+    <div class="logo-area"><div class="gate-logo-circle"><img src={`${import.meta.env.BASE_URL}images/logo_iit_madras_without_background.png`} alt="logo"></div></div>
     <div class="header-title-area">
       <div class="exam-center-name">GRADUATE APTITUDE TEST IN ENGINEERING (GATE 2027)</div>
       <div class="organizing-institute">INDIAN INSTITUTE OF TECHNOLOGY MADRAS</div>
@@ -35,7 +35,7 @@ const analyticsHTML = `
       <button class="dark-mode-toggle standalone" id="darkModeToggle" title="Toggle Dark Mode" style="position:static;margin-right:15px;">
         <span class="icon-moon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg></span><span class="icon-sun"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg></span>
       </button>
-      <div class="gate-logo-circle"><img src="/images/bombayTheGoal.png" alt="The Goal"></div>
+      <div class="gate-logo-circle"><img src={`${import.meta.env.BASE_URL}images/bombayTheGoal.png`} alt="The Goal"></div>
     </div>
   </div>
   <div class="nav-bar">

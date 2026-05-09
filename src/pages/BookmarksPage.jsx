@@ -185,7 +185,7 @@ export default function BookmarksPage() {
       <nav className="lcg-navbar">
         <Link className="lcg-brand" to="/">
           <div className="lcg-brand-icon" style={{ background: 'transparent' }}>
-            <img src="/images/new_gate_logo.png" alt="Logo" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+            <img src={`${import.meta.env.BASE_URL}images/new_gate_logo.png`} alt="Logo" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
           </div>
           <span className="lcg-brand-name">LetsCrack GATE</span>
         </Link>

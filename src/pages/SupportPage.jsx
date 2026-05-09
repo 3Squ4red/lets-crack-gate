@@ -22,7 +22,7 @@ export default function SupportPage() {
         </div>
         <div style={{ backgroundColor: 'var(--surface)', borderRadius: 'var(--radius-sm)', padding: 20, border: '1px solid var(--border)' }}>
           <div style={{ color: 'var(--text-primary)', fontSize: 15, fontWeight: 500, marginBottom: 16 }}>Scan and Pay using any UPI app</div>
-          <img src="/images/ gate2027_toppers_upi.jpeg" alt="UPI QR Code" style={{ maxWidth: '100%', height: 'auto', borderRadius: 4, display: 'block' }} />
+          <img src={`${import.meta.env.BASE_URL}images/ gate2027_toppers_upi.jpeg`} alt="UPI QR Code" style={{ maxWidth: '100%', height: 'auto', borderRadius: 4, display: 'block' }} />
         </div>
       </div>
     </div>
