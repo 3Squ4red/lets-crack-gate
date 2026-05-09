@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 <div style="text-align:center; padding: 50px; color: var(--text-color);">
                     <h3>No Exam History Found</h3>
                     <p>Take some exams to see your analytics dashboard!</p>
-                    <a href="index.html" class="nav-btn" style="display:inline-block; margin-top:20px; background:var(--primary-color);">Start an Exam</a>
+                    <a href="${window.APP_BASE_URL || '/'}library" class="nav-btn" style="display:inline-block; margin-top:20px; background:var(--primary-color);">Start an Exam</a>
                 </div>
             `;
             return;
