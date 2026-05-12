@@ -5,7 +5,7 @@ import ResultPage from './pages/ResultPage.jsx'
 import AnalyticsPage from './pages/AnalyticsPage.jsx'
 import BookmarksPage from './pages/BookmarksPage.jsx'
 import MistakesPage from './pages/MistakesPage.jsx'
-import SupportPage from './pages/SupportPage.jsx'
+
 
 export default function App() {
   return (
@@ -17,7 +17,7 @@ export default function App() {
         <Route path="/analytics" element={<AnalyticsPage />} />
         <Route path="/bookmarks" element={<BookmarksPage />} />
         <Route path="/mistakes" element={<MistakesPage />} />
-        <Route path="/support" element={<SupportPage />} />
+
       </Routes>
     </BrowserRouter>
   )
